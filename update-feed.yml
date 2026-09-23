@@ -1,0 +1,29 @@
+name: Bloomville feed bijwerken
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'   # elke maandag 05:00 UTC (07:00 zomertijd / 06:00 wintertijd)
+  workflow_dispatch:       # knop "Run workflow" om handmatig bij te werken
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Feed genereren uit EDU-DEX en website
+        shell: powershell
+        run: .\edudex-naar-bloomville.ps1 -Output docs\bloomville-feed.xml -XsdPath courseFeed.xsd -MinCourses 250 -ReportPath docs\rapport.txt
+
+      - name: Feed en rapport publiceren
+        if: always()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Bloomville feed bijgewerkt"
+          git push
