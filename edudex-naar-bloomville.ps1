@@ -25,7 +25,9 @@ param(
   [string]$ReportPath = '',
   # Tijdelijke standaardtijden zolang de EDU-DEX feed geen lesdagen/-tijden bevat
   [string]$DefaultStartTime = '09:00:00',
-  [string]$DefaultEndTime = '17:00:00'
+  [string]$DefaultEndTime = '17:00:00',
+  # Inschrijving voor een uitvoering sluit dit aantal dagen voor de startdatum (0 = op de startdatum)
+  [int]$CloseDaysBeforeStart = 0
 )
 
 $ErrorActionPreference = 'Stop'
@@ -58,6 +60,9 @@ function ConvertTo-SanitizedHtml([string]$html, [int]$maxBytes) {
   $h = [regex]::Replace($h, '<(/?)blockquote[^>]*>', '<$1p>', 'IgnoreCase')
   # Links: alleen href behouden
   $h = [regex]::Replace($h, '<a\s[^>]*?href\s*=\s*"([^"]*)"[^>]*>', '<a href="$1">', 'IgnoreCase')
+  # Links moeten ook buiten habeoplus.nl werken: //host/... en /pad worden volledige https-links
+  $h = [regex]::Replace($h, 'href="//', 'href="https://')
+  $h = [regex]::Replace($h, 'href="/(?!/)', 'href="https://habeoplus.nl/')
   # Overige toegestane tags zonder attributen
   $h = [regex]::Replace($h, '<(/?)(p|ol|ul|li|b|strong|i|em)(\s[^>]*)?>', '<$1$2>', 'IgnoreCase')
   $h = [regex]::Replace($h, '<(br|hr)[^>]*>', '<$1 />', 'IgnoreCase')
@@ -288,6 +293,11 @@ foreach ($res in $resources) {
       if ($r.fullyOnline -eq 'true') { $city = 'Virtual' }
       if (-not $city) { $warnings.Add("$id / $($r.id) : uitvoering zonder plaatsnaam") }
       $w.WriteElementString('Location', $city)
+      # Sluitdatum inschrijving: de feed wordt maar wekelijks ververst, dus we geven de datum vooraf mee
+      # zodat Bloomville een gestarte uitvoering zelf op tijd sluit.
+      $closeDate = ([datetime]::ParseExact($r.startDate.'#text', 'yyyy-MM-dd', $null)).AddDays(-$CloseDaysBeforeStart)
+      $w.WriteElementString('DiscontinuedFrom', $closeDate.ToString('yyyy-MM-dd'))
+      $w.WriteElementString('DiscontinuedBecause', 'Inschrijving gesloten: uitvoering start')
       $w.WriteStartElement('Sessions')
       # TIJDELIJK: EDU-DEX bevat geen losse lesdagen; 1 sessie van start- t/m einddatum
       $w.WriteStartElement('Session')
