@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CourseTemplates>
+    <CourseTemplate>
+        <Code>1695</Code>
+        <Title>Coachingsvaardigheden</Title>
+        <Language>nl</Language>
+        <Duration>84</Duration>
+        <Description><![CDATA[Versterk jouw coachingsvaardigheden door actief te oefenen met technieken en casuïstiek uit je eigen praktijk.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Coachingsvaardigheden je op</strong></p><ul><li>Je wordt effectiever in het coachen van medewerkers, collega's en samenwerkingspartners door te oefenen met diverse coachingstechnieken.</li><li>Je beheerst gesprekskaders en toont effectief gedrag in coachingsgesprekken. </li><li>Je bent beter in staat medewerkers te motiveren en ondersteunen in hun ontwikkeling. </li></ul><p><strong>Meer impact in coachgesprekken door opleiding Coachingsvaardigheden</strong></p><p>Coachen is inspireren, ondersteunen, het helpen leren en ontwikkelen van medewerkers, collega’s, teams en/of coaches bij het realiseren van (werkgerelateerde) doelen. Door de praktijkgerichte insteek van de opleiding Coachingsvaardigheden en het oefenen met verschillende coachtechnieken, voer je coachende gesprekken bewuster, met meer diepgang en effect. Daarnaast ga je aan de slag met je eigen leerdoel en ontdek je welke aanpak bij jou past en hoe jij medewerkers optimaal kunt begeleiden en inspireren. </p><p><strong>Praktijkgerichte opleiding Coachingsvaardigheden direct toepasbaar in je eigen praktijk</strong></p><p>Tijdens deze 10 weekse opleiding maken we een directe koppeling van theoretische kennis naar de praktijk. Je leert hoe jij jouw medewerkers nóg beter kunt begeleiden en ondersteunen in de ontwikkeling. Je gaat bewuster en op verschillende manieren coachende gesprekken voeren met meer diepgang en impact. Om dit te bereiken komen er verschillende coachingsvaardigheden aan de orde. Zo ontwikkel je jouw eigen manier van coachen. Je gaat hier actief mee oefenen tijdens en buiten de bijeenkomsten. Je werkt met casuïstiek uit je eigen praktijk en leert van ervaren docenten die zelf actief zijn in het vakgebied. Door de koppeling tussen theorie en praktijkervaring ontwikkel je direct toepasbare vaardigheden die je meteen kunt inzetten in je werk.</p><p><strong>Eerste stap richting een postbacheloropleiding</strong></p><p>Het certificaat Coachingsvaardigheden vormt een eerste stap richting een volledig postbachelordiploma, dat uit 3 modules bestaat en je carrière verder versnelt.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Je hebt een afgeronde bacheloropleiding of vergelijkbaar. Je bent sinds enkele jaren werkzaam in een functie waarbij het coachen van diverse mensen een grote rol speelt. Denk hierbij aan functies als leidinggevende, coördinator van één of meerdere teams of als loopbaan- en of re-integratiecoach. Je wilt de methodiek van het coachen eigen maken en jouw coachingsvaardigheden naar een hoger niveau brengen.</p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding Coachingsvaardigheden werkt met een blended mix van leeractiviteiten voor optimaal leerrendement. Je bestudeert zelfstandig de leerstof en formuleert leervragen die je deelt met andere deelnemers en de docent. Jouw praktijkervaring en de koppeling met theorie vormen de basis voor discussie en interactie.</p><p>Naast de bijeenkomsten maak je gebruik van onze digitale leeromgeving. Dit platform ondersteunt je leerproces met opdrachten en contactmomenten met mededeelnemers en docenten.</p><p>De docenten zijn allemaal actief werkzaam in hun vakgebied, hierdoor kan de docent makkelijk aansluiten op vraagstukken die spelen binnen je eigen organisatie. Je werkt met casuïstiek uit je eigen praktijk, waardoor je direct toepasbare coachingsvaardigheden ontwikkelt. Deze praktijkgerichte aanpak zorgt voor echte verdieping en directe toepasbaarheid in je dagelijkse werk.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Coachingsvaardigheden heeft een doorlooptijd van 10 weken en bestaat uit 4 fysieke bijeenkomsten. Je kiest tussen een middag/avond-variant van 14:00 tot 21:00 uur op woensdag in Breda, Eindhoven, Rotterdam en Den Bosch, of een dagopleiding van 09:00 tot 16:00 uur op vrijdag in Utrecht.</p><p>Naast de bijeenkomsten investeer je ongeveer 7 uur per week in zelfstudie en opdrachten. Deze tijd besteed je aan het werken in de digitale leeromgeving en het uitvoeren van praktijkopdrachten in jouw eigen organisatie.</p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het certificaat Coachingsvaardigheden. Met de afronding van de module Coachingsvaardigheden heb je een eerste stap gezet richting een postbachelordiploma. Een postbachelordiploma bestaat in totaal uit 3 modules. Je kunt doorstromen naar de opleiding<a href="https://habeoplus.nl/opleidingen/hrm/hrm/stel-je-eigen-opleiding-samen"> Stel je eigen HR opleiding samen</a> of <a href="https://habeoplus.nl/opleidingen/hrm/hrm/human-resource-management">Postbachelor Human Resource Management</a>. Je krijgt dan vrijstelling voor de gevolgde module. </p>]]></CertValue>
+        <Level>HBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>2995,00</Base>
+                <Vat>0,00</Vat>
+                <VatFree>2995,00</VatFree>
+            </Price>
+        </PriceBase>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>292,00</Base>
+                <Vat>26,28</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>blended</Delivery>
+        <Classes>
+            <Class>
+                <Code>1695-5FCVH01054</Code>
+                <Location>Breda</Location>
+                <Sessions>
+                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-01-27T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01055</Code>
+                <Location>Den Bosch</Location>
+                <Sessions>
+                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-01-27T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01056</Code>
+                <Location>Eindhoven</Location>
+                <Sessions>
+                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-01-27T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01057</Code>
+                <Location>Rotterdam</Location>
+                <Sessions>
+                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-01-27T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01058</Code>
+                <Location>Utrecht</Location>
+                <Sessions>
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-05T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01059</Code>
+                <Location>Breda</Location>
+                <Sessions>
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-04-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01060</Code>
+                <Location>Den Bosch</Location>
+                <Sessions>
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-04-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01061</Code>
+                <Location>Eindhoven</Location>
+                <Sessions>
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-04-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01062</Code>
+                <Location>Rotterdam</Location>
+                <Sessions>
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-04-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1695-5FCVH01063</Code>
+                <Location>Utrecht</Location>
+                <Sessions>
+                    <Session StartDateTime="2027-02-19T09:00:00" EndDateTime="2027-04-28T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+</CourseTemplates>

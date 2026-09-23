@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CourseTemplates">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="CourseTemplate" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:all maxOccurs="1">
+              <xs:element name="Code">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:minLength value="1"/>
+                    <xs:maxLength value="20"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Title">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:minLength value="1"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DateAvailableFrom" minOccurs="0">
+                <xs:simpleType>
+                  <xs:union>
+                    <xs:simpleType>
+                      <xs:restriction base="xs:date"/>
+                    </xs:simpleType>
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:whiteSpace value="collapse" />
+                        <xs:length value="0" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:union>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DateAvailableTill" minOccurs="0">
+                <xs:simpleType>
+                  <xs:union>
+                    <xs:simpleType>
+                      <xs:restriction base="xs:date"/>
+                    </xs:simpleType>
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:whiteSpace value="collapse" />
+                        <xs:length value="0" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:union>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Duration" type="xs:decimal"/>
+              <xs:element name="Language">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:length value="2"/>
+                    <xs:pattern value="[Aa][Ff]"/>
+                    <xs:pattern value="[Aa][Rr]"/>
+                    <xs:pattern value="[Cc][Ss]"/>
+                    <xs:pattern value="[Dd][Aa]"/>
+                    <xs:pattern value="[Dd][Ee]"/>
+                    <xs:pattern value="[Ee][Ll]"/>
+                    <xs:pattern value="[Ee][Nn]"/>
+                    <xs:pattern value="[Ee][Ss]"/>
+                    <xs:pattern value="[Ff][Ii]"/>
+                    <xs:pattern value="[Ff][Rr]"/>
+                    <xs:pattern value="[Hh][Rr]"/>
+                    <xs:pattern value="[Hh][Uu]"/>
+                    <xs:pattern value="[Ii][Tt]"/>
+                    <xs:pattern value="[Jj][Aa]"/>
+                    <xs:pattern value="[Kk][Oo]"/>
+                    <xs:pattern value="[Ll][Tt]"/>
+                    <xs:pattern value="[Ll][Vv]"/>
+                    <xs:pattern value="[Nn][Ll]"/>
+                    <xs:pattern value="[Nn][Oo]"/>
+                    <xs:pattern value="[Pp][Ll]"/>
+                    <xs:pattern value="[Pp][Tt]"/>
+                    <xs:pattern value="[Rr][Uu]"/>
+                    <xs:pattern value="[Ss][Ll]"/>
+                    <xs:pattern value="[Ss][Kk]"/>
+                    <xs:pattern value="[Ss][Vv]"/>
+                    <xs:pattern value="[Zz][Hh]"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1024"/>
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DescriptionLong">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3980" />
+                    <xs:minLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StartLevel" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Goals" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Subjects" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TargetAudience" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CourseFormat" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CertValue" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NextSteps" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4096" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Level" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:enumeration value="" />
+                    <xs:enumeration value="MBO" />
+                    <xs:enumeration value="HBO" />
+                    <xs:enumeration value="Master" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PriceGroup" type="xs:string" minOccurs="0" />
+              <xs:element name="PriceBase">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="PriceEnrol" minOccurs="0">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="PriceMaterialLow" minOccurs="0">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+              </xs:element>
+             <xs:element name="PriceMaterialHigh" minOccurs="0">
+               <xs:complexType>
+                 <xs:complexContent>
+                   <xs:extension base="priceComponent"/>
+                 </xs:complexContent>
+               </xs:complexType>
+              </xs:element>
+              <xs:element name="PriceArrFacLow" minOccurs="0">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="PriceArrFacHigh" minOccurs="0">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="PriceExam" minOccurs="0">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="PriceOvernight" minOccurs="0">
+                <xs:complexType>
+                  <xs:complexContent>
+                    <xs:extension base="priceComponent"/>
+                  </xs:complexContent>
+                </xs:complexType>
+                <xs:unique name="dateValue">
+                  <xs:selector xpath=".//*" />
+                  <xs:field xpath="@from" />
+                </xs:unique>
+              </xs:element>
+              <xs:element name="Delivery">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <!-- blended -->
+                    <xs:pattern value="[Bb][Ll][Ee][Nn][Dd][Ee][Dd]"/>
+                    <!--book -->
+                    <xs:pattern value="[Bb][Oo][Oo][Kk]" />
+                    <!-- e-learning -->
+                    <xs:pattern value="[Ee]-[Ll][Ee][Aa][Rr][Nn][Ii][Nn][Gg]" />
+                    <!-- examination -->
+                    <xs:pattern value="[Ee][Xx][Aa][Mm][Ii][Nn][Aa][Tt][Ii][Oo][Nn]"/>
+                    <!-- exams-self-paced -->
+                    <xs:pattern value="[Ee][Xx][Aa][Mm][Ss]-[Ss][Ee][Ll][Ff]-[Pp][Aa][Cc][Ee][Dd]"/>
+                    <!-- individual -->
+                    <xs:pattern value="[Ii][Nn][Dd][Ii][Vv][Ii][Dd][Uu][Aa][Ll]" />
+                    <!-- instructor-led date-tbd -->
+                    <xs:pattern value="[Ii][Nn][Ss][Tt][Rr][Uu][Cc][Tt][Oo][Rr]-[Ll][Ee][Dd] [Dd][Aa][Tt][Ee]-[Tt][Bb][Dd]" />
+                    <!-- instructor-led -->
+                    <xs:pattern value="[Ii][Nn][Ss][Tt][Rr][Uu][Cc][Tt][Oo][Rr]-[Ll][Ee][Dd]" />
+                    <!-- self-study package -->
+                    <xs:pattern value="[Ss][Ee][Ll][Ff]-[Ss][Tt][Uu][Dd][Yy] [Pp][Aa][Cc][Kk][Aa][Gg][Ee]" />
+                    <!-- seminar -->
+                    <xs:pattern value="[Ss][Ee][Mm][Ii][Nn][Aa][Rr]" />
+                    <!-- virtual class -->
+                    <xs:pattern value="[Vv][Ii][Rr][Tt][Uu][Aa][Ll] [Cc][Ll][Aa][Ss][Ss]" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Classes">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Class" maxOccurs="unbounded" minOccurs="1">
+                      <xs:complexType>
+                        <xs:all>
+                          <xs:element name="Code">
+                            <xs:simpleType>
+                              <xs:restriction base="xs:string">
+                                <xs:minLength value="1" />
+                                <xs:maxLength value="50"/>
+                              </xs:restriction>
+                            </xs:simpleType>
+                          </xs:element>
+                          <xs:element name="Location" type="xs:string"/>
+                          <xs:element name="DiscontinuedFrom" type="xs:date" minOccurs="0"/>
+                          <xs:element name="DiscontinuedBecause" type="xs:string" minOccurs="0"/>
+                          <xs:element type="xs:string" name="Go" minOccurs="0"/>
+                          <xs:element name="Sessions" minOccurs="0">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="Session" maxOccurs="unbounded" minOccurs="0">
+                                  <xs:complexType>
+                                    <xs:simpleContent>
+                                      <xs:extension base="xs:string">
+                                        <xs:attribute type="xs:dateTime" name="StartDateTime" use="required"/>
+                                        <xs:attribute type="xs:dateTime" name="EndDateTime" use="required"/>
+                                      </xs:extension>
+                                    </xs:simpleContent>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:all>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+                <xs:unique name="uniqueClassCode">
+                  <xs:selector xpath="Class" />
+                  <xs:field xpath="Code"/>
+                </xs:unique>
+              </xs:element>
+            </xs:all>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+    <xs:unique name="uniqueCourseCode">
+      <xs:selector xpath="CourseTemplate" />
+      <xs:field xpath="Code"/>
+    </xs:unique>
+  </xs:element>
+  <xs:complexType mixed="true" name="priceComponent">
+    <xs:sequence>
+      <xs:element name="Price" maxOccurs="unbounded" minOccurs="0">
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="Base"  maxOccurs="1" minOccurs="1">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:minLength value="1"/>
+                  <xs:pattern value="[\+]?[0-9]{1,12}[,][0-9]{2}"/>
+                  <xs:pattern value="[0-9]{1,12}"/>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:element>
+            <xs:element name="Vat"  maxOccurs="1" minOccurs="1">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:minLength value="1"/>
+                  <xs:pattern value="[\+]?[0-9]{1,12}[,][0-9]{2}"/>
+                  <xs:pattern value="[0-9]{1,12}"/>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:element>
+            <xs:element name="VatFree" maxOccurs="1" minOccurs="0">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:pattern value="\s*"/>
+                  <xs:pattern value="[\+]?[0-9]{1,12}[,][0-9]{2}"/>
+                  <xs:pattern value="[0-9]{1,12}"/>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:element>
+          </xs:sequence>
+          <xs:attribute type="xs:date" name="from" use="optional"/>
+        </xs:complexType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
