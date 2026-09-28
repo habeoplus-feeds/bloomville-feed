@@ -396,15 +396,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1716-6CHIW02007</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-09-24</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-24T09:00:00" EndDateTime="2029-04-23T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1716-6CHIW02010</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-09-20</DiscontinuedFrom>
@@ -1962,7 +1953,7 @@
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Coachen en begeleiden in het onderwijs je op</strong></p><ul><li>Je voert regie over professionele begeleidingsgesprekken en begeleidt collega's effectief in hun onderwijstaken</li><li>Je vergroot de veranderingsbereidheid van teamleden door gerichte interventies en ondersteunt hun (vakdidactische) ontwikkeling</li><li>Je organiseert feedback systematisch en reflecteert voortdurend op je eigen handelen om optimaal bij te dragen aan organisatiedoelstellingen</li></ul><p><strong>Praktijkgerichte opleiding voor effectieve coaching in onderwijsteams</strong></p><p>In deze compacte module leer je hoe je collega’s goed kunt begeleiden in hun dagelijkse onderwijspraktijk. Dat doen we met Action Learning: je neemt een actueel vraagstuk uit je eigen school mee en gaat daar stap voor stap mee aan de slag. Je probeert nieuwe aanpakken uit, reflecteert op wat wel en niet werkt en leert zo direct in de praktijk.</p><p>Ervaren docenten uit het onderwijs begeleiden je hierbij en helpen je om je communicatie- en begeleidingsvaardigheden verder te ontwikkelen. Je werkt in een klein team van mededeelnemers, waarin je elkaar vragen stelt, feedback geeft en ervaringen uitwisselt. Zo leer je niet alleen van jezelf, maar ook van je collega’s, en kun je de inzichten meteen toepassen op school.</p><p><strong>Ontwikkel je coachingsvaardigheden door leren vanuit de praktijk</strong></p><p>Je formuleert leervragen vanuit jouw eigen werksituatie en bespreekt casuïstiek met mededeelnemers en docenten. Door Social Learning combineer je flexibele online sessies met persoonlijke bijeenkomsten op locatie. Deze aanpak zorgt ervoor dat je nieuwe inzichten direct implementeert in jouw team en organisatie. Je leert risico's te nemen en te experimenteren met coachingstechnieken die passen bij jouw leiderschapsstijl en de specifieke behoeften van jouw collega's in het onderwijs.</p><p><strong>Versterk teamontwikkeling met bewezen begeleidingsvaardigheden</strong></p><p>Na afronding ontvang je het certificaat Coachen en begeleiden waarmee je jouw expertise formeel kunt aantonen. Je kunt doorstromen naar vervolgmodules zoals Teamcoaching of Innovatiecoach om je verder te specialiseren. Door systematische reflectie en voortdurende evaluatie van je eigen handelen groei je uit tot een coach die anderen inspireert tot professionele ontwikkeling. Deze praktijkgerichte aanpak resulteert in directe verbeteringen binnen jouw onderwijsorganisatie.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>De module Coachen en begeleiden in het onderwijs is onderdeel van diverse coördinatorenopleidingen, zoals Taalcoördinator, Rekencoördinator, Jonge Kind-specialist, Coördinator onderzoekend en ontwerpend leren en Coördinator Hoogbegaafdheid. Daarnaast kun je de module ook los volgen.<br />Deze opleiding is bedoeld voor leraren en onderwijsprofessionals die hun collega’s willen ondersteunen bij hun ontwikkeling en bijvoorbeeld een rol vervullen in het begeleiden van veranderprocessen binnen hun school. Je hebt enkele jaren ervaring in het onderwijs en de ambitie om je te ontwikkelen in een coachende rol, zodat je niet alleen inhoudelijk deskundig bent, maar ook anderen mee kunt nemen in vernieuwingen.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je leert door praktische toepassing in kleine leerteams waar je direct feedback geeft en ontvangt. Via Action Learning werk je aan urgente problemen uit jouw eigen onderwijsorganisatie en experimenteer je met nieuwe coachingstechnieken. Je wordt begeleid door ervaren docenten die zelf actief zijn in het onderwijs. Je bespreekt casuïstiek vanuit jouw eigen praktijk en formuleert leervragen die je direct toepast in jouw team. Je maakt gebruik van een digitaal leersysteem dat je ondersteunt bij de lessen en opdrachten. Afhankelijk van jouw keuze volg je de bijeenkomsten volledig online of volledig op locatie. In intervisiesessies reflecteer je systematisch op jouw coachingsvaardigheden en wissel je ervaringen uit met mededeelnemers. Deze praktijkgerichte aanpak zorgt ervoor dat je nieuwe inzichten meteen implementeert binnen jouw organisatie.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Coachen en begeleiden in het onderwijs duurt 10 weken en bestaat uit 3 bijeenkomsten op dinsdag van 18:30 tot 21:30 uur. Je volgt de bijeenkomsten óf op locatie óf volledig online, afhankelijk van de planning van jouw groep. De totale studiebelasting bedraagt 65 uur, inclusief de bijeenkomsten, verdeeld over de 10 weken.</p><p>Naast de bijeenkomsten besteed je tijd aan literatuurstudie, praktijkopdrachten uit je eigen schoolcontext en intervisie binnen je leerteam. Je werkt aan beroepsproducten die direct toepasbaar zijn in je dagelijkse werk. De planning is zo ingericht dat je stapsgewijs werkt aan je vaardigheden op het gebied van coachen en begeleiden. De bijeenkomsten in de avond en de ruimte om je zelfstudie zelf in te plannen geven je ruimte om de studieactiviteiten af te stemmen op je eigen agenda en werkritme.</p>]]></CourseFormat>
-        <CertValue><![CDATA[Certificaat]]></CertValue>
+        <CertValue><![CDATA[<p>Na het succesvol afronden van de opleiding ontvang je het certificaat Coachen en begeleiden in het onderwijs. Dit certificaat bevestigt dat je beschikt over concrete vaardigheden om te coachen en te begeleiden én biedt je de mogelijkheid je verder te ontwikkelen als onderwijsprofessional die verandering niet alleen initieert, maar ook duurzaam realiseert.</p><p>Met dit certificaat kun je twee richtingen op:</p><ul><li><strong>Verdieping:</strong> kies voor de module Teamcoaching en leer teams coachen, groepsdynamiek sturen en onderstromen beïnvloeden.</li><li><strong>Verbreding:</strong> volg de module Verandermanagement in het onderwijs en ontwikkel je tot Innovatiecoach. In deze module leer je veranderingen in het onderwijs begeleiden met praktische verandermodellen en maak je direct verschil binnen je school. Samen met de module Coaching en begeleiding vormt deze module het diploma Innovatiecoach.</li></ul>]]></CertValue>
         <Level>HBO</Level>
         <PriceBase>
             <Price from="2026-01-01">
@@ -4148,6 +4139,15 @@
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-12-16T09:00:00" EndDateTime="2027-04-20T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1885-8BRVI01021</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-03-09</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-09T09:00:00" EndDateTime="2027-06-29T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -8193,15 +8193,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2079-6CHIF01018</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-09-28</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-28T09:00:00" EndDateTime="2027-02-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2079-6CHIF01016</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-01</DiscontinuedFrom>
@@ -8246,15 +8237,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2093-6CHIE02006</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-10-01</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-01T09:00:00" EndDateTime="2029-02-11T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2093-6CHIE02008</Code>
                 <Location>Breda</Location>
@@ -9250,11 +9232,31 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>8850,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>1168,00</Base>
+                <Vat>105,12</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2138-OPEN</Code>
-                <Location></Location>
+                <Code>2138-3BPCO01025</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-11-12T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2138-3BPCO01026</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-21T17:00:00" />
+                </Sessions>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -9814,15 +9816,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2168-2BAST01042</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-21T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2168-2BAST01043</Code>
                 <Location>Virtual</Location>
                 <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
@@ -9852,10 +9845,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2168-2BAST01046</Code>
                 <Location>Virtual</Location>
-                <DiscontinuedFrom>2027-05-06</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-05-06T09:00:00" EndDateTime="2027-07-08T17:00:00" />
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-08T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -10293,7 +10286,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Language>nl</Language>
         <Duration>8</Duration>
         <Description><![CDATA[Cursus over ergonomie & fysieke belasting in laboratoria: herken risicofactoren, voorkom klachten en leer uit praktijkervaringen.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Ergonomie en fysieke belasting in het laboratorium je op</strong></p><ul><li>Je herkent, inventariseert en beoordeelt risico's voor fysieke belasting in het laboratorium systematisch.</li><li>Je neemt effectieve maatregelen om ergonomische risico's te verminderen en professioneel te beheersen.</li><li>Je maakt weloverwogen keuzes uit relevante ergonomische hulpmiddelen en situaties voor optimale werkplekken.</li></ul><p><strong>Interactieve cursus ergonomische arbeidsomstandigheden</strong></p><p>Deze compacte tweedaagse cursus combineert theorie met praktijkgerichte oefeningen en demonstraties. In een kleine lesgroep krijg je alle ruimte om werkelijk te ervaren hoe je ergonomische problemen herkent en oplost. De interactieve aanpak zorgt ervoor dat je direct hands-on ervaring opdoet met ergonomische principes die je meteen kunt toepassen in jouw laboratoriumomgeving voor zowel jezelf als je collega's.</p><p><strong>Cursus fysieke belasting voor verschillende laboratoria</strong></p><p>Of je nu werkzaam bent in medische, biologische, fysische of analytisch-chemische laboratoria, deze opleiding sluit perfect aan bij jouw dagelijkse werkzaamheden. De cursus richt zich specifiek op werkplekken waar repeterende handelingen worden uitgevoerd, vaak gecombineerd met tillen en verplaatsen van apparatuur en materialen. Je leert praktische technieken die direct toepasbaar zijn in elke laboratoriumsetting.</p><p>Deze cursus is onderdeel van de <a href="https://habeoplus.nl/opleidingen/laboratoriumtechniek/veiligheid/veiligheidsfunctionaris-voor-laboratoria">opleiding Veiligheidsfunctionaris voor laboratoria</a>.</p><p><strong>Leer ergonomische risico's effectief managen</strong></p><p>Door gerichte oefeningen en demonstraties ontwikkel je een scherp oog voor ergonomische knelpunten in jouw werkomgeving. Je ontdekt welke hulpmiddelen en aanpassingen het meeste effect hebben en hoe je preventief kunt werken aan een gezonde werkplek. Na deze opleiding beschik je over concrete tools om fysieke belasting te verminderen en de arbeidsomstandigheden structureel te verbeteren voor jezelf en je laboratorium.</p>]]></DescriptionLong>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Ergonomie en fysieke belasting in het laboratorium je op</strong></p><ul><li>Je herkent, inventariseert en beoordeelt risico's voor fysieke belasting in het laboratorium systematisch.</li><li>Je neemt effectieve maatregelen om ergonomische risico's te verminderen en professioneel te beheersen.</li><li>Je maakt weloverwogen keuzes uit relevante ergonomische hulpmiddelen en situaties voor optimale werkplekken.</li></ul><p><strong>Interactieve cursus ergonomische arbeidsomstandigheden</strong></p><p>Deze compacte 1-daagse cursus combineert theorie met praktijkgerichte oefeningen en demonstraties. In een kleine lesgroep krijg je alle ruimte om werkelijk te ervaren hoe je ergonomische problemen herkent en oplost. De interactieve aanpak zorgt ervoor dat je direct hands-on ervaring opdoet met ergonomische principes die je meteen kunt toepassen in jouw laboratoriumomgeving voor zowel jezelf als je collega's.</p><p><strong>Cursus fysieke belasting voor verschillende laboratoria</strong></p><p>Of je nu werkzaam bent in medische, biologische, fysische of analytisch-chemische laboratoria, deze opleiding sluit perfect aan bij jouw dagelijkse werkzaamheden. De cursus richt zich specifiek op werkplekken waar repeterende handelingen worden uitgevoerd, vaak gecombineerd met tillen en verplaatsen van apparatuur en materialen. Je leert praktische technieken die direct toepasbaar zijn in elke laboratoriumsetting.</p><p>Deze cursus is onderdeel van de <a href="https://habeoplus.nl/opleidingen/laboratoriumtechniek/veiligheid/veiligheidsfunctionaris-voor-laboratoria">opleiding Veiligheidsfunctionaris voor laboratoria</a>.</p><p><strong>Leer ergonomische risico's effectief managen</strong></p><p>Door gerichte oefeningen en demonstraties ontwikkel je een scherp oog voor ergonomische knelpunten in jouw werkomgeving. Je ontdekt welke hulpmiddelen en aanpassingen het meeste effect hebben en hoe je preventief kunt werken aan een gezonde werkplek. Na deze opleiding beschik je over concrete tools om fysieke belasting te verminderen en de arbeidsomstandigheden structureel te verbeteren voor jezelf en je laboratorium.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Ben je medewerker of leidinggevende in een medisch, biologisch, fysisch of analytisch-chemisch laboratorium? Deze cursus is ideaal voor professionals die dagelijks repeterende handelingen uitvoeren, vaak gecombineerd met tillen en verplaatsen van materialen. Je wilt ergonomische risico's herkennen en professioneel aanpakken.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus heeft een volledig interactief karakter met praktische oefeningen en demonstraties die je direct kunt ervaren. Je werkt in kleine groepen van maximaal 16 personen, waardoor er voldoende ruimte en tijd is voor hands-on praktijkoefeningen. Door deze persoonlijke aanpak kun je ergonomische principes direct uitproberen en toepassen op jouw specifieke laboratoriumsituatie. De combinatie van theorie en praktijk zorgt ervoor dat je werkelijk leert hoe je ergonomische problemen herkent en professioneel oplost in je dagelijkse werk.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus duurt 1 dag. De bijeenkomst vindt plaats van 9.30 tot 16.30 uur, waardoor je in één dag alle essentiële kennis en vaardigheden opdoet om ergonomische problemen in jouw laboratorium professioneel aan te pakken. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van deze eendaagse cursus ontvang je een bewijs van deelname dat jouw expertise in ergonomie en fysieke belasting voor laboratoria bevestigt. Dit bewijs van deelname toont aan dat je ergonomische risico's professioneel kunt herkennen, beoordelen en effectief kunt aanpakken binnen laboratoria. </p>]]></CertValue>
@@ -10395,15 +10388,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2217-6ETPI01007</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-09-25</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-25T09:00:00" EndDateTime="2027-07-09T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2217-6ETPI01008</Code>
                 <Location>Bosschenhoofd</Location>
                 <DiscontinuedFrom>2027-09-24</DiscontinuedFrom>
@@ -10439,15 +10423,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2226-6EAPI02005</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-09-25</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-25T09:00:00" EndDateTime="2028-07-07T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2226-6EAPI02006</Code>
                 <Location>Bosschenhoofd</Location>
@@ -10697,10 +10672,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2238-2BHVC02001</Code>
                 <Location>Virtual</Location>
-                <DiscontinuedFrom>2027-02-07</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-08</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-07T09:00:00" EndDateTime="2027-04-19T17:00:00" />
+                    <Session StartDateTime="2027-02-08T09:00:00" EndDateTime="2027-04-19T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -10952,11 +10927,31 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>1650,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>188,00</Base>
+                <Vat>16,92</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>2259-OPEN</Code>
-                <Location></Location>
+                <Code>2259-2BITZ01021</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-07</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-07T09:00:00" EndDateTime="2027-11-02T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2259-2BITZ01020</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-09-07</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-07T09:00:00" EndDateTime="2027-11-02T17:00:00" />
+                </Sessions>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -11328,11 +11323,31 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>1650,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>188,00</Base>
+                <Vat>16,92</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>2275-OPEN</Code>
-                <Location></Location>
+                <Code>2275-2BKMT01019</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-05-04</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-04T09:00:00" EndDateTime="2027-06-29T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2275-2BKMT01018</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-05-04</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-04T09:00:00" EndDateTime="2027-06-29T17:00:00" />
+                </Sessions>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -11406,15 +11421,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2027-02-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2279-2BLEE01042</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-02-03T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -11923,15 +11929,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2332-6EMPT02006</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-09-25</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-25T09:00:00" EndDateTime="2029-07-13T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2332-6EMPT02007</Code>
                 <Location>Bosschenhoofd</Location>
                 <DiscontinuedFrom>2027-09-24</DiscontinuedFrom>
@@ -12270,15 +12267,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2340-6EBOM01005</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-09-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-26T09:00:00" EndDateTime="2026-11-27T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2340-6EBOM01006</Code>
                 <Location>Bosschenhoofd</Location>
                 <DiscontinuedFrom>2027-09-24</DiscontinuedFrom>
@@ -12494,15 +12482,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2347-6EPTT01004</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-09-25</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-25T09:00:00" EndDateTime="2027-06-18T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2347-6EPTT01005</Code>
                 <Location>Bosschenhoofd</Location>
@@ -12889,11 +12868,31 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>1650,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>188,00</Base>
+                <Vat>16,92</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>2363-OPEN</Code>
-                <Location></Location>
+                <Code>2363-2BOBT01021</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-04-20T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2363-2BOBT01020</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-04-20T17:00:00" />
+                </Sessions>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -13165,7 +13164,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Duration>880</Duration>
         <Description><![CDATA[Groei door als praktijkverpleegkundige! Voer zelfstandig spreekuren uit, werk volgens de NHG-richtlijnen en maak het verschil in de huisartsenzorg.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Praktijkverpleegkundige in de huisartsenzorg (PVK) je op</strong></p><ul><li>Je kunt zelfstandig spreekuren opzetten en uitvoeren volgens NHG-standaarden voor hart- en vaatziekten, diabetes type 2, astma &amp; COPD en chronische nierschade.</li><li>Je hebt je inhoudelijke kennis vergroot en persoonlijke prestaties verbeterd, waardoor je effectief samenwerkt met huisartsen.</li><li>Je merkt direct het verschil van je werk door het intensieve contact dat je hebt met je patiënten.</li></ul><p><strong>Geaccrediteerde opleiding Praktijkverpleegkundige met postbachelor diploma</strong></p><p>Deze opleiding Praktijkverpleegkundige in de huisartsenzorg geeft je handvatten om spreekuren op te zetten voor nieuwe doelgroepen. Je ontwikkelt expertise in chronische ziekten zoals diabetes, hart- en vaatziekten en COPD, waarmee je een bijdrage levert aan de kwaliteit van zorg in de huisartsenpraktijk. Daarnaast ben je voorbereid op complexe ouderenzorg en proactieve zorgplanning, met aandacht voor zowel patiënt als mantelzorger. Je beschikt over sterke communicatieve en organisatorische vaardigheden en kunt gezondheidsbevordering effectief toepassen in de huisartspraktijk, zoals bewezen in de afsluitende casestudie. </p><p><strong>Waarom bij Praktijkverpleegkunde opleiding bij Habeo+</strong></p><ul><li>Je volgt je opleiding bij een erkende en ervaren opleider waar ruimte is voor individuele aandacht.</li><li>Je wordt begeleid met persoonlijke studieloopbaanondersteuning gedurende je hele traject.</li><li>Het onderwijs is praktijkgericht en actueel, verzorgd door docenten die zelf werkzaam zijn in de huisartsenzorg of een andere relevante zorgsetting.</li><li>Er zijn 4 instroommomenten en leslocaties door het hele land, zodat je de opleiding goed kunt combineren met werk en privé.</li><li>Uniek in Nederland is de mogelijkheid de opleiding geheel online te volgen met dezelfde begeleiding als bij fysieke lessen.</li><li>Met een studiebelasting van maar 10 uur week rond je binnen 1 jaar de opleiding af.</li></ul>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze Praktijkverpleegkundige opleiding is bestemd voor BIG-geregistreerde verpleegkundigen met een mbo-v of hbo-v vooropleiding. Je werkt al als praktijkverpleegkundige of wilt deze functie gaan uitoefenen in de huisartsenzorg. Tijdens de praktijkverpleegkundige opleiding heb je een werk- of stageplek nodig voor minimaal 8 uur per week bij een huisartsenpraktijk als PVK in opleiding.</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p><p>Ben je een doktersassistent met minimaal 2 jaar werkervaring of heb je een zorg gerelateerde hbo-opleiding zoals diëtiek, ergotherapie, fysiotherapie of verloskundige afgerond? Dan past de opleiding Praktijkondersteuner in de huisartsenzorg (POH) (eventueel met de Vooropleiding POH) beter bij jou.</p>]]></TargetAudience>
+        <TargetAudience><![CDATA[<p>Deze Praktijkverpleegkundige opleiding is bestemd voor BIG-geregistreerde verpleegkundigen met een hbo-v vooropleiding. Je werkt al als praktijkverpleegkundige of wilt deze functie gaan uitoefenen in de huisartsenzorg. Tijdens de praktijkverpleegkundige opleiding heb je een werk- of stageplek nodig voor minimaal 8 uur per week bij een huisartsenpraktijk als PVK in opleiding. Ben je een BIG-geregistreerde verpleegkundigen met een mbo-v vooropleiding en wil je de opleiding Praktijkverpleegkundige in de huisartsenzorg volgen dan kun je een toelatingsassessment doen</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p><p>Ben je een doktersassistent met minimaal 2 jaar werkervaring of heb je een zorg gerelateerde hbo-opleiding zoals diëtiek, ergotherapie, fysiotherapie of verloskundige afgerond? Dan past de opleiding Praktijkondersteuner in de huisartsenzorg (POH) (eventueel met de Vooropleiding POH) beter bij jou.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze praktijkverpleegkundige opleiding werkt op basis van sociaal leren met interactieve en praktijkgerichte leermiddelen. Je werkt in leerteams aan leeractiviteiten onder begeleiding van docenten uit de beroepspraktijk. Binnen het leerteam bespreek je opdrachten, geef je elkaar feedback en zoek je samen naar oplossingen voor vraagstukken uit de praktijk. Je eigen ervaring en die van andere deelnemers worden optimaal geïntegreerd in het programma. Het vergroten van je persoonlijke effectiviteit en communicatieve vaardigheden loopt als rode draad door de hele opleiding. Je volgt leeractiviteiten die aansluiten bij je werkcontext en opleidingsbehoefte. Elke module sluit af met een praktijkgerichte eindtoets waarin je een integrale beroepsprestatie demonstreert. Deze aanpak zorgt ervoor dat je direct kunt toepassen wat je leert in jouw werk als praktijkverpleegkundige. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2400">brochure</a>.</p><p>Ook een <a href="https://habeoplus.nl/incompany">incompany variant </a>behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>Deze praktijkverpleegkundige opleiding duurt 1 jaar en bestaat uit 40 bijeenkomsten die wekelijks plaatsvinden. De bijeenkomsten zijn op jouw vaste lesdag van 14.00-21.00 uur met een pauze van 17.00-18.00 uur, waarbij je de ene week met een docent werkt en de andere week met je leerteam en/of zelfstandig. De dag dat de opleiding start is jouw vaste lesdag. Door deze afwisselende structuur kun je optimaal profiteren van begeleiding en kennisuitwisseling met medestudenten. Naast de wekelijkse bijeenkomsten werk je aan leeractiviteiten en bereid je praktijkgerichte eindproducten per module voor. De gemiddelde studiebelasting is ongeveer 10 uur per week exclusief de bijeenkomsten en je stageplek. Deze opleiding praktijkverpleegkundige is zo opgezet dat je het goed kunt combineren met je werk- of stageplek van minimaal 8 uur per week bij een huisartsenpraktijk.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvol afronden van deze erkende praktijkverpleegkundige opleiding ontvang je als BIG-geregistreerde verpleegkundige het postbachelordiploma Praktijkverpleegkundige in de huisartsenzorg (PVK). Deze opleiding Praktijkverpleegkundige in de huisartsenzorg is geaccrediteerd door het kwaliteitsregister van de beroepsorganisatie V&amp;VN, wat de kwaliteit en erkenning van jouw nieuwe specialisatie garandeert. Per afgeronde module ontvang je een certificaat als bewijs van jouw ontwikkelde competenties. Met een mbo-vooropleiding heb je met dit diploma geen erkend hbo-diploma, maar je kunt wel doorstromen naar de Bachelor of Nursing of vervolgopleidingen zoals Kwetsbare ouderen in de huisartsenzorg.</p>]]></CertValue>
         <Level>HBO</Level>
@@ -13425,10 +13424,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2413-2BPBK01012</Code>
                 <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2027-02-02T17:00:00" />
+                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-03-02T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13487,11 +13486,28 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>745,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
+        <PriceMaterialLow>
+            <Price from="2026-01-01">
+                <Base>50,00</Base>
+                <Vat>4,50</Vat>
+            </Price>
+        </PriceMaterialLow>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>50,00</Base>
+                <Vat>4,50</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2416-OPEN</Code>
-                <Location></Location>
+                <Code>2416-8BVIT01006</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-03-31</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-31T09:00:00" EndDateTime="2027-04-14T17:00:00" />
+                </Sessions>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -13534,6 +13550,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-10-28T09:00:00" EndDateTime="2026-11-11T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2418-8BARB01006</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-05-12</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-12T09:00:00" EndDateTime="2027-05-19T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13579,6 +13604,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                     <Session StartDateTime="2026-11-25T09:00:00" EndDateTime="2026-12-02T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>2420-8BTOE01006</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-06-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-06-02T09:00:00" EndDateTime="2027-06-16T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -13595,25 +13629,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <PriceBase>
             <Price from="2026-01-01">
                 <Base>2250,00</Base>
-                <Vat>472,50</Vat>
+                <Vat>0,00</Vat>
+                <VatFree>2250,00</VatFree>
             </Price>
         </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>219,00</Base>
-                <Vat>19,71</Vat>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>2421-6FSEM01006</Code>
-                <Location>Nieuw-Vennep</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-08T17:00:00" />
-                </Sessions>
+                <Code>2421-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -13943,6 +13967,24 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>blended</Delivery>
         <Classes>
             <Class>
+                <Code>2437-2BTRF01022</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-12-21T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2437-2BTRF01023</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-12-21T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>2437-2BTRF01021</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-09-09</DiscontinuedFrom>
@@ -14151,7 +14193,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Veiligheidsfunctionaris voor laboratoria je op</strong></p><ul><li>Je hebt gedegen kennis over veiligheidsbeleid in het laboratorium en kunt weloverwogen keuzes maken binnen jouw veiligheidsbeleid.</li><li>Je motiveert collega's succesvol om mee te werken aan veilige werkpraktijken en overwint effectief weerstanden in je team.</li><li>Je beheerst het vakgebied aantoonbaar beter en kunt direct impact maken op de veiligheid in jouw laboratorium.</li></ul><p><strong>Praktijkgerichte opleiding voor veiligheidsfunctionaris</strong></p><p>Deze opleiding biedt je een unieke combinatie van technische kennis en praktische vaardigheden. Hoe zorg je ervoor dat veilig en gezond werken in stand wordt gehouden? Je leert het herkennen van gevaren en het juist inschatten van risico’s. Ook leer je hoe je deze kennis direct toepast in jouw werksituatie. Door de praktijkgerichte aanpak sluit de opleiding perfect aan op de uitdagingen die je dagelijks ervaart als veiligheidsfunctionaris.</p><p><strong>Leiderschapsontwikkeling voor veiligheidsprofessionals</strong></p><p>Naast de technische aspecten ontwikkel je je persoonlijke leiderschapsvaardigheden. Hoe krijg je jouw collega’s mee met je veiligheidsbeleid? Je leert effectieve methoden en werkwijzen om medewerkers te motiveren voor een veilige en gezonde werkomgeving. Deze combinatie van vakinhoudelijke expertise en leiderschapskwaliteiten maakt je tot een sterke schakel in de veiligheidsketen van jouw laboratorium.</p><p><strong>Strategische veiligheidsmanagement opleiding</strong></p><p>De opleiding leert je hoe veiligheid strategisch kan worden gemanaged en welke rol verschillende actoren daarbij spelen. Je ontdekt hoe je als veiligheidsfunctionaris optimaal kunt samenwerken met alle betrokkenen om het hoogste resultaat te bereiken. </p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Je bent een ervaren laboratoriummedewerker op minimaal MBO+ of bachelorniveau, verantwoordelijk voor de veiligheid en gezondheid op het laboratorium. Je werkt op een laboratorium zoals medische-, analytische- en (micro)biologische, productie laboratoria, QC- en QA productieomgevingen. Als manager, veiligheidsfunctionaris, arbo-coördinator of preventiemedewerker wil je je verder ontwikkelen op dit gebied, direct aansluitend op jouw werksituatie. Je vindt het prettig dat je daarbij begeleiding en coaching krijgt.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze opleiding combineert vakinhoudelijke kennis met praktische leiderschapsvaardigheden. Bij deze opleiding leer je hoe je vanuit een systemische en pragmatische benadering veilig en gezond werken opzet, implementeert én verbetert specifiek voor verschillende laboratoria. Je krijgt inzicht in alle belangrijke veiligheidsaspecten van het laboratorium en leert tegelijk hoe je medewerkers motiveert voor veilig werken. In de opleiding is er aandacht voor persoonlijk leiderschap en effectieve methoden om gedragsverandering te bewerkstelligen in je team. Je ontdekt hoe veiligheid strategisch kan worden gemanaged en welke rol verschillende actoren daarbij spelen. De opleiding sluit direct aan op jouw werksituatie, waardoor je de geleerde technieken meteen kunt toepassen. Door begeleiding en coaching ontwikkel je zowel je technische expertise als je leiderschapskwaliteiten verder.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding voor veiligheidsfunctionaris voor laboratoria bestaat uit 8 bijeenkomsten verspreid over ongeveer 20 weken, waarbij elke bijeenkomst van 9.30 tot ongeveer 16.30 uur plaatsvindt. Naast deze contactdagen investeer je wekelijks ongeveer 8 uur in opdrachten en zelfstudie, waardoor je de leerstof goed kunt verwerken en direct kunt toepassen in jouw praktijk. De opleiding wordt afgesloten met een presentatiemiddag waar je feedback ontvangt op jouw opdrachten. De spreiding over ongeveer 20 weken geeft je voldoende tijd om nieuwe kennis te integreren in jouw dagelijkse werk als veiligheidsfunctionaris. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je een postbachelor diploma Veiligheidsfunctionaris met een specificatie van jouw behaalde resultaten. Dit diploma bevestigt jouw expertise op het gebied van laboratoriumveiligheid en toont aan dat je zowel de technische kennis als de leiderschapsvaardigheden beheerst die nodig zijn voor deze verantwoordelijke functie. Met dit diploma versterk je jouw positie als veiligheidsexpert en vergroot je jouw carrièremogelijkheden binnen de laboratoriumsector. Je kunt je verder specialiseren via diverse vervolgopleidingen binnen het laboratoriumtechniek aanbod.</p>]]></CertValue>
+        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je een diploma Veiligheidsfunctionaris met een specificatie van jouw behaalde resultaten. Dit diploma bevestigt jouw expertise op het gebied van laboratoriumveiligheid en toont aan dat je zowel de technische kennis als de leiderschapsvaardigheden beheerst die nodig zijn voor deze verantwoordelijke functie. Met dit diploma versterk je jouw positie als veiligheidsexpert en vergroot je jouw carrièremogelijkheden binnen de laboratoriumsector. Je kunt je verder specialiseren via diverse vervolgopleidingen binnen het laboratoriumtechniek aanbod.</p>]]></CertValue>
         <Level>MBO</Level>
         <PriceBase>
             <Price from="2026-01-01">
@@ -14279,11 +14321,31 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>1650,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>188,00</Base>
+                <Vat>16,92</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>2447-OPEN</Code>
-                <Location></Location>
+                <Code>2447-2BPRT01019</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-11-16</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-11-16T09:00:00" EndDateTime="2027-12-21T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2447-2BPRT01018</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-11-16</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-11-16T09:00:00" EndDateTime="2027-12-21T17:00:00" />
+                </Sessions>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -14846,6 +14908,42 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
+        <Code>2535</Code>
+        <Title>Veilig en gezond werken op het laboratorium</Title>
+        <Language>nl</Language>
+        <Duration>8</Duration>
+        <Description><![CDATA[Vergroot de veiligheid bij werkzaamheden in jouw laboratorium door kennis te maken met alle aspecten van risico’s, voorschriften en aandachtspunten.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Veilig en gezond werken op het laboratorium je op</strong></p><ul><li>Werkzaamheden op jouw werkplek beoordelen op alle veiligheidsaspecten.</li><li>Arbeidsrisico's toetsen aan interne en externe voorschriften.</li><li>Effectieve maatregelen formuleren om arbeidsrisico's te beheersen en weten wanneer externe hulp nodig is.</li></ul><p><strong>Praktijkgerichte cursus voor veilig laboratoriumwerk</strong></p><p>Denk je dat er meer te verbeteren valt aan de veiligheid- en gezondheidsrisico’s in jouw laboratorium? Deze cursus leert je om risico's op jouw werkplek professioneel te beoordelen en te beheersen. Je krijgt praktijkoefeningen waarin je vooral leert omgaan met chemische stoffen en hun gevaren. Door te werken met echte situaties uit de praktijk ontwikkel je vaardigheden die je direct toepast in jouw dagelijkse werk. Daar waar je niet zelf maatregelen kunt treffen, weet je welke mogelijkheden er zijn om externe hulp in te schakelen. </p><p><strong>Cursus arbeidsrisico's herkennen en beheersen</strong></p><p>Tijdens deze cursus leer je prioriteren van risico's, het toepassen van een brongerichte aanpak en het interpreteren van veiligheidsinformatie zoals material safety data sheets en VIB-bladen. Ook behandelen we het veilig gebruik van zuurkasten, LAF-kasten, ventilatie en oog- en nooddouches. Met lezingen en praktijkoefeningen krijg je alle tools in handen om arbeidsrisico's vakkundig aan te pakken. Deze kennis past perfect bij jouw rol als analist of laboratoriummedewerker.</p><p><strong>Specialistische training voor laboratoriumveiligheid</strong></p><p>Je leert de belangrijkste veiligheids- en gezondheidsrisico's herkennen en aanpakken, met speciale aandacht voor chemische stoffen. Na afloop werk je goed en veilig in jouw laboratorium en weet je hoe je risico's beheerst.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze cursus is voor hoofdanalisten, medewerkers en hoofden van laboratoria zoals analytische, chemische, biologische, medische en farmaceutische labs. Ook geschikt voor professionals in milieulaboratoria en de voedings-, chemische of klinische chemie. Je werkt op minimaal mbo-niveau en wilt risico's beoordelen en beheersen.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus combineert theorie met praktijkoefeningen voor een optimale leerervaring. Je krijgt uitleg over de belangrijkste veiligheids- en gezondheidsrisico's in laboratoria, met speciale aandacht voor chemische stoffen. Door praktijkoefeningen leer je arbeidsrisico's professioneel beoordelen en prioriteren. Je oefent met het toepassen van een brongerichte aanpak en het interpreteren van veiligheidsinformatie zoals material safety data sheets en VIB-bladen. Ook behandelen we het veilig gebruik van zuurkasten, LAF-kasten, ventilatie en oog- en nooddouches. Deze praktische aanpak zorgt ervoor dat je de kennis direct toepast in jouw eigen werkomgeving. Zo ontwikkel je vaardigheden die je meteen gebruikt voor veiliger werken in het laboratorium.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus duurt één dag. De bijeenkomst vindt plaats van 9.30 tot 16.30 uur. In één dag krijg je alle kennis en vaardigheden die je nodig hebt voor veilig en gezond werken in jouw laboratorium. Je hoeft geen voorbereidingstijd te investeren, want alles wat je leert bouw je tijdens de cursus op. De compacte opzet zorgt ervoor dat je direct na afloop de nieuwe kennis toepast in je dagelijkse werk. Dankzij de praktijkgerichte aanpak onthoud je de leerstof makkelijk en pas je het meteen toe. Na deze ene dag beoordeel je arbeidsrisico's professioneel en werk je veiliger in jouw laboratorium.</p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na succesvolle afronding van deze cursus ontvang je een bewijs van deelname dat jouw competenties op het gebied van laboratorium-veiligheid en -gezondheid bevestigt. Dit document toont aan dat je arbeidsrisico's kunt beoordelen en beheersen.</p>]]></CertValue>
+        <Level>MBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>795,00</Base>
+                <Vat>166,95</Vat>
+            </Price>
+        </PriceBase>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>73,00</Base>
+                <Vat>6,57</Vat>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>2535-6FVCL02008</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2026-11-19T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
         <Code>2673</Code>
         <Title>Zorgtechnologie: innoveren en implementeren</Title>
         <Language>nl</Language>
@@ -14907,15 +15005,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2780-6DCOM01002</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-09-28</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-28T09:00:00" EndDateTime="2027-02-22T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2780-6DCOM01003</Code>
                 <Location>Breda</Location>
@@ -15023,28 +15112,11 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>1195,00</VatFree>
             </Price>
         </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>50,00</Base>
-                <Vat>4,50</Vat>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>50,00</Base>
-                <Vat>4,50</Vat>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>2786-8EADB01002</Code>
-                <Location>Arnhem</Location>
-                <DiscontinuedFrom>2026-09-28</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-09-28T09:00:00" EndDateTime="2026-09-29T17:00:00" />
-                </Sessions>
+                <Code>2786-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -16574,6 +16646,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>3472-2BPPB01003</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-11-16T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>3472-2BPPB01002</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-15</DiscontinuedFrom>
@@ -17028,12 +17109,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3569-8ERDG01001</Code>
-                <Location>Arnhem</Location>
-                <DiscontinuedFrom>2026-09-28</DiscontinuedFrom>
+                <Code>3569-8ERDG01002</Code>
+                <Location>Nijkerk</Location>
+                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-09-28T09:00:00" EndDateTime="2027-05-28T17:00:00" />
+                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-12-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
