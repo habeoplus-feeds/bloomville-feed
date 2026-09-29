@@ -267,8 +267,9 @@ foreach ($res in $resources) {
       if ($from) { $w.WriteAttributeString('from', $from) }
       $w.WriteElementString('Base', (Format-Amount $v.amount))
       $w.WriteElementString('Vat', (Format-Amount $v.vat))
-      # BTW-vrije levering: bij vrijgesteld onderwijs (0 BTW) is de prijs gelijk aan Base
-      if ($v.vat -eq 0) { $w.WriteElementString('VatFree', (Format-Amount $v.amount)) }
+      # VatFree is verplicht voor Bloomville. Habeo+ levert niet BTW-vrij met opslag, dus:
+      # vrijgesteld (0 BTW) -> gelijk aan Base; met BTW -> Base + Vat (prijs incl. BTW), op verzoek van Bloomville
+      $w.WriteElementString('VatFree', (Format-Amount ($v.amount + $v.vat)))
       $w.WriteEndElement()
     }
     $w.WriteEndElement()
