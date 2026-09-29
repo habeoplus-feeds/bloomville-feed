@@ -1,7 +1,8 @@
-Bloomville feed - run 2026-09-28 05:09
+Bloomville feed - run 2026-09-29 08:35
 Status: BIJGEWERKT
-Cursussen: 310
+Cursussen: 309
 XSD-fouten: 0
 
-Waarschuwingen (1):
+Waarschuwingen (2):
 - 1693 : uitvoeringen hebben verschillende prijzen (8250.00 / 8400.00) - Bloomville ondersteunt 1 prijs per cursus
+- 3513 : EDU-DEX programma niet op te halen (Exception calling "DownloadString" with "1" argument(s): "The remote server returned an error: (500) Internal Server Error.")
