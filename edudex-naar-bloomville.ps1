@@ -134,11 +134,13 @@ function Get-CertValue([string]$degree) {
   }
 }
 
-function Get-Delivery([string]$mode, [bool]$hasRuns) {
+# Bloomville staat niet toe dat het leveringstype van een bestaande cursus wijzigt.
+# Het type hangt daarom alleen af van de leervorm in EDU-DEX, niet van wel/geen startdata of online uitvoeringen.
+function Get-Delivery([string]$mode) {
   switch ($mode) {
-    'blended learning'    { if ($hasRuns) { return 'blended' } else { return 'instructor-led date-tbd' } }
+    'blended learning'    { return 'blended' }
     'individual guidance' { return 'individual' }
-    default               { if ($hasRuns) { return 'instructor-led' } else { return 'instructor-led date-tbd' } }
+    default               { return 'instructor-led' }
   }
 }
 
@@ -191,6 +193,8 @@ $w.WriteStartElement('CourseTemplates')
 $warnings = New-Object Collections.Generic.List[string]
 $count = 0
 
+$notInFeed = New-Object Collections.Generic.List[string]
+
 foreach ($res in $resources) {
   try { $x = Get-Xml $res.resourceUrl $res.programId }
   catch { $warnings.Add("$($res.programId) : EDU-DEX programma niet op te halen ($($_.Exception.Message))"); continue }
@@ -201,10 +205,14 @@ foreach ($res in $resources) {
   $d     = $p.programDescriptions
   $runs  = @($p.programSchedule.programRun | Where-Object { $_ })
   $mode  = @($p.programCurriculum.instructionMode)[0]
-  $delivery = Get-Delivery $mode ($runs.Count -gt 0)
-  # Alle uitvoeringen volledig online -> Virtual Class
-  if ($runs.Count -and $delivery -eq 'instructor-led' -and -not ($runs | Where-Object { $_.fullyOnline -ne 'true' })) { $delivery = 'Virtual Class' }
+  $delivery = Get-Delivery $mode
+  # Opleiding die volgens EDU-DEX alleen online gegeven wordt (programLocation = "Online") -> Virtual Class
+  $progLocs = @("$($p.programClassification.programLocation.'#cdata-section')$($p.programClassification.programLocation.'#text')".Split(',') | ForEach-Object { $_.Trim() } | Where-Object { $_ })
+  if ($delivery -eq 'instructor-led' -and $progLocs.Count -and -not ($progLocs | Where-Object { $_ -ne 'Online' })) { $delivery = 'Virtual Class' }
   $isSession = $delivery -in 'blended','instructor-led','examination','seminar','Virtual Class'
+  # Klassikale cursus zonder startdata: tijdelijk niet in de feed. Bloomville deactiveert hem dan en
+  # activeert hem weer (met hetzelfde leveringstype) zodra er nieuwe startdata zijn.
+  if ($isSession -and -not $runs.Count) { $notInFeed.Add($id); continue }
 
   $w.WriteStartElement('CourseTemplate')
   $w.WriteElementString('Code', $id)
@@ -354,6 +362,7 @@ if ($ReportPath) {
     "Status: $status",
     "Cursussen: $count",
     "XSD-fouten: $($errors.Count)",
+    "Tijdelijk niet in feed (klassikaal zonder startdata): $($notInFeed.Count) - $($notInFeed -join ', ')",
     "",
     "Waarschuwingen ($($warnings.Count)):"
   ) + ($warnings | ForEach-Object { "- $_" }) + ($errors | ForEach-Object { "- XSD $_" })
