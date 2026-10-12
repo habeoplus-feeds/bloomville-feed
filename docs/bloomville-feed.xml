@@ -872,32 +872,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1726</Code>
-        <Title>Persoonlijk Financieel Adviseur (PFA)</Title>
-        <Language>nl</Language>
-        <Duration>290</Duration>
-        <Description><![CDATA[Breng als Persoonlijk Financieel Adviseur de kansen en risico’s van een financiële huishouding op een verantwoorde manier in kaart.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Persoonlijk Financieel Adviseur (PFA) je op</strong></p><ul><li>Je bent gecertificeerd Persoonlijk Financieel Adviseur en mag je inschrijven in het Financieel Planner-register</li><li>Je kunt de titel GPFA (Gecertificeerd Persoonlijk Financieel Adviseur) voeren met bijbehorend logo</li><li>Je ontvangt het postbachelordiploma Persoonlijk Financieel Adviseur van Habeo+</li></ul><p><strong>Praktijkgerichte financieel adviseur opleiding voor particuliere klanten</strong></p><p>Met deze opleiding ontwikkel je jezelf tot een complete financieel adviseur die particuliere klanten kwalitatief advies kan bieden. Je werkt tijdens de colleges in kleine groepen aan praktijkcases en discussieert met ervaren docenten uit de praktijk. Wat je vandaag leert, pas je direct toe in jouw werk. Door de combinatie van theorie en praktijk word je de adviseur waar particuliere klanten naar op zoek zijn.</p><p><strong>Opleiding financieel adviseur met directe certificering</strong></p><p>Deze opleiding bereidt je voor op de GPFA-certificering en geeft je toegang tot het Financieel Planner-register. Je sluit de vijf modules af met toetsen waarbij het gemiddelde cijfer meetelt in je eindresultaat. Voor de tussentijdse toetsen heb je twee kosteloze herkansingen, zodat je succesvol je certificering behaalt. Deze aanpak zorgt ervoor dat je stap voor stap groeit naar een gecertificeerd adviseur.</p><p>Aan het einde volgt een schriftelijk examen waarin een casus uitgewerkt dient te worden. De kosten voor een herkansing van dit examen bedragen € 250,- (vrijgesteld van btw).</p><p><strong>Praktische financieel adviseur training met ervaren begeleiding</strong></p><p>Gedurende zeven maanden ontwikkel je expertise in financiële adviesbehoeften van particuliere klanten. Je ontvangt per college casusuitwerkingen en sheets, plus toegang tot syllabi en boeken. De ervaren docenten begeleiden je intensief in het leerproces, waardoor je kennis en ervaringen deelt met mededeelnemers en direct de link naar de praktijk legt.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze financieel adviseur opleiding is bedoeld voor professionals die enkele jaren werken in de financiële dienstverlening en zich verder willen verdiepen in de financiële adviesbehoeften van particuliere klanten. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je bestudeert de theorie thuis en werkt tijdens de colleges in kleine groepen aan praktijkcases. Je discussieert over deze cases met ervaren docenten uit de praktijk en mededeelnemers, waardoor je kennis en ervaringen deelt. Wat je vandaag leert, kun je morgen direct toepassen in jouw werk. Je ontvangt per college casusuitwerkingen en sheets van de gepresenteerde stof. Ook syllabi en boeken staan tot je beschikking. Je sluit de vijf modules af met toetsen waarvan het gemiddelde cijfer meetelt in je eindcijfer. Bij een onvoldoende krijg je twee kosteloze herkansingen. De opleiding sluit je af met een schriftelijk examen waarin je een casus dient uit te werken. De kosten voor een herkansing van dit examen bedragen € 250,- (vrijgesteld van btw).</p><p><strong>Tijdsinvestering</strong></p><p>De financieel adviseur opleiding duurt ongeveer zeven maanden en bestaat uit twaalf bijeenkomsten die plaatsvinden van 14:00 tot 21:00 uur. Naast de bijeenkomsten bestudeer je de theorie thuis, waarbij je ongeveer tien uur per week aan zelfstudie besteedt. Deze verdeling zorgt ervoor dat je tijdens de colleges optimaal kunt profiteren van de praktijkcases en discussies met ervaren docenten. De opleiding is zo opgezet dat je de studie goed kunt combineren met je werk, waarbij je stapsgewijs de expertise opbouwt die je nodig hebt als gecertificeerd financieel adviseur voor particuliere klanten.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het postbachelordiploma Persoonlijk Financieel Adviseur van Habeo+. Dit diploma geeft je recht om de titel Gecertificeerd Persoonlijk Financieel Adviseur (GPFA) te dragen wanneer je staat ingeschreven in het Register Financieel Planner. Je kunt dan officieel de titel GPFA voeren inclusief het bijbehorende logo. Dit erkende diploma positioneert je als gekwalificeerd adviseur voor particuliere klanten en opent deuren naar een specialistische carrière in financieel advies.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2995,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>2995,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1726-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1728</Code>
         <Title>Persoonlijke Financiële Planning (PFP)</Title>
         <Language>nl</Language>
@@ -1996,32 +1970,6 @@
                 <Sessions>
                     <Session StartDateTime="2027-02-19T09:00:00" EndDateTime="2027-04-28T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>1756</Code>
-        <Title>Masterclass Generatiemanagement</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Deze masterclass leert je generaties effectief te verbinden en hun unieke kwaliteiten te benutten.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Generatiemanagement je op</strong></p><ul><li>Je benut de kracht van verschillende generaties binnen jouw organisatie en creëert een productievere werkomgeving waar alle leeftijdsgroepen optimaal presteren.</li><li>Je past concrete strategieën toe om samenwerking tussen generaties te verbeteren en verzuim te verminderen door gericht generatiemanagement.</li><li>Je geeft effectief leiding aan diverse teams met verschillende verwachtingen en talenten, waardoor werktevredenheid en bedrijfsresultaten merkbaar verbeteren.</li></ul><p><strong>Praktijkgerichte opleiding in generatiemanagement voor adviseurs</strong></p><p>Deze intensieve masterclass van één dag geeft je als adviseur of intermediair op het gebied van risicomanagement en verzuim alle tools om generatiemanagement succesvol in te zetten. Door de interactieve opzet waarin college en praktijk worden afgewisseld, leer je direct toepasbare technieken die je meteen kunt gebruiken in je advieswerk. Je ontdekt hoe verschillende generaties optimaal kunnen samenwerken en hoe dit bijdraagt aan een gezondere, productievere organisatie.</p><p><strong>Specialistische training voor betere bedrijfsresultaten</strong></p><p>Als professional in risicomanagement en inkomen krijg je concrete strategieën aangereikt om verzuim te verminderen en productiviteit te verhogen door slim generatiemanagement. Je leert hoe je de unieke eigenschappen van elke generatie kunt benutten en omzet in zakelijk succes. Deze opleiding helpt je een positieve impact te maken op zowel werktevredenheid als bedrijfsresultaten van jouw klanten.</p><p><strong>Efficiënte opleiding met directe toegevoegde waarde</strong></p><p>In slechts één dag behandel je alle actuele thema's rondom generatiemanagement en ga je naar huis met praktische kennis die je direct kunt toepassen. Je ontwikkelt leiderschapsvaardigheden om diverse groepen werknemers met verschillende verwachtingen en talenten succesvol aan te sturen. Met 6 PE-punten voor het RVI of RM register investeer je slim in je professionele ontwikkeling en expertise.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is perfect voor adviseurs en intermediairs die werkzaam zijn op het gebied van risicomanagement, verzuim en inkomen. Je wilt je expertise uitbreiden met generatiemanagement om je klanten nog beter te kunnen adviseren. Of je nu zelfstandig werkt of bij een adviesbureau - je zoekt praktische tools om organisaties te helpen met hun generatie-uitdagingen en bedrijfsresultaten te verbeteren. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass heeft een interactieve opzet waarbij college en praktijk voortdurend worden afgewisseld. Je krijgt niet alleen theoretische kennis, maar werkt direct met praktijkcases die je meteen kunt toepassen in je advieswerk.</p><p>De docent begeleidt je door verschillende generatiemanagement-situaties en laat je ervaren hoe verschillende benaderingen werken. Door de wisselwerking tussen uitleg en praktijkoefeningen blijf je actief betrokken en onthoud je de leerstof beter.</p><p>De interactieve vorm zorgt ervoor dat je kunt doorvragen over specifieke uitdagingen in jouw werk. Je wisselt ervaringen uit met andere adviseurs en intermediairs, waardoor je verschillende perspectieven krijgt op generatiemanagement-vraagstukken. Zo bouw je ook een netwerk op van collega's die met vergelijkbare uitdagingen werken.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass vraagt slechts één dag van je tijd en behandelt alle actuele thema's rondom generatiemanagement in een compacte, intensieve bijeenkomst. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Je hoeft geen weken of maanden te investeren - in één dag krijg je alle kennis en praktische tools die je nodig hebt.</p><p>Door de compacte tijdsinvestering kun je snel resultaat zien en direct profiteren van je nieuwe expertise in generatiemanagement. Je investeert slim in één dag en haalt er jarenlang voordeel uit in je professionele praktijk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze masterclass ontvang je een bewijs van deelname dat jouw expertise in generatiemanagement bevestigt. Je PE-uren worden automatisch bijgeschreven in het RVI en/of RM register, waardoor je 6 waardevolle PE-punten ontvangt. Dit certificaat toont aan dat je beschikt over actuele kennis en praktische vaardigheden om organisaties te adviseren over het effectief managen van verschillende generaties. Het bewijs van deelname versterkt je professionele positie en geeft vertrouwen aan klanten die zoeken naar specialistische expertise in generatiemanagement.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1756-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -3357,32 +3305,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1830</Code>
-        <Title>Masterclass Adviesvaardigheden</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Leer scherp te contracteren, functionele conflicten productief in te zetten en zo de relatie met je klant te verdiepen.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Adviesvaardigheden &amp; conflicteren je op</strong></p><ul><li>Je krijgt advies vragen helder en onderhandelt over de juiste condities om opdrachten aan te nemen.</li><li>Je wilt leren hoe je een verschil van inzicht of conflict productief kunt maken en hoe je conflict inzet om verandering bij je klant te veroorzaken.</li><li>Je durft de spanning te verdragen die het inzetten van conflict met zich meebrengt</li></ul><p><strong>Masterclass voor ervaren adviseurs die meer impact willen maken</strong></p><p>Deze intensieve dag is speciaal ontwikkeld voor adviseurs die hun vaardigheden willen uitbreiden. Je leert de condities aan de voorkant van de adviesvraag op orde te krijgen, waardoor je veel meer impact kunt maken. De focus ligt op het productief inzetten van conflict om daadwerkelijke verandering te veroorzaken. Door aan de slag te gaan met voorbeelden uit jouw dagelijkse praktijk, krijg je direct toepasbare inzichten.</p><p><strong>Opleiding met kleine groepen en intensieve begeleiding</strong></p><p>Met maximaal 10 deelnemers garandeert deze masterclass een persoonlijke aanpak en optimaal leereffect. Je werkt interactief met theorie en praktijkvoorbeelden, waarbij je leert om verschillen van inzicht om te zetten in productieve gesprekken. De voorbereidende opdracht die je vooraf ontvangt, zorgt ervoor dat je optimaal voorbereid de dag ingaat.</p><p><strong>Praktijkgerichte training inclusief het boek Conflict-eren</strong></p><p>Deze opleiding geeft je concrete tools om beter aan te sluiten bij je klanten en hun vragen. Je ontvangt het boek 'Conflict-eren' door Shirine Moerkerken, zodat je na de training kunt blijven doorleren. Door de juiste vragen te stellen, transformeer je uitdagende situaties in waardevolle leermomenten voor jezelf en je klanten.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is bedoeld voor adviseurs die hun adviesvaardigheden naar een hoger niveau willen tillen. Je wilt meer impact maken met je adviezen en leert hoe je conflict productief inzet om verandering te bewerkstelligen. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze interactieve masterclass combineert theorie met praktijkvoorbeelden uit jouw dagelijkse werk als adviseur. Je werkt in een kleine groep van maximaal 10 deelnemers, wat zorgt voor een persoonlijke aanpak en optimaal leereffect. Door de beperkte groepsgrootte krijg je veel ruimte voor individuele aandacht en feedback. Je gaat direct aan de slag met concrete situaties uit je eigen advieswerk, waardoor je de geleerde vaardigheden meteen kunt toepassen. De voorbereidende opdracht die je vooraf ontvangt, zorgt ervoor dat je goed voorbereid de dag ingaat. Tijdens de masterclass leer je door middel van interactieve oefeningen hoe je conflict productief inzet en betere condities creëert voor je advieswerk. De ervaren docent begeleidt je bij het ontwikkelen van specifieke vaardigheden om meer impact te maken met je adviezen.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass vraagt één dag van je tijd en levert direct toepasbare vaardigheden op voor je advieswerk. Je volgt een intensieve bijeenkomst van twee dagdelen, perfect afgestemd op werkende adviseurs met een drukke agenda. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Door de compacte opzet maak je in korte tijd een grote sprong voorwaarts in je adviesvaardigheden. Voorafgaand aan de masterclass ontvang je een voorbereidende opdracht die je thuis kunt uitwerken. Deze slimme voorbereiding zorgt ervoor dat je optimaal profiteert van de interactieve oefeningen en groepsdiscussies tijdens de dag zelf. De combinatie van voorbereiding thuis en intensieve training garandeert een haalbare tijdsinvestering met blijvende impact op je professionele groei. Door de kleine groepsgrootte van maximaal 10 deelnemers krijg je veel persoonlijke aandacht en feedback, waardoor elke minuut van de dag maximaal rendement oplevert.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding van deze masterclass ontvang je een officieel bewijs van deelname dat jouw verdiepte adviesvaardigheden bevestigt. Je PE-uren worden automatisch bijgeschreven in het relevante register, wat jouw professionele ontwikkeling documenteert. Dit certificaat toont aan dat je de kunst van het productief inzetten van conflict beheerst en complexe adviesvragen helder kunt krijgen. Het bewijs versterkt je positie als ervaren adviseur en opent deuren naar uitdagendere opdrachten waarbij jouw nieuwe vaardigheden het verschil maken.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1830-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1832</Code>
         <Title>Masterclass Bedrijfskunde 1.0 – Organisaties begrijpen</Title>
         <Language>nl</Language>
@@ -3745,32 +3667,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1859</Code>
-        <Title>Masterclass Stress management en burn-out preventie</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Leer stress- en burn-out klachten te signaleren en voorkomen en effectief te adviseren over stressmanagement.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Stressmanagement en burn-out preventie je op</strong></p><ul><li>Je beheerst de skills om als stresscoach medewerkers te helpen dreigende overspannenheid of burn-out te herkennen, erkennen en voorkomen.</li><li>Je begeleidt medewerkers effectief zodat ze snel weer vitaal en met plezier terug aan de slag gaan na burn-out en overspannenheid.</li><li>Je adviseert organisaties en leidinggevenden over het handhaven van werkdruk op een gezond niveau en het vroegtijdig herkennen van stresssignalen.</li></ul><p><strong>Praktijkgerichte opleiding voor risicomanagement- en verzuimadviseurs</strong></p><p>Deze intensieve masterclass van één dag is speciaal ontwikkeld voor risicomanagement- en verzuim- en inkomensadviseurs die preventie van overmatige stress willen integreren in hun organisatie. Je leert direct toepasbare vaardigheden voor stressmanagement en burn-out preventie, zonder dat voorkennis van stressbegeleiding nodig is. Door de interactieve opzet met college, praktijk en psychomotorische oefeningen bouw je concreet bruikbare expertise op die je meteen kunt inzetten.</p><p><strong>Dynamische training in burn-out coaching en stresspreventie</strong></p><p>Het bewust worden van hoe stress precies werkt, waar het jou in de weg zit en hoe je het in je voordeel kunt laten werken is een belangrijke tool bij het voorkomen van langdurige uitval. Stress is een kracht die, mits het constructief wordt gebruikt, leidt tot betere productiviteit en positieve verandering. De opleiding combineert luisteren, leren, toepassen en ervaren op een afwisselende manier. Je oefent met jezelf en medecursisten, waardoor je praktijkervaring opdoet in een veilige leeromgeving. Deze hands-on benadering zorgt ervoor dat je na afloop zelfverzekerd leidinggevenden kunt adviseren over het verminderen van werkgerelateerde stressoren en het adequaat reageren op stresssignalen.</p><p><strong>Compacte opleiding met blijvende impact op je advieswerk</strong></p><p>In één dag ontwikkel je alle vaardigheden om organisaties te adviseren over het gezond en met plezier aan het werk houden van medewerkers. Je leert aanpassingen van werk te adviseren als functies niet meer passend zijn. Deze efficiënte investering in je professionele ontwikkeling zorgt voor directe meerwaarde in je dagelijkse advieswerk.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is perfect voor risicomanagement- en verzuim- en inkomensadviseurs die stresspreventie willen integreren in hun organisatie. Je hoeft geen voorkennis van stressbegeleiding te hebben - we beginnen bij de basis. Je wilt je vaardigheden uitbreiden met burn-out coaching en praktische tools voor stressmanagement om je advieswerk te versterken. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass heeft een unieke interactieve opzet waarin college en praktijk slim worden afgewisseld. De training is een dynamische combinatie van luisteren, leren, toepassen en ervaren die zorgt voor een afwisselende en boeiende dag.</p><p>Je oefent vooral met jezelf en samen met andere deelnemers, waardoor je direct ervaring opdoet in een veilige leeromgeving. Psychomotorische oefeningen maken een belangrijk onderdeel uit van de training - hierdoor pas je technieken niet alleen toe, maar ervaar je ze ook zelf.</p><p>Deze hands-on benadering maakt de masterclass niet alleen leerzaam, maar ook leuk en energiek. Door de praktijkgerichte oefeningen bouw je zelfvertrouwen op om stressmanagement-technieken toe te passen in jouw dagelijkse advieswerk.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass vraagt slechts één bijeenkomst van je tijd, waardoor je in één intensieve dag alle vaardigheden leert die je nodig hebt voor effectief Stressmanagement en Burn-out preventie. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager.</p><p>Je gaat aan het eind van de dag naar huis met concrete tools en technieken die je direct kunt inzetten in je advieswerk. Zo investeer je slim in je professionele ontwikkeling zonder uitgebreide voorstudie of langdurige programma's die je agenda belasten.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle deelname aan deze Masterclass ontvang je een officieel bewijs van deelname van Habeo+ dat jouw nieuwe expertise in Stressmanagement en Burn-out preventie bevestigt. Als je geregistreerd staat in één van onze registers, ontvang je 6 waardevolle PE-punten die bijdragen aan je permanente educatie waardoor je professionele ontwikkeling wordt vastgelegd. Dit certificaat toont aan dat je beschikt over praktische vaardigheden om als stresscoach medewerkers effectief te begeleiden en organisaties te adviseren over gezonde werkdruk.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1859-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1863</Code>
         <Title>Onderwijslogistiek expert</Title>
         <Language>nl</Language>
@@ -3996,32 +3892,6 @@
                 <Sessions>
                     <Session StartDateTime="2026-10-28T09:00:00" EndDateTime="2026-10-28T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>1876</Code>
-        <Title>PE Risico-inspectie en preventie</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Leer risico’s herkennen, beheersen en voorkomen met praktische inspecties en direct toepasbare tools.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding PE Risicomanagement risico-inspectie en preventie je op</strong></p><ul><li>Je leert de belangrijkste oorzaken van vervelende schades door zelf op onderzoek te gaan met een inspecteur.</li><li>Je identificeert risico's die ten grondslag liggen aan schades en weet hoe je deze aanpakt.</li><li>Je helpt relaties met praktische adviezen om risico's te vermijden of te verminderen.</li></ul><p><strong>Praktijkgerichte Risicomanagement beheersing</strong></p><p>Deze opleiding combineert theorie met praktijk door een inspectieronde op locatie samen met de docent. Je krijgt handige checklists die je direct kunt gebruiken in je dagelijkse werk als intermediair. De interactieve aanpak zorgt ervoor dat je niet alleen leert over risico's, maar ook hoe je deze effectief kunt beheersen en voorkomen.</p><p><strong>Opleiding voor verzekeringsprofessionals</strong></p><p>Als intermediair of verzekeringsmakelaar versterk je je expertise op het gebied van Risico-inspectie en Preventie. Je leert schades te voorkomen voordat ze ontstaan en bouwt vertrouwen op bij klanten door je grondige kennis van risicomanagement. Deze opleiding helpt je onderscheiden als adviseur die proactief meedenkt over risicobeheersing.</p><p><strong>Specialisatieopleiding preventie en inspectie</strong></p><p>Met deze specialisatieopleiding word je een expert in het herkennen en aanpakken van risico's binnen organisaties. Je ontwikkelt vaardigheden om risicomanagementbeleid vorm te geven en uit te voeren. Door de praktische aanpak met checklists en discussies krijg je tools die je meteen kunt inzetten om schades te voorkomen en kosten te besparen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor intermediairs, verzekeringmakelaars en professionals die (mede)verantwoordelijk zijn voor het risicomanagementbeleid binnen hun organisatie. Je wilt schades voorkomen en risico's effectief beheersen in je dagelijkse praktijk. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je volgt een interactieve en praktijkgerichte bijeenkomst van 6 uur waarin theorie en praktijk perfect samenkomen. Het bijzondere aan deze opleiding is dat je samen met de docent een echte inspectieronde op locatie loopt, waardoor je direct ervaring opdoet. Gedurende de dag is er volop ruimte voor interactie en discussie met andere deelnemers en de docent. In het cursusmateriaal vind je handige checklists die je als naslagwerk kunt gebruiken en direct kunt inzetten in je dagelijkse praktijk. Deze aanpak zorgt ervoor dat je niet alleen de theorie beheerst, maar ook weet hoe je risico's in de praktijk herkent en aanpakt.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding vraagt een minimale tijdsinvestering van slechts één dag. Je volgt een intensieve bijeenkomst van 6 uur die je kunt inplannen wanneer het jou uitkomt. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Er is geen voorbereidingstijd nodig.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je een bewijs van deelname dat je expertise in Risico-inspectie en Preventie bevestigt. Ben je Gecertificeerd Risk Management Adviseur of Risk Management Consultant? Dan wordt deze PE-activiteit automatisch voor je geregistreerd in het Risicomanagement Register, wat je professionele status versterkt. Dit officiële bewijs toont aan dat je beschikt over actuele kennis op het gebied van risicomanagement en preventie. Je kunt deze certificering direct inzetten om je expertise aan te tonen bij klanten en zakenpartners. Het diploma vormt een waardevolle aanvulling op je professionele kwalificaties als intermediair of verzekeringsmakelaar.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>405,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>405,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1876-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -4992,32 +4862,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1904</Code>
-        <Title>Verpleegkundige M&amp;G profiel Jeugdverpleegkundige</Title>
-        <Language>nl</Language>
-        <Duration>320</Duration>
-        <Description><![CDATA[Ontwikkel sterk leiderschap. Herken, bij 0 tot 18 jarigen, complexe ontwikkelingsproblemen en behandel evidence-based en systeemgericht.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Verpleegkundige M&amp;G profiel Jeugdverpleegkundige je op</strong></p><ul><li>Je positioneert jezelf effectief als jeugdverpleegkundige en toont sterk leiderschap binnen je organisatie.</li><li>Je bent expert in de ontwikkeling van kinderen en jeugdigen en kunt complexe ontwikkelingsproblemen onderscheiden en systeemgericht en evidence-based behandelen.</li><li>Je implementeert succesvol veranderingen en verbeteringen in de jeugdgezondheidszorg als facilitator en innovator.</li></ul><p><strong>Sterk leiderschap en deskundigheid in jeugdgezondheidszorg</strong></p><p>Na deze opleiding positioneer je jezelf effectief als jeugdverpleegkundige. Je ontwikkelt sterk leiderschap en diepgaande expertise in de ontwikkeling van jeugdigen. Complexe ontwikkelingsproblemen herken je snel en je bent in staat deze evidence-based te behandelen. Hierdoor vergroot je de kwaliteit van zorg en ondersteun je jeugdigen en hun omgeving optimaal.</p><p><strong>Succesvol veranderingen doorvoeren en innovatie stimuleren</strong></p><p>Je implementeert verbeteringen en innovaties in de jeugdgezondheidszorg effectief. Als facilitator en innovator weet je praktijkgerichte oplossingen te vinden en collega’s te betrekken bij veranderingen. Dit stelt je in staat om processen in je organisatie te verbeteren en duurzame impact te maken op de zorg voor jeugdigen.</p><p><strong>Voorbereiding op een leidende rol met zichtbare impact</strong></p><p>Na afronding ben je een professional die kennis deelt, preventieve strategieën inzet en kwaliteitsverbeteringen doorvoert. Je kunt gezondheids- en gedragsdeterminanten analyseren, effectieve communicatiestrategieën ontwikkelen en veranderingen realiseren. Je bent een invloedrijke facilitator die zichtbaar bijdraagt aan een hoogwaardig en toekomstbestendig jeugdgezondheidszorgsysteem.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze post-bachelor opleiding is bestemd voor hbo-verpleegkundigen met een geldige BIG-registratie die werkzaam zijn als jeugdverpleegkundige. Je hebt een relevante werkplek voor minimaal 20 uur per week en wilt doorgroeien naar een leidende rol in de jeugdgezondheidszorg.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze opleiding volgt het principe van sociaal leren met interactieve en praktijkgerichte onderwijsvormen. Je werkt in leerteams aan realistische leeractiviteiten onder begeleiding van ervaren praktijkdocenten. Binnen het leerteam bespreek je opdrachten, geef je elkaar feedback en zoek je samen oplossingen voor vraagstukken uit de jeugdgezondheidszorg. Je eigen werkervaring en die van andere deelnemers wordt actief geïntegreerd in het programma. Het opleidingstraject is geflexibiliseerd, waardoor je de leeractiviteiten volgt die aansluiten op jouw werkcontext en scholingsbehoefte. Persoonlijke effectiviteit en communicatieve vaardigheden vormen een rode draad door de hele opleiding. Elke module wordt afgesloten met een eindtoets en een eindassessment, zodat je stapsgewijs je competenties ontwikkelt en toont.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=1904">brochure</a>.</p><p>Ook een <a href="https://habeoplus.nl/incompany">incompany variant</a> behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>Deze Postbachelor opleiding bestaat uit 4 modules van 10 weken en biedt je een flexibele manier om door te groeien naast je werk. De bijeenkomsten vinden tweewekelijks plaats van 14.00 tot 21.00 uur met een ontspannen pauze van 17.00 tot 18.00 uur. Tussen de contactmomenten verdiep je je in relevante literatuur en werk je aan praktijkgerichte opdrachten die direct aansluiten op jouw werkcontext. Je investeert gemiddeld 10 uur per week in zelfstudie, waardoor je de nieuwe inzichten meteen kunt toepassen in je dagelijkse praktijk als jeugdverpleegkundige. Door de modulaire opbouw kun je stapsgewijs groeien en na elke module direct profiteren van je nieuwe competenties. Deze gestructureerde aanpak zorgt ervoor dat je de opleiding goed kunt combineren met je werkplek van minimaal 20 uur per week.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvol afronden van elke module ontvang je een certificaat, en na voltooiing van alle modules en het eindassessment behaal je het Postbachelordiploma Jeugdverpleegkundige M&amp;G. Deze geaccrediteerde opleiding op bachelor niveau telt 240 accreditatiepunten en is erkend door de V&amp;VN. Het diploma toont aan dat je beschikt over hoogwaardige competenties in leiderschap, veranderkunde en evidence-based zorgverlening binnen de jeugdgezondheidszorg. Met deze kwalificatie kun je doorgroeien naar leidinggevende posities of vervolgopleidingen zoals Psychosociale begeleiding kind en jeugd. Je bent hiermee gekwalificeerd voor complexe vraagstukken en innovatie in de jeugdgezondheidszorg.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=1904">brochure</a>.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>6395,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>6395,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1904-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1905</Code>
         <Title>Leren &amp; ontwikkelen</Title>
         <Language>nl</Language>
@@ -5355,32 +5199,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1926</Code>
-        <Title>PE Werknemersparticipatie</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Word expert in werknemersparticipatie en adviseer ondernemers effectief in één dag.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding PE – Werknemersparticipatie je op</strong></p><ul><li>Je kent alle mogelijkheden van werknemersparticipatie als adviseur.</li><li>Je kunt ondernemers bijstaan op dit complexe vakgebied.</li><li>Je ontvangt een bewijs van deelname en PE-vermelding in het RAB-register.</li></ul><p><strong>Specialisatie opleiding werknemersparticipatie voor adviseurs</strong></p><p>Deze opleiding stelt je in staat ondernemers te helpen met arbeidsmarktproblemen zoals personeelsverloop en krapte. Je leert de mogelijkheden van werknemersparticipatie kennen en ontwikkelt expertise om risico's voor ondernemers in kaart te brengen. Als adviseur word je de aangewezen persoon om op dit gebied waardevolle ondersteuning te bieden.</p><p><strong>Praktijkgerichte opleiding met interactieve bijeenkomst</strong></p><p>Je bereidt je thuis voor met literatuurstudie van slechts 1 tot 2 uur. Tijdens de interactieve bijeenkomst van 9.00-18.00 uur of 12.00-21.00 uur is er veel ruimte voor het stellen van vragen. Deze praktische aanpak zorgt ervoor dat je direct toepasbare kennis opdoet die aansluit bij jouw advieswerkzaamheden.</p><p><strong>Erkende opleiding met registratie in RAB-register</strong></p><p>Na succesvol afronden ontvang je een bewijs van deelname. Ben je geregistreerd in het RAB-register? Dan vermelden wij deze PE-activiteit automatisch in het register. Deze erkenning versterkt je professionele positie en toont aan dat je up-to-date bent op het gebied van werknemersparticipatie.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bestemd voor adviseurs die ondernemers willen helpen om de betrokkenheid van medewerkers te vergroten met weknemersparticipatie. Perfect voor professionals die hun expertise willen uitbreiden op het gebied van werknemersparticipatie en ondernemers effectief willen adviseren. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Tijdens deze bijeenkomst is er veel ruimte voor het stellen van vragen en het uitwisselen van praktijkervaringen. Deze opzet zorgt ervoor dat je de theorie direct kunt koppelen aan jouw dagelijkse advieswerk. Door de interactieve vorm leer je niet alleen van de docent, maar ook van andere adviseurs die met vergelijkbare uitdagingen te maken hebben. </p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding vraagt minimale voorbereiding van je. Je bestudeert thuis de literatuur, wat slechts 1 tot 2 uur van je tijd kost. Deze korte voorbereiding zorgt ervoor dat je optimaal profiteert van de interactieve bijeenkomst. Je volgt vervolgens één dag training. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Je combineert zelfstudie met praktijkgerichte training, waardoor je snel resultaat behaalt. Na deze gerichte tijdsinvestering beheers je een complex vakgebied dat je onderscheidt als adviseur.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de PE Werknemersparticipatie ontvang je een officieel bewijs van deelname dat je specialisatie op dit complexe vakgebied bevestigt. Ben je geregistreerd in het RAB-register? Dan vermelden wij deze PE-activiteit automatisch in het register, waardoor je professionele registratie up-to-date blijft. Dit certificaat toont aan dat je beschikt over actuele kennis en expertise in werknemersparticipatie. Je kunt deze kwalificatie direct inzetten om je toegevoegde waarde als adviseur aan te tonen bij ondernemers.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>645,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>645,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1926-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1928</Code>
         <Title>Adviesvaardigheden</Title>
         <Language>nl</Language>
@@ -5496,32 +5314,6 @@
                 <Sessions>
                     <Session StartDateTime="2027-02-19T09:00:00" EndDateTime="2027-04-30T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>1930</Code>
-        <Title>Register casemanagement taakdelegatie</Title>
-        <Language>nl</Language>
-        <Duration>336</Duration>
-        <Description><![CDATA[Word casemanager taakdelegatie: coördineer re-integratietrajecten, monitor voortgang en realiseer duurzame terugkeer en besparingen op verzuim.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Register casemanagement taakdelegatie je op</strong></p><ul><li>Je coördineert re-integratietrajecten binnen juridische kaders waardoor werknemers sneller terugkeren en organisaties aanzienlijke verzuimkostenbesparingen realiseren.</li><li>Je stelt gedetailleerde re-integratieplannen op en monitort voortgang, waardoor je obstakels vroegtijdig signaleert en succesvol aanpakt.</li><li>Je mag je registreren in het register Crov® en Rcmt® van beroepsvereniging RNVC en ontwikkelt essentiële vaardigheden zoals sterke communicatie, empathie en analytisch denken.</li></ul><p><strong>Casemanagement opleiding</strong></p><p>Met de opleiding Casemanagement Taakdelegatie (RCMT) word je opgeleid om diverse taken en verantwoordelijkheden van de bedrijfsarts over te nemen, terwijl de bedrijfsarts de eindverantwoordelijkheid behoudt. Hiermee wordt niet alleen de werkdruk verlicht maar ook de samenwerking tussen alle betrokken partijen verbeterd.</p><p><strong>Taakdelegatie opleiding voor effectieve re-integratie</strong></p><p>Als taak gedelegeerd casemanager zorg je voor betere afstemming tussen medische en niet-medische aspecten van verzuimbeheer. Je onderhoudt voortdurend contact met werkgevers, werknemers en stakeholders, wat de samenwerking en communicatie binnen het re-integratieproces verbetert. Jouw aanbevelingen vormen de basis voor goed onderbouwde beslissingen van de bedrijfsarts. Je ontwikkelt vaardigheden zoals het voeren van triagegesprekken, het opstellen van re-integratieplannen en het monitoren van de voortgang. Hiermee draag je direct bij aan een gestroomlijnd verzuimbeheer. Jij neemt als casemanager taakdelegatie de niet-medische taken op je, zodat de bedrijfsarts zich kan richten op de medische kern, wat leidt tot betere samenwerking en duurzame re-integratie van werknemers.</p><p><strong>Casemanagement opleiding met directe praktijktoepassingen</strong></p><p>Je werkt tijdens de opleiding met praktijkopdrachten die direct verbonden zijn aan jouw eigen praktijk en eigen inhoudelijke casuïstiek. Ook gebruik je een deel van deze praktijkopdrachten voor een onderdeel van de toetsing in de vorm van een portfolio, waarmee je concreet toont dat je het geleerde kunt toepassen. Daarnaast ga je oefenen met gespreksvaardigheden, het opstellen van advies en ga je actief reflecteren op je eigen rol. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je hebt een afgeronde bacheloropleiding of vergelijkbaar en bent werkzaam als casemanager onder taakdelegatie van een bedrijfsarts of gaat/wilt dit worden.</p><p>Ook als je niet de perfecte vooropleiding hebt, staan wij klaar om je te voorzien van een persoonlijk en vrijblijvend advies. Neem contact op met de opleidingsmanager en zet de volgende stap in jouw carrière als casemanager.</p><p>Heb je de titel Crov al behaald, neem dan contact op voor de mogelijkheden om alleen het onderdeel Taakdelegatie te volgen.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding Register casemanagement taakdelegatie zet jouw eigen praktijk centraal, aangevuld met die van mededeelnemers en de praktijkervaring van ervaren docenten. Je werkt met verschillende leervormen zoals bijeenkomsten, praktijkopdrachten en een digitale leeromgeving. Deze blended mix van leeractiviteiten zorgt voor optimaal leerrendement tijdens de opleiding.</p><p>Gedurende de gehele opleiding Register casemanagement verzuim ga je aan de slag met opdrachten die direct verbonden zijn aan jouw eigen praktijksituaties en inhoudelijke casuïstiek. Je wordt getoetst door middel van een portfolio (Crov) en 2 assessments waarvan 1 gericht op de eindcriteria die passen bij de Crov-titel en 1 gericht op de eindcriteria horend bij Rcmt. </p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Register casemanagement verzuim heeft een doorlooptijd van 30 weken en bestaat uit 2 modules: Crov en Rcmt. De module Crov duurt 20 weken en bestaat uit 8 tweewekelijkse bijeenkomsten. De module Rcmt duurt 10 weken en bestaat uit 4 tweewekelijkse bijeenkomsten. In totaal neem je deel aan 12 fysieke bijeenkomsten.</p><p>Je kiest tussen een middag/avond-variant van 14:00 tot 21:00 uur op woensdag in Breda, Eindhoven, Rotterdam en Den Bosch, of een dagopleiding van 09:00 tot 16:00 uur op vrijdag in Utrecht.</p><p>Deze opzet zorgt ervoor dat je de opleiding goed kunt combineren met jouw huidige werkzaamheden als casemanager, terwijl je direct toepasbare vaardigheden ontwikkelt voor het verzuimproces op zowel individueel als op taakdelegatie niveau.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Wanneer je de opleiding succesvol hebt afgerond, ontvang je het postbachelordiploma Register casemanagement taakdelegatie.</p><p>Na het succesvol afronden van deze opleiding kun je je inschrijven in het register Casemanager Regie op Verzuim (Crov®) en het Register Casemanagement taakdelegatie (Rcmt®) van de beroepsvereniging RNVC.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>6195,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>6195,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>1930-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -8396,32 +8188,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2095</Code>
-        <Title>Introductie energietransitie en duurzaam wonen</Title>
-        <Language>nl</Language>
-        <Duration>30</Duration>
-        <Description><![CDATA[Ontdek hoe je woningen verduurzaamt met techniek - voor carrièreswitchers naar duurzaamheid en installatietechniek of geïnteresseerde particulieren.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Introductie energietransitie en duurzaam wonen je op</strong></p><ul><li>Je krijgt meer inzicht in het thema duurzaamheid en de relatie met technische oplossingen.</li><li>Je ontdekt praktische mogelijkheden voor het verduurzamen van (eigen) woningen.</li><li>Je bouwt een stevige basis op voor verdere ontwikkeling in installatietechniek.</li></ul><p><strong>Duurzaam wonen cursus voor beginnende professionals</strong></p><p>Deze introductiecursus biedt je een heldere kijk op energietransitie en duurzaam wonen. Tijdens interactieve bijeenkomsten behandelt een specialist verschillende technische oplossingen die bijdragen aan de duurzaamheid van woningen. De opleiding combineert theorie met praktische voorbeelden, waardoor je direct begrijpt hoe duurzame techniek werkt en hoe je dit kunt toepassen. Na afronding ontvang je een certificaat van Habeo+ en beschik je over de basiskennis om vervolgstappen te zetten in duurzame techniek.</p><p><strong>Dé standaard in installatietechniek</strong></p><p>Dit jaar vieren we meer dan 50 jaar ervaring in het opleiden van installatietechnische professionals. Onze opleidingen blijven relevant dankzij actuele lesstof, ervaren docenten en directe toepasbaarheid.</p><p>Wil je meer weten over onze ervaring? Bezoek dan <a href="https://habeoplus.nl/techniek-bouw/al-50-jaar-de-standaard-in-installatietechniek">onze jubileumpagina</a>.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze introductiecursus is geschikt voor mensen die vanuit interesse meer willen weten over verduurzaming, energietransitie en techniek. Perfect voor wie een carrièreswitch overweegt naar installatietechniek of zelf aan de slag wilt met het verduurzamen van jouw woning.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus bestaat uit interactieve bijeenkomsten waarbij een specialist van Habeo+ verschillende technische oplossingen behandelt die bijdragen aan duurzaamheid van woningen. De eerste en laatste bijeenkomst vinden fysiek plaats op de gekozen locatie, terwijl de overige 4 lessen live online worden aangeboden via Zoom. Dit hybride format biedt je flexibiliteit om de cursus te volgen naast je huidige werkzaamheden. </p><p>Tijdens de bijeenkomsten werk je actief mee aan praktische voorbeelden en cases uit de energietransitie. De combinatie van persoonlijke begeleiding en online lessen zorgt voor een toegankelijke leerervaring. </p><p>Naast de wekelijkse sessies van 3 uur bestudeer je zelfstandig het cursusmateriaal. De interactieve aanpak stimuleert kennisuitwisseling en praktische toepassing van wat je leert over duurzame woningtechniek.</p><p><strong>Tijdsinvestering</strong></p><p>Deze introductiecursus duurt 10 weken met 6 bijeenkomsten van elk 3 uur in avondsessies tussen 18.00 en 21.00 uur. De eerste en laatste bijeenkomst vinden fysiek plaats op de gekozen locatie, terwijl de overige 4 lessen live online worden aangeboden via Zoom. Dit hybride format biedt je de flexibiliteit om de cursus goed te combineren met je huidige werkzaamheden. Naast de wekelijkse bijeenkomsten investeer je 2 tot 3 uur per week in zelfstudie. </p><p>Door de toegankelijke opzet en beperkte tijdsinvestering kun je effectief kennismaken met energietransitie en duurzame woningtechniek. De avondtijden maken het mogelijk om de cursus te volgen zonder dat dit ten koste gaat van je dagelijkse werkzaamheden. De combinatie van persoonlijke begeleiding en online lessen zorgt voor een haalbare leerervaring die perfect past bij een drukke agenda.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de cursus Introductie energietransitie en duurzaam wonen ontvang je een certificaat van Habeo+ dat je kennis bevestigt op het gebied van duurzaamheid en energietransitie. Dit certificaat toont aan dat je inzicht hebt gekregen in technische oplossingen voor duurzame woningen en vormt een stevige basis voor verdere ontwikkeling in installatietechniek. </p><p>Met dit certificaat kun je vervolgstappen zetten in de richting van specialisatie in energietransitie of een carrièreswitch naar installatietechniek. Je hebt hiermee een erkend startkwalificatie voor verdere professionalisering in de duurzame techniek.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1028,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1028,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2095-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2098</Code>
         <Title>IT-auditing</Title>
         <Language>nl</Language>
@@ -9805,84 +9571,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2149</Code>
-        <Title>Register Adviseur Bedrijfsopvolging Business Valuation (RAB BV)</Title>
-        <Language>nl</Language>
-        <Duration>50</Duration>
-        <Description><![CDATA[Leer alles over moderne waarderingstheorieën en krijg handige tips en tricks die je kunt gebruiken aan de onderhandelingstafel.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Register Adviseur Bedrijfsopvolging Business Valuation (RAB BV) je op</strong></p><ul><li>Je voert zelfstandig eigen waarderingsopdrachten uit met de juiste methodieken</li><li>Je doorgrond en beoordeelt waarderingsrapporten van anderen kritisch</li><li>Je leert met behulp van Excel een waarderingsrapport te analyseren</li></ul><p><strong>Praktijkgerichte RAB opleiding voor waarderingsexperts</strong></p><p>Deze erkende RAB opleiding traint je in het uitvoeren van professionele bedrijfswaarderingen. Je bouwt tijdens de bijeenkomsten een compleet waarderingsmodel in Excel en rekent diverse waarderingsmethoden door. De combinatie van thuisstudie en interactieve sessies zorgt ervoor dat je de theorie meteen toepast in praktische opdrachten. </p><p><strong>Business Valuation training met groepsopdrachten</strong></p><p>Samen met mededeelnemers werk je aan realistische waarderingscases die je tijdens de laatste bijeenkomst presenteert. Deze serious game aanpak helpt je complexe waarderingsvraagstukken op te lossen zoals je die in je dagelijkse werk tegenkomt. Het studieboek 'Werken met waarde' van Jan Vis ondersteunt je leerproces en dient als naslagwerk na de opleiding. Je ontwikkelt vaardigheden die je direct inzet bij investeringsbeslissingen en bedrijfswaardering.</p><p><strong>Opleiding voor overname professionals in bedrijfswaardering</strong></p><p>Fusie- en overnamespecialisten, controllers en financieel adviseurs versterken hun expertise met deze gerichte RAB opleiding. Als accountant of belastingadviseur bij financiële instellingen breid je je kennis uit met geavanceerde waarderingstechnieken. Na succesvolle afronding ontvang je het erkende postbachelordiploma dat door de markt wordt gewaardeerd.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor fusie- en overnamespecialisten, intermediairs, controllers, relatiebeheerders, financieel adviseurs, accountants, financieel planners en belastingadviseurs bij financiële instellingen die zich bezighouden met bedrijfsadvisering, investeringsbeoordelingen en waarderingsvraagstukken. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze opleiding combineert thuisstudie met drie praktische bijeenkomsten waarin je direct aan de slag gaat. Je bestudeert vooraf thuis de leerstof en brengt tijdens de eerste bijeenkomst een laptop met Excel mee. Hiermee bouw je een compleet waarderingsmodel en rekent verschillende waarderingsmethoden door. In kleine groepjes werk je samen met mededeelnemers aan realistische waarderingsopdrachten. Deze groepscases presenteer je tijdens de laatste bijeenkomst, waarna jullie de uitkomsten plenair bespreken. Door deze hands-on aanpak pas je de theorie meteen toe in praktijksituaties. De interactieve werkwijze zorgt ervoor dat je niet alleen leert van de docent, maar ook van elkaars ervaringen en inzichten.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding vraagt een haalbare tijdsinvestering die perfect past bij je drukke agenda als financieel professional. Je plant ongeveer vijf uur zelfstudie in voor elke bijeenkomst, waarin je thuis de leerstof bestudeert op momenten die jou uitkomen. De opleiding bestaat uit drie avondbijeenkomsten van 14:00 tot 21:00 uur, ideaal te combineren met je werkzaamheden overdag. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je het erkende postbachelordiploma Register Adviseur Bedrijfsopvolging Business Valuation (RAB BV) van Habeo+. Dit officiële diploma bevestigt je expertise in bedrijfswaardering en positioneert je als erkend professional in de markt. Ben je lid van het RAB-register? Dan worden je PE-uren automatisch bijgeschreven, wat je professionele status ondersteunt. </p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2095,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>2095,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2149-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2156</Code>
-        <Title>Assistent Laborant</Title>
-        <Language>nl</Language>
-        <Duration>300</Duration>
-        <Description><![CDATA[Opleiding voor (toekomstige) labmedewerkers zonder labachtergrond: basisvaardigheden, basischemie en veilig werken in 3 modules.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Assistent laborant je op</strong></p><ul><li>Je beschikt over brede kennis van veiligheid en kwaliteit binnen het laboratorium.</li><li>Je beoordeelt zelfstandig de veiligheid van je werkzaamheden en neemt weloverwogen beslissingen.</li><li>Je weet bij chemische problemen welke maatregelen je kunt treffen of waar je externe ondersteuning vindt.</li></ul><p><strong>Laboratorium assistent opleiding voor een solide basis</strong></p><p>Deze praktijkgerichte opleiding biedt je de nodige basiskennis en vaardigheden om veilig en effectief te opereren als laboratoriummedewerker. Of je nu begint als procesoperator of werkzaam bent in een aan de chemie gerelateerd beroep, deze opleiding vormt jouw ideale startpunt. Met 20 dagdelen en circa 4 uur zelfstudie per week bouw je stap voor stap jouw expertise op.</p><p><strong>Flexibele opleiding afgestemd op jouw tempo</strong></p><p>Je bepaalt zelf met welke modules je wilt starten. Jouw afstudeermoment wordt bepaald door de volgorde waarin je de modules doorloopt. Voor de bijeenkomsten bereid je de relevante theorie zelfstandig voor, waarna je bij aanvang ruimte krijgt om vragen te stellen. Vervolgens leer je hoe je deze kennis praktisch toepast in het echte laboratorium.</p><p><strong>Doorgroeimogelijkheden naar laborant niveau</strong></p><p>Na het behalen van je diploma Assistent laborant kun je doorgroeien naar Laborant door de module Basischemie niveau 4 te volgen. Dit brengt je van Theoretische Leergang (TL) niveau naar HAVO-niveau en opent nieuwe carrièremogelijkheden. Afhankelijk van je vooropleiding en kennisniveau bepalen we samen jouw beste leerroute tijdens een persoonlijk adviesgesprek.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is perfect voor medewerkers zonder laboratoriumopleiding die in een laboratorium werken of willen gaan werken. Of je nu begint als laboratoriummedewerker, procesoperator of werkzaam bent in een aan de chemie gerelateerd beroep, deze opleiding geeft je de nodige basiskennis en vaardigheden om veilig en effectief te opereren.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze flexibele opleiding past zich aan jouw tempo aan. Je bereidt de relevante theorie zelfstandig voor voorafgaand aan elke bijeenkomst, zodat je optimaal voorbereid bent. Bij aanvang van de bijeenkomsten krijg je ruimte om vragen te stellen. Vervolgens leer je hoe je deze theorie praktisch toepast in het echte laboratorium onder begeleiding van ervaren docenten. Wat betreft de modules heb je de vrijheid om zelf te bepalen met welke je wilt starten, waardoor je afstudeermoment wordt bepaald door de volgorde waarin je de modules doorloopt. Deze aanpak zorgt ervoor dat je de opleiding kunt combineren met je huidige werkzaamheden en persoonlijke omstandigheden. De combinatie van zelfstudie en praktische toepassing maakt dat je direct kunt toepassen wat je leert in jouw dagelijkse laboratoriumwerkzaamheden.</p><p><strong>Tijdsinvestering</strong></p><p>Deze flexibele opleiding heeft een totale studiebelasting van 20 dagdelen die je kunt spreiden over een periode die bij jouw situatie past. Naast de bijeenkomsten plan je gemiddeld 4 uur zelfstudie per week in, waarin je de theorie voorbereidt en verdiept. De hoeveelheid zelfstudie verschilt per module en hangt af van de tijd die je beschikbaar hebt, je kennisniveau en praktijkervaring. Doordat je zelf bepaalt met welke modules je start, heb je volledige controle over jouw leerroute en afstudeermoment. Deze opzet maakt het mogelijk om de opleiding perfect te combineren met je huidige baan en privéleven. Je hoeft niet in een vast tempo te leren, maar kunt jouw voortgang afstemmen op wat haalbaar is naast je werkzaamheden. De combinatie van geplande bijeenkomsten en zelfstandige voorbereiding zorgt ervoor dat je efficiënt leert zonder je agenda te overbelasten.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je het diploma Assistent laborant op Theoretische Leergang (TL) niveau. Dit diploma bevestigt jouw basiskennis en vaardigheden om veilig en effectief in het laboratorium te werken. Als je wilt doorgroeien naar een hoger niveau, kun je na jouw diploma de module Basischemie niveau 4 volgen om het diploma Laborant te behalen. Dit brengt je van TL-niveau naar HAVO-niveau en opent nieuwe carrièremogelijkheden in de laboratoriumbranche. Jouw diploma vormt een solide basis voor verdere professionele ontwikkeling.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>6472,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>6472,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2156-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2160</Code>
-        <Title>Laborant</Title>
-        <Language>nl</Language>
-        <Duration>300</Duration>
-        <Description><![CDATA[Opleiding Laborant: 3 modules (basisvaardigheden, basischemie niveau 4, veilig werken) voor een solide en veilige start of vervolg in het lab.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Laborant je op</strong></p><ul><li>Je hebt een algemeen besef van veiligheid en kwaliteit in het laboratorium.</li><li>Je beoordeelt zelfstandig werkzaamheden op jouw werkplek op veiligheidsaspecten.</li><li>Je neemt beslissingen over chemische problemen en schakelt externe hulp in waar nodig.</li></ul><p><strong>Start je carrière als laborant met deze praktijkgerichte opleiding</strong></p><p>Deze opleiding is speciaal ontwikkeld voor medewerkers die zonder laboratoriumachtergrond in een lab werken of gaan werken. Je leert essentiële veiligheidskennis en vaardigheden die je direct toepast. Door de modulaire opbouw kies je zelf met welke module je begint, zodat de opleiding perfect aansluit bij jouw werksituatie en leerbehoeften.</p><p><strong>Ontwikkel cruciale laboratoriumvaardigheden in deze flexibele cursus</strong></p><p>Met 20 dagdelen en circa 4 uur zelfstudie per week bouw je stap voor stap je expertise op. De theorie bereid je op de lessen voor, waarna je in interactieve bijeenkomsten leert hoe je deze kennis toepast in de praktijk. Deze aanpak zorgt ervoor dat je snel zelfvertrouwen krijgt in je dagelijkse laboratoriumwerkzaamheden.</p><p><strong>Word een gekwalificeerde laborant met deze erkende opleiding</strong></p><p>Na succesvolle afronding ontvang je het diploma Laborant, wat je professionele positie versterkt. Je krijgt niet alleen theoretische kennis, maar vooral praktische vaardigheden om veilig en kwaliteitsgericht te werken. Dit maakt je een waardevolle medewerker die zelfstandig kan functioneren en verantwoordelijkheid kan dragen voor laboratoriumprocessen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is perfect voor jou als je zonder laboratoriumopleiding in een lab werkt of gaat werken. Je wilt essentiële veiligheidskennis en vaardigheden ontwikkelen om zelfstandig en verantwoordelijk te kunnen werken. Ideaal om je basis op orde te krijgen en je positie te versterken.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je bereidt de relevante theorie voorafgaand aan de les voor door zelfstudie. Aan het begin van elke bijeenkomst krijg je de mogelijkheid om vragen te stellen over de voorbereidende stof. Vervolgens leer je hoe je de theorie praktisch kunt toepassen in het laboratorium. De opleiding heeft een modulaire opbouw, waardoor je zelf kunt kiezen met welke module je begint. Dit geeft je de flexibiliteit om de opleiding af te stemmen op jouw specifieke werkzaamheden en leerbehoeften. Jouw afstudeermoment is afhankelijk van de module waarmee je kiest te beginnen. Deze aanpak zorgt ervoor dat je direct kunt toepassen wat je leert in jouw eigen laboratoriumomgeving.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding heeft een totale studiebelasting van 20 dagdelen die je flexibel kunt inplannen dankzij de modulaire opbouw. Je kiest zelf met welke module je begint, waardoor je de planning kunt afstemmen op jouw werk en persoonlijke situatie. Naast de contactmomenten investeer je circa 4 uur per week in zelfstudie om de theorie voor te bereiden op de lessen. Deze zelfstudie varieert per module en hangt af van jouw leervermogen, opleidingsachtergrond en praktijkervaring. Door deze opzet kun je de opleiding goed combineren met je werkzaamheden terwijl je stap voor stap je expertise opbouwt. De flexibele indeling zorgt ervoor dat je in jouw eigen tempo kunt leren en direct toepassen wat je hebt geleerd in jouw laboratoriumomgeving.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding van deze opleiding ontvang je het diploma Laborant, wat je professionele positie in het laboratorium bevestigt. Dit diploma toont aan dat je de essentiële veiligheids- en kwaliteitsvaardigheden beheerst die nodig zijn voor zelfstandig werken. Als gediplomeerd laborant ben je gekwalificeerd voor diverse functies in laboratoria en heb je een solide basis voor verdere specialisatie. Het diploma opent deuren naar meer verantwoordelijke posities en geeft werkgevers het vertrouwen dat je veilig en professioneel kunt opereren. Deze kwalificatie vormt een uitstekende start voor je verdere carrière in de laboratoriumwereld.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>6472,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>6472,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2160-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2162</Code>
         <Title>Risico’s en kwaliteitsverbeteringen managen op het laboratorium</Title>
         <Language>nl</Language>
@@ -9955,32 +9643,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2026-11-30T09:00:00" EndDateTime="2026-12-01T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2166</Code>
-        <Title>Agilent 6890/7890 basic operation, troubleshooting and maintenance</Title>
-        <Language>nl</Language>
-        <Duration>16</Duration>
-        <Description><![CDATA[Training Agilent 6890/7890 GC: bediening, kolomaansluiting, onderhoud en troubleshooting voor een solide basis als beginnende gebruiker.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Agilent 6890/7890 training basic operation, troubleshooting and maintenance je op</strong></p><ul><li>Je bedient zelfstandig en efficiënt de Agilent 6890/7890 series GC-systemen.</li><li>Je herkent problemen aan het toestel en lost deze zelfstandig op.</li><li>Je weet welk onderhoud verricht moet worden en hoe je dat uitvoert.</li></ul><p><strong>Training voor optimale bediening van Agilent GC-systemen</strong></p><p>Deze intensieve training richt zich op professionals die sinds kort werken met een Agilent 6890/7890 GC-series-systeem. Je leert in twee aaneengesloten dagen hoe je het toestel het beste kunt bedienen en welk onderhoud je zelf kunt uitvoeren. Door de praktische aanpak bouw je snel vertrouwen op in het werken met deze gaschromatografie-apparatuur en word je direct inzetbaar op de werkvloer.</p><p><strong>Praktijkgerichte training met hands-on ervaring</strong></p><p>In ons volledig uitgeruste laboratorium werk je in kleine groepjes met echte 6890/7890 GC-series-systemen onder directe en deskundige begeleiding. Deze hands-on benadering zorgt ervoor dat theorie- en praktijkoefeningen elkaar op een prettige manier afwisselen. Je oefent met realistische situaties en leert storingen lokaliseren zoals je dat in de dagelijkse praktijk tegenkomt.</p><p><strong>Specialistische training met officiële Agilent-certificering</strong></p><p>Na het succesvol afronden van deze tweedaagse training ontvang je een bewijs van deelname dat jouw expertise bevestigt. De training combineert theoretische kennis met praktische vaardigheden, zodat je met vertrouwen terugkeert naar je werkplek. Je bent direct inzetbaar voor zelfstandig werk met de Agilent 6890/7890 series en kunt je collega's ondersteunen bij technische vraagstukken.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze training is voor professionals die sinds kort werken met een Agilent 6890/7890 GC-series-systeem. Je wilt leren hoe je het toestel optimaal bedient, welk onderhoud je zelf kunt uitvoeren en hoe je storingen herkent en oplost. Perfect voor laboratoriummedewerkers die hun technische vaardigheden met gaschromatografie willen uitbreiden.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze hands-on training combineert theorie met praktijkoefeningen op een natuurlijke manier. In ons volledig uitgeruste laboratorium werk je in kleine groepjes met echte 6890/7890 GC-series-systemen onder directe en deskundige begeleiding van ervaren docenten. Je voert praktische experimenten uit die direct aansluiten bij jouw dagelijkse werkzaamheden met gaschromatografie. Door de intensieve begeleiding en de kleinschalige opzet krijg je persoonlijke aandacht en kun je alle vragen stellen die je hebt. De combinatie van theoretische kennis en directe praktijkervaring zorgt ervoor dat je vertrouwen opbouwt in het werken met deze geavanceerde GC-apparatuur. Je leert niet alleen hoe je het systeem optimaal bedient, maar ook hoe je storingen lokaliseert en zelfstandig oplost. Deze werkwijze maakt dat je na de training direct inzetbaar bent en je nieuwe vaardigheden meteen kunt toepassen in jouw laboratorium.</p><p><strong>Tijdsinvestering</strong></p><p>Deze compacte training duurt 2 aaneengesloten dagen en geeft je in korte tijd alle vaardigheden die je nodig hebt voor het werken met Agilent GC-systemen. Dag 1 loopt van 9.30 tot 17.30 uur en dag 2 van 9.00 tot 17.00 uur. Door de intensieve opzet kun je snel weer aan het werk met je nieuwe kennis en vaardigheden. De training combineert theorie met praktijkoefeningen op een natuurlijke manier, waardoor je actief bezig bent en de tijd voorbij vliegt. Je hoeft geen voorbereiding te doen, alles wat je nodig hebt leer je tijdens de bijeenkomsten onder deskundige begeleiding. Na deze twee dagen ben je klaar om zelfstandig en efficiënt te werken met de Agilent 6890/7890 series GC-systemen.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze tweedaagse training ontvang je een bewijs van deelname dat jouw expertise met de 6890/7890 GC-series-systemen bevestigt. Dit certificaat toont aan dat je beschikt over de praktische vaardigheden om deze gaschromatografie-apparatuur zelfstandig te bedienen, onderhoud uit te voeren en storingen op te lossen.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1795,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1795,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2166-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -10073,32 +9735,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-11-16T09:00:00" EndDateTime="2028-02-01T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2170</Code>
-        <Title>Atomaire emissiespectrometrie met ICP</Title>
-        <Language>nl</Language>
-        <Duration>24</Duration>
-        <Description><![CDATA[Cursus ICP-AES: multi-elementanalyse op lage niveaus, met focus op optimalisatie en storingen. Samen met AEMAS Oosterhout.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Atomaire emissiespectrometrie met ICP je op</strong></p><ul><li>Je voert zelfstandig ICP-AES-analyses uit en beoordeelt de resultaten professioneel.</li><li>Je beheerst de theoretische principes en praktische vaardigheden van atomaire emissiespectrometrie.</li><li>Je deelt kennis en ervaringen met collega's uit andere laboratoria tijdens intensieve praktijkoefeningen.</li></ul><p><strong>Opleiding ICP-AES voor laboratoriummedewerkers</strong></p><p>Leer in 3 dagen zelfstandig werken met ICP-atomaire emissiespectrometrie. Deze intensieve cursus combineert voordrachten, praktijkoefeningen en demonstraties voor een optimale leerervaring. Je verdiept je theoretisch en praktisch in ICP-atomaire emissiespectrometrie, waardoor je direct toepasbare vaardigheden ontwikkelt. De afwisseling tussen theorie en hands-on ervaring zorgt ervoor dat je snel zelfstandig analyses kunt uitvoeren en resultaten professioneel kunt beoordelen.</p><p><strong>Training atomaire emissiespectrometrie met praktijkfocus</strong></p><p>In kleine groepjes werk je onder deskundige begeleiding aan intensieve praktijkoefeningen die je direct voorbereiden op jouw dagelijkse werk. Je leert niet alleen de technische aspecten van ICP-AES, maar ook hoe je analyses correct uitvoert en resultaten betrouwbaar interpreteert. Deze praktijkgerichte aanpak maakt de complexe materie toegankelijk en direct toepasbaar in jouw laboratorium.</p><p><strong>Cursus ICP analyse technieken voor professionals</strong></p><p>Door de interactieve opzet van deze opleiding deel je jouw kennis en ervaring met deelnemers uit andere laboratoria, wat jouw perspectief verbreedt. Je ontwikkelt expertise in zowel de theoretische achtergrond als de praktische uitvoering van atomaire emissiespectrometrie. Deze combinatie van kennisuitwisseling en hands-on training versterkt jouw positie als specialist in analytische chemie.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze cursus is ideaal voor laboratoriummedewerkers die zich theoretisch en praktisch willen verdiepen in ICP-atomaire emissiespectrometrie. Je wilt zelfstandig analyses uitvoeren, resultaten betrouwbaar beoordelen en jouw expertise op dit gebied uitbreiden.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus biedt je een optimale leerervaring door voordrachten, intensieve praktijkoefeningen en demonstraties af te wisselen. Je werkt in kleine groepjes onder deskundige begeleiding en leert zowel de theorie als het praktisch uitvoeren van ICP-AES-analyses. Door de hands-on aanpak voer je analyses uit en leer je resultaten betrouwbaar te beoordelen. Je deelt jouw kennis en ervaring met collega's uit andere laboratoria, wat jouw perspectief verbreed. Deze interactieve werkvorm zorgt ervoor dat je na 3 dagen zelfstandig kunt werken met ICP-atomaire emissiespectrometrie. De combinatie van theoretische verdieping en praktische vaardigheden maakt deze complexe analysetechniek direct toepasbaar in jouw dagelijkse laboratoriumwerk.</p><p><strong>Tijdsinvestering</strong></p><p>Deze intensieve cursus vergt 3 aaneengesloten dagen waarin je volledig onderduikt in ICP-atomaire emissiespectrometrie. Dag 1 start om 9.30 uur en eindigt om 17.30 uur, dag 2 en 3 lopen van 9.00 tot respectievelijk 17.00 en 16.00 uur. Door deze compacte opzet kun je snel nieuwe expertise ontwikkelen zonder langdurige afwezigheid van jouw laboratorium. De opleiding start op basis van aanmeldingen, waardoor je flexibiliteit hebt in planning. Je investeert ongeveer 24 uur leertijd waarin voordrachten, praktijkoefeningen en demonstraties elkaar afwisselen. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze intensieve 3-daagse cursus ontvang je een bewijs van deelname dat jouw nieuwe expertise in ICP-atomaire emissiespectrometrie bevestigt. Dit certificaat toont aan dat je zelfstandig ICP-AES-analyses kunt uitvoeren en resultaten professioneel kunt beoordelen. Het bewijs van deelname positioneert je als gekwalificeerde specialist in analytische chemie en opent mogelijkheden voor verdere specialisatie in geavanceerde analysetechnieken. Met deze certificering ben je direct inzetbaar voor complexe laboratoriumwerkzaamheden en verstevig je jouw positie als expert op het gebied van atomaire emissiespectrometrie.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2495,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>2495,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2170-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -11098,32 +10734,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2257</Code>
-        <Title>Instapmodule onderwijs</Title>
-        <Language>nl</Language>
-        <Duration>64</Duration>
-        <Description><![CDATA[Benieuwd naar werken in het onderwijs? Ontdek of het bij je past en ontwikkel toepasbare vaardigheden in het observeren en begeleiden van leerlingen.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Instapmodule onderwijs je op</strong></p><ul><li>Je hebt een duidelijk beeld gevormd van wat werken in het onderwijs inhoudt en kunt bepalen of dit bij je past.</li><li>Je hebt praktijkervaring opgedaan door 2 dagen per week stage te lopen op een school.</li><li>Je bent in staat om een klein groepje leerlingen zelfstandig te begeleiden tijdens een les.</li></ul><p><strong>Opleiding die je wegwijs maakt in het onderwijs</strong></p><p>Deze Instapmodule biedt je de perfecte kennismaking met het onderwijs. In 12 praktijkgerichte bijeenkomsten ontdek je of een carrière in het onderwijs bij je past. Je combineert theorie met hands-on ervaring door vanaf week twee stage te lopen op een echte school. Zo krijg je direct zicht op de dagelijkse praktijk van het lesgeven en begeleiden van kinderen.</p><p><strong>Praktijkgerichte opleiding met directe toepassing</strong></p><p>De opleiding bereidt je voor op het werken met kinderen in een onderwijsomgeving. Door de combinatie van theoretische kennis en praktijkervaring leer je stap voor stap hoe je een groepje kinderen begeleidt tijdens lessen. Je bouwt vertrouwen op en ontwikkelt de vaardigheden die nodig zijn om effectief te functioneren in een schoolomgeving.</p><p><strong>Opleiding als opstap naar vervolgmogelijkheden</strong></p><p>Na het succesvol afronden ontvang je een certificaat en bij een positief advies kun je doorstromen naar de opleiding Leraarondersteuner. Deze Instapmodule vormt daarmee een solide basis voor je verdere ontwikkeling binnen het onderwijs. Je investeert in jezelf en ontdekt nieuwe carrièremogelijkheden in een sector waar jouw bijdrage écht het verschil maakt.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is voor jou als je overweegt om in het onderwijs te gaan werken en minimaal een mbo-diploma niveau 3 hebt. Of je nu een carrièreswitch overweegt of je vaardigheden wilt uitbreiden, deze Instapmodule helpt je ontdekken of het onderwijs bij je past.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Tijdens de 12 bijeenkomsten krijg je naast theoretische kennis volop ruimte om ervaringen uit te wisselen met medecursisten. Zo leer je van en met elkaar terwijl je je vaardigheden ontwikkelt. Op die manier combineren we theorie en praktijk.</p><p>Vanaf week twee loop je 2 dagen per week stage op een school; deze stage dien je zelf te regelen. Hier pas je direct toe wat je leert en ervaar je hoe het is om kinderen te begeleiden. Deze praktijkervaring vormt de basis voor je ontwikkeling als onderwijsprofessional.</p><p>De combinatie van groepsbijeenkomsten en stage-ervaringen zorgt ervoor dat je stap voor stap vertrouwen opbouwt. Je leert door te doen en wordt begeleid door ervaren docenten die begrijpen wat er komt kijken bij werken in het onderwijs.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding past goed bij je werkende leven dankzij de flexibele opzet. Je volgt 12 avondbijeenkomsten verspreid over enkele maanden. De eerste zes bijeenkomsten vinden wekelijks plaats, daarna volgen nog zes bijeenkomsten om de twee weken. Hierdoor kun je het leren rustig combineren met je huidige baan.</p><p>Vanaf de tweede week ga je twee dagen per week stage lopen op een school. Deze praktijkervaring is waardevol en geeft je direct inzicht in het dagelijkse werk in het onderwijs. Daarnaast plan je wekelijks ongeveer twee tot drie uur voor zelfstudie. Dit gebruik je voor het voorbereiden van opdrachten en het verwerken van wat je hebt geleerd.</p><p>De tijdsinvestering is zo opgezet dat je stap voor stap kunt groeien zonder dat het ten koste gaat van je andere verplichtingen. Je bouwt geleidelijk ervaring op terwijl je ontdekt of een carrière in het onderwijs bij je past.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze Instapmodule ontvang je een certificaat dat bevestigt dat je de basisvaardigheden hebt ontwikkeld om in het onderwijs te werken. Dit certificaat toont aan dat je praktijkervaring hebt opgedaan en de theoretische kennis beheerst om kinderen te begeleiden. Bij een positief advies vanuit de opleiding kun je direct doorstromen naar de vervolgopleiding Leraarondersteuner. Deze Instapmodule vormt daarmee een waardevolle eerste stap in je ontwikkeling binnen het onderwijs en opent de deur naar verdere specialisatie en carrièremogelijkheden.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1275,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1275,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2257-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2259</Code>
         <Title>Integrale transferzorg</Title>
         <Language>nl</Language>
@@ -11205,32 +10815,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-02-09T09:00:00" EndDateTime="2027-04-27T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2262</Code>
-        <Title>Interne audit</Title>
-        <Language>nl</Language>
-        <Duration>16</Duration>
-        <Description><![CDATA[Leer plannen, uitvoeren, rapporteren en evalueren volgens ISO 19011 en andere relevante normen (ISO/IEC 17025, ISO 15189, ISO/IEC 17020).]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Interne audit je op</strong></p><ul><li>Je beheerst de basisbeginselen van interne audit en past het auditproces professioneel toe in de praktijk.</li><li>Je kunt verschillende audittechnieken toepassen en voert interviews af volgens de geldende normen ISO/IEC 17025:2017, ISO/IEC 17020:2012 en ISO 15189:2022.</li><li>Je hebt praktijkervaring opgedaan met interne audit uitvoering en snapt de rollen van lijnmanagement, kwaliteitscoördinator en auditor.</li></ul><p><strong>Praktijkgerichte interne audit cursus met hands-on ervaring</strong></p><p>Deze tweedaagse cursus combineert theorie met praktijk op een unieke manier. Je start met de fundamenten van audits en leert over verschillende audittypen zoals breedte- en diepte-audits. Vervolgens simuleren we een echte laboratoriumomgeving waarin je als auditor aan de slag gaat. Deze hands-on aanpak zorgt ervoor dat je direct ervaring opdoet met het uitvoeren van interne audits en interview technieken onder begeleiding van ervaren docenten. Deze cursus bieden we aan in samenwerking met QAducation.</p><p><strong>Interne audit training volgens actuele ISO normen</strong></p><p>De cursus is volledig gebaseerd op de nieuwste versies van belangrijke normen zoals NEN-EN-ISO 19011:2018, ISO/IEC 18025:2017, ISO/IEC 17020:2012 en ISO 15189:2022. Je leert niet alleen wat deze normen voorschrijven, maar ook hoe je deze richtlijnen en vereisten praktisch toepast. Door de combinatie van theorie en praktijksimulatie begrijp je precies wat je wel en niet moet doen tijdens een interne audit.</p><p><strong>Intensieve interne audit cursus met directe toepasbaarheid</strong></p><p>In slechts twee dagen ontwikkel je alle vaardigheden die je nodig hebt als interne auditor. Je werkt in kleine groepen waarin de ene helft de rol van auditor op zich neemt, terwijl de andere groep geïnterviewd wordt. Deze interactieve werkvorm zorgt ervoor dat je het auditproces in detail leert toepassen. Na elke oefening evalueren we gezamenlijk de resultaten om verbeterpunten te identificeren en de auditstappen traceerbaar te maken.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is ontwikkeld voor kwaliteitscoördinatoren, laboratoriummanagers, (hoofd)analisten en professionals die zich willen ontwikkelen tot interne auditor. Of je nu al ervaring hebt met audits of net begint in deze rol, deze training biedt je de praktische vaardigheden die je nodig hebt om interne audits uit te voeren binnen jouw organisatie.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze tweedaagse cursus combineert theorie met intensieve praktijkoefeningen. Op dag één start je met de fundamenten van audits en leer je over verschillende audittypen zoals breedte- en diepte-audits en systeem- en vaktechnische audits. Je krijgt inzicht in de belangrijkste normen zoals NEN-EN-ISO 19011:2018, ISO/IEC 18025:2017, ISO/IEC 17020:2012 en ISO 15189:2022. Op dag twee simuleren we een realistische laboratoriumomgeving waarin je in groepen wordt verdeeld: de ene groep neemt de rol van auditor op zich, terwijl de andere groep geïnterviewd wordt. Na een uur voorbereiding voer je daadwerkelijk interne audits uit. Deze hands-on ervaring helpt je de theorie direct toe te passen. We evalueren gezamenlijk alle audits om verbeterpunten te identificeren en de auditstappen traceerbaar te maken.</p><p><strong>Tijdsinvestering</strong></p><p>Deze intensieve cursus beslaat twee opeenvolgende dagen en is ontworpen om je snel de praktische vaardigheden van interne audit bij te brengen. In dit compacte programma leer je alles wat je nodig hebt om direct als interne auditor aan de slag te gaan. Bij de cursus is het hotelarrangement inbegrepen. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding van deze tweedaagse cursus ontvang je een bewijs van deelname. Dit bewijs toont aan dat je de basisbeginselen van interne audit beheerst en praktijkervaring hebt opgedaan met audit uitvoering volgens de ISO normen. </p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1725,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1725,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2262-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -12032,32 +11616,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-02-08T09:00:00" EndDateTime="2028-07-03T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2315</Code>
-        <Title>Master na master Pelvic Physical Therapy (MPeIPT)</Title>
-        <Language>nl</Language>
-        <Duration>2240</Duration>
-        <Description><![CDATA[Werk jij met mensen met bekkenproblematiek en mis je diepgaande kennis? Ga dan nu voor je 2de master en behaal je diploma in 1,5 jaar.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Master na master Bekkenfysiotherapie je op</strong></p><ul><li>Je maakt samen met je patiënt doordachte keuzes, onderbouwd met klinisch redeneren en Evidence Based Practice.</li><li>Je ontvangt het officiële certificaat én registratie bij het CKR en het Keurmerk Fysiotherapie.</li><li>Je verdient 24 punten per studiejaar voor het basisregister Fysiotherapie, plus een eenmalige bonus van 50 punten bij afronding.</li></ul><p><strong>Master na master Bekkenfysiotherapie voor uitbreiding van je expertise</strong></p><p>Deze hoogwaardige verkorte masteropleiding is perfect afgestemd op fysiotherapeuten die al een masteropleiding hebben afgerond en zich willen specialiseren in bekkenfysiotherapie. Met deze masteropleiding specialiseer je je in de behandeling van patiënten met complexe bekken- en bekkenbodemproblemen. Je ontwikkelt diepgaande expertise in diagnostiek, coaching en doelgericht behandelen, waardoor je zelfverzekerd en professioneel groeit in je vak. Dankzij de praktijkgerichte opzet pas je de opgedane kennis direct toe in je eigen werk met patiënten.</p><p><strong>Master na master met praktijkgerichte toetsing</strong></p><p>In deze bekkenfysiotherapie masteropleiding leer je patiënten met complexe bekken(bodem)problematiek effectief te begeleiden. Theorie en wetenschap ondersteunen je, maar praktische vaardigheden staan centraal. Door klinisch redeneren maak je samen met je patiënt onderbouwde keuzes, ondersteund door ervaren praktijkdocenten.</p><p><strong>Fysiotherapie vervolgopleiding met NVAO accreditatie</strong></p><p>Na succesvolle afronding ontvang je het bijbehorende certificaat en krijg je registratie in het specialistenregister. Deze masteropleiding is geaccrediteerd door de NVAO en leidt tot registratie bij het CKR en Het Keurmerk Fysiotherapie. Je krijgt ook registratiepunten voor het register Algemeen Fysiotherapeut en recht op (her)registratie in het deel- of aantekeningenregister. Het verkorte traject maakt het mogelijk om na of naast je bestaande master een tweede specialisatie te behalen zonder dubbele leerstof.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze Master na master is een opleidingsvariant van de complete master en is bedoeld voor master afgestudeerde fysiotherapeuten die hun functie verder willen verdiepen en verbreden. Met een master fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor de opleiding maar 1.5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden. De gecommuniceerde prijs is gebaseerd op de aanname dat de vrijstellingen verleend worden. (Zie verder studiekosten)</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze Master na master Bekkenfysiotherapie werkt met blended learning: een mix van didactische vormen waardoor je effectiever en efficiënter het opleidingstraject doorloopt. Je hebt minder klassikale bijeenkomsten, wat zorgt voor minder reiskosten en reistijd. Denk aan onderwijsvormen als werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Klassikale bijeenkomsten vinden eenmaal per 2 à 3 weken plaats tussen 13.30-20.30 uur (vrijdag 9.30-16.30 uur). Daarnaast werk je in groepen in jouw regio, wat niet per se op locatie hoeft. De toetsing sluit volledig aan bij de praktijk zonder kennistoetsen, maar met opdrachten uitgewerkt aan de hand van casuïstiek. Je volgt patiënten tijdens je werk en maakt daar opdrachten over. Ook leer je van het meekijken bij collega-deelnemers en geef je elkaar feedback. Binnen het werkleren verwachten we dat je 8 uur per week werkzaam bent met de doelgroep. Voordat je start, plan je een individueel intakegesprek met de opleidingsmanager om te kijken of de opleiding bij je past.</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de Master na master bekkenfysiotherapie ontvang je het bijbehorende certificaat van deze NVAO-geaccrediteerde opleiding. Dit diploma geeft je een registratie in het specialistenregister en je krijgt tevens registratiepunten voor het register Algemeen Fysiotherapeut. De opleiding leidt tot registratie bij het CKR en Het Keurmerk Fysiotherapie, waardoor je officieel erkend bent als gespecialiseerd bekkenfysiotherapeut. Bij succesvolle afronding ontvang je naast de 24 punten per studiejaar ook eenmalig 50 extra punten voor het basisregister Fysiotherapie. Het verkorte traject van 1,5 jaar zorgt ervoor dat je efficiënt een tweede specialisatie toevoegt aan je bestaande masteropleiding.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2315">brochure</a>.</p>]]></CertValue>
-        <Level>Master</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>13450,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>13450,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2315-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -13366,58 +12924,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2391</Code>
-        <Title>ISO 15189: 2022</Title>
-        <Language>nl</Language>
-        <Duration>8</Duration>
-        <Description><![CDATA[Eendaagse cursus ISO 15189:2022: praktische interpretatie van norm, inzicht in criteria en bewustwording bij laboratoriummedewerkers.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding ISO 15189:2022 praktisch interpreteren je op</strong></p><ul><li>Je begrijpt de structuur en opbouw van ISO 15189:2022 volledig en kunt de norm direct interpreteren en toepassen in je dagelijkse werk.</li><li>Je krijgt je medewerkers succesvol mee bij het implementeren van de norm door heldere uitleg en praktische voorbeelden.</li><li>Je kent de veelgebruikte modellen uit kwaliteitszorg en weet hoe je deze effectief inzet in je laboratoriumomgeving.</li></ul><p><strong>Compacte ISO 15189:2022 training met praktische focus</strong></p><p>Deze eendaagse cursus biedt je een heldere kijk op de nieuwste versie van de ISO 15189:2022 norm. Je leert niet alleen de theorie, maar past de kennis direct toe op concrete voorbeelden uit jouw werkpraktijk. Door de combinatie van theorie en praktijk onthoud je de eisen het beste en kun je deze meteen implementeren in je eigen laboratorium. De training is speciaal ontwikkeld voor professionals die snel en effectief willen leren werken met deze belangrijke kwaliteitsnorm.</p><p>Deze cursus wordt aangeboden in samenwerking met QAducation.</p><p><strong>Praktijkgerichte opleiding voor laboratoriumkwaliteit</strong></p><p>De cursus gebruikt een unieke aanpak waarbij je de ISO 15189:2022 eisen direct toepast op realistische situaties. Je werkt met concrete toepassingen die aansluiten bij jouw dagelijkse werkzaamheden als kwaliteitscoördinator, laboratoriummanager of analist. Deze hands-on methode zorgt ervoor dat je de norm niet alleen begrijpt, maar ook weet hoe je collega's en medewerkers kunt motiveren om de nieuwe werkwijzen over te nemen.</p><p><strong>Efficiënte ISO training voor medische laboratoria</strong></p><p>In één intensieve dag krijg je alle kennis en vaardigheden aangereikt die je nodig hebt om ISO 15189:2022 succesvol te implementeren. De cursus combineert de nieuwste inzichten uit kwaliteitszorg met bewezen modellen die je direct kunt inzetten. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze cursus is ontwikkeld voor kwaliteitscoördinatoren, laboratoriummanagers, medisch laboratoriumspecialisten en (hoofd)analisten die werken met ISO 15189:2022. Of je nu verantwoordelijk bent voor kwaliteitsmanagement of dagelijks werkt met laboratoriumprocessen, deze praktijkgerichte training helpt je de norm effectief te interpreteren en succesvol te implementeren in jouw medische laboratorium.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze eendaagse cursus combineert theorie met directe praktijktoepassing voor optimaal leerresultaat. Je leert de ISO 15189:2022 norm niet alleen kennen, maar past de eisen meteen toe op concrete voorbeelden uit jouw eigen werkpraktijk. Deze hands-on aanpak zorgt ervoor dat je de kennis het beste onthoudt en direct kunt implementeren in je laboratorium. Door de praktische focus werk je met realistische situaties die aansluiten bij je dagelijkse werkzaamheden als kwaliteitscoördinator, laboratoriummanager of analist. Je ontdekt hoe je collega's en medewerkers succesvol meekrijgt bij het toepassen van de norm door heldere uitleg en praktische voorbeelden. Daarnaast leer je de veelgebruikte modellen uit kwaliteitszorg kennen en hoe je deze effectief inzet in je laboratoriumomgeving.</p><p><strong>Tijdsinvestering</strong></p><p>Deze compacte cursus vraagt slechts één dag van je tijd en biedt je alle kennis die je nodig hebt om ISO 15189:2022 succesvol toe te passen in je laboratorium. De eendaagse training is bewust efficiënt opgezet zodat je snel weer terug bent op de werkvloer met praktische kennis en tools die je direct kunt inzetten. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding van deze eendaagse cursus ontvang je een bewijs van deelname dat bevestigt dat je de ISO 15189:2022 norm praktisch kunt interpreteren en toepassen in je laboratorium.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>735,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>735,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2391-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2393</Code>
-        <Title>ISO/IEC 17025 : 2017</Title>
-        <Language>nl</Language>
-        <Duration>8</Duration>
-        <Description><![CDATA[Cursus ISO/IEC 17025:2017: de norm praktisch toepassen, met focus op kwaliteit, vaktechniek, risicomanagement en bewustwording in het laboratorium.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus ISO/IEC 17025:2017 praktisch interpreteren je op</strong></p><ul><li>Je interpreteert de norm direct in jouw organisatie en vertaalt deze naar praktische werkprocessen die aansluiten bij jullie dagelijkse activiteiten.</li><li>Je begrijpt de structuur en opbouw van ISO/IEC 17025 volledig en kunt bewustwording creëren bij je medewerkers over het belang van kwaliteitsnormen.</li><li>Je kent veelgebruikte modellen uit kwaliteitszorg en weet hoe je deze effectief inzet voor continue verbetering van laboratoriumprocessen.</li></ul><p><strong>Flexibele ISO/IEC 17025 training op maat</strong></p><p>Deze eendaagse cursus past zich volledig aan jouw behoeften aan. Het cursusprogramma staat niet vast, omdat we willen weten waar jij en je mede-cursisten tegenaan lopen. Op basis van jullie input creëren we een ISO/IEC 17025 cursus die perfect aansluit bij jouw praktijksituatie. We gaan niet de gehele norm woord voor woord doornemen, maar focussen op begrip en toepassing van de onderdelen die voor jullie het meest relevant zijn. Deze cursus wordt aangeboden in samenwerking met QAducation.</p><p><strong>Effectieve ISO cursus voor laboratoriumkwaliteit</strong></p><p>Door de op maat gemaakte aanpak krijg je precies die kennis en vaardigheden die je nodig hebt om ISO/IEC 17025 succesvol toe te passen in jouw organisatie. Je leert hoe je de norm kunt vertalen naar praktische werkprocessen en hoe je collega's kunt betrekken bij kwaliteitsverbeteringen. De cursus combineert kwaliteitsmodellen met actuele inzichten, zodat je meteen aan de slag kunt met concrete verbeteringen in je laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze cursus is speciaal ontwikkeld voor kwaliteitscoördinatoren, laboratoriummanagers, (hoofd)analisten en (aankomende) interne auditors die werken met ISO/IEC 17025:2017. Of je nu verantwoordelijk bent voor kwaliteitsmanagement of betrokken bij auditprocessen, deze cursus helpt je de norm succesvol interpreteren en implementeren in jouw laboratoriumomgeving.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus past zich volledig aan jouw specifieke behoeften aan. Het programma staat niet vast, omdat we eerst willen weten waar jij en je mede-cursisten tegenaan lopen in de praktijk. Op basis van jullie input creëren we een ISO/IEC 17025 training op maat die perfect aansluit bij jouw werksituatie. We gaan niet de gehele norm woord voor woord doornemen, maar focussen op begrip van de onderdelen die voor jullie het meest relevant zijn. Samen pakken we delen van de norm waar jullie meer over willen weten en gaan daarover in gesprek. Deze interactieve aanpak zorgt ervoor dat je niet alleen de structuur begrijpt, maar ook weet hoe je de norm kunt vertalen naar praktische werkprocessen in jouw organisatie.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus duurt één dag. Onze gerichte aanpak zorgt ervoor dat je hierna meteen resultaat ziet in je dagelijkse werk als kwaliteitscoördinator of laboratoriummanager.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding van deze cursus ontvang je een bewijs van deelname dat bevestigt dat je ISO/IEC 17025:2017 kunt interpreteren en praktisch toepassen in jouw organisatie. Dit bewijs van deelname toont aan dat je de structuur en opbouw van de norm begrijpt en de kennis kunt vertalen naar werkbare processen. Met dit bewijs van deelname kun je collega's begeleiden en bewustwording creëren over het belang van kwaliteitsnormen.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>735,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>735,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2393-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2396</Code>
         <Title>Praktijkondersteuner Huisartsenzorg GGZ (POH-GGZ)</Title>
         <Language>nl</Language>
@@ -13696,32 +13202,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-09-29T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2407</Code>
-        <Title>Professionele identiteit</Title>
-        <Language>nl</Language>
-        <Duration>280</Duration>
-        <Description><![CDATA[Ontwikkel je rol als verpleegkundige, vergroot je professionele impact en versterk je positie binnen de zorg.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Professionele identiteit je op</strong></p><ul><li>Je ontwikkelt een duidelijk beeld van jouw rol in de organisatie en begrijpt hoe jouw werk bijdraagt aan de doelen van de organisatie.</li><li>Je verbindt ontwikkelingen in de zorg en het verpleegkundig vak op macro-, meso- en microniveau met jouw werk.</li><li>Je formuleert persoonlijke ontwikkeldoelen op basis van een persoonlijk ontwikkelassessment.</li></ul><p><strong>Opleiding voor professionele groei in de verpleegkunde</strong></p><p>Deze opleiding helpt je bewust vorm te geven aan jouw verpleegkundige carrière. Je ontwikkelt een heldere visie op jouw rol binnen de organisatie en begrijpt hoe jouw positie bijdraagt aan organisatiedoelstellingen. Door theoretische modellen en methodieken te verbinden aan zorgvragen in jouw instelling, versterk je jouw professionele identiteit verpleegkundige en vergroot je jouw impact op de zorgkwaliteit.</p><p><strong>Erkende opleiding met meetbare ontwikkeling</strong></p><p> Het persoonlijke ontwikkelassessment geeft inzicht in jouw sterke punten en groeimogelijkheden. Zo kun je proactief invloed uitoefenen op de ontwikkeling van jouw vak en verstevig je jouw positie als professionele verpleegkundige binnen jouw organisatie en het bredere zorgveld.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor BIG-geregistreerde mbo- en hbo-verpleegkundigen met een diploma, die hun professionele identiteit verder willen ontwikkelen. Je werkt minimaal 24 uur per week in een eerste- of tweedelijns zorginstelling, waardoor je het geleerde direct in de praktijk kunt toepassen.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze praktijkgerichte opleiding stelt jouw professionele ervaring en visie centraal. Je werkt met een mix van interactieve online leeractiviteiten, individuele opdrachten en teamwork aan concrete zorgvragen binnen jouw eigen organisatie. In de interactieve online omgeving vinden kennisoverdracht en samenwerking plaats met collega's uit verschillende zorginstellingen. Samen verdiep je je in theoretische modellen, methodieken en instrumenten die je direct verbindt aan bestaande uitdagingen in jouw zorginstelling. Ervaren docenten en experts begeleiden je tijdens dit proces, waarbij je optimaliseert profiteert van regionale samenwerking. Deze aanpak zorgt ervoor dat je meetbare vooruitgang boekt in jouw persoonlijke ontwikkeling én een concrete bijdrage levert aan jouw organisatie. Je wordt getoetst op prestaties die je in jouw werkpraktijk levert.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2407">brochure</a>.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding duurt 10 weken en integreert naadloos in jouw werkweek. Je investeert gemiddeld 40 uur per week, waarvan 24 uur werkplekleren plaatsvindt op jouw eigen werkplek. Dit betekent dat je direct toepast wat je leert in jouw dagelijkse zorgpraktijk. Daarnaast volg je wekelijks 6 uur onderwijs tijdens bijeenkomsten van 09.00-12.00 uur en 12.30-15.30 uur. Voor zelfstudie plan je 10 uur per week in, waarin je individueel en in leerteams werkt aan verschillende opdrachten die jouw professionele identiteit verpleegkundige versterken. Door deze opzet kun je de opleiding perfect combineren met jouw huidige werkzaamheden. Je wordt beoordeeld op prestaties die je in jouw eigen werkpraktijk levert, waardoor theorie en praktijk direct samenkomen.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het certificaat Professionele identiteit, waarmee je jouw ontwikkeling als bewuste verpleegkundige kunt aantonen. Dit certificaat is geaccrediteerd voor 57 punten in het kwaliteitsregister V&amp;V en Register Zorgprofessionals. In deze module heb je jouw beroepsbewustzijn ontwikkeld door je te oriënteren op ontwikkelingen in het verpleegkundig vak, functiedifferentiatie en nieuwe kijk op gezondheid. Wil je jouw verpleegkundige kennis verder uitbreiden? Dan kun je eenvoudig doorstromen naar andere verpleegkundige modules om jouw carrière verder te versnellen.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2407">brochure</a>.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1600,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1600,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2407-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -14029,32 +13509,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-06-02T09:00:00" EndDateTime="2027-06-16T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2421</Code>
-        <Title>Scanning Electronen Microscopie van a tot z (SEM)</Title>
-        <Language>nl</Language>
-        <Duration>24</Duration>
-        <Description><![CDATA[Leer alles over de werking van het apparaat en de monstervoorbewerking (o.a. asbest).]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Scanning Electronen Microscopie van a tot z (SEM) je op</strong></p><ul><li>Je kent de principes en werking van SEM en kunt het apparaat zelfstandig bedienen.</li><li>Je beheerst de technieken van monstervoorbereiding voor optimale resultaten.</li><li>Je voert praktische experimenten uit met moderne instrumenten onder deskundige begeleiding.</li></ul><p><strong>Cursus SEM microscopie met hands-on laboratoriumervaring</strong></p><p>In deze intensieve 3-daagse cursus leer je alles over scanning elektronenmicroscopie door de perfecte combinatie van theorie en praktijk. Je werkt in het laboratorium met de modernste instrumenten en voert in kleine groepjes experimenten uit onder directe begeleiding van ervaren specialisten. </p><p><strong>Cursus elektronenmicroscopie voor beginnende professionals</strong></p><p>Deze cursus is speciaal ontwikkeld voor professionals die net beginnen met SEM of binnenkort gaan werken met deze technologie. Je bouwt stap voor stap jouw kennis op, van de basisprincipes tot geavanceerde toepassingen. Door de kleine groepsgrootte krijg je persoonlijke aandacht en kun je al jouw vragen stellen aan de deskundige docenten.</p><p><strong>Cursus SEM apparatuur en monstervoorbereiding</strong></p><p>De focus ligt op praktische vaardigheden die je direct in jouw werk kunt gebruiken. Je leert niet alleen hoe het SEM-apparaat werkt, maar ook hoe je monsters optimaal voorbereidt voor de beste resultaten. Deze combinatie van technische kennis en praktische ervaring maakt je snel productief in jouw laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze cursus is perfect voor professionals die sinds kort of binnenkort gaan werken met SEM-apparatuur. Je bent op zoek naar praktische kennis over de werking van het apparaat en monstervoorbereiding om direct productief te worden in jouw laboratorium.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus combineert theorie en praktische opdrachten voor een optimale leerervaring. Je werkt in het laboratorium met de modernste SEM-instrumenten en voert experimenten uit in kleine groepjes. Door de persoonlijke begeleiding van deskundige docenten krijg je direct feedback en kun je al jouw vragen stellen. De hands-on aanpak zorgt ervoor dat je niet alleen de principes van scanning elektronenmicroscopie leert, maar ook praktische ervaring opdoet. Je oefent met monstervoorbereiding en leert het apparaat zelfstandig bedienen. Deze interactieve werkvorm maakt complexe technologie toegankelijk en zorgt ervoor dat je na 3 dagen direct productief bent in jouw eigen laboratorium. De cursus wordt gegeven in samenwerking met JEOL. Er is mogelijkheid tot het bekijken van zelf meegebrachte monsters!</p><p><strong>Tijdsinvestering</strong></p><p>Deze intensieve cursus vergt 3 opeenvolgende dagen waarin je volledig onderduikt in de wereld van scanning elektronenmicroscopie. Dag 1 start om 9.30 uur en eindigt om 17.30 uur, dag 2 en 3 lopen van 9.00 tot respectievelijk 17.00 en 16.00 uur. Door deze compacte opzet kun je snel nieuwe vaardigheden ontwikkelen zonder langdurige afwezigheid van jouw werkplek. De opleiding start op basis van aanmeldingen, waardoor je flexibiliteit hebt in planning. Je investeert ongeveer 24 uur waarin theorie en praktijk perfect samenkomen. Deze gerichte tijdsinvestering zorgt ervoor dat je direct na afloop productief bent met SEM-apparatuur in jouw eigen laboratorium.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze intensieve 3-daagse cursus ontvang je een bewijs van deelname dat jouw nieuwe expertise in scanning elektronenmicroscopie bevestigt. Dit certificaat toont aan dat je de principes en werking van SEM beheerst en zelfstandig kunt werken met moderne apparatuur. Het bewijs van deelname opent mogelijkheden voor verdere specialisatie in microscopietechnieken en positioneert je als gekwalificeerde professional in dit gespecialiseerde vakgebied. Met deze certificering ben je direct inzetbaar voor SEM-werkzaamheden in jouw laboratorium.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2250,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>2250,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2421-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -14904,32 +14358,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2451</Code>
-        <Title>Versnelde masteropleiding Pelvic Physical Therapy (MPelPT)</Title>
-        <Language>nl</Language>
-        <Duration>2240</Duration>
-        <Description><![CDATA[Help mensen met bekkenproblemen sneller — behaal je masterdiploma vanaf 1,5 jaar en maak direct verschil.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Versnelde masteropleiding Bekkenfysiotherapie je op</strong></p><ul><li>Je maakt op basis van klinisch redeneren onderbouwde keuzes voor en met je patiënten.</li><li>Je werkt volgens Evidence Based Practice binnen de driehoek wetenschappelijk bewijs, patient values en eigen expertise.</li><li>Je krijgt registratie in het deelregister van het Kwaliteits Register Fysiotherapie (KRF-NL).</li></ul><p><strong>Versnelde master Bekkenfysiotherapie opleiding voor gespecialiseerde fysiotherapeutische zorg</strong></p><p>Deze masteropleiding bereidt je voor op het behandelen van patiënten met complexe bekken- en bekkenbodem gerelateerde problemen. Je ontwikkelt expertise in diagnostiek, coaching, doelgericht oefenen en behandelen wat je zelfverzekerd maakt in jouw vak. De opleiding is praktijkgericht opgezet, waardoor je direct kunt toepassen wat je leert in je dagelijkse werk met patiënten. Door je privétijd af te stemmen op de tijdsinvestering die je kunt doen in de je opleiding, kun je deze versneld afronden.</p><p><strong>Praktijkgerichte masteropleiding die aansluit bij je werkervaring</strong></p><p>Je kunt patiënten met (meer complexe) bekken(bodem)gerelateerde problematiek écht iets bieden. Ondersteund door de wetenschap is er tijdens deze bekkenfysiotherapie opleiding naast de theorie vooral veel aandacht voor de praktische vaardigheden. Je kunt op basis van klinisch redeneren voor en met jouw patiënt onderbouwde keuzes maken. Samen met expertdocenten uit de praktijk ga jij het verschil maken.</p><p><strong>Master bekkenfysiotherapie met bewezen resultaten voor je carrière</strong></p><p>Na succesvolle afronding ontvang je het getuigschrift Master Specialized Physical Therapy (MSPT) en de graad Master of Science Pelvic Physical Therapy. Je krijgt 24 punten per studiejaar voor het basisregister Fysiotherapie plus een extra bonus van 50 punten bij diplomering. Dit opent deuren naar (her)registratie in het deel- of aantekeningenregister.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masteropleiding is bestemd voor gediplomeerde fysiotherapeuten die zich willen specialiseren in bekkenfysiotherapie. Je werkt al met patiënten met bekken(bodem)problemen in de eerste of tweede lijn, of je hebt de ambitie dit te gaan doen. Na een half jaar heb je een werkleerplek nodig waar je als gespecialiseerd fysiotherapeut kunt werken.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master bekkenfysiotherapie gebruikt blended learning met een mix van didactische werkvormen waardoor je effectiever en efficiënter het opleidingstraject doorloopt. Je hebt minder klassikale bijeenkomsten, wat zorgt voor minder reiskosten en reistijd. Je leert door een combinatie van werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. De toetsing is volledig praktijkgericht: geen kennistoetsen, maar opdrachten aan de hand van echte casuïstiek uit je werk. Je volgt patiënten tijdens je praktijk en maakt daar opdrachten over. Daarnaast leer je van het meekijken bij collega-deelnemers en geef je elkaar feedback. Deze praktijkgerichte aanpak bespaart tijd die je direct aan patiëntenzorg kunt besteden terwijl je toch diepgaande expertise ontwikkelt.</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>In totaal kun je de masteropleiding in 1,5 jaar, 2 jaar, 2,5 jaar of 3 jaar doorlopen. De totale studielast is voor alle varianten 80 EC.</p><p>Bij de 1,5 jaar durende variant van de masteropleiding is er een gemiddelde studiebelasting van 28 uur per week (uitgaande van 40 studie weken per jaar).</p><p>Bij de 2 jaar durende variant van de masteropleiding is er een gemiddelde studiebelasting in het eerste jaar van 14 uur per week en in het tweede jaar van 28 uur per week (uitgaande van 40 studieweken per jaar).</p><p>De studiebelasting van het 2,5 jarige traject is het eerste half jaar 28 uur per week en de daaropvolgende twee jaar 14 uur per week. Het is, naast de lesdagen, grotendeels aan jezelf wanneer je deze uren maakt (uitgaande van 40 studie weken per jaar).</p><p>Naast de klassikale bijeenkomsten, werk je in groepen in jouw eigen regio. Het werken in groepen hoeft niet op locatie. Jij en jouw mededeelnemers kunnen dus gemakkelijk een bijeenkomst plannen in jullie eigen regio. </p><p>Het rooster voor deze opleiding is maatwerk door het versnelde traject. We kunnen dus niet vooraf zeggen op welke dag je les hebt. Valt de bijeenkomst op maandag t/m donderdag dan zijn de lestijden tussen 13.30-20.30. Valt de lesdag op een vrijdag dan zijn de lestijden van 9.30 - 16.30.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het getuigschrift Master Specialized Physical Therapy (MSPT) en wordt je de graad Master of Science Pelvic Physical Therapy toegekend. Deze NVAO-geaccrediteerde masteropleiding geeft je toegang tot inschrijving in het betreffende deelregister van het Kwaliteits Register Fysiotherapie (KRF-NL). Je kunt daarna doorstromen naar vervolgopleidingen zoals master na master trajecten in geriatriefysiotherapie, psychosomatische fysiotherapie, kinderfysiotherapie of oncologiefysiotherapie. Het diploma opent ook deuren naar functie als <a href="https://habeoplus.nl/opleidingen/fysiotherapie/extended-scope-beweegspecialist-huisartsenzorg/extended-scope">Extended Scope beweegspecialist huisartsenzorg</a>.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2315">brochure</a>.</p>]]></CertValue>
-        <Level>Master</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>23950,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>23950,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2451-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2452</Code>
         <Title>Versnelde masteropleiding Psychosomatic Physical Therapy (MPsPT)</Title>
         <Language>nl</Language>
@@ -15560,58 +14988,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2784</Code>
-        <Title>PE NDA &amp; LoI</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Leer hoe je een Letter of Intent effectief opstelt en inzet, zodat je transacties beter stuurt en juridische valkuilen voorkomt.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding PE NDA &amp; LoI je op</strong></p><ul><li>Na afloop van de cursus ben je je bewust van de achtergrond van alle relevante aspecten van een LoI </li><li>Je kunt een LoI voor je klant optimaal plooien en beargumenteren waarom bepaalde zaken aan een LoI toegevoegd of gewijzigd moeten worden </li><li>Je kunt een concept LoI beoordelen</li></ul><p>Een LoI kent meerdere verschijningsvormen zoals een memorandum of understanding, non-binding offer, term sheet en een heads of terms. Wat regelen deze documenten eigenlijk en zijn ze juridisch bindend? Begint de overname dan of is hij dan feitelijk al gedaan?</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je bent werkzaam als fusie- en overnamespecialist, intermediair, relatiebeheerder, financieel (bedrijfs)adviseur, accountant, financieel planner, controller, waarderingsdeskundige/valuator of belastingadviseur en je houdt je bezig met bedrijfsadvisering en waarderingsvraagstukken.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je volgt een interactieve bijeenkomst van 6 uur. Tijdens de bijeenkomst is er veel ruimte voor het stellen van vragen.</p><p><strong>Tijdsinvestering</strong></p><p>De PE NDA &amp; LoI is een bijeenkomst van 1 dag. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. De voorbereidingstijd bedraagt 1 tot 2 uur. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze PE ontvang je een bewijs van deelname. Ben je geregistreerd in het RAB-register? Dan vermelden wij jouw PE-activiteit in het register.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>645,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>645,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2784-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2786</Code>
-        <Title>RAB – Advisering van de dga en zijn eigen bv</Title>
-        <Language>nl</Language>
-        <Duration>12</Duration>
-        <Description><![CDATA[Verdiep je kennis over de DGA en zijn bv, zodat je geïntegreerd advies kunt geven over fiscale positie, beloning en optimalisatie van de bv-structuur.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding RAB - Advisering van de dga en zijn eigen bv je op</strong></p><ul><li>Je kunt je klanten die dga met een eigen bv zijn, optimaal actief adviseren over hun fiscale positie</li><li>Je kunt actief adviseren door vooraf te sturen in fiscale en juridische structuur</li></ul><p>De dga neemt met zijn eigen bv een aparte plaats in in de fiscale wet- en regelgeving. En die wet- en regelgeving is de laatste jaren behoorlijk aan verandering onderhevig geweest. In deze themacursus staan twee zaken centraal: enerzijds advisering over de fiscale positie van de dga en anderzijds de optimalisering van zijn bv-structuur. Omdat de beloning in de ruime zin van het woord van de dga en de winstbepaling in de bv-structuur in elkaars verlengde liggen, worden beide zaken integraal behandeld.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je bent werkzaam als fusie- en overnamespecialist, intermediair, relatiebeheerder, financieel (bedrijfs)adviseur, accountant, financieel planner, controller, waarderingsdeskundige/valuator of belastingadviseur en je houdt je bezig met bedrijfsadvisering en waarderingsvraagstukken. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je volgt een tweedaagse cursus. Tijdens de bijeenkomst is er veel ruimte voor het stellen van vragen.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus bestaat uit 2 bijeenkomsten. <br />Lesdag 1: 14.00 tot 20.00 uur <br />Lesdag 2: 09.00 tot 15.00 uur</p><p>De studiebelasting bedraagt in totaal ongeveer 2 uur. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de PE ‘Advisering van de dga en zijn eigen bv’ ontvang je een bewijs van deelname. Ben je geregistreerd in het RAB-register of PFP-register? Dan vermelden wij jouw PE-activiteit in het register.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1195,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1195,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>2786-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2788</Code>
         <Title>RAB Mergers &amp; Acquisitions (RAB M&amp;A)</Title>
         <Language>nl</Language>
@@ -15879,32 +15255,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>3222</Code>
-        <Title>Corporate Governance</Title>
-        <Language>nl</Language>
-        <Duration>22</Duration>
-        <Description><![CDATA[Leer alles wat je nodig hebt om je rol als toezichthouder/bestuurder op professionele wijze te kunnen vervullen.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Register Adviseur Bedrijfsopvolging Corporate Governance (RAB CG) je op</strong></p><ul><li>Je geeft professioneel invulling aan je rol als adviseur, toezichthouder of bestuurder met juridische, financiële en risicomanagement kennis</li><li>Je draagt bij aan de ontwikkeling van strategieën voor langetermijnwaardecreatie binnen ondernemingen</li><li>Je houdt effectief toezicht op bestuur en risico's met moderne tools zoals risk heat maps</li></ul><p><strong>Corporate Governance opleiding voor toezichthouders en bestuurders</strong></p><p>Deze erkende RAB CG opleiding bereidt je voor op een rol als lid van een Raad van Advies, Raad van Toezicht of Raad van Commissarissen. Tijdens vier intensieve dagen leer je de juridische aspecten van corporate governance. Je verkent de taak- en bevoegdheidsverdelingen tussen vennootschapsorganen en de verantwoordelijkheden die daaruit voortvloeien.</p><p><strong>Praktijkgerichte training in financieel toezicht en risicomanagement</strong></p><p>Je ontwikkelt vaardigheden voor effectieve financiële auditfuncties en leert werken met risk heat maps voor professioneel risicomanagement. De opleiding combineert theorie met praktijkcases waarbij je de vertaling maakt van risico's naar gewenst weerstandsvermogen. Elke bijeenkomst duurt een volledige dag met ongeveer vier uur zelfstudie ter voorbereiding. Deze aanpak zorgt ervoor dat je de kennis direct toepast in realistische bedrijfssituaties.</p><p><strong>Register Adviseur Bedrijfsopvolging training voor familiebedrijven</strong></p><p>Accountants, juristen, ondernemers en risicomanagers versterken hun expertise voor adviesrollen in familiebedrijven. Je leert hoe toezichthouders kunnen bijdragen aan economische waardecreatie door middel van praktische casuïstiek. Het middagprogramma op dag vier focust op het belangrijkste doel van adviserend en toezichthoudend organen: het bewaken en stimuleren van langetermijnwaardecreatie. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor adviseurs van familiebedrijven, accountants, juristen, risicomanagers, ondernemers en (aankomend) toezichthouders of bestuurders die zich voorbereiden op een rol in een Raad van Advies, Raad van Toezicht of Raad van Commissarissen en hun corporate governance kennis willen uitbreiden. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze opleiding bestaat uit vier volledige dagen waarin je alle aspecten van corporate governance doorneemt. Dag één behandelt de juridische aspecten, inclusief actuele ontwikkelingen. Je leert over bestuur- en toezichtstructuren en de bevoegdheidsverdelingen tussen vennootschapsorganen. De tweede dag focust op financieel toezicht en het vormgeven van auditfuncties. Dag drie staat in het teken van risicomanagement, waarbij je werkt met risk heat maps en risico's vertaalt naar weerstandsvermogen. Op de vierde dag ga je aan de slag met casuïstiek over langetermijnwaardecreatie. Het middagprogramma bevat praktijkopdrachten waarin je leert hoe toezichthouders bijdragen aan economische waardecreatie voor ondernemingen.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding vraagt een goed planbare tijdsinvestering die uitstekend past bij je professionele agenda. Je volgt vier volledige dagen waarin je alle aspecten van corporate governance doorneemt, van juridische kaders tot praktische risicomanagementtools. Voor elke bijeenkomst plan je ongeveer vier uur zelfstudie in, waarin je thuis de leerstof bestudeert op momenten die jou uitkomen. Door deze efficiënte opzet ontwikkel je snel concrete vaardigheden voor toezichthoudende rollen zonder je werkzaamheden lang te onderbreken. Je investeert in totaal zestien uur zelfstudie verspreid over de vier bijeenkomsten, wat de kennisopname versterkt. Deze tijdsinvestering levert direct waardevolle expertise op die je meteen inzet in adviesrollen, bestuursfuncties of toezichthoudende posities. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je het erkende deelnamebewijs Register Adviseur Bedrijfsopvolging Corporate Governance van Habeo+. Dit officiële certificaat bevestigt je expertise in corporate governance en positioneert je als gekwalificeerd professional voor toezichthoudende en bestuursfuncties. Het deelnamebewijs ondersteunt je geloofwaardigheid bij sollicitaties voor raden van advies, toezicht of commissarissen in familiebedrijven en andere ondernemingen. Je versterkt hiermee je professionele status en vergroot je kansen op verantwoordelijke posities waarin corporate governance centraal staat. Het certificaat opent deuren naar vervolgspecialisaties binnen het register adviseur bedrijfsopvolging programma.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>3295,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>3295,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3222-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>3227</Code>
         <Title>Masterclass ChatGPT in de Praktijk: Van Weten naar Kunnen</Title>
         <Language>nl</Language>
@@ -15946,32 +15296,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2026-12-03T09:00:00" EndDateTime="2026-12-03T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>3278</Code>
-        <Title>PE Equity bridge en normalisaties</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Tijdens transacties en waarderingen zijn normalisaties en de impact op de equity bridge van cruciaal belang.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de PE Equity bridge en normalisaties je op</strong></p><ul><li>Je begrijpt hoe een equity bridge is opgebouwd en wordt toegepast bij transacties en waarderingen</li><li>Je hebt een theoretische en praktische achtergrond over normalisaties</li><li>Je kunt normalisaties in de praktijk herkennen en toepassen</li></ul><p><strong>Transacties, waarderingen en normalisaties &amp; de impact op de equity bridge</strong></p><p>Tijdens transacties en waarderingen zijn normalisaties en de impact op de equity bridge van cruciaal belang. Deze interactieve bijeenkomst biedt deelnemers zowel theoretische achtergrond als praktische handvaten om deze onderwerpen te begrijpen en toe te kunnen passen.</p><p>Aan de hand van herkenbare praktijkvoorbeelden leert de deelnemer hoe je normalisaties herkent, toepast en hoe deze impact hebben op de equity bridge. Tijdens de training gaat de deelnemer zelf ook aan de slag met het analyseren en toepassen van normalisaties op casussen uit de dagelijkse praktijk. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze training is speciaal ontwikkeld voor adviseurs die werkzaam zijn in de bedrijfsopvolging en staan geregistreerd in het RAB-register. Ook adviseurs die actief zijn op dit vakgebied en hun kennis willen actualiseren, zijn welkom. Je wilt op de hoogte blijven van de nieuwste ontwikkelingen en wijzigingen in de bedrijfsopvolging om je cliënten het beste advies te kunnen geven.</p><p>Je bent werkzaam als fusie- en overnamespecialist, intermediair, relatiebeheerder, financieel (bedrijfs-)adviseur of accountant, financieel planner, controller, investeringsspecialist of belastingadviseur. In je functie kom je regelmatig in aanraking met opvolging- of waarderingsvraagstukken. Je wilt de laatste ontwikkelingen op dit gebied weten. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Tijdens de interactieve bijeenkomst werk je aan praktische opdrachten die direct aansluiten bij je werk als adviseur. Je analyseert actuele cases, deelt ervaringen met collega-adviseurs en past nieuwe inzichten meteen toe. </p><p><strong>Tijdsinvestering</strong></p><p>Deze compacte training vraagt een heel beperkte tijdsinvestering van je. Je volgt één intensieve bijeenkomst. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Naast deze trainingsdag heb je slechts 1 tot 2 uur voorbereidingstijd nodig waarin je thuis de literatuur bestudeert. Deze voorbereiding zorgt ervoor dat je optimaal profiteert van de praktijkopdrachten tijdens de bijeenkomst. Binnen één dag ben je volledig bijgepraat over alle belangrijke ontwikkelingen in bedrijfsopvolging en kun je deze kennis meteen toepassen in je werk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze PE ontvang je een bewijs van deelname. Ben je geregistreerd in één van onze registers? Dan vermelden wij jouw PE-activiteit in het register.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>645,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>645,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3278-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -16194,32 +15518,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>3329</Code>
-        <Title>PE RAB - De invloed van AI op bedrijfswaarderingen</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[In deze bijeenkomst staat centraal hoe AI de waardeerder concreet kan ondersteunen bij alle facetten van het waarderingsproces.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de PE RAB - De invloed van AI op bedrijfswaarderingen je op </strong></p><ul><li>Je leert hoe AI de waardeerder concreet kan ondersteunen bij alle facetten van het waarderingsproces.</li><li>Je komt meer te weten over AI in relatie tot bedrijfswaardering.</li><li>Je kunt als professional bedrijfswaarderingen niet alleen correct, maar ook toekomstbestendig uitvoeren.</li></ul><p><strong>AI is het heden en de toekomst</strong></p><p>Artificial Intelligence is geen toekomstmuziek meer, maar dringt steeds dieper door in het domein van Corporate Finance en bedrijfswaardering. Ook voor de waardering van niet-beursgenoteerde ondernemingen verandert AI fundamenteel hoe data wordt verzameld, geanalyseerd en geïnterpreteerd.<br />In deze bijeenkomst staat centraal hoe AI de waardeerder concreet kan ondersteunen bij alle facetten van het waarderingsproces. Van strategische en financiële analyse, benchmarking en scenario-analyse tot het inschatten van risico’s, kasstromen en terminal value: AI biedt nieuwe instrumenten om sneller, consistenter en beter onderbouwd tot een waardering te komen. Tegelijkertijd roept dit vragen op over professional judgement, transparantie en de rol van de waarderingsdeskundige.</p><p>De bijeenkomst combineert corporate finance-theorie met praktische toepassingen, en laat zien waar AI echte toegevoegde waarde levert — en waar menselijke expertise onmisbaar blijft. Deelnemers krijgen inzicht in hoe AI kan worden ingezet als krachtig hulpmiddel, zonder het vakmanschap en de verantwoordelijkheid van de waardeerder uit het oog te verliezen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Om toekomstbestendig te kunnen blijven adviseren is verdiepen in AI noodzakelijk. Deze opleiding is bedoeld voor Corporate Finance adviseurs en waarderingsdeskundigen die willen weten hoe AI je concreet kan ondersteunen bij alle facetten van het waarderingsproces. Waar levert AI echt toegevoegde waarde en waar blijft de menselijke expertise onmisbaar. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Tijdens deze bijeenkomst is er veel ruimte voor het stellen van vragen en het uitwisselen van praktijkervaringen. Deze opzet zorgt ervoor dat je de theorie direct kunt koppelen aan jouw dagelijkse advieswerk. Door de interactieve vorm leer je niet alleen van de docent, maar ook van andere adviseurs die met vergelijkbare uitdagingen te maken hebben. </p><p><strong>Tijdsinvestering</strong></p><p>De voorbereidingstijd bedraagt ongeveer 4-6u en de voorbereiding zal bestaan uit het lezen van relevante artikelen. Een leeswijzer zal voorafgaande aan de workshop beschikbaar worden gesteld. Je volgt vervolgens één dag training. Je kunt deelnemen van 10:30 tot 16:30 uur of 14:00 tot 20:00 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Je combineert zelfstudie met praktijkgerichte training, waardoor je snel resultaat behaalt. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de PE - De invloed van AI op bedrijfswaarderingen ontvang je een bewijs van deelname. Ben je geregistreerd in het RAB-register? Dan vermelden wij jouw PE-activiteit in het register.</p><p>Na afloop van de workshop beschikken deelnemers over een helder referentiekader voor de inzet van AI in bedrijfswaarderingen van niet-beursgenoteerde ondernemingen en hebben zij concrete handvatten om AI verantwoord toe te passen in hun eigen praktijk. Zij hebben beter inzicht in de kwaliteit en consistentie van aannames, prognoses en risico-inschattingen, evenals een vergroot bewustzijn van de risico’s en beperkingen van AI, zoals bias en modelrisico. Daarnaast ontwikkelen zij een toekomstbestendige visie op het vak van waardeerder, waarin technologie de professionele expertise versterkt in plaats van vervangt.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>645,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>645,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3329-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>3348</Code>
         <Title>Gedrag- en cultuuronderzoek voor financials</Title>
         <Language>nl</Language>
@@ -16438,32 +15736,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-02-18T09:00:00" EndDateTime="2028-02-10T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>3384</Code>
-        <Title>Jaarrekening &amp; Consolidatie</Title>
-        <Language>nl</Language>
-        <Duration>292</Duration>
-        <Description><![CDATA[Verdiep je in fiscale en commerciële jaarrekeningen inclusief consolidatie en pas complexe verslaggeving direct toe binnen het MKB.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Jaarrekening &amp; Consolidatie je op:</strong></p><ul><li>Je stelt zelfstandig complexe jaarrekeningen op volgens actuele wet- en regelgeving</li><li>Je beheerst consolidatietechnieken binnen MKB-groepsstructuren</li><li>Je vergroot je vaktechnische diepgang en je waarde binnen je organisatie</li></ul><p><strong>Praktijkgerichte opleiding voor complexe verslaggeving in het MKB</strong></p><p>Tijdens de opleiding Jaarrekening &amp; Consolidatie verdiep je je in interne en externe verslaggeving binnen het MKB. Je leert complexe jaarrekeningen opstellen, beoordelen en analyseren volgens Boek 2 titel 9 en de Richtlijnen voor de Jaarverslaggeving (RJ). Ook werk je met kostprijsberekeningen, budgettering en verschillenanalyse om financiële prestaties beter te begrijpen en te sturen.</p><p>Je behandelt praktijkgerichte vraagstukken zoals onderhanden projecten, leasecontracten, pensioenen, optiebeloningen en financiële instrumenten. Daarnaast leer je kasstroomoverzichten opstellen en analyseren. Verder krijg je inzicht in de verschillen tussen commerciële en fiscale verslaggeving, inclusief belastinglatenties.</p><p>Een belangrijk onderdeel is consolidatie: je leert financiële informatie samenvoegen binnen groepsstructuren, inclusief intercompany-eliminaties en goodwill zodat je een geconsolideerde jaarrekening kunt opstellen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor:</p><ul><li>Assistent-accountants</li><li>Gevorderde financieel medewerkers</li><li>Controllers binnen het MKB</li><li>Professionals die hun kennis van externe verslaggeving willen verdiepen</li><li>Deelnemers aan de AA MKB-opleiding die deze module los willen volgen</li></ul>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding wordt verzorgd in een blended leeromgeving. Je combineert klassikale bijeenkomsten met online ondersteuning en zelfstudie. Tijdens de bijeenkomsten werk je aan praktijkgerichte casussen en analyseer je realistische controlesituaties. Door interactie, discussies en praktijkvoorbeelden leer je hoe je auditvraagstukken systematisch aanpakt.</p><p><strong>Tijdsinvestering</strong></p><p>De totale studiebelasting bedraagt circa 224 uur in 7 weken. In totaal heb je 10 bijeenkomsten verdeeld over 5 lesdagen. Ter ondersteuning van de fysieke bijeenkomsten heb je een online leeromgeving. De bijenkomsten zijn 1 keer per week met uitzondering van schoolvakanties en vinden plaats op vrijdag van 08:30 - 15:15 uur. Daarnaast kun je rekening houden met circa 8 uur zelfstudie per bijeenkomst.</p><p>De exacte planning ontvang je voorafgaand aan de start van de opleiding.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je een certificaat Jaarrekening &amp; Consolidatie van Habeo+. De opleiding een onderdeel van de AA MKB opleiding. Mocht je besluiten het volledige traject te volgen, dan kun je voor dit onderdeel eventueel vrijstelling aanvragen. Met dit certificaat toon je aan dat je beschikt over specialistische kennis van jaarrekening en consolidatie binnen het MKB.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>3650,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>3650,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3384-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -16899,32 +16171,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>3439</Code>
-        <Title>Masterclass Informatiestrategie, governance en enterprise architecture</Title>
-        <Language>nl</Language>
-        <Duration>210</Duration>
-        <Description><![CDATA[Ontwikkel een strategisch innovatieplan met Enterprise Architecture en breng structuur in IT en besluitvorming.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass Informatiestrategie, Governance &amp; Enterprise Architecture je op:</strong></p><ul><li>Je brengt samenhang aan tussen IT, processen en jouw organisatiedoelen </li><li>Je ontwikkelt een strategisch innovatieplan voor je eigen organisatie </li><li>Je onderbouwt keuzes met Enterprise Architecture, governance en onderzoek</li></ul><p><strong>Grip op IT en digitalisering met Enterprise Architecture</strong></p><p>Veel organisaties investeren in digitalisering, maar missen grip.</p><p>IT-landschappen groeien versnipperd, besluitvorming is onduidelijk en keuzes worden onvoldoende onderbouwd. Hierdoor sluiten IT-initiatieven niet goed aan op de strategische doelen van de organisatie.</p><p>Herkenbaar?</p><p>In de Masterclass Informatiestrategie, Governance &amp; Enterprise Architecture leer je hoe je structuur aanbrengt in deze complexiteit. Je ontwikkelt een informatiestrategie en leert hoe je met IT governance en enterprise architecture richting geeft aan digitalisering. Je maakt hierbij gebruik van gangbare Enterprise Architecture-modellen om complexe IT-landschappen inzichtelijk te maken en te structureren. Je kiest zelf een concreet vraagstuk binnen je eigen organisatie en vertaalt dit naar een onderbouwd strategisch innovatieplan.</p><p>Vraagstukken zijn bijvoorbeeld:</p><ul><li>het ontwikkelen van een informatiestrategie</li><li>het analyseren en structureren van een versnipperd IT-landschap</li><li>het verbeteren van governance en besluitvorming rondom IT</li></ul><p><strong>Geef richting aan IT en besluitvorming in je organisatie met de Master of ICT and Business Innovatie (MBI)</strong></p><p>Je ontwikkelt niet alleen kennis in de Masterclass Informatiestrategie, Governance &amp; Enterprise Architecture, maar vooral het vermogen om structuur aan te brengen en richting te geven aan digitalisering in jouw organisatie. </p><p>Wil je grotere vraagstukken aanpakken en doorgroeien naar een rol waarin je digitale verandering realiseert? Deze masterclass is onderdeel van de <a href="https://habeoplus.nl/opleidingen/ict/master-ict-and-business-innovation-mbi/master-ict-and-business-innovation-mbi">Master of ICT and Business Innovation (MBI)</a>. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is voor professionals die betrokken zijn bij IT en digitalisering en meer grip willen krijgen op samenhang en besluitvorming.</p><p>Je herkent je hierin:</p><ul><li>Je werkt bijvoorbeeld als business development manager, product owner, business analist of operations manager</li><li>Je ziet dat IT-initiatieven versnipperd zijn en mist overzicht en samenhang</li><li>Je wilt beter onderbouwde keuzes maken in IT en informatiemanagement</li><li>Je wilt een rol spelen in IT-strategie, governance of architectuur</li></ul>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De Masterclass Informatiestrategie, Governance &amp; Enterprise Architecture combineert activerende, praktijkgerichte leeractiviteiten en online onderwijs. Hierdoor is de studie goed te combineren met je werk en boek je direct resultaat voor jezelf én je werkgever. Door interactie met professionals uit verschillende disciplines en sectoren bouw je daarnaast een waardevol netwerk op en doe je nieuwe inzichten op. Tijdens de masterclass presenteer je tussentijds je voortgang en ontvang je feedback van docenten en mededeelnemers, die je gebruikt om je plan verder te verbeteren. Je wordt beoordeeld op de prestaties die je levert binnen jouw organisatie. Je werkt aan een strategisch innovatieplan als antwoord op een concreet vraagstuk uit je eigen praktijk. </p><p>Je gebruikt hierbij modellen uit Enterprise Architecture en informatiemanagement en onderbouwt je keuzes met data en onderzoek. De focus ligt op het aanbrengen van samenhang en het versterken van besluitvorming. Het gebruik van AI-tools wordt aangemoedigd als ondersteuning bij je analyse en uitwerking. Daarbij is het belangrijk dat je transparant maakt hoe je AI inzet en dat je zelf de regie houdt over de inhoud en onderbouwing van je werk.</p><p><strong>Tijdsinvestering</strong></p><p>De Masterclass Informatiestrategie, Governance &amp; Enterprise Architecture heeft een doorlooptijd van circa 10 weken. Je volgt 5 fysieke bijeenkomsten van elk 6 uur, die tweewekelijks plaatsvinden. De gemiddelde studiebelasting bedraagt circa 20 uur per week. Dit bestaat uit:</p><ul><li>6 uur bijeenkomsten </li><li>circa 14 uur zelfstudie, voorbereiding en uitwerking van opdrachten </li><li>het ontwikkelen van je strategisch innovatieplan voor je eigen organisatie </li></ul><p>Een belangrijk deel van de studiebelasting zit in het toepassen van de leerstof op je eigen praktijk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze masterclass ontvang je het certificaat Informatiestrategie, Governance &amp; Enterprise Architecture. Dit certificaat toont aan dat je expertise hebt opgebouwd in het ontwikkelen van informatiestrategieën en het aanbrengen van structuur in IT, governance en enterprise architecture.</p><p>Deze masterclass is onderdeel van de <a href="https://habeoplus.nl/opleidingen/ict/master-ict-and-business-innovation-mbi/master-ict-and-business-innovation-mbi">Master ICT and Business Innovation (MBI) </a>en biedt de mogelijkheid om door te stromen naar de volledige master. Wil je meer weten? We plannen graag een <a href="https://habeoplus.nl/voorlichtingsbijeenkomst-inschrijven?recruitment-activity-type=adviesgesprek&amp;recruitment-activity-id=90&amp;selection-mode=&amp;program-id=2331">vrijblijvend adviesgesprek</a> met een opleidingsmanager om samen de mogelijkheden te bespreken.</p>]]></CertValue>
-        <Level>Master</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>3950,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>3950,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3439-OPEN</Code>
-                <Location></Location>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>3440</Code>
         <Title>Masterclass Digitale transformatie &amp; innovatie</Title>
         <Language>nl</Language>
@@ -17174,32 +16420,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-02-15T09:00:00" EndDateTime="2028-03-06T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>3474</Code>
-        <Title>Training grensoverschrijdend gedrag</Title>
-        <Language>nl</Language>
-        <Duration>3</Duration>
-        <Description><![CDATA[Bewustwording en vaardigheden rond grensoverschrijdend gedrag in zorgcontacten met focus op eigen handelen en communicatie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Training Grensoverschrijdend gedrag je op</strong></p><ul><li>Je hebt beter inzicht in de impact van grensoverschrijdend gedrag op jouw cliënten</li><li>Je weet zelfverzekerd jouw rol te pakken als dergelijke ervaringen worden gedeeld</li><li>Je blijft professioneel en zorgvuldig handelen en bewaakt wat deze ervaringen doen met jou</li></ul><p>Je kunt na afronding van deze training 3 punten ontvangen bij de LV-POH-GGZ.</p><p>In de dagelijkse praktijk van de zorgprofessional zijn vaak complexe gesprekken over grensoverschrijdend gedrag, intimiteit en kwetsbaarheid. Niet altijd expliciet, maar vaak subtiel. Deze opleiding helpt je om bewuster te worden van wat er gebeurt bij jezelf tijdens deze gesprekken én bij de cliënt. Zo kun je beter kunt signaleren, reageren en begrenzen binnen complexe gesprekken.</p><p>Tijdens deze bijeenkomst gaan we met elkaar in gesprek over grensoverschrijdend gedrag en de impact die dit kan hebben op cliënten. We staan stil bij wat dit in de praktijk betekent en welke rol je als professional hebt wanneer dergelijke ervaringen worden gedeeld. Daarbij is er ook aandacht voor de persoonlijke kant: wat doen deze verhalen met jou en hoe blijf je professioneel en zorgvuldig handelen?</p><p><strong>Ervaring van Star-shl met de training Grensoverschrijdend gedrag</strong></p><p><em>“Ik heb geleerd dat mijn eigen ongemak juist een ingang kan zijn voor een goed gesprek. Door te oefenen met herkenbare situaties weet ik nu beter hoe ik kan reageren én mijn professionele grenzen kan bewaken.”</em></p><p>Wil je lezen hoe zij de training ervaren hebben en wat het hen gebracht heeft? Lees het in hun <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/van-vraag-naar-impact-hoe-star-shl-en-habeo-pohs-sterker-maken">blog</a>.(leestijd: 3 minuten)</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor alle zorgprofessionals die in hun werk in contact staan met cliënten in kwetsbare of complexe situaties. Je hebt regelmatig gesprekken waarin grensoverschrijdend gedrag, intimiteit en kwetsbaarheid een rol spelen. Er is geen specifieke vooropleiding vereist, wel praktijkervaring in zorgcontacten.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De bijeenkomst is interactief en praktijkgericht. We gaan actief aan de slag met casuïstiek, reflectie en oefeningen met een trainingsacteur in verschillende situaties. We sluiten zoveel mogelijk aan bij de vragen en ervaringen van de groep. Het creëren van een veilige omgeving voor zowel cliënt als professional en het vinden van een goede balans tussen nabijheid en professionele afstand staan hierbij centraal. Leren gebeurt vooral door ervaren, reflecteren en doen. De opleiding combineert bewustwording met directe toepasbare vaardigheden.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding bestaat uit één interactieve trainingssessie van 18.00 tot 21.00. Tijdens deze sessie werk je intensief met praktijkcasuïstiek en een acteur. Ter voorbereiding van de training denk je na over eigen praktijkervaringen of casuïstiek die je zou willen bespreken tijdens de sessie. Na de sessie kun je het geleerde meteen toepassen in je werk. Er is geen formele toetsing of huiswerkopdracht. De nadruk ligt op leren in het moment en directe toepasbaarheid in de praktijk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na de opleiding ontvang je een certificaat van deelname.</p><p>Je kunt 3 punten ontvangen bij de landelijke vereniging POH-GGZ.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>195,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>195,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3474-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -18062,7 +17282,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Language>nl</Language>
         <Duration>100</Duration>
         <Description><![CDATA[Als manager kinderopvang geef jij ruimte aan innovatie en ondernemerschap. Ontwikkel visie, strategie en financieel inzicht voor duurzaam leiderschap.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Strategisch ondernemen en financieel management in de kinderopvang je op</strong></p><ul><li>Je versterkt je financieel inzicht in de kinderopvang</li><li>Je ontwikkelt een breder perspectief op strategisch ondernemerschap te behoede van jouw organisatie</li><li>Je combineert theorie en praktijk effectief en past nieuwe inzichten direct toe in jouw eigen context</li></ul><p>De kinderopvang is een vorm van dienstverlening die plaatsvindt binnen de kaders die de overheid stelt. Tegelijkertijd is het een concurrerende markt terwijl er in toenemende mate wordt samengewerkt met het onderwijs. Een spanningsveld tussen samenwerking en concurrentie op zich. Hoe ga je als manager om met deze uitdagende vorm van ondernemerschap? </p><p>Tijdens deze postbachelor opleiding werk je aan je leiderschap waarin je innovatie en ondernemerschap de ruimte geeft en vertaalt naar maatschappelijke positionering, strategisch ondernemen en gerichte marketingacties. Je leert maatschappelijke ontwikkelingen op waarde te schatten en vanuit visie te vertalen naar zowel intern als extern gerichte strategieën.</p><p><strong>Financieel inzicht</strong></p><p>Je leert financiële scenario’s en analyses te maken, passend risico- en beheermanagement in te richten en investeringen op te nemen in de planning- en controlcyclus. Op die manier leer je duurzaam en verantwoord leidinggeven aan je organisatie.</p>]]></DescriptionLong>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Strategisch ondernemen en financieel management in de kinderopvang je op</strong></p><ul><li>Je versterkt je financieel inzicht in de kinderopvang</li><li>Je ontwikkelt een breder perspectief op strategisch ondernemerschap ten behoeve van jouw organisatie</li><li>Je combineert theorie en praktijk effectief en past nieuwe inzichten direct toe in jouw eigen context</li></ul><p>De kinderopvang is een vorm van dienstverlening die plaatsvindt binnen de kaders die de overheid stelt. Tegelijkertijd is het een concurrerende markt terwijl er in toenemende mate wordt samengewerkt met het onderwijs. Een spanningsveld tussen samenwerking en concurrentie op zich. Hoe ga je als manager om met deze uitdagende vorm van ondernemerschap? </p><p>Tijdens deze postbachelor opleiding werk je aan je leiderschap waarin je innovatie en ondernemerschap de ruimte geeft en vertaalt naar maatschappelijke positionering, strategisch ondernemen en gerichte marketingacties. Je leert maatschappelijke ontwikkelingen op waarde te schatten en vanuit visie te vertalen naar zowel intern als extern gerichte strategieën.</p><p><strong>Financieel inzicht</strong></p><p>Je leert financiële scenario’s en analyses te maken, passend risico- en beheermanagement in te richten en investeringen op te nemen in de planning- en controlcyclus. Op die manier leer je duurzaam en verantwoord leidinggeven aan je organisatie.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze postbachelor opleiding is bedoeld voor ervaren locatie-, vestigings- en regiomanagers in de kinderopvang die zich verder willen verdiepen in ondernemerschap en de financiën binnen de kinderopvang. De opleiding is ook zeer geschikt voor schoolleiders die te maken krijgen met kinderopvang binnen hun schoolorganisatie.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je begint met een online ontwikkelassessment dat jouw individuele wendbaarheid in kaart brengt. Samen met een expert in persoonlijke en professionele ontwikkeling bepaal je jouw persoonlijke ontwikkeldoelen en werk je middels concrete uitdagingen in jouw leiderschapspraktijk aan jouw professionele leiderschapsontwikkeling.</p><p>Naast de expert persoonlijke ontwikkeling word je in de opleiding zelf begeleid door een inhoudelijk expert docent. Dit zijn ervaren leidinggevenden uit opvang en onderwijs. De opleiding rond je af met een beroepsprestatie binnen jouw organisatie. Zo pas je nieuwe inzichten direct toe en lever je meteen resultaat voor jouw organisatie. Deze praktijkgerichte aanpak zorgt ervoor dat je groeit als leider terwijl je gewoon doorwerkt.</p><p>De opleiding combineert contactmomenten met praktische leeractiviteiten in jouw eigen organisatie. Via onze digitale leeromgeving heb je toegang tot alle studiematerialen. Zo behoud je de regie over je eigen ontwikkeltraject en kun je leren wanneer het jou uitkomt.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding duurt 10 weken en daarin heb je 3 bijeenkomsten van 14:00-21:00 uur. Je investeert wekelijks 10 tot 15 uur in je ontwikkeling, waarbij je zelfstandig literatuur bestudeert, werkt aan je strategisch en ondernemend leiderschap en dit koppelt aan je beroepsprestatie. De overige leeractiviteiten voer je uit op jouw eigen werkplek, waar je direct kunt toepassen wat je leert. Dit betekent dat je de opleiding goed kunt combineren met jouw drukke werk als manager in de kinderopvang of schoolleider.</p><p>Ons uitgangspunt is dat je de opleiding zoveel mogelijk integreert met jouw dagelijkse beroepspraktijk. Zo groei je als leider, lever je maximale impact voor de organisatie zonder dat dit ten koste gaat van jouw verantwoordelijkheden.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden ontvang je een postbachelor certificaat. Deze opleiding is één van de 3 modules van de <a href="https://habeoplus.nl/opleidingen/onderwijs/kinderopvang/manager-kinderopvang-verdieping">opleiding Manager kinderopvang verdieping</a> en biedt direct vrijstelling wanneer je verder zou gaan met die opleiding.</p><p>Schoolleiders die bij Habeo+ de <a href="https://habeoplus.nl/opleidingen/onderwijs/schoolleiders/schoolleider-vakbekwaam">opleiding Schoolleider Vakbekwaam</a> hebben afgerond, behalen na afronding van deze opleiding vanwege vrijstellingen voor de overige twee onderdelen, het diploma Manager kinderopvang verdieping.</p><p>Geregistreerde schoolleiders kunnen zich met dit certificaat herregistreren bij Ascenda.*</p><p><em>*De aanvraag hiervoor ligt ter beoordeling bij Ascenda.</em></p>]]></CertValue>
@@ -18163,33 +17383,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <Sessions>
                     <Session StartDateTime="2027-04-28T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>3640</Code>
-        <Title>Corrigeren met 4- O systematiek</Title>
-        <Language>nl</Language>
-        <Duration>8</Duration>
-        <Description><![CDATA[Los afwijkingen effectief en structureel op met de 4 O’s:
-Oorzaak, Omvang, Oplossing en Operationaliteit.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Corrigeren met 4-O systematiek je op</strong></p><ul><li>Je lost afwijkingen structureel op, niet symptomatisch. </li><li>Je voldoet aantoonbaar aan de eisen van ISO/IEC 17025, ISO 15189 en ISO/IEC 17020.</li><li>Je past de 4-O-systematiek zelfstandig toe en zorgt ervoor dat verbetermaatregelen effectief worden geïmplementeerd, gevolgd en geborgd in de dagelijkse praktijk.</li></ul><p><strong>Praktijkgerichte oplossingsmethodiek voor het lab</strong></p><p>Een afwijking oplossen is meer dan een snelle correctie. Om herhaling te voorkomen, moet je weten wat de oorzaak is, hoe groot de impact is en welke maatregel blijvend werkt. In de cursus Corrigeren met de 4-O-systematiek leer je afwijkingen en verbeterpunten stap voor stap analyseren en afhandelen: oorzaak, omvang, oplossing en operationaliteit. Je combineert de eisen uit ISO/IEC 17025, ISO 15189 en ISO/IEC 17020 met technieken voor continu verbeteren, zodat je afwijkingen effectief aanpakt én verbeteringen blijvend borgt in je laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze cursus is iets voor jou als je als analist, kwaliteitscoördinator, leidinggevende of interne auditor afwijkingen, auditbevindingen of verbeterpunten onderzoekt en opvolgt in een laboratorium.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je wilt direct met de 4-O-systematiek aan de slag. Daarom start je snel met de praktijk en pas je de theorie meteen toe in cases uit je eigen laboratorium. Zo kun je na de cursus zelfstandig afwijkingen analyseren en corrigerende maatregelen doorvoeren.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus duurt 1 dag.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de cursus corrigeren met 4-O systematiek ontvang je een bewijs van deelname.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>735,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>735,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>instructor-led date-tbd</Delivery>
-        <Classes>
-            <Class>
-                <Code>3640-OPEN</Code>
-                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>

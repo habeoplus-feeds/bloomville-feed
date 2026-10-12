@@ -1,7 +1,8 @@
-Bloomville feed - run 2026-10-12 05:13
+Bloomville feed - run 2026-10-12 11:29
 Status: BIJGEWERKT
-Cursussen: 307
+Cursussen: 276
 XSD-fouten: 0
+Tijdelijk niet in feed (klassikaal zonder startdata): 31 - 1726, 1756, 1830, 1859, 1876, 1904, 1926, 1930, 2095, 2149, 2156, 2160, 2166, 2170, 2257, 2262, 2315, 2391, 2393, 2407, 2421, 2451, 2784, 2786, 3222, 3278, 3329, 3384, 3439, 3474, 3640
 
 Waarschuwingen (1):
 - 1693 : uitvoeringen hebben verschillende prijzen (8250.00 / 8400.00) - Bloomville ondersteunt 1 prijs per cursus
