@@ -28,15 +28,6 @@
         <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>1671-5BCRV01019</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-10-07</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-07T09:00:00" EndDateTime="2027-03-24T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1671-5BCRV01022</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -1145,15 +1136,6 @@
         <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>1736-5BRCV02025</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-10-07</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-07T09:00:00" EndDateTime="2027-03-24T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1736-5BRCV02027</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -2035,30 +2017,11 @@
                 <VatFree>455,00</VatFree>
             </Price>
         </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>1756-8BGEN01005</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-06T17:00:00" />
-                </Sessions>
+                <Code>1756-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -3113,6 +3076,15 @@
                     <Session StartDateTime="2027-03-03T09:00:00" EndDateTime="2027-04-21T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>1802-8AGRM01054</Code>
+                <Location>Oranjewoud</Location>
+                <DiscontinuedFrom>2027-05-12</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-12T09:00:00" EndDateTime="2027-06-30T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -3634,21 +3606,21 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1840-8ABSC01021</Code>
-                <Location>Arnhem</Location>
-                <DiscontinuedFrom>2026-10-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-08T09:00:00" EndDateTime="2026-10-08T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1840-8ABSC01022</Code>
                 <Location>Akersloot</Location>
                 <DiscontinuedFrom>2026-11-30</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-30T09:00:00" EndDateTime="2026-11-30T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1840-8ABSC01023</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-05-10</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-10T09:00:00" EndDateTime="2027-05-10T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -3971,6 +3943,15 @@
                     <Session StartDateTime="2026-11-10T09:00:00" EndDateTime="2026-11-10T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>1866-8ACYB01015</Code>
+                <Location>Arnhem</Location>
+                <DiscontinuedFrom>2027-03-10</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-10T09:00:00" EndDateTime="2027-03-10T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -4036,30 +4017,11 @@
                 <VatFree>405,00</VatFree>
             </Price>
         </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>1876-8ARIP01015</Code>
-                <Location>Nijkerk</Location>
-                <DiscontinuedFrom>2026-10-07</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-07T09:00:00" EndDateTime="2026-10-07T17:00:00" />
-                </Sessions>
+                <Code>1876-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -4297,15 +4259,6 @@
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>1885-8BRVI01020</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-12-16</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-16T09:00:00" EndDateTime="2027-04-20T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>1885-8BRVI01021</Code>
                 <Location>Breda</Location>
@@ -5056,23 +5009,11 @@
                 <VatFree>6395,00</VatFree>
             </Price>
         </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>761,00</Base>
-                <Vat>68,49</Vat>
-                <VatFree>829,49</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>1904-2CJVK01024</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-12T17:00:00" />
-                </Sessions>
+                <Code>1904-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -5340,21 +5281,12 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1910-8DPEF01032</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-08T09:00:00" EndDateTime="2026-10-08T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1910-8DPEF01036</Code>
                 <Location>Virtual</Location>
                 <DiscontinuedFrom>2026-10-26</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-10-26T09:00:00" EndDateTime="2026-11-09T17:00:00" />
+                    <Session StartDateTime="2026-10-26T09:00:00" EndDateTime="2026-11-02T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -6463,15 +6395,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1993-7BMKO01078</Code>
-                <Location>Den Haag</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2027-03-21T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1993-7BMKO01072</Code>
                 <Location>Amsterdam</Location>
                 <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
@@ -6766,6 +6689,15 @@
                 </Sessions>
             </Class>
             <Class>
+                <Code>1997-4BLEI01043</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>1997-4BLEI01047</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -6929,7 +6861,7 @@
         <Description><![CDATA[Verbeter processen, stimuleer samenwerking binnen en buiten je afdeling en pas alles direct toe in jouw organisatie.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Procesmanagement je op</strong></p><ul><li>Je wilt weten hoe je aanzet tot verbetering en vernieuwing en hoe de optimalisatie van processen daarbij kan helpen.</li><li>Je hebt behoefte aan inzicht in de werking van organisatieprocessen en het effect ervan op jezelf en jouw medewerkers.</li><li>Je wilt samenwerking en verbinding binnen en buiten je afdeling stimuleren.</li></ul><p><strong>HBO opleiding die jouw persoonlijke ontwikkeling centraal stelt</strong></p><p>Deze opleiding Procesmanagement richt zich volledig op jouw persoonlijke groei en ontwikkeling. Ervaren docenten en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Hierdoor leer je het beste uit jezelf te halen en neem je wat je leert meteen mee naar jouw eigen organisatie.</p><p><strong>Opleiding met praktische toepassing vanaf dag één</strong></p><p>In de Procesmanagement krijg je handvatten aangereikt aan de hand van welke je inzicht verkrijgt in jouw eigen organisatieprocessen en hoe je invloed kunt uitoefenen op verbetering en vernieuwing. Gedrag van medewerkers speelt daarbij een grote rol. Tijdens deze opleiding wordt je vakinhoudelijk sterker en kun je alles wat je leert, direct toepassen in de praktijk. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. </p><p><strong>Opleiding die goed te combineren is met werk en privé</strong></p><p>De opleiding heeft een doorlooptijd van 10 weken met bijeenkomsten van 16:00 tot maximaal 21:30 uur op donderdag. Met een studiebelasting van 6 uur per week voor zelfstudie en voorbereiding is deze opleiding uitstekend te combineren met jouw werk en privéleven. Met 4 startmomenten in het jaar start jij deze postbachelor wanneer jou dat uitkomt. </p><p><em><strong>“De opleiding heeft mij niet alleen nieuwe kennis gebracht, maar vooral geleerd om met een bredere en strategischere blik naar processen en organisatievraagstukken te kijken. Door de persoonlijke begeleiding en sterke koppeling met de praktijk kon ik het geleerde direct toepassen binnen mijn eigen organisatie.” - Janey (voorzitter College van Bestuur)</strong></em></p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Je werkt op hbo-niveau en wilt meer actuele kennis over procesmanagement. Je zoekt inzicht in de werking van organisatieprocessen en het effect daarvan op jezelf en jouw medewerkers. Het maakt niet uit in welke sector of branche je werkt.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Jouw persoonlijke ontwikkeling staat centraal in deze opleiding Procesmanagement. Ervaren docenten, coaches en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. Je neemt jouw vragen mee naar de bijeenkomsten en bespreekt deze met de docent en mededeelnemers. </p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Procesmanagement heeft een doorlooptijd van 10 weken en is uitstekend te combineren met jouw werk en privéleven. Je volgt 4 bijeenkomsten van 15:00 tot maximaal 21:30 uur op donderdag.</p><p>Naast de bijeenkomsten investeer je 6 uur per week in zelfstudie, voorbereiding en het uitwerken van jouw persoonlijke opdracht. Door de praktijkgerichte opzet zie je direct resultaat van jouw tijdsinvestering in je eigen organisatie.</p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Jouw persoonlijke ontwikkeling staat centraal in deze opleiding Procesmanagement. Ervaren docenten, coaches en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. Je neemt jouw vragen mee naar de bijeenkomsten en bespreekt deze met de docent en mededeelnemers. </p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Procesmanagement heeft een doorlooptijd van 10 weken en is uitstekend te combineren met jouw werk en privéleven. Je volgt 4 bijeenkomsten van 16:00 tot maximaal 21:30 uur op donderdag.</p><p>Naast de bijeenkomsten investeer je 6 uur per week in zelfstudie, voorbereiding en het uitwerken van jouw persoonlijke opdracht. Door de praktijkgerichte opzet zie je direct resultaat van jouw tijdsinvestering in je eigen organisatie.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van de opleiding Procesmanagement ontvang je van Habeo+ een certificaat Procesmanagement. Dit certificaat toont jouw expertise in procesoptimalisatie en organisatieverbetering aan. Je kunt dit certificaat gebruiken voor verdere specialisatie in bedrijfskundige opleidingen bij Habeo+, zoals de <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/bedrijfskunde/postbachelor-bedrijfskunde">Postbacheloropleiding Bedrijfskunde</a> of <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/bedrijfskunde/bedrijfskundig-zorgmanagement">Bedrijfskundig zorgmanagement</a>. Voor deze vervolgopleidingen krijg je vrijstelling voor de gevolgde module.</p>]]></CertValue>
         <Level>HBO</Level>
         <PriceBase>
@@ -8218,24 +8150,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2033-6CBCI03031</Code>
-                <Location>Zwolle</Location>
-                <DiscontinuedFrom>2026-10-12</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-12T09:00:00" EndDateTime="2027-02-08T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2033-6CBCI03033</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-10-14</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-14T09:00:00" EndDateTime="2027-02-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2033-6CBCI03034</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-22</DiscontinuedFrom>
@@ -8754,7 +8668,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Title>Master of HRM</Title>
         <Language>nl</Language>
         <Duration>1736</Duration>
-        <Description><![CDATA[Ontwikkel je tot strategische HR-professional, verbeter prestaties, adviseer op directieniveau en creëer directe impact met praktijkgerichte kennis.]]></Description>
+        <Description><![CDATA[Verdiep je in strategisch HRM, verbreed je perspectief en ontwikkel de vaardigheden om op strategisch niveau bij te dragen aan complexe vraagstukken.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Master of HRM je op</strong></p><ul><li>Je verdiept je kennis en verbreedt je blik op HR, organisatie en de ontwikkelingen die het werk van HR veranderen.</li><li>Je staat sterker in je rol en kunt vanuit verschillende perspectieven meedenken en meepraten over complexe organisatievraagstukken.</li><li>Je ontwikkelt jezelf tot een strategische en zelfverzekerde HR-professional die onderbouwd keuzes maakt en impact heeft binnen de organisatie.</li></ul><p><strong>Master of HRM voor HR-professionals die zich verder willen ontwikkelen</strong></p><p>Je hoeft geen volgende stap in je carrière te willen zetten om een master te volgen. Misschien merk je juist dat je nieuwsgierig bent naar wat er nog meer mogelijk is binnen jouw vak. Dat je bepaalde vraagstukken beter wilt begrijpen, op strategischer niveau wilt kunnen meepraten of jezelf verder wilt ontwikkelen als HR-professional. De Master of HRM geeft je de ruimte om je kennis te verdiepen, je blik te verbreden en nieuwe vaardigheden te ontwikkelen. Je kijkt niet alleen naar HR, maar ook naar organisatie, strategie, technologie en de maatschappelijke context waarin organisaties opereren. Zo word je sterker in je vak én zekerder in je rol.</p><p><strong>Praktijkgerichte HRM Master die aansluit op jouw werk</strong></p><p>Wat je leert, breng je direct in de praktijk. Iedere masterclass sluit je af met een beroepsprestatie binnen je eigen organisatie. Je neemt dus een vraagstuk uit je eigen werk mee en onderzoekt dit op masterniveau. Daarmee leer je niet alleen nieuwe theorie en inzichten, maar ontwikkel je ook de vaardigheden om complexe vraagstukken te analyseren, onderzoek te doen en onderbouwde keuzes te maken. De flexibele studievorm maakt het mogelijk om de master te combineren met je werk en privéleven. Je kunt leren in leerteams, individueel of via een verkorte route op basis van je ervaring.</p><p><strong>Kijk verder dan HR alleen</strong></p><p>Het HR-vak verandert. Digitalisering, AI, arbeidsmarktkrapte, veranderende verwachtingen van medewerkers en maatschappelijke ontwikkelingen zorgen voor nieuwe vraagstukken. Als HR-professional krijg je daardoor steeds vaker te maken met onderwerpen buiten het traditionele HR-domein. Tijdens de Master of HRM leer je verschillende perspectieven met elkaar te verbinden. Je ontwikkelt je bedrijfskundige en organisatorische blik en leert ontwikkelingen te vertalen naar relevante HR-vraagstukken. Zo kun je beter het gesprek voeren met directie, management en andere disciplines binnen je organisatie.</p><p><strong>Ontwikkel jezelf en sta sterker in je rol</strong></p><p>De HRM master draait niet alleen om wat je weet, maar ook om hoe je jezelf als professional ontwikkelt. Je onderzoekt je eigen handelen, leert kritisch kijken naar vraagstukken en ontwikkelt het vertrouwen om je visie te onderbouwen. Je werkt samen met professionals uit verschillende organisaties en sectoren en brengt je eigen praktijk mee naar de opleiding. Daardoor leer je niet alleen van docenten, maar ook van elkaars ervaringen en vraagstukken. Met de praktijkgerichte aanpak van Habeo+ ontwikkel je jezelf op een manier die direct waarde toevoegt aan je werk.</p><p><p>“De combinatie van verdieping en mijn eigen praktijk maakt deze master voor mij waardevol. Je krijgt kennis over specifieke, actuele HR-vraagstukken, maar wordt vervolgens uitgedaagd om daar zelf kritisch mee aan de slag te gaan. Je brengt 100% je eigen casuïstiek in, doet onderzoek binnen je organisatie en vertaalt inzichten naar jouw praktijk. Juist daardoor ontwikkel je niet alleen je kennis, maar ook je vermogen om complexe HR-vraagstukken op strategisch niveau te benaderen.”</p></p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Je bent een ervaren HR-professional en wilt jezelf verder ontwikkelen in je vak. Niet omdat je per se een volgende carrièrestap wilt maken, maar omdat je nieuwsgierig bent, je kennis wilt verdiepen en je blik wilt verbreden. Misschien merk je in je werk dat je bepaalde organisatievraagstukken beter wilt begrijpen, op strategisch niveau wilt kunnen meepraten of steviger wilt staan in je rol. Je hebt een bacheloropleiding afgerond op het gebied van HRM of een vergelijkbare richting en beschikt over enkele jaren relevante werkervaring op tactisch of strategisch niveau, bijvoorbeeld als HR-manager, HR-adviseur, Chief Human Resources Officer, HR business partner of consultant.</p><p>Heb je niet het juiste opleidingsniveau en wil je toch deelnemen aan de Master Human Resources management? Dan kun je via een toelatingsassessment laten beoordelen of de opleiding bij je past. Neem contact op met de opleidingsmanager voor een persoonlijk en vrijblijvend advies.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master HRM biedt een volledig flexibel studieprogramma waarin jij mede het tempo en de vorm bepaalt. Je werkt individueel en in leerteams aan opdrachten binnen jouw eigen organisatiecontext, onder begeleiding van ervaren experts, managers en docenten. Per masterclass heb je 3 tot 5 bijeenkomsten tussen 14:00 en 21:00 uur, waarbij de overige leeractiviteiten online of op je eigen werkplek plaatsvinden. </p><p>Je rondt iedere masterclass af met een concrete beroepsprestatie binnen jouw organisatie. Door interactie met professionals uit verschillende managementfuncties en sectoren zoals onderwijs, zorg en techniek bouw je tegelijkertijd een waardevol netwerk op. De praktijkgerichte aanpak zorgt ervoor dat je de opleiding optimaal integreert met je beroepspraktijk en direct resultaat boekt.</p><p><strong>Tijdsinvestering</strong></p><p>Deze master HRM heeft een flexibele doorlooptijd van maximaal 2,5 jaar, bestaande uit 8 masterclasses van 10 weken en een afstudeerfase van 20 weken. Per masterclass volg je 3 tot 5 bijeenkomsten tussen 14:00 en 21:00 uur. De gemiddelde studiebelasting bedraagt 10 tot 15 uur per week, waarbij je de overige leeractiviteiten online of op je eigen werkplek uitvoert. </p><p>Tijdens het intakegesprek bepaal je samen met de opleidingsmanager jouw persoonlijke programma en studievorm. Je kunt de route naar je hbo master HRM versnellen door validatie van werkervaring of het tempo aanpassen aan jouw werk- en privésituatie. Het uitgangspunt is dat je de opleiding zoveel mogelijk integreert met je beroepspraktijk, waardoor je direct toepast wat je leert.</p>]]></CourseFormat>
@@ -8856,7 +8770,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Language>nl</Language>
         <Duration>168</Duration>
         <Description><![CDATA[Word een toekomstgerichte HR-professional. Ontwikkel creatieve, data-gedreven oplossingen en maak direct impact op organisatie en innovatiekracht.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass HR-innovatie je op</strong></p><ul><li>Je hebt inzicht en tools in handen om met echte HR-oplossingen bij te dragen aan organisatievraagstukken van de toekomst.</li><li>Je kunt een ontwerp maken voor innovatieve oplossingsrichtingen voor strategische HR-vraagstukken door middel van data gedreven onderzoeksmethoden.</li><li>Je ontwikkelt creatieve oplossingsrichtingen in samenspraak met belangrijke stakeholders die actief betrokken zijn bij het vraagstuk.</li></ul><p><strong>Masterclass HR-innovatie opleiding voor vernieuwende HR-professionals</strong></p><p>De Masterclass HR-innovatie maakt van jou een toekomstgerichte HR-professional die met creatieve en data-gedreven oplossingen direct impact heeft op de organisatie. Je leert innovatieve strategieën ontwerpen en toepassen op échte vraagstukken binnen jouw eigen werkomgeving. Door gebruik te maken van wetenschappelijke inzichten, best practices en co-creatie met stakeholders ontwikkel je de vaardigheden om HR tot een motor voor vernieuwing te maken.</p><p><strong>Aan de slag met organisatie uitdagingen</strong></p><p>Deze masterclass richt zich op HR-adviseurs, -managers en -consultants die zoeken naar vernieuwende oplossingen voor organisatie-uitdagingen. Je maakt gebruik van best practices, wetenschappelijke inzichten en stimuleert creativiteit om je innovatievermogen te ontwikkelen. Door de praktijkgerichte aanpak werk je direct aan concrete vraagstukken binnen jouw eigen organisatiecontext.</p><p><strong>Praktijkgerichte HR-innovatie opleiding in leerteams</strong></p><p>Tijdens deze opleiding werk je individueel en in leerteams van 3 à 4 deelnemers aan opdrachten binnen jouw eigen context. Je leert door interactie met professionals uit diverse sectoren zoals zorg, commerciële dienstverlening en techniek. Deze samenwerking bouwt niet alleen je kennis uit, maar ook je professionele netwerk dat waardevol is voor je verdere carrière.</p>]]></DescriptionLong>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass HR-innovatie je op</strong></p><ul><li>Je verdiept je in HR-innovatie en leert vernieuwende oplossingsrichtingen voor complexe organisatievraagstukken te ontwikkelen.</li><li>Je leert data en onderzoek inzetten om HR-vraagstukken te analyseren en onderbouwde keuzes te maken.</li><li>Je ontwikkelt het vermogen om samen met relevante stakeholders tot gedragen en vernieuwende oplossingen te komen.</li></ul><p><strong>Verdiep je in HR-innovatie vanuit jouw eigen praktijk</strong></p><p>De Masterclass HR-innovatie geeft je inzicht in hoe je vernieuwende HR-oplossingen kunt ontwikkelen voor complexe vraagstukken binnen jouw organisatie. Je verdiept je in wetenschappelijke inzichten, onderzoeksmethoden en relevante ontwikkelingen en leert deze toe te passen op een concreet vraagstuk uit je eigen praktijk. Zo ontwikkel je niet alleen nieuwe kennis, maar ook een bredere blik op de mogelijkheden van HR binnen jouw organisatie.</p><p><strong>Onderzoek en ontwerp vanuit een concreet HR-vraagstuk</strong></p><p>Je eigen praktijk vormt het vertrekpunt van de masterclass. Je brengt een vraagstuk uit je organisatie in en onderzoekt dit met behulp van data, onderzoeksmethoden en wetenschappelijke inzichten. Vervolgens ontwikkel je verschillende oplossingsrichtingen en onderzoek je samen met relevante stakeholders wat nodig is om deze verder te brengen. Zo leer je innovatie niet alleen te bedenken, maar ook onderbouwd vorm te geven.</p><p><strong>Praktijkgericht leren op masterniveau</strong></p><p>Tijdens de masterclass werk je individueel en in leerteams met professionals uit verschillende organisaties en sectoren. Je wisselt ervaringen uit, kijkt vanuit verschillende perspectieven naar vraagstukken en krijgt feedback op je eigen aanpak. Door steeds de verbinding te maken met je eigen organisatie, vertaal je de verdieping direct naar je praktijk.</p><p><strong>Onderdeel van de Master of HRM</strong></p><p>Deze masterclass maakt onderdeel uit van de <a href="https://habeoplus.nl/opleidingen/hrm/hrm/master-of-hrm">Master of HRM</a> en biedt je verdieping in een onderwerp dat steeds belangrijker wordt binnen het HR-vak. Je ontwikkelt je vermogen om ontwikkelingen te onderzoeken, data en inzichten kritisch te benutten en nieuwe oplossingsrichtingen te ontwerpen voor complexe HR- en organisatievraagstukken.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Je bent een HR-adviseur, -manager of -consultant die zoekt naar vernieuwende oplossingen om bij te dragen aan organisatie-uitdagingen op korte en middellange termijn. Je wilt gebruik maken van best practices, wetenschappelijke inzichten en creativiteit om je innovatievermogen te ontwikkelen en strategische HR-vraagstukken op te lossen.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass HR-innovatie biedt een volledig praktijkgerichte aanpak waarin je individueel en in leerteams van 3 à 4 deelnemers werkt aan opdrachten binnen jouw eigen organisatiecontext. Je vormt samen met andere professionals uit diverse sectoren zoals zorg, dienstverlening en techniek leerteams die je zelf samenstelt. Via een mix van activerende, praktijkgerichte leeractiviteiten en een online leerplatform verdiep je je theoretisch en praktisch in HR-innovatie. Je krijgt individueel en gezamenlijk feedback van experts en collega's. De 10 weken durende masterclass sluit je af met een concrete beroepsprestatie binnen jouw organisatie, waardoor je direct resultaat boekt voor je persoonlijke ontwikkeling én je werkgever. Deze aanpak bouwt tegelijkertijd een waardevol professioneel netwerk op.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass HR-innovatie duurt 10 weken met een gemiddelde studiebelasting van 10 tot 15 uur per week. Je volgt 3 tot 5 bijeenkomsten tussen 14:00 en 21:00 uur, waardoor je de opleiding goed kunt combineren met je werk en privéleven. Naast de klassikale bijeenkomsten bestudeer je zelfstandig literatuur en werk je aan je organisatievraagstuk binnen je eigen werkcontext. </p><p>Ook werk je samen met je leerteam aan opdrachten via het online leerplatform, waar je ervaringen deelt en elkaar feedback geeft. Het uitgangspunt is dat je de masterclass zo veel mogelijk integreert met je beroepspraktijk. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van deze masterclass HR-innovatie ontvang je het certificaat HR-innovatie. Dit certificaat toont aan dat je je innovatievermogen hebt ontwikkeld en concrete tools beheerst voor strategische HR-vraagstukken. Je kunt dit certificaat gebruiken als bewijs van je expertise in HR-innovatie en als opstap naar verdere ontwikkeling. </p><p>De masterclass biedt ook de mogelijkheid om door te stromen naar de volledige <a href="https://habeoplus.nl/opleidingen/hrm/hrm/master-of-hrm"><strong>Master of HRM</strong></a> opleiding, waarbij je een vrijblijvend adviesgesprek kunt inplannen om de mogelijkheden te bespreken.</p>]]></CertValue>
@@ -8895,6 +8809,24 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                     <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>2115-5DMIN01025</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2115-5DMIN01026</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -8902,8 +8834,8 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Title>Masterclass HR strategie</Title>
         <Language>nl</Language>
         <Duration>168</Duration>
-        <Description><![CDATA[Word strategische HR-professional: vertaal complexe vraagstukken naar agile oplossingen en maak direct impact in jouw organisatie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass HR strategie je op</strong></p><ul><li>Je werkt strategische HR-vraagstukken uit in concrete, agile stappen binnen complexe organisaties.</li><li>Je draagt via gerichte HR-interventies bij aan waardecreatie voor klanten en medewerkers.</li><li>Je verbindt menselijk kapitaal effectief met de organisatiestrategie en bouwt wendbare, toekomstbestendige teams.</li></ul><p><strong>HR strategie in jouw organisatie</strong></p><p>De Masterclass HR Strategie maakt van jou een strategische HR-professional die direct verschil maakt in de organisatie. In 10 weken leer je complexe vraagstukken vertalen naar concrete, agile stappen die waarde creëren voor zowel medewerkers als klanten. Je ontdekt hoe je menselijk kapitaal effectief verbindt met de organisatiestrategie en ontwikkelt de vaardigheden om wendbare, toekomstbestendige teams te bouwen.</p><p>Of je nu HR-adviseur, manager of leidinggevende bent: deze masterclass versterkt jouw positie als strategische gesprekspartner en opent deuren naar nieuwe mogelijkheden. Het resultaat? Meer impact, meer zelfvertrouwen en een netwerk dat je carrière een blijvende boost geeft.</p><p><strong>Masterclass die HR strategie naar de praktijk vertaalt</strong></p><p>Deze masterclass brengt jou van HR-theorie naar concrete organisatieresultaten. Je werkt in leerteams van 3 à 4 professionals aan echte strategische vraagstukken uit jouw eigen organisatie. Door interactie met HR-experts uit verschillende sectoren zoals zorg, dienstverlening en techniek, ontwikkel je een brede kijk op strategische HR-uitdagingen en bouw je een waardevol netwerk op voor je verdere carrière.</p><p><strong>Praktijkgerichte opleiding voor wendbare organisatieontwikkeling</strong></p><p>Vanuit een mix van activerende leeractiviteiten en online samenwerking leer je dynamische complexiteit binnen organisaties hanteerbaar te maken. Je krijgt individuele en gezamenlijke feedback van onze experts en werkt toe naar een beroepsprestatie die direct implementeerbaar is in jouw organisatie. Zo bereik je meer voor jouw persoonlijke ontwikkeling én voor je werkgever.</p><p><strong>Strategische HR-opleiding die nieuwsgierigheid omzet in actie</strong></p><p>Je rondt de masterclass af met concrete HR-interventies die waarde creëren en de behoeften van klanten en medewerkers samenbrengen. Door de combinatie van theoretische verdieping en praktijkgerichte opdrachten ontwikkel je de vaardigheid om strategische vraagstukken aan te pakken in de voortdurend veranderende wereld van vandaag.</p><p>Deze masterclass is bij het Schoolleidersregister Ascenda gecertificeerd met 90 punten herregistratiewaarde.</p>]]></DescriptionLong>
+        <Description><![CDATA[Verdiep je in strategisch HRM, analyseer complexe HR-vraagstukken en leer strategische keuzes te verbinden aan jouw eigen organisatiepraktijk.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass HR strategie je op</strong></p><ul><li>Je verdiept je in strategische HR-vraagstukken en leert deze vanuit verschillende perspectieven te analyseren.</li><li>Je verbindt HR-strategie met organisatieontwikkeling en leert onderbouwde keuzes te maken binnen jouw eigen praktijk.</li><li>Je ontwikkelt je vermogen om complexe HR-vraagstukken op strategisch niveau te doorgronden en te vertalen naar de praktijk.</li></ul><p><strong>Verdiep je in HR-strategie vanuit jouw eigen praktijk</strong></p><p>De Masterclass HR Strategie geeft je de ruimte om je kennis van strategisch HRM te verdiepen en je blik op organisatievraagstukken te verbreden. Je onderzoekt hoe HR en organisatiestrategie elkaar beïnvloeden en leert verschillende belangen en perspectieven met elkaar te verbinden. Daarbij staat jouw eigen praktijk centraal: je brengt een concreet vraagstuk uit je organisatie in en gaat hier op masterniveau mee aan de slag.</p><p><strong>Van strategisch HR-vraagstuk naar onderbouwd inzicht</strong></p><p>In deze masterclass combineer je theoretische verdieping met een concrete vraag uit jouw eigen organisatie. Je werkt samen met andere ervaren HR-professionals en leert vanuit verschillende perspectieven naar strategische vraagstukken te kijken. Door onderzoek te doen binnen je eigen organisatie verdiep je niet alleen je kennis, maar ontwikkel je ook nieuwe inzichten in je eigen praktijk.</p><p><strong>Praktijkgericht leren op masterniveau</strong></p><p>De Masterclass HR Strategie is praktijkgericht en doelgericht. Je werkt met specifieke thema’s en actuele vraagstukken en vertaalt de opgedane kennis steeds naar jouw eigen werkomgeving. Je eigen casuïstiek vormt daarbij het vertrekpunt. Zo leer je niet alleen over strategisch HRM, maar ontwikkel je ook het vermogen om complexe vraagstukken zelfstandig te analyseren en onderbouwd te benaderen.</p><p><strong>Onderdeel van de Master of HRM</strong></p><p>Deze masterclass maakt onderdeel uit van de <a href="https://habeoplus.nl/opleidingen/hrm/hrm/master-of-hrm">Master of HRM</a> en biedt je een inhoudelijke verdieping binnen het vakgebied. Je ontwikkelt je verder als HR-professional en krijgt meer inzicht in de strategische vraagstukken die spelen op het snijvlak van mens en organisatie. De kennis en vaardigheden die je hier ontwikkelt, kun je direct verbinden aan je eigen werk en organisatie.</p><p>Deze masterclass is bij het Schoolleidersregister Ascenda gecertificeerd met 90 punten herregistratiewaarde.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Ben jij een HR-adviseur, -manager, leidinggevende die het menselijk kapitaal wil verbinden met de strategie? En die de dynamische complexiteit binnen de organisatie hanteerbaar en eenvoudig wil maken met onderbouwde kennis en daadwerkelijk ontwikkelingen tot stand wil brengen? Volg dan deze boeiende Masterclass HR-strategie en zet je nieuwsgierigheid om in actie.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze praktijkgerichte masterclass werkt met leerteams van 3 à 4 deelnemers waarin je individueel en gezamenlijk aan opdrachten werkt binnen jouw eigen organisatiecontext. Je leert door interactie met HR-professionals uit diverse sectoren zoals zorg, commerciële dienstverlening en techniek, waardoor je een breed netwerk opbouwt. De lesvorm is gekozen om optimaal aan te sluiten bij de praktijk en combineert activerende, praktijkgerichte leeractiviteiten met online samenwerking. Op het online leerplatform vindt kennisoverdracht en samenwerking plaats, waar je individueel en gezamenlijk feedback krijgt van experts. Je rondt de masterclass af met een beroepsprestatie binnen jouw organisatie, zodat je concrete resultaten bereikt voor zowel jouw persoonlijke ontwikkeling als je werkgever. Zo integreer je de opleiding maximaal met je beroepspraktijk.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass heeft een doorlooptijd van 10 weken met 3 tot 5 bijeenkomsten tussen 14:00 en 21:00 uur. Je investeert gemiddeld 10 tot 15 uur per week, waarbij je de tijd flexibel indeelt naast jouw werkzaamheden. Naast de bijeenkomsten bestudeer je zelfstandig literatuur en werk je aan jouw organisatievraagstuk binnen je eigen bedrijf. In je leerteam werk je samen aan opdrachten, deel je ervaringen en geef je elkaar feedback via het online leerplatform. </p><p>Het uitgangspunt is dat je de masterclass maximaal integreert met je beroepspraktijk, waardoor elke geïnvesteerde uur direct waarde toevoegt. Je wordt getoetst op prestaties die je levert binnen jouw organisatie, zodat je leerproces naadloos aansluit bij jouw dagelijkse HR-uitdagingen. Deze opzet maakt het mogelijk om strategische HR-kennis te ontwikkelen zonder dat dit ten koste gaat van je werkzaamheden.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvol afronden ontvang je het officiële certificaat HR-strategie, waarmee je jouw expertise op het gebied van strategisch HR-management bevestigt. Dit certificaat toont aan dat je in staat bent om strategische HR-vraagstukken binnen complexe organisaties uit te werken in concrete, agile stappen. Met dit certificaat positioneer je jezelf als de strategische HR-professional die waardecreatie realiseert en organisaties wendbaar en toekomstbestendig maakt.</p><p>De masterclass maakt onderdeel uit van de volledige masteropleiding <a href="https://habeoplus.nl/opleidingen/hrm/hrm/master-of-hrm"><strong>Master of HRM</strong></a>, wat jou de mogelijkheid biedt om door te stromen naar een volledig mastertraject. Je kunt een vrijblijvend adviesgesprek plannen met onze opleidingsmanager om samen de vervolgmogelijkheden te bespreken en jouw HR-carrière verder vorm te geven. </p>]]></CertValue>
@@ -8987,6 +8919,24 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2117-3BICA02003</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2117-3BICA02004</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9118,7 +9068,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Language>nl</Language>
         <Duration>168</Duration>
         <Description><![CDATA[Begrijp en beïnvloed menselijk gedrag in organisaties, creëer beweging en vergroot jouw impact in veranderingstrajecten en leiderschap.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass Organisatiepsychologie je op</strong></p><ul><li>Je zet organisatie psychologische kennis bewust in om gedrag van individuen en groepen te begrijpen en te beïnvloeden.</li><li>Je analyseert, evalueert en verbetert veranderingstrajecten waarbij de human factor een cruciale rol speelt.</li><li>Je ontwikkelt het vermogen om in je eigen gedrag mee te bewegen met wat een situatie vraagt en stimuleert gewenste beweging in de organisatie.</li></ul><p><strong>Aan de slag met organisatiepsychologie </strong></p><p>In deze masterclass leer je naar organisaties kijken vanuit verschillende invalshoeken. De Masterclass Organisatiepsychologie geeft jou de kennis en vaardigheden om menselijk gedrag in organisaties te begrijpen én doelgericht te beïnvloeden. Je leert hoe de human factor het verschil maakt bij veranderingstrajecten en hoe je zowel je eigen gedrag als dat van anderen bewust inzet om beweging te creëren.</p><p><strong>Organisatiepsychologie opleiding voor praktijkgerichte ontwikkeling</strong></p><p>Deze masterclass biedt je een nieuwe manier van waarnemen die je bewust inzet in je dagelijkse werkzaamheden. Je leert gedragsveranderingen te ontwikkelen die effectieve beweging in je organisatie bewerkstelligen. Door te werken in leerteams van 3 à 4 deelnemers verdiep je je theoretisch en praktijkgericht, terwijl je een waardevol netwerk opbouwt met professionals uit diverse sectoren.</p><p><strong>Masterclass opleiding met focus op veranderingstrajecten en interventies</strong></p><p>Je rondt de masterclass af met een concrete beroepsprestatie binnen jouw eigen organisatie, waardoor je meer bereikt voor zowel je persoonlijke ontwikkeling als je werkgever. Het programma combineert activerende online leeractiviteiten met praktijkgerichte opdrachten die direct aansluiten op jouw organisatievraagstuk. Zo integreer je het leren optimaal met je beroepspraktijk.</p><p>Deze masterclass is bij het Schoolleidersregister PO gecertificeerd met 90 punten herregistratiewaarde.</p>]]></DescriptionLong>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de Masterclass Organisatiepsychologie je op</strong></p><ul><li>Je verdiept je in organisatiepsychologische inzichten en leert gedrag van individuen en groepen in organisaties analyseren.</li><li>Je leert de invloed van gedrag en de human factor op veranderingstrajecten begrijpen en hier gericht op interveniëren.</li><li>Je ontwikkelt het vermogen om je eigen handelen bewust af te stemmen op wat een situatie vraagt en beweging in organisaties te stimuleren.</li></ul><p><strong>Verdiep je in organisatiepsychologie vanuit jouw eigen praktijk</strong></p><p>De Masterclass Organisatiepsychologie geeft je een verdiepend inzicht in menselijk gedrag binnen organisaties. Je leert gedrag vanuit verschillende perspectieven te analyseren en onderzoekt welke factoren van invloed zijn op individuen, groepen en organisatieverandering. Je brengt een eigen vraagstuk uit je praktijk in en past de opgedane kennis toe op een concrete situatie binnen jouw organisatie.</p><p><strong>Begrijp gedrag en de human factor in verandering</strong></p><p>Verandering vraagt niet alleen om een goede strategie, maar ook om inzicht in wat mensen beweegt. Tijdens deze masterclass verdiep je je in de psychologische factoren die een rol spelen bij gedrag en verandering. Je leert bestaande situaties analyseren, interventies onderbouwen en bewust omgaan met je eigen rol en gedrag. Zo ontwikkel je een scherper inzicht in wat nodig is om beweging binnen een organisatie te stimuleren.</p><p><strong>Praktijkgericht leren op masterniveau</strong></p><p>Je werkt individueel en in leerteams met professionals uit verschillende organisaties en sectoren. Aan de hand van specifieke thema’s en praktijkvraagstukken verdiep je je in de theorie en vertaal je deze naar je eigen werkomgeving. Je eigen casuïstiek vormt daarbij het vertrekpunt. Zo ontwikkel je niet alleen je kennis van organisatiepsychologie, maar leer je deze ook zelfstandig en onderbouwd toe te passen.</p><p><strong>Onderdeel van de Master of HRM</strong></p><p>Deze masterclass maakt onderdeel uit van de Master of HRM en biedt verdieping in een essentieel aspect van HRM: de mens achter gedrag en verandering. Je ontwikkelt je vermogen om gedrag beter te begrijpen, verschillende perspectieven te herkennen en je eigen handelen bewust in te zetten binnen complexe organisatiesituaties.</p><p>Deze masterclass is bij het Schoolleidersregister PO gecertificeerd met 90 punten herregistratiewaarde.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Je bent HR-adviseur, -manager, business controller, adviseur of leidinggevende die meer inzicht wil in individuele en collectieve gedragsbeïnvloeding om effectief verandering te bereiken.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je werkt per masterclass individueel en in leerteams van 3 à 4 deelnemers aan opdrachten binnen jouw eigen organisatiecontext. De samenstelling van je leerteam bepaal je zelf, waardoor je leert door interactie met professionals uit diverse sectoren zoals zorg, dienstverlening en techniek. We hanteren een praktijkgerichte mix van activerende online leeractiviteiten op ons leerplatform waar kennisoverdracht en samenwerking plaatsvindt. Je krijgt individueel en gezamenlijk feedback van experts en bereikt samen de gewenste verdieping in organisatiepsychologie. De masterclass rond je af met een concrete beroepsprestatie binnen jouw organisatie, zodat je meer bereikt voor je persoonlijke ontwikkeling én voor je werkgever.</p><p><strong>Tijdsinvestering</strong></p><p>De Masterclass Organisatiepsychologie duurt 10 weken met een gemiddelde studiebelasting van 10 tot 15 uur per week, perfect te combineren met jouw drukke werkschema. Je volgt 3 tot 5 bijeenkomsten tussen 14:00 en 21:00 uur, waardoor je overdag gewoon kunt werken. Naast de bijeenkomsten bestudeer je zelfstandig literatuur en werk je aan jouw eigen organisatievraagstuk binnen je bedrijf. </p><p>Het online leerplatform ondersteunt je bij het samenwerken met je leerteam, het delen van ervaringen en het geven van feedback aan elkaar. Door deze slimme opzet integreer je het leren optimaal met je beroepspraktijk en zie je direct resultaat in je dagelijkse werk. De toetsing vindt plaats op basis van prestaties die je levert binnen jouw eigen organisatie, waardoor elke investering van tijd direct waarde oplevert.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van deze masterclass ontvang je het certificaat Organisatiepsychologie, dat je expertise op dit vakgebied bevestigt. Dit certificaat opent deuren naar vervolgmogelijkheden binnen je carrière en organisatie. Deze masterclass vormt een solide basis voor verdere specialisatie in organisatiepsychologie en strategisch management. Met dit certificaat ben je klaar om gedragsveranderingen in organisaties professioneel te begeleiden en te implementeren.</p><p>Je kunt doorgroeien door deel te nemen aan de volledige masteropleiding <a href="https://habeoplus.nl/opleidingen/hrm/hrm/master-of-hrm">Master of HRM</a> of het <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/strategisch-management/basisjaar-master-strategisch-management">Basisjaar Master Strategisch management</a>. Je krijgt dan vrijstelling voor de gevolgde masterclass. </p>]]></CertValue>
@@ -9149,12 +9099,39 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
+                <Code>2120-5DMOP01037</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>2120-5DMOP01047</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2120-5DMOP01039</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2120-5DMOP01040</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9550,10 +9527,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2138-3BPCO01025</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-25</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-11-12T17:00:00" />
+                    <Session StartDateTime="2026-11-25T09:00:00" EndDateTime="2027-11-12T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -9880,44 +9857,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2158</Code>
-        <Title>Empower 3: basic operation</Title>
-        <Language>nl</Language>
-        <Duration>16</Duration>
-        <Description><![CDATA[Training Empower 3: leer software bedienen, systemen en methodes aanmaken, analyses uitvoeren en direct oefenen op een LC-opstelling.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Empower 3: basic operation je op</strong></p><ul><li>Je bedient zelfstandig en efficiënt de Empower 3 software.</li><li>Je maakt instrumenten aan, brengt ze online en start injecties.</li><li>Je herkent en lost problemen met de software op.</li></ul><p><strong>Praktische Empower 3 training voor laboratoriummedewerkers</strong></p><p>Deze tweedaagse training richt zich volledig op de praktische bediening van Empower 3 software. Je leert door directe toepassing op een werkstation dat gekoppeld is aan een LC-opstelling. Tijdens de training gebruik je een laptop met geïnstalleerde Empower 3 software, zodat je alle functies hands-on kunt oefenen. De nadruk ligt op effectieve softwarebediening die je direct kunt toepassen in je dagelijkse werk.</p><p><strong>Empower 3 cursus voor GC en HPLC bediening</strong></p><p>Of je nu werkt met GC, HPLC of UPLC systemen, deze training geeft je de vaardigheden om Empower 3 optimaal te benutten. Je leert methodes aanmaken, injecties starten en resultaten correct integreren en berekenen. Door de combinatie van Nederlandse uitleg en Engelstalige software word je vertrouwd met beide aspecten van het systeem.</p><p><strong>Specialistische opleiding software troubleshooting</strong></p><p>Naast de basisbediening ontwikkel je ook probleemoplossende vaardigheden. Je leert software problemen herkennen en zelfstandig op te lossen, waardoor je minder afhankelijk wordt van externe support. Deze praktische kennis maakt je een waardevolle specialist binnen je team die anderen kan ondersteunen bij Empower 3 gerelateerde uitdagingen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Bedien je een GC, HPLC of UPLC die wordt aangestuurd via Empower 3 software? Ben je verantwoordelijk voor deze apparatuur en wil je de software goed en effectief leren bedienen? Deze training is perfect voor jou als je jouw vaardigheden wilt uitbreiden en zelfstandiger wilt werken.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De training richt zich volledig op de praktische werking van Empower 3 software en de directe toepassing daarvan. Je werkt tijdens de sessies op een Empower 3 werkstation dat gekoppeld is aan een (virtuele) LC-opstelling. Hierdoor leer je alle functies hands-on toe te passen in een realistische laboratoriumomgeving. Je krijgt een laptop met geïnstalleerde Empower 3 software tot je beschikking, waardoor je zelfstandig kunt oefenen. De training is Nederlandstalig, maar de software zelf is Engelstalig. Door deze combinatie raak je vertrouwd met beide aspecten van het systeem. De nadruk ligt op effectieve softwarebediening die je direct kunt gebruiken in je dagelijkse werk.</p><p><strong>Tijdsinvestering</strong></p><p>Deze training vraagt een tijdsinvestering van twee aaneengesloten dagen waarin je je volledig kunt richten op Empower 3 software. De eerste dag start om 9.30 uur en duurt tot 17.00 uur, zodat je rustig kunt beginnen met de software functies. De tweede dag start om 9.00 uur en eindigt om 16.00 uur, waardoor je de training op een ontspannen manier kunt afsluiten. Door de opeenvolgende dagen bouw je stap voor stap je Empower 3 vaardigheden op zonder onderbrekingen. De compacte opzet zorgt ervoor dat je in korte tijd alle essentiële functies leert beheersen. Deze gefocuste aanpak betekent dat je na twee dagen zelfstandig en efficiënt met de software kunt werken in je eigen laboratorium.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze training ontvang je een bewijs van deelname dat jouw vaardigheden in Empower 3 software officieel bevestigt. Dit certificaat toont aan dat je zelfstandig en efficiënt kunt werken met deze software voor GC, HPLC en UPLC systemen. Het diploma maakt je een waardevolle kracht binnen je laboratorium die anderen kan ondersteunen bij Empower 3 gerelateerde uitdagingen. Deze expertise opent mogelijkheden voor meer verantwoordelijkheden in de analytische processen.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1704,00</Base>
-                <Vat>357,84</Vat>
-                <VatFree>2061,84</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>146,00</Base>
-                <Vat>13,14</Vat>
-                <VatFree>159,14</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2158-6FEBO01005</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-12-14</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-14T09:00:00" EndDateTime="2026-12-15T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2160</Code>
         <Title>Laborant</Title>
         <Language>nl</Language>
@@ -10127,15 +10066,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2168-2BAST01048</Code>
-                <Location>Zwolle</Location>
-                <DiscontinuedFrom>2027-08-30</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-08-30T09:00:00" EndDateTime="2027-11-08T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2168-2BAST01049</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-11-16</DiscontinuedFrom>
@@ -10309,10 +10239,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2195-1EBCP01007</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-17</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-21T17:00:00" />
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-04-21T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -10535,15 +10465,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2205-2BDMC01047</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-02-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-08T09:00:00" EndDateTime="2027-04-19T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2205-2BDMC01048</Code>
-                <Location>Zwolle</Location>
                 <DiscontinuedFrom>2027-02-08</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -10951,15 +10872,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2238-2BHVC02003</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2027-02-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2238-2BHVC02004</Code>
-                <Location>Zwolle</Location>
                 <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -11778,15 +11690,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2279-2BLEE01048</Code>
-                <Location>Zwolle</Location>
-                <DiscontinuedFrom>2027-05-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-05-03T09:00:00" EndDateTime="2027-07-05T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2279-2BLEE01049</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-08-31</DiscontinuedFrom>
@@ -11825,39 +11728,30 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2285-7BIKC01051</Code>
-                <Location>Amersfoort</Location>
-                <DiscontinuedFrom>2026-10-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-09T09:00:00" EndDateTime="2027-05-21T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2285-7BIKC01050</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-09T09:00:00" EndDateTime="2027-05-21T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2285-7BIKC01052</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-10-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-09T09:00:00" EndDateTime="2027-04-16T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2285-7BIKC01053</Code>
                 <Location>Middelburg</Location>
                 <DiscontinuedFrom>2026-11-13</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-13T09:00:00" EndDateTime="2027-07-02T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2285-7BIKC01055</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-03-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-05T09:00:00" EndDateTime="2027-11-19T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2285-7BIKC01056</Code>
+                <Location>Den Bosch</Location>
+                <DiscontinuedFrom>2027-03-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-05T09:00:00" EndDateTime="2027-11-19T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12038,7 +11932,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Description><![CDATA[Bouw jouw huidige vaardigheden uit en help ouderen beter met specialistische kennis. In slechts 1,5 jaar via een efficiënt master na master traject.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de Master na master Geriatriefysiotherapie je op</strong></p><ul><li>Je maakt onderbouwde keuzes op basis van klinisch redeneren voor en met jouw patiënten.</li><li>Je werkt volgens Evidence Based Practice binnen de driehoek wetenschappelijk bewijs, patient values en eigen expertise.</li><li>Je kunt je aanmelden bij Chronisch ZorgNet voor de specialisatie OVB en hartspecialisatie.</li></ul><p><strong>Verkorte master geriatriefysiotherapie voor masteropgeleide fysiotherapeuten</strong></p><p>Met deze master na master specialiseer je je wellicht al 1,5 jaar als geriatriefysiotherapeut. Je volgt alleen de stof die je nog niet hebt gehad, dankzij mogelijke individuele vrijstellingen of op basis van jouw eerder verworven competenties. Deze NVAO-geaccrediteerde opleiding bouwt voort op jouw bestaande masterkennis en richt zich volledig op geriatrie-specifieke kennis &amp; vaardigheden.</p><p><strong>Hoogwaardige zorg voor ouderen</strong></p><p>Je biedt ouderen met complexe problematiek gerichte, effectieve zorg. Met klinisch redeneren en functioneel trainen ondersteun je hen optimaal bij uiteenlopende ziektebeelden en medische behandelingen, waardoor hun zelfstandigheid en kwaliteit van leven verbeteren.</p><p><strong>Geaccrediteerde opleiding met directe registratie bij KRF-NL</strong></p><p>Na afronding ontvang je 24 punten per studiejaar voor het basisregister Fysiotherapie, plus een eenmalige bonus van 50 punten bij je diploma. Je kunt je direct inschrijven in het deelregister van het Kwaliteits Register Fysiotherapie. Je versterkt je positie als gespecialiseerd geriatriefysiotherapeut in de zorgmarkt en brengt jullie praktijk naar een hoger niveau. </p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze Master na master is een opleidingsvariant van de complete master en is bedoeld voor master afgestudeerde fysiotherapeuten die hun functie verder willen verdiepen en verbreden. Met een master fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor de opleiding maar 1.5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden. De gecommuniceerde prijs is gebaseerd op de aanname dat de vrijstellingen verleend worden. (Zie verder studiekosten)</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master na master volg je via blended learning met minder klassikale bijeenkomsten, waardoor je reiskosten en -tijd bespaart. Blended learning is een mix van onderwijsvormen zoals werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Eenmaal per 2 à 3 weken heb je een bijeenkomst, aangevuld met werk in regionale groepen. Voor de start plan je een individueel intakegesprek met de opleidingsmanager om wederzijdse verwachtingen af te stemmen. De toetsing is volledig praktijkgericht: geen kennistoetsen, maar opdrachten aan de hand van casuïstiek en patiëntvolging tijdens je werk. Je leert van het meekijken bij collega-deelnemers en geeft elkaar feedback. Deze aanpak bespaart essentiële tijd die je aan patiënten kunt besteden. </p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant </a>bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p> Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master na master volg je via blended learning met minder klassikale bijeenkomsten, waardoor je reiskosten en -tijd bespaart. Blended learning is een mix van onderwijsvormen zoals werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Eenmaal per 2 à 3 weken heb je een bijeenkomst, aangevuld met werk in regionale groepen. Voor de start plan je een individueel intakegesprek met de opleidingsmanager om wederzijdse verwachtingen af te stemmen. De toetsing is volledig praktijkgericht: geen kennistoetsen, maar opdrachten aan de hand van casuïstiek en patiëntvolging tijdens je werk. Je leert van het meekijken bij collega-deelnemers en geeft elkaar feedback. Deze aanpak bespaart essentiële tijd die je aan patiënten kunt besteden. Binnen het werkleren verwachten we dat je 8 uur per week werkzaam bent met de doelgroep</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant </a>bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p> Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van deze master na master ontvang je het bijbehorende certificaat welke jou kwalificeert als master in de geriatrie fysiotherapie. e opleiding is geaccrediteerd door de NVAO en je kunt je direct inschrijven in het deelregister van het Kwaliteits Register Fysiotherapie (KRF-NL) en bent geregistreerd bij het CKR en Het Keurmerk Fysiotherapie. Vanaf november 2024 kun je je als master geschoolde geriatriefysiotherapeut aanmelden bij Chronisch ZorgNet voor de specialisatie OVB en hartspecialisatie. Deze kwalificatie opent nieuwe deuren naar gespecialiseerde zorgtrajecten en versterkt jouw positie als erkend specialist in de geriatriefysiotherapie.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2298">brochure</a>.</p>]]></CertValue>
         <Level>Master</Level>
         <PriceBase>
@@ -12087,7 +11981,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Description><![CDATA[Snel en efficiënt je tweede master halen? Maak dagelijks het verschil als oncologiefysiotherapeut en dat in slechts 1,5 jaar.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de Master na master Oncologie-fysiotherapie je op</strong></p><ul><li>Je maakt onderbouwde keuzes op basis van klinisch redeneren voor en met jouw oncologiepatiënten.</li><li>Je werkt volgens Evidence Based Practice binnen de driehoek wetenschappelijk bewijs, patient values en eigen expertise.</li><li>Je vergroot jouw kansen op de arbeidsmarkt binnen de schaarse specialisatie oncologiefysiotherapie.</li></ul><p><strong>Verkort traject oncologiefysiotherapie voor masteropgeleide fysiotherapeuten</strong></p><p>Met deze master na master specialiseer je je in slechts 1,5 jaar als oncologiefysiotherapeut. Door mogelijke individuele vrijstellingen of op basis van jouw eerder verworven competenties volg je alleen de stof die je nog niet hebt gehad. Het taakgericht oefenen en trainen staat centraal in deze NVAO-geaccrediteerde opleiding, waarbij je tijdens de studie al met de oncologische doelgroep werkt.</p><p><strong>Effectieve zorg voor oncologiepatiënten</strong></p><p>Deze opleiding combineert blended learning met een studiebelasting van 18 uur per week, verspreid over jouw eigen planning. Je hebt slechts eenmaal per 2 à 3 weken een bijeenkomst en werkt in regionale groepen. De toetsing gebeurt volledig aan de hand van echte casuïstiek uit jouw praktijk, zodat je direct toepast wat je leert en essentiële tijd bespaart voor jouw patiëntenzorg.</p><p><strong>Geaccrediteerde opleiding met grote arbeidsmarktwaarde</strong></p><p>Met deze master word je een expert in oncologiefysiotherapie. Je levert directe impact in de praktijk, biedt gespecialiseerde zorg op maat en versterkt je positie als onmisbare schakel in het behandeltraject van oncologiepatiënten. Na afronding ontvang je 24 punten per studiejaar voor het basisregister Fysiotherapie, plus een eenmalige bonus van 50 punten bij je diploma. Omdat er in Nederland nog weinig oncologiefysiotherapeuten werkzaam zijn, terwijl de behoefte groot is door de omvang van de doelgroep, versterk je jouw positie aanzienlijk op de arbeidsmarkt.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze Master na master is een opleidingsvariant van de complete master en is bedoeld voor master afgestudeerde fysiotherapeuten die hun functie verder willen verdiepen en verbreden. Met een master fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor de opleiding maar 1.5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden. De gecommuniceerde prijs is gebaseerd op de aanname dat de vrijstellingen verleend worden. (Zie verder studiekosten)</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master na master volg je via blended learning met minder klassikale bijeenkomsten, waardoor je reiskosten en -tijd bespaart. We werken met een mix van onderwijsvormen zoals werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Eenmaal per 2 à 3 weken heb je een bijeenkomst, aangevuld met werk in regionale groepen die flexibel kunnen worden ingepland. De toetsing is volledig praktijkgericht: geen kennistoetsen, maar opdrachten aan de hand van casuïstiek en patiëntvolging tijdens je werk. Je leert van het meekijken bij collega-deelnemers en geeft elkaar feedback. Deze aanpak bespaart essentiële tijd die je aan patiënten kunt besteden. Ook <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany-opleidingen </a>zijn mogelijk.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2299">brochure</a>.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master na master volg je via blended learning met minder klassikale bijeenkomsten, waardoor je reiskosten en -tijd bespaart. We werken met een mix van onderwijsvormen zoals werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Eenmaal per 2 à 3 weken heb je een bijeenkomst, aangevuld met werk in regionale groepen die flexibel kunnen worden ingepland. De toetsing is volledig praktijkgericht: geen kennistoetsen, maar opdrachten aan de hand van casuïstiek en patiëntvolging tijdens je werk. Je leert van het meekijken bij collega-deelnemers en geeft elkaar feedback. Deze aanpak bespaart essentiële tijd die je aan patiënten kunt besteden. Binnen het werkleren verwachten we dat je 8 uur per week werkzaam bent met de doelgroep. Ook <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany-opleidingen </a>zijn mogelijk.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2299">brochure</a>.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van deze master na master ontvang je het bijbehorende certificaat van de NVAO-geaccrediteerde opleiding. Je kunt je direct inschrijven in het deelregister van het Kwaliteits Register Fysiotherapie (KRF-NL) en bent geregistreerd bij het CKR en Het Keurmerk Fysiotherapie. Deze kwalificatie opent de deur naar een specialisatie waar in Nederland nog weinig masters werkzaam zijn, terwijl de behoefte groot is door de omvang van de oncologische doelgroep. Je versterkt hiermee aanzienlijk jouw positie op de arbeidsmarkt binnen de oncologiefysiotherapie en opent nieuwe deuren naar gespecialiseerde zorgtrajecten zoals bijvoorbeeld <a href="https://habeoplus.nl/opleidingen/fysiotherapie/extended-scope-beweegspecialist-huisartsenzorg/extended-scope">Extented Scope beweegspecialist huisartsenzorg</a> .</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2299">brochure</a>.</p>]]></CertValue>
         <Level>Master</Level>
         <PriceBase>
@@ -12118,7 +12012,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Description><![CDATA[Deze master na master zet je bestaande masterkennis voort, voegt specialistische vaardigheden toe en laat je óók uitblinken in kinderfysiotherapie.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding tweede masteropleiding Kinderfysiotherapie je op</strong></p><ul><li>Je maakt onderbouwde keuzes voor en met je patiënten op basis van klinisch redeneren.</li><li>Je werkt volgens Evidence Based Practice binnen de driehoek wetenschappelijk bewijs, patient values en eigen expertise.</li><li>Je krijgt registratie bij het CKR en Het Keurmerk Fysiotherapie plus 50 bonuspunten bij succesvol afronden.</li></ul><p><strong>Uniek online vragenuur met docent van de Master Kinderfysiotherapie</strong></p><p>Heb je inhoudelijke vragen over de Master Kinderfysiotherapie? Dan is onze vragenavond met onze docent Wendy Aartssen van de Master Kinderfysiotherapie echt wat voor jou. Zij is al 25 jaar een vakexpert en al jaren onze hoofddocent. Op dinsdag 24 november om 20.00 zit Wendy <strong>online</strong> klaar om al jouw vragen over de opleiding te beantwoorden. Vind je het leuk om haar al te ontmoeten én al je vragen te stellen? <a href="https://habeoplus.nl/voorlichtingsbijeenkomst-inschrijven?recruitment-activity-type=voorlichting&amp;recruitment-activity-id=619&amp;selection-mode=activity">Schrijf je dan snel in</a> en laat je volledig inlichten over deze opleiding. Ben je verhinderd op deze datum stel dan je vragen via de mail via <a href="mailto:jbrock@habeoplus.nl">jbrock@habeoplus.nl</a>.</p><p><strong>Opleiding die je expertise in kinderfysiotherapie naar een hoger niveau tilt</strong></p><p>Deze tweede masteropleiding bouwt voort op je bestaande masterkennis en specialiseert je volledig in de behandeling van kinderen. Door het efficiënte traject leer je alleen wat je nog niet weet. Het taakgericht oefenen en trainen staat centraal, waardoor je direct kunt toepassen wat je leert in je dagelijkse praktijk met jonge patiënten. Ontdek in de <a href="https://youtube.com/shorts/Raj-ceOOlO0">video</a> hoe dat gaat. Het behaalde diploma toont werkgevers aan dat je beschikt over bewezen expertise voor de professionele begeleiding van kinderen en adolescenten en laat jou zelfverzekerd je werk doen.</p><p><strong>Speelse en effectieve kinderbegeleiding</strong></p><p>Na de Master Kinderfysiotherapie begeleid je kinderen met complexe problematiek effectief en speels. Je maakt samen met het kind en de ouders onderbouwde keuzes en past functioneel oefenen toe, afgestemd op de hulpvraag en omgeving, waardoor hun motorische ontwikkeling, zelfstandigheid en welzijn verbeteren. Samen met jouw andere specialisatie kun jij optimale zorg geven aan jouw patiënten.</p><p><strong>Expertise en impact in de praktijk</strong></p><p>Met deze master ben je een gespecialiseerde kinderfysiotherapeut. Je vergroot je deskundigheid, levert direct meetbare impact op de zorg voor kinderen en ouders en haalt meer voldoening uit je werk door te werken met jouw voorkeursdoelgroep.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze Master na master is een opleidingsvariant van de complete master en is bedoeld voor master afgestudeerde fysiotherapeuten die hun functie verder willen verdiepen en verbreden. Met een master fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor de opleiding maar 1.5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden. De gecommuniceerde prijs is gebaseerd op de aanname dat de vrijstellingen verleend worden. (Zie verder studiekosten)</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je volgt deze master via blended learning, een moderne mix van verschillende onderwijsvormen die je effectiever en efficiënter laat leren. Je hebt minder klassikale bijeenkomsten (slechts eenmaal per 2 à 3 weken), waardoor je reistijd en kosten bespaart. Je combineert werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Voordat je start, plan je een individueel intakegesprek met de opleidingsmanager om wederzijdse verwachtingen af te stemmen. Je werkt ook in regionale groepen met mededeelnemers, wat flexibel kan plaatsvinden. De toetsing sluit aan bij de praktijk: geen kennistoetsen, maar opdrachten uitwerken met casuïstiek en patiënten volgen tijdens je werk. Ontdek in de <a href="https://youtube.com/shorts/Raj-ceOOlO0">video</a> hoe dat gaat.</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>Met een Master Fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor deze opleiding maar 1,5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden.</p><p>Deze master na master duurt dan 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente kinderfysiotherapie.</p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je volgt deze master via blended learning, een moderne mix van verschillende onderwijsvormen die je effectiever en efficiënter laat leren. Je hebt minder klassikale bijeenkomsten (slechts eenmaal per 2 à 3 weken), waardoor je reistijd en kosten bespaart. Je combineert werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Voordat je start, plan je een individueel intakegesprek met de opleidingsmanager om wederzijdse verwachtingen af te stemmen. Je werkt ook in regionale groepen met mededeelnemers, wat flexibel kan plaatsvinden. Binnen het werkleren verwachten we dat je 8 uur per week werkzaam bent met de doelgroep. De toetsing sluit aan bij de praktijk: geen kennistoetsen, maar opdrachten uitwerken met casuïstiek en patiënten volgen tijdens je werk. Ontdek in de <a href="https://youtube.com/shorts/Raj-ceOOlO0">video</a> hoe dat gaat.</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>Met een Master Fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor deze opleiding maar 1,5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden.</p><p>Deze master na master duurt dan 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente kinderfysiotherapie.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Bij succesvol afronden van deze masteropleiding ontvang je het officiële certificaat dat je kwalificeert als master in de kinderfysiotherapie. De opleiding is geaccrediteerd door de NVAO en geeft je recht op registratie bij het CKR en Het Keurmerk Fysiotherapie. Na het behalen van je mastergraad kun je je inschrijven in het betreffende deelregister van het Kwaliteits Register Fysiotherapie (KRF-NL), wat je professionele status versterkt en jullie praktijk naar een hoger niveau tilt. Je ontvangt ook 50 bonuspunten bovenop de reguliere accreditatiepunten wanneer je je diploma laat zien. Deze masterkwalificatie opent deuren naar verdere specialisatie en nieuwe carrièrekansen binnen de kinderfysiotherapie of ver daarbuiten. Zoals bijvoorbeeld de <a href="https://habeoplus.nl/opleidingen/fysiotherapie/extended-scope-beweegspecialist-huisartsenzorg/extended-scope">opleiding Extended Scope beweegspecialist huisartsenzorg</a>. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2307">brochure</a>.</p>]]></CertValue>
         <Level>Master</Level>
         <PriceBase>
@@ -12149,7 +12043,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Description><![CDATA[Werk jij met mensen met bekkenproblematiek en mis je diepgaande kennis? Ga dan nu voor je 2de master en behaal je diploma in 1,5 jaar.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de Master na master Bekkenfysiotherapie je op</strong></p><ul><li>Je maakt samen met je patiënt doordachte keuzes, onderbouwd met klinisch redeneren en Evidence Based Practice.</li><li>Je ontvangt het officiële certificaat én registratie bij het CKR en het Keurmerk Fysiotherapie.</li><li>Je verdient 24 punten per studiejaar voor het basisregister Fysiotherapie, plus een eenmalige bonus van 50 punten bij afronding.</li></ul><p><strong>Master na master Bekkenfysiotherapie voor uitbreiding van je expertise</strong></p><p>Deze hoogwaardige verkorte masteropleiding is perfect afgestemd op fysiotherapeuten die al een masteropleiding hebben afgerond en zich willen specialiseren in bekkenfysiotherapie. Met deze masteropleiding specialiseer je je in de behandeling van patiënten met complexe bekken- en bekkenbodemproblemen. Je ontwikkelt diepgaande expertise in diagnostiek, coaching en doelgericht behandelen, waardoor je zelfverzekerd en professioneel groeit in je vak. Dankzij de praktijkgerichte opzet pas je de opgedane kennis direct toe in je eigen werk met patiënten.</p><p><strong>Master na master met praktijkgerichte toetsing</strong></p><p>In deze bekkenfysiotherapie masteropleiding leer je patiënten met complexe bekken(bodem)problematiek effectief te begeleiden. Theorie en wetenschap ondersteunen je, maar praktische vaardigheden staan centraal. Door klinisch redeneren maak je samen met je patiënt onderbouwde keuzes, ondersteund door ervaren praktijkdocenten.</p><p><strong>Fysiotherapie vervolgopleiding met NVAO accreditatie</strong></p><p>Na succesvolle afronding ontvang je het bijbehorende certificaat en krijg je registratie in het specialistenregister. Deze masteropleiding is geaccrediteerd door de NVAO en leidt tot registratie bij het CKR en Het Keurmerk Fysiotherapie. Je krijgt ook registratiepunten voor het register Algemeen Fysiotherapeut en recht op (her)registratie in het deel- of aantekeningenregister. Het verkorte traject maakt het mogelijk om na of naast je bestaande master een tweede specialisatie te behalen zonder dubbele leerstof.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze Master na master is een opleidingsvariant van de complete master en is bedoeld voor master afgestudeerde fysiotherapeuten die hun functie verder willen verdiepen en verbreden. Met een master fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor de opleiding maar 1.5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden. De gecommuniceerde prijs is gebaseerd op de aanname dat de vrijstellingen verleend worden. (Zie verder studiekosten)</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze Master na master Bekkenfysiotherapie werkt met blended learning: een mix van didactische vormen waardoor je effectiever en efficiënter het opleidingstraject doorloopt. Je hebt minder klassikale bijeenkomsten, wat zorgt voor minder reiskosten en reistijd. Denk aan onderwijsvormen als werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Klassikale bijeenkomsten vinden eenmaal per 2 à 3 weken plaats tussen 13.30-20.30 uur (vrijdag 9.30-16.30 uur). Daarnaast werk je in groepen in jouw regio, wat niet per se op locatie hoeft. De toetsing sluit volledig aan bij de praktijk zonder kennistoetsen, maar met opdrachten uitgewerkt aan de hand van casuïstiek. Je volgt patiënten tijdens je werk en maakt daar opdrachten over. Ook leer je van het meekijken bij collega-deelnemers en geef je elkaar feedback. Voordat je start, plan je een individueel intakegesprek met de opleidingsmanager om te kijken of de opleiding bij je past.</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze Master na master Bekkenfysiotherapie werkt met blended learning: een mix van didactische vormen waardoor je effectiever en efficiënter het opleidingstraject doorloopt. Je hebt minder klassikale bijeenkomsten, wat zorgt voor minder reiskosten en reistijd. Denk aan onderwijsvormen als werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Klassikale bijeenkomsten vinden eenmaal per 2 à 3 weken plaats tussen 13.30-20.30 uur (vrijdag 9.30-16.30 uur). Daarnaast werk je in groepen in jouw regio, wat niet per se op locatie hoeft. De toetsing sluit volledig aan bij de praktijk zonder kennistoetsen, maar met opdrachten uitgewerkt aan de hand van casuïstiek. Je volgt patiënten tijdens je werk en maakt daar opdrachten over. Ook leer je van het meekijken bij collega-deelnemers en geef je elkaar feedback. Binnen het werkleren verwachten we dat je 8 uur per week werkzaam bent met de doelgroep. Voordat je start, plan je een individueel intakegesprek met de opleidingsmanager om te kijken of de opleiding bij je past.</p><p>Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van de Master na master bekkenfysiotherapie ontvang je het bijbehorende certificaat van deze NVAO-geaccrediteerde opleiding. Dit diploma geeft je een registratie in het specialistenregister en je krijgt tevens registratiepunten voor het register Algemeen Fysiotherapeut. De opleiding leidt tot registratie bij het CKR en Het Keurmerk Fysiotherapie, waardoor je officieel erkend bent als gespecialiseerd bekkenfysiotherapeut. Bij succesvolle afronding ontvang je naast de 24 punten per studiejaar ook eenmalig 50 extra punten voor het basisregister Fysiotherapie. Het verkorte traject van 1,5 jaar zorgt ervoor dat je efficiënt een tweede specialisatie toevoegt aan je bestaande masteropleiding.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2315">brochure</a>.</p>]]></CertValue>
         <Level>Master</Level>
         <PriceBase>
@@ -12175,7 +12069,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Description><![CDATA[Bouw voort op je master en verbindt psychosomatische fysiotherapie met andere specialisaties, voor een brede, geïntegreerde expertise.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de Master na master Psychosomatische fysiotherapie je op</strong></p><ul><li>Je leert onderbouwde keuzes maken voor patiënten met psychosomatische problemen, dankzij klinisch redeneren.</li><li>Je werkt volgens Evidence Based Practice, waar wetenschap, patiëntwaarden en jouw expertise samenkomen.</li><li>Je krijgt registratie in het specialistenregister én registratiepunten voor het register Algemeen Fysiotherapeut.</li></ul><p><strong>Integrale begeleiding van patiënten</strong></p><p>Na de Master Psychosomatische Fysiotherapie begeleid je patiënten bij lichamelijke klachten die beïnvloed worden door psychologische en sociale factoren. Je past klinisch redeneren toe, combineert behandelingen met gedragsinterventies en lichaamsbewustzijn, en ondersteunt patiënten zo effectief bij hun herstel en dagelijks functioneren.</p><p><strong>Specialistische expertise en impact</strong></p><p>Met deze master ben je volledig thuis in het samenspel tussen lichaam, gedrag en geest. Je handelt deskundig en zelfverzekerd, biedt optimale zorg en maakt een zichtbaar verschil voor kwetsbare patiënten, waardoor jouw professionele waarde in de praktijk groeit.</p><p><strong>Erkenning en carrièrekansen</strong></p><p>Na afronding ontvang je minimaal 24 studiepunten per jaar voor het basisregister Fysiotherapie en een bonus van 50 punten bij je diploma. De opleiding is erkend door NFP, geeft registratie bij KRF-NL en biedt toegang tot vervolgmasters en specialistische functies in de zorg.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze Master na master is een opleidingsvariant van de complete master en is bedoeld voor master afgestudeerde fysiotherapeuten die hun functie verder willen verdiepen en verbreden. Met een master fysiotherapie als vooropleiding is het hoogstwaarschijnlijk mogelijk vrijstellingen te krijgen waardoor de opleiding maar 1.5 jaar duurt. De toekenning van individuele vrijstellingen wordt door de examencommissie bepaald nadat inschrijving voor de opleiding heeft plaatsgevonden. De gecommuniceerde prijs is gebaseerd op de aanname dat de vrijstellingen verleend worden. (Zie verder studiekosten)</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master werkt met blended learning: een mix van verschillende onderwijsvormen die je effectiever en efficiënter laat leren. Je hebt minder klassikale bijeenkomsten, wat reiskosten en reistijd bespaart. Eenmaal per 2 à 3 weken kom je samen op locatie, aangevuld met werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges.</p><p>Je leert vooral in en van de praktijk door casuïstiek uit te werken en patiënten te volgen tijdens je werk. Ook kijk je mee bij collega-deelnemers en geef je elkaar feedback. Deze praktijkgerichte aanpak zorgt ervoor dat je de tijd die je aan patiëntenzorg kunt besteden optimaal benut. Daarnaast werk je in groepen binnen jouw regio, wat flexibel kan worden ingepland zonder vaste locatie. Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze master werkt met blended learning: een mix van verschillende onderwijsvormen die je effectiever en efficiënter laat leren. Je hebt minder klassikale bijeenkomsten, wat reiskosten en reistijd bespaart. Eenmaal per 2 à 3 weken kom je samen op locatie, aangevuld met werkleren, intervisie, supervisie, online learning, coaching en interactieve colleges. Binnen het werkleren verwachten we dat je 8 uur per week werkzaam bent met de doelgroep.</p><p>Je leert vooral in en van de praktijk door casuïstiek uit te werken en patiënten te volgen tijdens je werk. Ook kijk je mee bij collega-deelnemers en geef je elkaar feedback. Deze praktijkgerichte aanpak zorgt ervoor dat je de tijd die je aan patiëntenzorg kunt besteden optimaal benut. Daarnaast werk je in groepen binnen jouw regio, wat flexibel kan worden ingepland zonder vaste locatie. Ook een <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany variant</a> bij jouw praktijk behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting van een complete masteropleiding is 60 EC. Deze master na masteropleiding is zeer waarschijnlijk sneller te doorlopen op basis van jouw behaalde vooropleiding. Hierdoor kun je hoogstwaarschijnlijk voor enkele modules van de opleiding worden vrijgesteld. Deze individuele vrijstellingen kunnen worden toegekend door de examencommissie nadat de inschrijving voor de opleiding heeft plaatsgevonden. We leggen je hier graag alles persoonlijk over uit in een adviesgesprek. </p><p>Wanneer de vrijstellingen worden toegekend duurt de master na master 1,5 jaar met een totale studielast van 30 EC, wat neerkomt op ongeveer 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect combineerbaar is met je praktijk. Slechts eenmaal per 2 à 3 weken kom je samen voor een klassikale bijeenkomst. Daarnaast werk je flexibel in regionale groepen met mededeelnemers, die gemakkelijk in jullie eigen regio kunnen plaatsvinden. De klassikale bijeenkomsten zijn doordeweeks tussen 13.30 en 20.30 uur, behalve op vrijdag wanneer de tijden 9.30 tot 16.30 uur zijn. De dag waarop je start blijft gedurende de hele opleiding jouw lesdag. Door de blended learning opzet bespaar je reistijd en kosten, terwijl je toch alle kennis en vaardigheden opdoet die je nodig hebt voor excellente fysiotherapie op gespecialiseerd masterniveau. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het NVAO-geaccrediteerde mastercertificaat Psychosomatische Fysiotherapie, erkend door de NFP. Dit diploma geeft je toegang tot registratie in het deelregister Psychosomatiek van KRF-NL en het specialistenregister. Je krijgt direct 50 bonuspunten bovenop de 36 accreditatiepunten die je tijdens de opleiding verdient voor je registratie als Algemeen Fysiotherapeut. Met dit masterdiploma kun je je verder ontwikkelen als psychosomatisch fysiotherapeut en professioneel doorgroeien binnen dit specialistische vakgebied.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2323">brochure</a>.</p>]]></CertValue>
         <Level>Master</Level>
         <PriceBase>
@@ -12190,10 +12084,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2323-1EMNM02001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-17</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2028-07-05T17:00:00" />
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2028-07-05T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2323-1EMNM02002</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-01</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-01T09:00:00" EndDateTime="2029-02-07T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12402,10 +12305,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2335-1EPFT02001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-17</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2030-02-06T17:00:00" />
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2030-02-06T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2335-1EPFT02004</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-01</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-01T09:00:00" EndDateTime="2030-07-10T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13152,6 +13064,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>2352-4BSTU01048</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>2352-4BSTU01049</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
@@ -13618,15 +13539,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2399-2BPOH03004</Code>
-                <Location>Zwolle</Location>
-                <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2027-12-06T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2399-2BPOH03001</Code>
                 <Location>Virtual</Location>
                 <DiscontinuedFrom>2027-02-08</DiscontinuedFrom>
@@ -13676,15 +13588,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2400-2BPVK03003</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2027-12-06T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2400-2BPVK03004</Code>
-                <Location>Zwolle</Location>
                 <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -14644,6 +14547,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>2441-6FLSV01010</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-01-13</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-01-13T09:00:00" EndDateTime="2027-02-17T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>2441-6FLSV01009</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-09-16</DiscontinuedFrom>
@@ -14728,15 +14640,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2443-6FVVL01008</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-08T09:00:00" EndDateTime="2027-04-22T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2443-6FVVL01009</Code>
                 <Location>Breda</Location>
@@ -15049,10 +14952,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2452-1ESVM02001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-17</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2029-02-07T17:00:00" />
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2029-02-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2452-1ESVM02004</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-01</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-01T09:00:00" EndDateTime="2029-07-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15085,12 +14997,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2453-6FVLC01012</Code>
+                <Code>2453-6FVLC01013</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-15</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2026-11-04T17:00:00" />
+                    <Session StartDateTime="2027-03-15T09:00:00" EndDateTime="2027-03-17T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15205,10 +15117,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2458-1FPFT02011</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-17</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-07T17:00:00" />
+                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-07-07T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15619,21 +15531,30 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2782-8ABVB01003</Code>
-                <Location>Oranjewoud</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-06T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2782-8ABVB01004</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2026-11-09</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-09T09:00:00" EndDateTime="2026-11-09T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2782-8ABVB01006</Code>
+                <Location>Akersloot</Location>
+                <DiscontinuedFrom>2027-05-12</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-12T09:00:00" EndDateTime="2027-05-12T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2782-8ABVB01007</Code>
+                <Location>Nijkerk</Location>
+                <DiscontinuedFrom>2027-06-08</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-06-08T09:00:00" EndDateTime="2027-06-08T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -16097,6 +16018,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                     <Session StartDateTime="2027-01-29T09:00:00" EndDateTime="2027-01-29T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>3280-8AHFR01004</Code>
+                <Location>Oranjewoud</Location>
+                <DiscontinuedFrom>2027-06-15</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-06-15T09:00:00" EndDateTime="2027-06-15T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -16281,30 +16211,11 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>645,00</VatFree>
             </Price>
         </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>3329-8EIAP01002</Code>
-                <Location>Arnhem</Location>
-                <DiscontinuedFrom>2026-10-07</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-07T09:00:00" EndDateTime="2026-10-07T17:00:00" />
-                </Sessions>
+                <Code>3329-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -16398,6 +16309,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2028-02-20T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3352-3BCIZ02005</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-06-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-06-02T09:00:00" EndDateTime="2028-05-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -17275,16 +17195,11 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <VatFree>195,00</VatFree>
             </Price>
         </PriceBase>
-        <Delivery>instructor-led</Delivery>
+        <Delivery>instructor-led date-tbd</Delivery>
         <Classes>
             <Class>
-                <Code>3474-2BGOG01002</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-06T17:00:00" />
-                </Sessions>
+                <Code>3474-OPEN</Code>
+                <Location></Location>
             </Class>
         </Classes>
     </CourseTemplate>
@@ -17524,10 +17439,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3485-6FPCR01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-01-28</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-01-07T17:00:00" />
+                    <Session StartDateTime="2027-01-28T09:00:00" EndDateTime="2027-04-01T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3485-6FPCR01002</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-24</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-24T09:00:00" EndDateTime="2027-11-25T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -17711,15 +17635,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceBase>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>3587-5BPEQ01001</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-06T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>3587-5BPEQ01002</Code>
                 <Location>Utrecht</Location>
@@ -17912,15 +17827,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3597-5BPEN01002</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-06T09:00:00" EndDateTime="2026-10-06T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>3597-5BPEN01001</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-03-18</DiscontinuedFrom>
@@ -17992,19 +17898,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3607-4ABHS01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-04-06T17:00:00" />
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>3607-4ABHS01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-04-09T17:00:00" />
+                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -18039,19 +17945,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3609-4ATTO01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-04-06T17:00:00" />
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>3609-4ATTO01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-04-09T17:00:00" />
+                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -18086,19 +17992,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3611-4ABTM01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-04-06T17:00:00" />
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>3611-4ABTM01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-04-09T17:00:00" />
+                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -18133,19 +18039,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3613-4ABDM01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-04-06T17:00:00" />
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-04-06T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>3613-4ABDM01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-04-09T17:00:00" />
+                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>

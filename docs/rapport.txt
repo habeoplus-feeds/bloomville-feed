@@ -1,6 +1,6 @@
-Bloomville feed - run 2026-10-05 05:21
+Bloomville feed - run 2026-10-12 05:13
 Status: BIJGEWERKT
-Cursussen: 308
+Cursussen: 307
 XSD-fouten: 0
 
 Waarschuwingen (1):
