@@ -3090,24 +3090,6 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1809-7ALOS02105</Code>
-                <Location>Zwolle</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-12-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1809-7ALOS02120</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-12-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1809-7ALOS02117</Code>
                 <Location>Amsterdam</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -3590,15 +3572,6 @@
                     <Session StartDateTime="2026-10-27T09:00:00" EndDateTime="2026-10-27T17:00:00" />
                 </Sessions>
             </Class>
-            <Class>
-                <Code>1842-8ACHT01018</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2026-11-02T17:00:00" />
-                </Sessions>
-            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -3950,10 +3923,10 @@
             <Class>
                 <Code>1878-8BVAS01060</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-24</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-24T09:00:00" EndDateTime="2026-11-24T17:00:00" />
+                    <Session StartDateTime="2026-11-23T09:00:00" EndDateTime="2026-11-23T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -3972,6 +3945,15 @@
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-12-11T09:00:00" EndDateTime="2026-12-11T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1878-8BVAS01075</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-01-25</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-01-25T09:00:00" EndDateTime="2027-01-25T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -5318,51 +5300,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1932</Code>
-        <Title>Masterclass ‘Bedrijfsschade - het vervolg'</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[De plus van deze bijeenkomst is dat je diepgaand leert het businessmodel van je klant en complexe jaarrekeningen te doorgronden.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass 'Bedrijfsschade – het vervolg' je op</strong></p><ul><li>Je bent beter voorbereid op complexe vragen van je klanten over bedrijfsschades.</li><li>Je overziet de complexiteit van bedrijfsschades met de daarbij behorende verzekeringen.</li><li>Je ontvangt nuttig cursusmateriaal als naslagwerk voor de dagelijkse praktijk.</li></ul><p><strong>Verdiepende opleiding voor bedrijfsschade-experts</strong></p><p>Deze masterclass bouwt voort op de pe Bedrijfschade. Deze pe gaat een verdere verdieping realiseren in het complexe speelveld van het vakgebied bedrijfsschade. Je verdiept je expertise in bedrijfsschades en bedrijfsschadeverzekeringen, zodat je je klanten nog beter kunt adviseren. De opleiding geeft je de tools om complexere vraagstukken professioneel aan te pakken.</p><p><strong>Interactieve opleiding met praktijkgerichte casuïstiek</strong></p><p>Tijdens de 6-urige bijeenkomst werk je samen met collega's aan een realistische casus uit de praktijk. Deze groepsgerichte aanpak zorgt ervoor dat je verschillende perspectieven leert kennen en je kennis direct kunt toetsen. De interactie met docent en medecursisten maakt het leren nog waardevoller.</p><p><strong>Praktische handvatten voor directe toepassing</strong></p><p>Het cursusmateriaal bevat nuttige handvatten die je als naslagwerk kunt gebruiken in je dagelijkse werk. Na deze opleiding ga je met meer vertrouwen adviesgesprekken aan en kun je bedrijfsschadepolissen beter onderhouden. Je krijgt 6 PE-punten voor het Risicomanagement register.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je Gecertificeerd Risk Management Consultant en wil je je expertise in bedrijfsschades verdiepen? Deze vervolg masterclass is perfect als je al de basis-masterclass 'Bedrijfsschade – na én voor de calamiteit' hebt gevolgd en nu verder wilt groeien. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass is een interactieve en praktijkgerichte bijeenkomst van 6 uur waarin je actief deelneemt aan discussies en groepswerk. Samen met andere Risk Management Consultants werk je aan realistische casuïstiek uit de bedrijfsschade praktijk. Tijdens de dag is er volop ruimte voor interactie met zowel de docent als je medecursisten. Deze hands-on benadering zorgt ervoor dat je de theorie direct koppelt aan praktijksituaties. Het cursusmateriaal dat je ontvangt, bevat nuttige handvatten die je na afloop als naslagwerk kunt gebruiken.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass vraagt minimale tijdsinvestering van je voor maximale verdieping in bedrijfsschade. Je volgt één bijeenkomst van 6 uur waarin je alle kennis en praktijkvaardigheden opdoet die je nodig hebt. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Ter voorbereiding plan je 1 tot 2 uur in om het materiaal door te nemen. In totaal investeer je dus ongeveer 8 uur voor een complete verdieping in het thema bedrijfsschade. Door de intensieve en praktijkgerichte aanpak krijg je in korte tijd veel waardevolle kennis en tools aangereikt. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na deelname aan deze masterclass ontvang je een certificaat van Habeo+ dat jouw verdiepte expertise in bedrijfsschade bevestigt. Ben je geregistreerd in het Risicomanagement Register? Dan wordt jouw deelname automatisch bijgewerkt en ontvang je 6 PE-punten. Dit certificaat toont aan dat je de specialistische kennis hebt om complexe bedrijfsschadepolissen professioneel te onderhouden. Je versterkt hiermee jouw positie als expert op het gebied van bedrijfsschade en risicomanagement. Deze verdiepende masterclass bouwt voort op jouw bestaande kwalificaties als Gecertificeerd Risk Management Consultant.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>1932-8ABHV01004</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-23T09:00:00" EndDateTime="2026-11-23T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1936</Code>
         <Title>Masterclass Beleggen en vermogensstructurering</Title>
         <Language>nl</Language>
@@ -5601,35 +5538,8 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1986-4APFF01121</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1986-4APFF01122</Code>
                 <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1986-4APFF01123</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1986-4APFF01125</Code>
-                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -5720,35 +5630,8 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1987-4APFM01122</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1987-4APFM01123</Code>
                 <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1987-4APFM01124</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1987-4APFM01125</Code>
-                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -5967,33 +5850,6 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1989-4APKM01106</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1989-4APKM01107</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1989-4APKM01108</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1989-4APKM01109</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-18</DiscontinuedFrom>
@@ -6077,35 +5933,8 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1990-4APLI01106</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1990-4APLI01107</Code>
                 <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1990-4APLI01108</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1990-4APLI01109</Code>
-                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -6232,12 +6061,21 @@
                 </Sessions>
             </Class>
             <Class>
+                <Code>1993-7BMKO01083</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>1993-7BMKO01081</Code>
                 <Location>Amsterdam</Location>
                 <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -6246,7 +6084,7 @@
                 <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -6255,7 +6093,7 @@
                 <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -6264,7 +6102,7 @@
                 <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -6273,7 +6111,16 @@
                 <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01084</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -6651,9 +6498,9 @@
         <Language>nl</Language>
         <Duration>124</Duration>
         <Description><![CDATA[Verbeter processen, stimuleer samenwerking binnen en buiten je afdeling en pas alles direct toe in jouw organisatie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Procesmanagement je op</strong></p><ul><li>Je wilt weten hoe je aanzet tot verbetering en vernieuwing en hoe de optimalisatie van processen daarbij kan helpen.</li><li>Je hebt behoefte aan inzicht in de werking van organisatieprocessen en het effect ervan op jezelf en jouw medewerkers.</li><li>Je wilt samenwerking en verbinding binnen en buiten je afdeling stimuleren.</li></ul><p><strong>HBO opleiding die jouw persoonlijke ontwikkeling centraal stelt</strong></p><p>Deze opleiding Procesmanagement richt zich volledig op jouw persoonlijke groei en ontwikkeling. Ervaren docenten en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Hierdoor leer je het beste uit jezelf te halen en neem je wat je leert meteen mee naar jouw eigen organisatie.</p><p><strong>Opleiding met praktische toepassing vanaf dag één</strong></p><p>In de Procesmanagement krijg je handvatten aangereikt aan de hand van welke je inzicht verkrijgt in jouw eigen organisatieprocessen en hoe je invloed kunt uitoefenen op verbetering en vernieuwing. Gedrag van medewerkers speelt daarbij een grote rol. Tijdens deze opleiding wordt je vakinhoudelijk sterker en kun je alles wat je leert, direct toepassen in de praktijk. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. </p><p><strong>Opleiding die goed te combineren is met werk en privé</strong></p><p>De opleiding heeft een doorlooptijd van 10 weken met bijeenkomsten van 16:00 tot maximaal 21:30 uur op donderdag. Met een studiebelasting van 6 uur per week voor zelfstudie en voorbereiding is deze opleiding uitstekend te combineren met jouw werk en privéleven. Met 4 startmomenten in het jaar start jij deze postbachelor wanneer jou dat uitkomt. </p><p><em><strong>“De opleiding heeft mij niet alleen nieuwe kennis gebracht, maar vooral geleerd om met een bredere en strategischere blik naar processen en organisatievraagstukken te kijken. Door de persoonlijke begeleiding en sterke koppeling met de praktijk kon ik het geleerde direct toepassen binnen mijn eigen organisatie.” - Janey (voorzitter College van Bestuur)</strong></em></p>]]></DescriptionLong>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Procesmanagement je op</strong></p><ul><li>Je wilt weten hoe je aanzet tot verbetering en vernieuwing en hoe de optimalisatie van processen daarbij kan helpen.</li><li>Je hebt behoefte aan inzicht in de werking van organisatieprocessen en het effect ervan op jezelf en jouw medewerkers.</li><li>Je wilt samenwerking en verbinding binnen en buiten je afdeling stimuleren.</li></ul><p><strong>HBO opleiding die jouw persoonlijke ontwikkeling centraal stelt</strong></p><p>Deze opleiding Procesmanagement richt zich volledig op jouw persoonlijke groei en ontwikkeling. Ervaren docenten en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Hierdoor leer je het beste uit jezelf te halen en neem je wat je leert meteen mee naar jouw eigen organisatie.</p><p><strong>Opleiding met praktische toepassing vanaf dag één</strong></p><p>In de Procesmanagement krijg je handvatten aangereikt aan de hand van welke je inzicht verkrijgt in jouw eigen organisatieprocessen en hoe je invloed kunt uitoefenen op verbetering en vernieuwing. Gedrag van medewerkers speelt daarbij een grote rol. Tijdens deze opleiding wordt je vakinhoudelijk sterker en kun je alles wat je leert, direct toepassen in de praktijk. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. </p><p><strong>Opleiding die goed te combineren is met werk en privé</strong></p><p>De opleiding heeft een doorlooptijd van 10 weken met bijeenkomsten van 15:00 tot maximaal 21:30 uur op donderdag. Met een studiebelasting van 6 uur per week voor zelfstudie en voorbereiding is deze opleiding uitstekend te combineren met jouw werk en privéleven. Met 4 startmomenten in het jaar start jij deze postbachelor wanneer jou dat uitkomt. </p><p><em><strong>“De opleiding heeft mij niet alleen nieuwe kennis gebracht, maar vooral geleerd om met een bredere en strategischere blik naar processen en organisatievraagstukken te kijken. Door de persoonlijke begeleiding en sterke koppeling met de praktijk kon ik het geleerde direct toepassen binnen mijn eigen organisatie.” - Janey (voorzitter College van Bestuur)</strong></em></p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Je werkt op hbo-niveau en wilt meer actuele kennis over procesmanagement. Je zoekt inzicht in de werking van organisatieprocessen en het effect daarvan op jezelf en jouw medewerkers. Het maakt niet uit in welke sector of branche je werkt.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Jouw persoonlijke ontwikkeling staat centraal in deze opleiding Procesmanagement. Ervaren docenten, coaches en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. Je neemt jouw vragen mee naar de bijeenkomsten en bespreekt deze met de docent en mededeelnemers. </p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Procesmanagement heeft een doorlooptijd van 10 weken en is uitstekend te combineren met jouw werk en privéleven. Je volgt 4 bijeenkomsten van 16:00 tot maximaal 21:30 uur op donderdag.</p><p>Naast de bijeenkomsten investeer je 6 uur per week in zelfstudie, voorbereiding en het uitwerken van jouw persoonlijke opdracht. Door de praktijkgerichte opzet zie je direct resultaat van jouw tijdsinvestering in je eigen organisatie.</p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Jouw persoonlijke ontwikkeling staat centraal in deze opleiding Procesmanagement. Ervaren docenten, coaches en opleidingsmanagers begeleiden jou bij het bereiken van je persoonlijke doelen. Je past verschillende methodieken direct toe op jouw eigen vraagstuk, dat als rode draad door de opleiding loopt. Door interactief kennis en ervaringen uit te wisselen met mededeelnemers, kom je tot verfrissende en waardevolle inzichten. Je neemt jouw vragen mee naar de bijeenkomsten en bespreekt deze met de docent en mededeelnemers. </p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Procesmanagement heeft een doorlooptijd van 10 weken en is uitstekend te combineren met jouw werk en privéleven. Je volgt 4 bijeenkomsten van 15:00 tot maximaal 21:30 uur op donderdag.</p><p>Naast de bijeenkomsten investeer je 6 uur per week in zelfstudie, voorbereiding en het uitwerken van jouw persoonlijke opdracht. Door de praktijkgerichte opzet zie je direct resultaat van jouw tijdsinvestering in je eigen organisatie.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na het succesvol afronden van de opleiding Procesmanagement ontvang je van Habeo+ een certificaat Procesmanagement. Dit certificaat toont jouw expertise in procesoptimalisatie en organisatieverbetering aan. Je kunt dit certificaat gebruiken voor verdere specialisatie in bedrijfskundige opleidingen bij Habeo+, zoals de <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/bedrijfskunde/postbachelor-bedrijfskunde">Postbacheloropleiding Bedrijfskunde</a> of <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/bedrijfskunde/bedrijfskundig-zorgmanagement">Bedrijfskundig zorgmanagement</a>. Voor deze vervolgopleidingen krijg je vrijstelling voor de gevolgde module.</p>]]></CertValue>
         <Level>HBO</Level>
         <PriceBase>
@@ -6684,33 +6531,6 @@
             <Class>
                 <Code>2000-4APPC01106</Code>
                 <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2000-4APPC01107</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2000-4APPC01108</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2000-4APPC01109</Code>
-                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -6812,24 +6632,6 @@
             <Class>
                 <Code>2001-4APPM01133</Code>
                 <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2001-4APPM01134</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2001-4APPM01136</Code>
-                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -7121,35 +6923,8 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2003-4APST01117</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2003-4APST01118</Code>
                 <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2003-4APST01119</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2003-4APST01120</Code>
-                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -7777,33 +7552,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2007-4APVM01119</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2007-4APVM01120</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2007-4APVM01121</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2007-4APVM01122</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-18</DiscontinuedFrom>
@@ -7951,12 +7699,48 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
+                <Code>2033-6CBCI03039</Code>
+                <Location>Weert</Location>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-07T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2033-6CBCI03040</Code>
+                <Location>Amsterdam</Location>
+                <DiscontinuedFrom>2027-03-04</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-04T09:00:00" EndDateTime="2027-07-08T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2033-6CBCI03038</Code>
+                <Location>Zwolle</Location>
+                <DiscontinuedFrom>2027-03-09</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-09T09:00:00" EndDateTime="2027-07-13T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>2033-6CBCI03036</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-03-11</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-03-11T09:00:00" EndDateTime="2027-07-08T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2033-6CBCI03037</Code>
+                <Location>Virtual</Location>
+                <DiscontinuedFrom>2027-03-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-17T09:00:00" EndDateTime="2027-07-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9468,12 +9252,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2144-6CPIT01023</Code>
+                <Code>2144-6CPIT01024</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2027-04-19T17:00:00" />
+                    <Session StartDateTime="2027-04-05T09:00:00" EndDateTime="2027-07-05T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9566,6 +9350,51 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2026-11-25T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
+        <Code>2149</Code>
+        <Title>Register Adviseur Bedrijfsopvolging Business Valuation (RAB BV)</Title>
+        <Language>nl</Language>
+        <Duration>50</Duration>
+        <Description><![CDATA[Leer alles over moderne waarderingstheorieën en krijg handige tips en tricks die je kunt gebruiken aan de onderhandelingstafel.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Register Adviseur Bedrijfsopvolging Business Valuation (RAB BV) je op</strong></p><ul><li>Je voert zelfstandig eigen waarderingsopdrachten uit met de juiste methodieken</li><li>Je doorgrond en beoordeelt waarderingsrapporten van anderen kritisch</li><li>Je leert met behulp van Excel een waarderingsrapport te analyseren</li></ul><p><strong>Praktijkgerichte RAB opleiding voor waarderingsexperts</strong></p><p>Deze erkende RAB opleiding traint je in het uitvoeren van professionele bedrijfswaarderingen. Je bouwt tijdens de bijeenkomsten een compleet waarderingsmodel in Excel en rekent diverse waarderingsmethoden door. De combinatie van thuisstudie en interactieve sessies zorgt ervoor dat je de theorie meteen toepast in praktische opdrachten. </p><p><strong>Business Valuation training met groepsopdrachten</strong></p><p>Samen met mededeelnemers werk je aan realistische waarderingscases die je tijdens de laatste bijeenkomst presenteert. Deze serious game aanpak helpt je complexe waarderingsvraagstukken op te lossen zoals je die in je dagelijkse werk tegenkomt. Het studieboek 'Werken met waarde' van Jan Vis ondersteunt je leerproces en dient als naslagwerk na de opleiding. Je ontwikkelt vaardigheden die je direct inzet bij investeringsbeslissingen en bedrijfswaardering.</p><p><strong>Opleiding voor overname professionals in bedrijfswaardering</strong></p><p>Fusie- en overnamespecialisten, controllers en financieel adviseurs versterken hun expertise met deze gerichte RAB opleiding. Als accountant of belastingadviseur bij financiële instellingen breid je je kennis uit met geavanceerde waarderingstechnieken. Na succesvolle afronding ontvang je het erkende postbachelordiploma dat door de markt wordt gewaardeerd.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor fusie- en overnamespecialisten, intermediairs, controllers, relatiebeheerders, financieel adviseurs, accountants, financieel planners en belastingadviseurs bij financiële instellingen die zich bezighouden met bedrijfsadvisering, investeringsbeoordelingen en waarderingsvraagstukken. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze opleiding combineert thuisstudie met drie praktische bijeenkomsten waarin je direct aan de slag gaat. Je bestudeert vooraf thuis de leerstof en brengt tijdens de eerste bijeenkomst een laptop met Excel mee. Hiermee bouw je een compleet waarderingsmodel en rekent verschillende waarderingsmethoden door. In kleine groepjes werk je samen met mededeelnemers aan realistische waarderingsopdrachten. Deze groepscases presenteer je tijdens de laatste bijeenkomst, waarna jullie de uitkomsten plenair bespreken. Door deze hands-on aanpak pas je de theorie meteen toe in praktijksituaties. De interactieve werkwijze zorgt ervoor dat je niet alleen leert van de docent, maar ook van elkaars ervaringen en inzichten.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding vraagt een haalbare tijdsinvestering die perfect past bij je drukke agenda als financieel professional. Je plant ongeveer vijf uur zelfstudie in voor elke bijeenkomst, waarin je thuis de leerstof bestudeert op momenten die jou uitkomen. De opleiding bestaat uit drie avondbijeenkomsten van 14:00 tot 21:00 uur, ideaal te combineren met je werkzaamheden overdag. </p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na het succesvol afronden van deze opleiding ontvang je het erkende postbachelordiploma Register Adviseur Bedrijfsopvolging Business Valuation (RAB BV) van Habeo+. Dit officiële diploma bevestigt je expertise in bedrijfswaardering en positioneert je als erkend professional in de markt. Ben je lid van het RAB-register? Dan worden je PE-uren automatisch bijgeschreven, wat je professionele status ondersteunt. </p>]]></CertValue>
+        <Level>HBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>2095,00</Base>
+                <Vat>0,00</Vat>
+                <VatFree>2095,00</VatFree>
+            </Price>
+        </PriceBase>
+        <PriceMaterialLow>
+            <Price from="2026-01-01">
+                <Base>100,00</Base>
+                <Vat>9,00</Vat>
+                <VatFree>109,00</VatFree>
+            </Price>
+        </PriceMaterialLow>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>100,00</Base>
+                <Vat>9,00</Vat>
+                <VatFree>109,00</VatFree>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>2149-8ERBV01016</Code>
+                <Location>Nijkerk</Location>
+                <DiscontinuedFrom>2027-09-23</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-23T09:00:00" EndDateTime="2027-10-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9734,44 +9563,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-11-16T09:00:00" EndDateTime="2028-02-01T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2191</Code>
-        <Title>Basischemie niveau 3 (TL)</Title>
-        <Language>nl</Language>
-        <Duration>140</Duration>
-        <Description><![CDATA[Opleiding Basischemie niveau 3: voor labmedewerkers en anderen die basisbegrippen, berekeningen en vakjargon in de chemie willen begrijpen.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Basischemie niveau 3 (TL) je op</strong></p><ul><li>Eenvoudige chemische aspecten van je dagelijkse werk beter begrijpen.</li><li>Zelfstandig beslissingen nemen over eenvoudige chemische problemen.</li><li>Stofeigenschappen als polariteit, vluchtigheid en zuur-/base-eigenschappen inschatten.</li></ul><p><strong>Versterk je chemische kennis met praktijkgerichte basischemie</strong></p><p>Deze opleiding geeft je een stevige basis in de chemie die direct toepasbaar is in jouw werkomgeving. Je leert de chemische achtergronden van je dagelijkse werkzaamheden begrijpen en kunt daardoor effectiever opereren. Door het herkennen van stofeigenschappen en chemische verbindingen krijg je meer grip op je werk als laboratoriummedewerker of procesoperator.</p><p><strong>Ontwikkel praktische vaardigheden voor chemische uitdagingen</strong></p><p>Tijdens de cursus oefen je intensief met het oplossen van chemische vraagstukken en het maken van berekeningen voor oplossingen. Je krijgt de tools om zelfstandig chemische problemen aan te pakken en weloverwogen beslissingen te nemen. Deze hands-on aanpak zorgt ervoor dat je de theorie direct kunt toepassen in je dagelijkse praktijk.</p><p><strong>Bouw vertrouwen op in je chemische expertise</strong></p><p>Na afronding van deze basischemie opleiding beschik je over de kennis om chemische processen beter te doorgronden. Je kunt namen van chemische verbindingen herkennen en toekennen, wat je werk efficiënter en zekerder maakt. Dit versterkt je positie als professional en opent mogelijk deuren naar vervolgopleidingen zoals Basischemie niveau 4.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is perfect voor jou als laboratoriummedewerker, procesoperator of professional in een chemie gerelateerd beroep. Je wilt meer inzicht krijgen in de chemische achtergronden van je dagelijkse werk en je kennis uitbreiden. Of je nu net begint in de chemie of al ervaring hebt maar je theoretische basis wilt verstevigen, deze cursus helpt je vooruit.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je leert de basisbegrippen van de chemie in een praktijkgerichte aanpak. Tijdens de lessen oefen je intensief met het maken en bespreken van opgaven, zodat de theorie direct toepasbaar wordt. Je krijgt studiemateriaal voor zelfstudieopdrachten die je in je eigen tempo kunt doorlopen. Ook tussen de lesdagen door kun je een beroep doen op je docent voor extra ondersteuning. De bijeenkomsten vinden plaats op dinsdag van 13.00-16.30 uur en zijn zowel fysiek in Breda als online te volgen. Zo kies je zelf de vorm die het beste bij jouw situatie past. Deze flexibele opzet maakt het mogelijk om de opleiding naast je werk te volgen.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding bestaat uit 9 dagdelen plus een extra dagdeel voor het examen, verspreid over ongeveer 5 maanden. Je volgt één dagdeel per twee weken op dinsdag van 13.00 tot 16.30 uur. Naast de bijeenkomsten plan je ongeveer 10 uur zelfstudie per week in voor het doorwerken van studiemateriaal en opdrachten. Je kunt de lessen zowel fysiek in Breda als online volgen, wat flexibiliteit biedt om de opleiding naast je werk te plannen. Deze opzet zorgt ervoor dat je de chemische kennis stap voor stap opbouwt zonder je werkschema te verstoren. De combinatie van contacturen en zelfstudie geeft je voldoende tijd om de stof goed te doorgronden en direct toe te passen in je praktijk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je een diploma Basischemie niveau 3 (TL) dat je chemische kennis en vaardigheden bevestigt. Dit diploma versterkt je professionele positie en toont aan dat je de basisprincipes van de chemie beheerst. Wanneer je ervoor kiest om de toets niet te maken, krijg je een bewijs van deelname dat je participatie aan de opleiding documenteert. Het diploma vormt een uitstekende voorbereiding voor vervolgopleidingen zoals Basischemie niveau 4 (HAVO), waarmee je je chemische expertise verder kunt uitbreiden. Deze erkende kwalificatie opent deuren naar meer verantwoordelijke rollen in je chemiegerelateerde werk.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2595,00</Base>
-                <Vat>544,95</Vat>
-                <VatFree>3139,95</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>365,00</Base>
-                <Vat>32,85</Vat>
-                <VatFree>397,85</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2191-6FBCT01012</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-13</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-13T09:00:00" EndDateTime="2027-02-16T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -10814,6 +10605,46 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-02-09T09:00:00" EndDateTime="2027-04-27T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
+        <Code>2262</Code>
+        <Title>Interne audit</Title>
+        <Language>nl</Language>
+        <Duration>16</Duration>
+        <Description><![CDATA[Leer plannen, uitvoeren, rapporteren en evalueren volgens ISO 19011 en andere relevante normen (ISO/IEC 17025, ISO 15189, ISO/IEC 17020).]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Interne audit je op</strong></p><ul><li>Je beheerst de basisbeginselen van interne audit en past het auditproces professioneel toe in de praktijk.</li><li>Je kunt verschillende audittechnieken toepassen en voert interviews af volgens de geldende normen ISO/IEC 17025:2017, ISO/IEC 17020:2012 en ISO 15189:2022.</li><li>Je hebt praktijkervaring opgedaan met interne audit uitvoering en snapt de rollen van lijnmanagement, kwaliteitscoördinator en auditor.</li></ul><p><strong>Praktijkgerichte interne audit cursus met hands-on ervaring</strong></p><p>Deze tweedaagse cursus combineert theorie met praktijk op een unieke manier. Je start met de fundamenten van audits en leert over verschillende audittypen zoals breedte- en diepte-audits. Vervolgens simuleren we een echte laboratoriumomgeving waarin je als auditor aan de slag gaat. Deze hands-on aanpak zorgt ervoor dat je direct ervaring opdoet met het uitvoeren van interne audits en interview technieken onder begeleiding van ervaren docenten. Deze cursus bieden we aan in samenwerking met QAducation.</p><p><strong>Interne audit training volgens actuele ISO normen</strong></p><p>De cursus is volledig gebaseerd op de nieuwste versies van belangrijke normen zoals NEN-EN-ISO 19011:2018, ISO/IEC 18025:2017, ISO/IEC 17020:2012 en ISO 15189:2022. Je leert niet alleen wat deze normen voorschrijven, maar ook hoe je deze richtlijnen en vereisten praktisch toepast. Door de combinatie van theorie en praktijksimulatie begrijp je precies wat je wel en niet moet doen tijdens een interne audit.</p><p><strong>Intensieve interne audit cursus met directe toepasbaarheid</strong></p><p>In slechts twee dagen ontwikkel je alle vaardigheden die je nodig hebt als interne auditor. Je werkt in kleine groepen waarin de ene helft de rol van auditor op zich neemt, terwijl de andere groep geïnterviewd wordt. Deze interactieve werkvorm zorgt ervoor dat je het auditproces in detail leert toepassen. Na elke oefening evalueren we gezamenlijk de resultaten om verbeterpunten te identificeren en de auditstappen traceerbaar te maken.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze opleiding is ontwikkeld voor kwaliteitscoördinatoren, laboratoriummanagers, (hoofd)analisten en professionals die zich willen ontwikkelen tot interne auditor. Of je nu al ervaring hebt met audits of net begint in deze rol, deze training biedt je de praktische vaardigheden die je nodig hebt om interne audits uit te voeren binnen jouw organisatie.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze tweedaagse cursus combineert theorie met intensieve praktijkoefeningen. Op dag één start je met de fundamenten van audits en leer je over verschillende audittypen zoals breedte- en diepte-audits en systeem- en vaktechnische audits. Je krijgt inzicht in de belangrijkste normen zoals NEN-EN-ISO 19011:2018, ISO/IEC 18025:2017, ISO/IEC 17020:2012 en ISO 15189:2022. Op dag twee simuleren we een realistische laboratoriumomgeving waarin je in groepen wordt verdeeld: de ene groep neemt de rol van auditor op zich, terwijl de andere groep geïnterviewd wordt. Na een uur voorbereiding voer je daadwerkelijk interne audits uit. Deze hands-on ervaring helpt je de theorie direct toe te passen. We evalueren gezamenlijk alle audits om verbeterpunten te identificeren en de auditstappen traceerbaar te maken.</p><p><strong>Tijdsinvestering</strong></p><p>Deze intensieve cursus beslaat twee opeenvolgende dagen en is ontworpen om je snel de praktische vaardigheden van interne audit bij te brengen. In dit compacte programma leer je alles wat je nodig hebt om direct als interne auditor aan de slag te gaan. Bij de cursus is het hotelarrangement inbegrepen. </p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na afronding van deze tweedaagse cursus ontvang je een bewijs van deelname. Dit bewijs toont aan dat je de basisbeginselen van interne audit beheerst en praktijkervaring hebt opgedaan met audit uitvoering volgens de ISO normen. </p>]]></CertValue>
+        <Level>MBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>1725,00</Base>
+                <Vat>362,25</Vat>
+                <VatFree>2087,25</VatFree>
+            </Price>
+        </PriceBase>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>2262-6FIAK01015</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2026-11-03T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2262-6FIAK01017</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-06-07</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-06-07T09:00:00" EndDateTime="2027-06-08T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -11908,39 +11739,21 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2336-4BINN01043</Code>
+                <Code>2336-4BINN01049</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
-                <Code>2336-4BINN01044</Code>
+                <Code>2336-4BINN01050</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2336-4BINN01047</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-03T09:00:00" EndDateTime="2027-05-02T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2336-4BINN01048</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-03T09:00:00" EndDateTime="2027-05-02T17:00:00" />
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12040,10 +11853,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2338-6EALM01005</Code>
                 <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-11-28</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-10-31</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-28T09:00:00" EndDateTime="2027-03-12T17:00:00" />
+                    <Session StartDateTime="2026-10-31T09:00:00" EndDateTime="2027-03-12T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12230,10 +12043,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2343-6EOWM01005</Code>
                 <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-10-31</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-28</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-10-31T09:00:00" EndDateTime="2027-05-22T17:00:00" />
+                    <Session StartDateTime="2026-11-28T09:00:00" EndDateTime="2027-05-22T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12924,6 +12737,95 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
+        <Code>2391</Code>
+        <Title>ISO 15189: 2022</Title>
+        <Language>nl</Language>
+        <Duration>8</Duration>
+        <Description><![CDATA[Eendaagse cursus ISO 15189:2022: praktische interpretatie van norm, inzicht in criteria en bewustwording bij laboratoriummedewerkers.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding ISO 15189:2022 praktisch interpreteren je op</strong></p><ul><li>Je begrijpt de structuur en opbouw van ISO 15189:2022 volledig en kunt de norm direct interpreteren en toepassen in je dagelijkse werk.</li><li>Je krijgt je medewerkers succesvol mee bij het implementeren van de norm door heldere uitleg en praktische voorbeelden.</li><li>Je kent de veelgebruikte modellen uit kwaliteitszorg en weet hoe je deze effectief inzet in je laboratoriumomgeving.</li></ul><p><strong>Compacte ISO 15189:2022 training met praktische focus</strong></p><p>Deze eendaagse cursus biedt je een heldere kijk op de nieuwste versie van de ISO 15189:2022 norm. Je leert niet alleen de theorie, maar past de kennis direct toe op concrete voorbeelden uit jouw werkpraktijk. Door de combinatie van theorie en praktijk onthoud je de eisen het beste en kun je deze meteen implementeren in je eigen laboratorium. De training is speciaal ontwikkeld voor professionals die snel en effectief willen leren werken met deze belangrijke kwaliteitsnorm.</p><p>Deze cursus wordt aangeboden in samenwerking met QAducation.</p><p><strong>Praktijkgerichte opleiding voor laboratoriumkwaliteit</strong></p><p>De cursus gebruikt een unieke aanpak waarbij je de ISO 15189:2022 eisen direct toepast op realistische situaties. Je werkt met concrete toepassingen die aansluiten bij jouw dagelijkse werkzaamheden als kwaliteitscoördinator, laboratoriummanager of analist. Deze hands-on methode zorgt ervoor dat je de norm niet alleen begrijpt, maar ook weet hoe je collega's en medewerkers kunt motiveren om de nieuwe werkwijzen over te nemen.</p><p><strong>Efficiënte ISO training voor medische laboratoria</strong></p><p>In één intensieve dag krijg je alle kennis en vaardigheden aangereikt die je nodig hebt om ISO 15189:2022 succesvol te implementeren. De cursus combineert de nieuwste inzichten uit kwaliteitszorg met bewezen modellen die je direct kunt inzetten. </p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze cursus is ontwikkeld voor kwaliteitscoördinatoren, laboratoriummanagers, medisch laboratoriumspecialisten en (hoofd)analisten die werken met ISO 15189:2022. Of je nu verantwoordelijk bent voor kwaliteitsmanagement of dagelijks werkt met laboratoriumprocessen, deze praktijkgerichte training helpt je de norm effectief te interpreteren en succesvol te implementeren in jouw medische laboratorium.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze eendaagse cursus combineert theorie met directe praktijktoepassing voor optimaal leerresultaat. Je leert de ISO 15189:2022 norm niet alleen kennen, maar past de eisen meteen toe op concrete voorbeelden uit jouw eigen werkpraktijk. Deze hands-on aanpak zorgt ervoor dat je de kennis het beste onthoudt en direct kunt implementeren in je laboratorium. Door de praktische focus werk je met realistische situaties die aansluiten bij je dagelijkse werkzaamheden als kwaliteitscoördinator, laboratoriummanager of analist. Je ontdekt hoe je collega's en medewerkers succesvol meekrijgt bij het toepassen van de norm door heldere uitleg en praktische voorbeelden. Daarnaast leer je de veelgebruikte modellen uit kwaliteitszorg kennen en hoe je deze effectief inzet in je laboratoriumomgeving.</p><p><strong>Tijdsinvestering</strong></p><p>Deze compacte cursus vraagt slechts één dag van je tijd en biedt je alle kennis die je nodig hebt om ISO 15189:2022 succesvol toe te passen in je laboratorium. De eendaagse training is bewust efficiënt opgezet zodat je snel weer terug bent op de werkvloer met praktische kennis en tools die je direct kunt inzetten. </p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na afronding van deze eendaagse cursus ontvang je een bewijs van deelname dat bevestigt dat je de ISO 15189:2022 norm praktisch kunt interpreteren en toepassen in je laboratorium.</p>]]></CertValue>
+        <Level>MBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>735,00</Base>
+                <Vat>154,35</Vat>
+                <VatFree>889,35</VatFree>
+            </Price>
+        </PriceBase>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>2391-6FPML01012</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-01-19</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-01-19T09:00:00" EndDateTime="2027-01-19T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2391-6FPML01013</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-13</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-13T09:00:00" EndDateTime="2027-09-13T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
+        <Code>2393</Code>
+        <Title>ISO/IEC 17025 : 2017</Title>
+        <Language>nl</Language>
+        <Duration>8</Duration>
+        <Description><![CDATA[Cursus ISO/IEC 17025:2017: de norm praktisch toepassen, met focus op kwaliteit, vaktechniek, risicomanagement en bewustwording in het laboratorium.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus ISO/IEC 17025:2017 praktisch interpreteren je op</strong></p><ul><li>Je interpreteert de norm direct in jouw organisatie en vertaalt deze naar praktische werkprocessen die aansluiten bij jullie dagelijkse activiteiten.</li><li>Je begrijpt de structuur en opbouw van ISO/IEC 17025 volledig en kunt bewustwording creëren bij je medewerkers over het belang van kwaliteitsnormen.</li><li>Je kent veelgebruikte modellen uit kwaliteitszorg en weet hoe je deze effectief inzet voor continue verbetering van laboratoriumprocessen.</li></ul><p><strong>Flexibele ISO/IEC 17025 training op maat</strong></p><p>Deze eendaagse cursus past zich volledig aan jouw behoeften aan. Het cursusprogramma staat niet vast, omdat we willen weten waar jij en je mede-cursisten tegenaan lopen. Op basis van jullie input creëren we een ISO/IEC 17025 cursus die perfect aansluit bij jouw praktijksituatie. We gaan niet de gehele norm woord voor woord doornemen, maar focussen op begrip en toepassing van de onderdelen die voor jullie het meest relevant zijn. Deze cursus wordt aangeboden in samenwerking met QAducation.</p><p><strong>Effectieve ISO cursus voor laboratoriumkwaliteit</strong></p><p>Door de op maat gemaakte aanpak krijg je precies die kennis en vaardigheden die je nodig hebt om ISO/IEC 17025 succesvol toe te passen in jouw organisatie. Je leert hoe je de norm kunt vertalen naar praktische werkprocessen en hoe je collega's kunt betrekken bij kwaliteitsverbeteringen. De cursus combineert kwaliteitsmodellen met actuele inzichten, zodat je meteen aan de slag kunt met concrete verbeteringen in je laboratorium.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze cursus is speciaal ontwikkeld voor kwaliteitscoördinatoren, laboratoriummanagers, (hoofd)analisten en (aankomende) interne auditors die werken met ISO/IEC 17025:2017. Of je nu verantwoordelijk bent voor kwaliteitsmanagement of betrokken bij auditprocessen, deze cursus helpt je de norm succesvol interpreteren en implementeren in jouw laboratoriumomgeving.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus past zich volledig aan jouw specifieke behoeften aan. Het programma staat niet vast, omdat we eerst willen weten waar jij en je mede-cursisten tegenaan lopen in de praktijk. Op basis van jullie input creëren we een ISO/IEC 17025 training op maat die perfect aansluit bij jouw werksituatie. We gaan niet de gehele norm woord voor woord doornemen, maar focussen op begrip van de onderdelen die voor jullie het meest relevant zijn. Samen pakken we delen van de norm waar jullie meer over willen weten en gaan daarover in gesprek. Deze interactieve aanpak zorgt ervoor dat je niet alleen de structuur begrijpt, maar ook weet hoe je de norm kunt vertalen naar praktische werkprocessen in jouw organisatie.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus duurt één dag. Onze gerichte aanpak zorgt ervoor dat je hierna meteen resultaat ziet in je dagelijkse werk als kwaliteitscoördinator of laboratoriummanager.</p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na afronding van deze cursus ontvang je een bewijs van deelname dat bevestigt dat je ISO/IEC 17025:2017 kunt interpreteren en praktisch toepassen in jouw organisatie. Dit bewijs van deelname toont aan dat je de structuur en opbouw van de norm begrijpt en de kennis kunt vertalen naar werkbare processen. Met dit bewijs van deelname kun je collega's begeleiden en bewustwording creëren over het belang van kwaliteitsnormen.</p>]]></CertValue>
+        <Level>MBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>735,00</Base>
+                <Vat>154,35</Vat>
+                <VatFree>889,35</VatFree>
+            </Price>
+        </PriceBase>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>2393-6FISO01025</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-01-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-01-21T09:00:00" EndDateTime="2027-01-21T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2393-6FISO01026</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-05-27</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-27T09:00:00" EndDateTime="2027-05-27T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2393-6FISO01027</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-16</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-16T09:00:00" EndDateTime="2027-09-16T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
         <Code>2396</Code>
         <Title>Praktijkondersteuner Huisartsenzorg GGZ (POH-GGZ)</Title>
         <Language>nl</Language>
@@ -13242,12 +13144,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 </Sessions>
             </Class>
             <Class>
-                <Code>2410-6DPLB01022</Code>
+                <Code>2410-6DPLB01023</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2027-04-19T17:00:00" />
+                    <Session StartDateTime="2027-04-05T09:00:00" EndDateTime="2027-07-05T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -14545,198 +14447,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2458-1FPFT02011</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-17</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-15</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-07-07T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2461</Code>
-        <Title>BIM advanced</Title>
-        <Language>nl</Language>
-        <Duration>560</Duration>
-        <Description><![CDATA[Leer in multidisciplinaire hoe je het volledig BIM proces kunt managen en ontwikkel je tot BIM regisseur, coördinator, engineer of modelleur.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding BIM advanced je op</strong></p><ul><li>Je bent aantoonbaar gekwalificeerd als BIM professional in je gekozen rol.</li><li>Je maakt het verschil op bedrijfs- én projectniveau.</li><li>Je ontvangt het erkende postbachelordiploma BIM engineering van Habeo+.</li></ul><p><strong>BIM opleiding die je ontwikkelt tot complete BIM professional</strong></p><p>De opleiding BIM advanced legt de nadruk op bouw informatie management: het organiseren, coördineren en aansturen van BIM processen. Tegelijkertijd werk je met en aan BIM modellen, zodat je inhoudelijk kunt beoordelen en sturen op kwaliteit. </p><p>Bij het afstuderen kies je voor een rol, zoals BIM regisseur, coördinator, engineer of modelleur. Je stelt hiervoor je eigen leerdoelen op, maar hebt onderweg ook de ruimte om andere rollen te ervaren en je keuze aan te passen. Zo ontwikkel je je gericht en persoonlijk, terwijl je inzicht krijgt in de breedte van BIM.</p><p>De opleiding is zorgvuldig opgebouwd: je leert individueel én in groepsverband. Samen met medecursisten werk je aan een casus waarin je als team moet voldoen aan de eisen van een opdrachtgever. Deze realistische aanpak maakt dat je leerervaring direct toepasbaar is in je dagelijkse praktijk.</p><p><strong>BIM opleiding met softwaretraining in het teken van proces en management</strong></p><p>Tijdens de opleiding werk je met professionele BIM software, waarvoor studentenlicenties beschikbaar worden gesteld. Je krijgt ondersteuning bij installatie en gebruik, maar de software staat altijd in dienst van het proces en management. Je leert hoe je de software effectief inzet om samenwerking, informatie-uitwisseling en de kwaliteit van BIM modellen te verbeteren. </p><p><strong>Opleiding die resulteert in postbachelordiploma</strong></p><p>BIM advanced vormt de afsluitende module van de driedelige BIM engineering opleiding. Na succesvolle afronding ontvang je het postbachelordiploma BIM engineering van Habeo+. Daarmee toon je aan dat je niet alleen kunt werken met BIM modellen, maar ook dat je in staat bent BIM processen te managen en richting te geven op zowel project- als bedrijfsniveau.</p><p>Je kunt hierna doorstromen naar vervolgopleidingen, zoals <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/projectleider-bouw-en-infra">Projectleider bouw en infra</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/hoger-bouwprojectmanagement">Hoger bouwprojectmanagement</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/contractmanagement">Contractmanagement</a> of <a href="https://habeoplus.nl/opleidingen/techniek-bouw/beheer-onderhoud/assetmanagement">Assetmanagement</a>. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je projectmedewerker of professional met ervaring in BIM processen en wil je doorgroeien naar BIM coördinator, regisseur, modelleur of engineer? Dan is deze opleiding voor jou.</p><p>De opleiding is bedoeld voor professionals die hun BIM carrière willen verdiepen richting management, leiderschap en procesbeheersing.</p><p>Voor de start maak je de entreetoets BIM advanced. Zo zorgen we er samen voor dat je goed kunt aansluiten bij het programma. Een diploma op associate degree niveau of hoger helpt hierbij.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>In BIM Advanced werk je in een multidisciplinair team aan een realistisch groepsproject volgens de BIM-methodiek en ISO19650-norm. Je kiest een hoofdrol die bij je past, BIM modelleur, BIM coördinator, BIM engineer of BIM regisseur, en stelt daarnaast enkele persoonlijke leerdoelen op. </p><p>Tijdens de module krijg je de ruimte om ook andere rollen uit te proberen en zo te ontdekken welke richting het beste bij jou aansluit. Het groepsproject vormt de kern: je werkt samen aan alle fasen, van functioneel en technisch ontwerp tot en met de beheersfase. Daarbij presenteer je de resultaten op vaste momenten en ontvang je gerichte feedback van de opdrachtgever (docenten). </p><p>Theorielessen ondersteunen de praktijk en geven je de kennis om direct toe te passen in het project. Met behulp van feedbackmomenten en een persoonlijk logboek werk je niet alleen aan het gezamenlijke eindresultaat, maar ook aan je eigen leerdoelen, je professionele vaardigheden en je verdere groei als BIM specialist.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding BIM advanced duurt 6 maanden en omvat 23 bijeenkomsten, op een vaste dag van 13.00 tot 20.15 uur. Daarnaast zijn er online vragenuren en een mondelinge verdediging. Naast de bijeenkomsten reserveer je 8 tot 12 uur per week voor zelfstudie, afhankelijk van je achtergrond, ervaring en ambitie. In weken zonder les houd je deze dag vrij voor opdrachten of eventuele verschuivingen. </p><p>Dankzij deze gestructureerde en flexibele opzet is de opleiding goed te combineren met je werk, terwijl je stap voor stap alle vaardigheden ontwikkelt die je nodig hebt om een complete BIM professional te worden.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding van BIM advanced ontvang je het officiële postbachelordiploma BIM engineering van Habeo+. Daarmee bewijs je dat je de volledige driedelige BIM engineering opleiding hebt afgerond en aantoonbaar gekwalificeerd bent als BIM professional.</p><p>Het diploma versterkt je positie op de arbeidsmarkt en laat zien dat je beschikt over actuele BIM expertise. Bovendien opent het de weg naar vervolgopleidingen, zoals <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/projectleider-bouw-en-infra">Projectleider bouw en infra</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/hoger-bouwprojectmanagement">Hoger bouwprojectmanagement</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/contractmanagement">Contractmanagement</a> of <a href="https://habeoplus.nl/opleidingen/techniek-bouw/beheer-onderhoud/assetmanagement">Assetmanagement</a>. Je legt hiermee een sterke basis voor doorgroei naar leidinggevende posities binnen de bouw- en infrasector.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>5750,00</Base>
-                <Vat>1207,50</Vat>
-                <VatFree>6957,50</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>720,00</Base>
-                <Vat>64,80</Vat>
-                <VatFree>784,80</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2461-6CBAD02009</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2027-03-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-03-09T09:00:00" EndDateTime="2027-11-03T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2461-6CBAD02010</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-03-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-03-09T09:00:00" EndDateTime="2027-11-03T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2464</Code>
-        <Title>BIM engineering</Title>
-        <Language>nl</Language>
-        <Duration>560</Duration>
-        <Description><![CDATA[Leer hoe je procesgericht werk met BIM modellen en wordt aantoonbaar gekwalificeerd BIM professional in jouw gekozen rol.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding BIM engineering je op</strong></p><ul><li>Je bent aantoonbaar gekwalificeerd als BIM professional in je gekozen rol.</li><li>Je kunt het verschil maken op zowel bedrijfs- als projectniveau.</li><li>Je ontvangt het postbachelordiploma BIM engineering van Habeo+.</li></ul><p><strong>Complete BIM engineering opleiding in 3 modules</strong></p><p>In één jaar tijd ontwikkel je je stap voor stap tot een volwaardige BIM professional. Je doorloopt 3 modules: <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-introductie">BIM introductie</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-fundamentals">BIM fundamentals</a> en <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a>. Elk onderdeel bouwt voort op het vorige, zodat je systematisch groeit in kennis, vaardigheden en houding. De opleiding richt zich vooral op bouw informatie management, maar je werkt ook met en aan BIM modellen om inhoud en proces met elkaar te verbinden. Je leert hoe je BIM inzet om sneller en efficiënter te werken en verwerft praktische vaardigheden om te functioneren als BIM engineer, BIM coördinator, BIM regisseur of BIM modelleur.</p><p><strong>Praktijkgerichte training voor werkende professionals</strong></p><p>Je leert niet alleen van ervaren docenten uit de praktijk, maar ook van medestudenten uit verschillende disciplines. De opleiding combineert theorie en directe praktijktoepassing: je bouwt eerst een stevige basis en past die direct toe in groepsprojecten die lijken op je dagelijkse werkomgeving. Je krijgt studentenlicenties voor BIM software, inclusief installatie-ondersteuning. De software is geen doel op zich, maar een hulpmiddel dat je leert inzetten voor procesmanagement, samenwerking en kwaliteitsborging. Buiten de bijeenkomsten wissel je kennis uit via het social learning platform. Zo leer je sneller en versterk je je netwerk.</p><p><strong>Modulaire opbouw met flexibele instroom</strong></p><p>BIM engineering opleiding heeft een modulaire structuur. Je kunt de volledige opleiding volgen of kiezen voor losse modules, afhankelijk van je ervaring en carrièredoelen. Heb je al kennis op niveau van BIM fundamentals? Dan kun je instromen bij BIM advanced, de afsluitende module.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor projectmedewerkers en professionals die willen doorgroeien naar een rol als BIM engineer, BIM coördinator, BIM regisseur of BIM modelleur. Je wilt je rol versterken in datagedreven en digitaal samenwerken.</p><p>Wil je een losse module volgen? Bekijk dan de informatie op de opleidingspagina:</p><ul><li><a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-introductie">BIM introductie</a></li><li><a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-fundamentals">BIM fundamentals</a></li><li><a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a></li></ul>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding BIM Engineering bestaat uit drie modules waarin je stap voor stap groeit van basiskennis naar het zelfstandig uitvoeren van een compleet BIM project.</p><p>Je leert in een multidisciplinaire omgeving met deelnemers en docenten uit verschillende vakgebieden. Je bouwt eerst een solide basis op van fundamentele kennis en past die vervolgens toe in groepsprojecten waar je de praktijk leert kennen. Je bestudeert zelfstandig theorie en neemt actief deel aan fysieke bijeenkomsten en online vragenuren. </p><p>Docenten maken gebruik van presentaties en diverse opdrachten die je uitdagen om nieuwe vaardigheden en inzichten te ontwikkelen. </p><p>Buiten de bijeenkomsten ontmoet je elkaar op het social learning platform waar kennis wordt gedeeld, stellingen worden geponeerd en vragen gesteld. De docent fungeert als moderator die discussies initieert en eventueel bijstuurt, waarbij de output de input vormt voor de volgende bijeenkomst.</p><p>Je sluit de opleiding af met een groepsproject waarin je een casus uit de praktijk gaat behandelen volgens de BIM-methodiek in een gekozen rol. </p><p><strong>Tijdsinvestering</strong></p><p>De opleiding BIM Engineering bestaat uit 3 modules die samen ongeveer 8 maanden duren.</p><ul><li><a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-introductie">BIM introductie</a> duurt 10 weken.</li><li><a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-fundamentals">BIM fundamentals</a> duurt 10 weken.</li><li><a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a> duurt ongeveer 6 maanden.</li></ul><p>De bijeenkomsten vinden plaats op een vaste dag tussen 13:00 en 20:15 uur. Naast de contactmomenten plan je 2 tot 5 uur per week voor zelfstudie. In weken zonder geplande bijeenkomsten, reserveer je de lesdag om aan opdrachten te werken. </p><p>De exacte studietijd verschilt per deelnemer en hangt af van je achtergrond, ervaring en ambitie. Zo kun je de opleiding goed afstemmen op je eigen situatie en combineren met je werk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding van de drie modules ontvang je het postbachelordiploma BIM engineering van Habeo+. Daarmee bewijs je dat je aantoonbaar gekwalificeerd bent als BIM professional die processen kan managen én inhoudelijk kan sturen op modellen. </p><p>Het diploma opent deuren naar vervolgopleidingen, zoals <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/projectleider-bouw-en-infra">Projectleider bouw en infra</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/hoger-bouwprojectmanagement">Hoger bouwprojectmanagement</a>, <a href="https://habeoplus.nl/opleidingen/techniek-bouw/bouwmanagement/contractmanagement">Contractmanagement</a> of <a href="https://habeoplus.nl/opleidingen/techniek-bouw/beheer-onderhoud/assetmanagement">Assetmanagement</a>. Het vormt een sterke basis voor doorgroei naar leidinggevende functies in de bouw-, infra- en installatiesector.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>9950,00</Base>
-                <Vat>2089,50</Vat>
-                <VatFree>12039,50</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>1293,00</Base>
-                <Vat>116,37</Vat>
-                <VatFree>1409,37</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2464-6CBIE02009</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-11-02T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2464-6CBIE02010</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-11-02T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2465</Code>
-        <Title>BIM fundamentals</Title>
-        <Language>nl</Language>
-        <Duration>140</Duration>
-        <Description><![CDATA[Ontwikkel fundamentele vaardigheden waarbij je vraagspecificaties en samenwerking verbetert met BIM en je hands-on werkt met BIM software.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding BIM fundamentals je op</strong></p><ul><li>Je beheerst fundamentele vaardigheden voor het BIM proces én modelbeheer.</li><li>Je communiceert effectief binnen de BIM cultuur, kent de functies en rollen.</li><li>Je koppelt vraagspecificaties aan BIM en hebt de basis van de software onder de knie.</li></ul><p><strong>Fundamentele BIM opleiding voor praktische toepassing</strong></p><p>Deze BIM fundamentals opleiding tilt je van basiskennis naar een stevig fundament. In 9 dagdelen ontwikkel je praktische vaardigheden voor het BIM proces, modelbeheer en effectieve communicatie binnen projecten. De multidisciplinaire aanpak zorgt ervoor dat je leert van ervaren docenten én medecursisten uit diverse vakgebieden. Met studentenlicenties werk je hands-on in professionele BIM software, waardoor je kennis direct toepasbaar is in jouw dagelijkse praktijk.</p><p><strong>Modulaire opleiding binnen de BIM engineering-opleiding</strong></p><p>BIM fundamentals is de tweede module binnen de BIM engineering opleiding, maar ook uitstekend los te volgen. Als projectmedewerker bij zowel opdrachtgevers als opdrachtnemers leer je met overtuigende argumenten verantwoorde BIM stappen te zetten.</p><p>Je ontwikkelt de vaardigheid om BIM modellen op kwaliteit te beoordelen en actief bij te dragen aan modelontwikkeling. De opleiding sluit af met een eindtoets, waarna je het certificaat BIM fundamentals ontvangt en kunt doorstromen naar BIM advanced.</p><p><strong>Praktijkgerichte leeromgeving met flexibele ondersteuning</strong></p><p>De BIM opleiding combineert fysieke bijeenkomsten en online vragenuren met zelfstudie. Via de BIM portal en digitale leeromgeving deel je kennis en ervaringen met medecursisten. Alles wat je leert is direct toepasbaar in je dagelijkse praktijk, terwijl je een proactieve en kritisch-positieve houding ontwikkelt die essentieel is voor BIM projecten.</p><p>Docenten uit de praktijk dagen je uit met presentaties en opdrachten die je vaardigheden maximaal stimuleren, zodat je na afloop beschikt over alle fundamentele kennis voor jouw BIM rol binnen de organisatie.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Werk je in de bouw, infra of installatietechniek en krijg je steeds vaker te maken met BIM? Dan is deze opleiding voor jou. Als projectmedewerker bij opdrachtgevers of opdrachtnemers wil je beschikken over fundamentele kennis om actief mee te werken aan BIM modelontwikkeling of BIM modellen op kwaliteit te beoordelen. </p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je leert in een multidisciplinaire omgeving met deelnemers en docenten uit verschillende vakgebieden. Je ontwikkeling gaat van basiskennis naar fundamentele kennis: je bestudeert zelfstandig de theorie en neemt actief deel aan fysieke bijeenkomsten. </p><p>Docenten uit de praktijk gebruiken presentaties en opdrachten en dagen je uit om bronnen te raadplegen, zodat je zo veel mogelijk vaardigheden ontwikkelt. Je krijgt kosteloos studentenlicenties voor BIM software en doet zo hands-on ervaring op. </p><p>Daarnaast leer je van medecursisten via kennisdeling in de BIM portal en digitale leeromgeving. De opleiding sluit af met de eindtoets BIM fundamentals, waarna je het certificaat behaalt en kunt doorstromen naar <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a>.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding BIM fundamentals bestaat uit 9 dagdelen, een online vragenuur en een eindtoets. De bijeenkomsten vinden plaats op een vaste dag van 13.00 tot 20.15 uur. Daarnaast reserveer je wekelijks 6 tot 8 uur voor zelfstudie, afhankelijk van je ervaring, leervermogen en ambitie. </p><p>Je verdiept je in de theorie en werkt praktijkopdrachten uit die direct aansluiten bij je dagelijkse werkzaamheden. Zo groei je stap voor stap van basiskennis naar fundamentele BIM kennis. Door de compacte en gestructureerde opzet behaal je in korte tijd concrete resultaten die je direct kunt toepassen in projecten. </p><p>De opleiding sluit af met een eindtoets, waarna je het certificaat BIM fundamentals behaalt en kunt doorstromen naar <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a>, de laatste module binnen de postbachelor opleiding BIM engineering.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afsluiten van de eindtoets ontvang je het certificaat BIM fundamentals. Dit certificaat bevestigt dat je beschikt over fundamentele vaardigheden voor het BIM proces, modelbeheer en effectieve communicatie binnen BIM projecten. </p><p>Met dit certificaat kun je direct aan de slag in je huidige functie of doorstromen naar <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a>, de derde module van het complete BIM engineering traject. Door alle 3 de modules af te ronden (BIM introductie, BIM fundamentals en BIM advanced) behaal je uiteindelijk het postbachelordiploma BIM engineering van Habeo+, waarmee je jezelf profileert als volwaardige BIM professional.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2100,00</Base>
-                <Vat>441,00</Vat>
-                <VatFree>2541,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>287,00</Base>
-                <Vat>25,83</Vat>
-                <VatFree>312,83</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2465-6CBAF02010</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-12-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-08T09:00:00" EndDateTime="2027-03-02T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2465-6CBAF02011</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-12-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-08T09:00:00" EndDateTime="2027-03-02T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2466</Code>
-        <Title>BIM introductie</Title>
-        <Language>nl</Language>
-        <Duration>84</Duration>
-        <Description><![CDATA[Leer wat BIM als model én management betekent, begrijp processen en word de gesprekspartner die basiskennis direct toepast in projecten.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding BIM introductie je op</strong></p><ul><li>Je begrijpt wat BIM betekent als model én als management en hoe je dit toepast in het hele bouwproces.</li><li>Je kunt BIM-modellen op instapniveau beoordelen op kwaliteit en bruikbaarheid.</li><li>Je spreekt de BIM-taal en bent een volwaardige gesprekspartner voor collega’s en klanten.</li></ul><p><strong>BIM opleiding voor professionals in bouw, infra en installatietechniek</strong></p><p>In deze praktijkgerichte opleiding leer je zowel de techniek van het model als de organisatie van het proces kennen. Zo maak je direct verschil in projecten binnen jouw werkgebied. Theorie en praktijkopdrachten wisselen elkaar af, waardoor je snel vaardig wordt in het werken met BIM.</p><p><strong>Opleiding met directe praktijkwaarde</strong></p><p>Aan de hand van casussen uit de dagelijkse praktijk ontwikkel je concrete vaardigheden. Ervaren docenten uit het werkveld begeleiden je stap voor stap, zodat je met zelfvertrouwen aan de slag gaat met BIM modellen én BIM management.</p><p><strong>Versnel je carrière met BIM</strong></p><p>Na afloop ben je in staat mee te praten en te adviseren over zowel de inhoud van modellen als de organisatie van informatiestromen. Daarmee vergroot je je waarde in projecten én je kansen in de digitale bouwsector.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze BIM opleiding is bedoeld voor professionals in installatietechniek, bouw en infra die hun rol willen versterken in digitaal samenwerken. Of je nu manager, projectleider, engineer, modelleur, coördinator of werkvoorbereider bent: je leert BIM direct toepassen in je dagelijkse praktijk. </p><p>De opleiding is ook zeer geschikt voor professionals bij ziekenhuizen, woningcorporaties, architectenbureaus, aannemers en installateurs die met BIM willen werken of hun organisatie daarin vooruit willen brengen.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze BIM opleiding wordt verzorgd door ervaren docenten uit het werkveld. Theorie en praktijk lopen naadloos in elkaar over: je bestudeert de theorie zelfstandig en past deze toe in fysieke bijeenkomsten en praktijkopdrachten. Samen met cursisten uit diverse bedrijven werk je aan cases en leer je van elkaars ervaring. Je krijgt toegang tot BIM-software met studentenlicenties en ontvangt ondersteuning bij de installatie. </p><p>De opleiding sluit af met een casus uit je eigen werkpraktijk, zodat de opgedane kennis en vaardigheden direct toepasbaar zijn in jouw projecten.</p><p><strong>Tijdsinvestering</strong></p><p>Deze BIM opleiding bestaat uit een kick-off, 9 dagdelen en een online vragenuur. De bijeenkomsten vinden plaats op een vaste dag in de week, van 13.00 tot 20.15 uur. Daarnaast reserveer je wekelijks 2 tot 5 uur zelfstudie, afhankelijk van je ervaring, leervermogen en ambitie.</p><p>Dankzij deze slimme opzet pas je de nieuwe BIM-kennis direct toe in je dagelijkse werk, waardoor je sneller leert en meer waarde haalt uit de opleiding. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding van deze BIM opleiding ontvang je het certificaat BIM Introductie van Habeo+. </p><p>Daarmee toon je aan dat je BIM beheerst in beide betekenissen: als model én als management. Het certificaat geeft toegang tot vervolgopleiding <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-fundamentals">BIM fundamentals</a> en <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-advanced">BIM advanced</a>, waarmee je uiteindelijk het postbachelordiploma <a href="https://habeoplus.nl/opleidingen/techniek-bouw/building-information-modeling-bim/bim-engineering">BIM engineering</a> kunt behalen.</p><p>Met dit certificaat positioneer je jezelf als professional die meedoet in de digitale transformatie van de bouwsector. Je bent klaar om BIM-modellen te beoordelen en als volwaardige gesprekspartner in projecten op te treden.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2100,00</Base>
-                <Vat>441,00</Vat>
-                <VatFree>2541,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>287,00</Base>
-                <Vat>25,83</Vat>
-                <VatFree>312,83</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2466-6CBCB02009</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-11-02T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2466-6CBCB02010</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-11-02T17:00:00" />
+                    <Session StartDateTime="2027-02-15T09:00:00" EndDateTime="2027-07-05T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -14844,6 +14558,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2026-11-19T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2535-6FVCL02011</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-05-31</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-31T09:00:00" EndDateTime="2027-05-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15349,51 +15072,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-06-15T09:00:00" EndDateTime="2027-06-15T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>3323</Code>
-        <Title>PE RAB – AI in de fiscale praktijk</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[In deze cursusdag leren deelnemers hoe zij AI professioneel, zorgvuldig en inhoudelijk verantwoord inzetten binnen de fiscale praktijk.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de PE RAB - AI in de fiscale praktijk je op</strong></p><ul><li>Verantwoord en betrouwbaar werken met AI in de fiscale praktijk</li><li>Direct toepasbaar in je dagelijkse advieswerk</li><li>Van losse prompts naar een professionele AI-werkwijze</li></ul><p><strong>AI als onderdeel van de fiscale adviespraktijk</strong></p><p>AI is in korte tijd een vast onderdeel geworden van de fiscale adviespraktijk. Taalmodellen schrijven mee, analyseren jurisprudentie en ondersteunen bij het opstellen van adviezen. Voor fiscale professionals roept dit vragen op over betrouwbaarheid, verantwoordelijkheid en juridische kaders.</p><p>In deze cursusdag leren deelnemers hoe zij AI professioneel, zorgvuldig en inhoudelijk verantwoord inzetten binnen de fiscale praktijk. De cursus is gebaseerd op het boek AI in de fiscale praktijk en richt zich op het combineren van snelheid met vaktechnische kwaliteit en transparantie.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je bent werkzaam als fusie- en overnamespecialist, intermediair, relatiebeheerder, financieel (bedrijfs)adviseur, accountant, financieel planner, controller, waarderingsdeskundige/valuator of belastingadviseur en je houdt je bezig met bedrijfsadvisering en waarderingsvraagstukken. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Afwisseling van inhoudelijke toelichting, praktijkvoorbeelden en interactie. De nadruk ligt op toepasbaarheid binnen de dagelijkse fiscale praktijk.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding vraagt minimale voorbereiding van je. Je bestudeert thuis de literatuur, wat slechts 1 tot 2 uur van je tijd kost. Deze korte voorbereiding zorgt ervoor dat je optimaal profiteert van de interactieve bijeenkomst. Je volgt vervolgens één dag training. Je kunt deelnemen van 10:30 tot 16:30 uur of 14:00 tot 20:00 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Je combineert zelfstudie met praktijkgerichte training, waardoor je snel resultaat behaalt. Na deze gerichte tijdsinvestering beheers je een complex vakgebied dat je onderscheidt als adviseur.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding van deze training ontvang je een officieel bewijs van deelname, dat bevestigt dat je de nieuwste kennis hebt opgedaan over bedrijfsopvolging. Nog belangrijker is dat je PE-punten krijgt voor het RAB-register, waardoor je registratie behouden blijft. Na het succesvol afronden van de PE RAB – AI in de fiscale praktijk ontvang je een bewijs van deelname. Ben je geregistreerd in het RAB-register? Dan vermelden wij jouw PE-activiteit in het register.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>645,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>645,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>3323-8EAFP01002</Code>
-                <Location>Nijkerk</Location>
-                <DiscontinuedFrom>2026-11-24</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-24T09:00:00" EndDateTime="2026-11-24T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -17116,6 +16794,24 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>3607-4ABHS01003</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3607-4ABHS01004</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>3607-4ABHS01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
@@ -17162,6 +16858,24 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
+            <Class>
+                <Code>3609-4ATTO01003</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3609-4ATTO01004</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
             <Class>
                 <Code>3609-4ATTO01001</Code>
                 <Location>Breda</Location>
@@ -17210,6 +16924,24 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>3611-4ABTM01003</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3611-4ABTM01004</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>3611-4ABTM01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
@@ -17257,12 +16989,30 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>3613-4ABDM01003</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3613-4ABDM01004</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>3613-4ABDM01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-04-06T17:00:00" />
+                    <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -17382,6 +17132,38 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-04-28T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
+        <Code>3640</Code>
+        <Title>Corrigeren met 4- O systematiek</Title>
+        <Language>nl</Language>
+        <Duration>8</Duration>
+        <Description><![CDATA[Los afwijkingen effectief en structureel op met de 4 O’s:
+Oorzaak, Omvang, Oplossing en Operationaliteit.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Corrigeren met 4-O systematiek je op</strong></p><ul><li>Je lost afwijkingen structureel op, niet symptomatisch. </li><li>Je voldoet aantoonbaar aan de eisen van ISO/IEC 17025, ISO 15189 en ISO/IEC 17020.</li><li>Je past de 4-O-systematiek zelfstandig toe en zorgt ervoor dat verbetermaatregelen effectief worden geïmplementeerd, gevolgd en geborgd in de dagelijkse praktijk.</li></ul><p><strong>Praktijkgerichte oplossingsmethodiek voor het lab</strong></p><p>Een afwijking oplossen is meer dan een snelle correctie. Om herhaling te voorkomen, moet je weten wat de oorzaak is, hoe groot de impact is en welke maatregel blijvend werkt. In de cursus Corrigeren met de 4-O-systematiek leer je afwijkingen en verbeterpunten stap voor stap analyseren en afhandelen: oorzaak, omvang, oplossing en operationaliteit. Je combineert de eisen uit ISO/IEC 17025, ISO 15189 en ISO/IEC 17020 met technieken voor continu verbeteren, zodat je afwijkingen effectief aanpakt én verbeteringen blijvend borgt in je laboratorium.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze cursus is iets voor jou als je als analist, kwaliteitscoördinator, leidinggevende of interne auditor afwijkingen, auditbevindingen of verbeterpunten onderzoekt en opvolgt in een laboratorium.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je wilt direct met de 4-O-systematiek aan de slag. Daarom start je snel met de praktijk en pas je de theorie meteen toe in cases uit je eigen laboratorium. Zo kun je na de cursus zelfstandig afwijkingen analyseren en corrigerende maatregelen doorvoeren.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus duurt 1 dag.</p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na het succesvol afronden van de cursus corrigeren met 4-O systematiek ontvang je een bewijs van deelname.</p>]]></CertValue>
+        <Level>MBO</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>735,00</Base>
+                <Vat>154,35</Vat>
+                <VatFree>889,35</VatFree>
+            </Price>
+        </PriceBase>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>3640-6FCSY002</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-02-01</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-01T09:00:00" EndDateTime="2027-02-01T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
