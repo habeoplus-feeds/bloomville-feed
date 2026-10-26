@@ -399,7 +399,7 @@
                 <DiscontinuedFrom>2027-09-20</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-09-20T09:00:00" EndDateTime="2030-02-25T17:00:00" />
+                    <Session StartDateTime="2027-09-20T09:00:00" EndDateTime="2030-06-10T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -2476,6 +2476,15 @@
                     <Session StartDateTime="2026-12-17T09:00:00" EndDateTime="2027-06-22T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>1795-8CFAD01042</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-02-18</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-18T09:00:00" EndDateTime="2027-06-22T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -3081,15 +3090,6 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1809-7ALOS02107</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-12-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1809-7ALOS02117</Code>
                 <Location>Amsterdam</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -3287,51 +3287,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1832</Code>
-        <Title>Masterclass Bedrijfskunde 1.0 – Organisaties begrijpen</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Doel van deze dag is om de organisatie te leren begrijpen. Het begrijpen van organisaties is de basis voor het veranderen van organisaties.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Bedrijfskunde 1.0 – Organisaties begrijpen je op</strong></p><ul><li>Je begrijpt de relatie tussen directie-ambities en organisatie-inrichting, waardoor je als adviseur strategische keuzes kunt doorgronden.</li><li>Je beheerst het B2-model en ESH-model, zodat je organisaties kunt analyseren en concrete verbeteringen kunt voorstellen.</li><li>Je krijgt inzicht in risicomodellen en de knoppen waaraan organisaties kunnen draaien voor optimale prestaties</li></ul><p><strong>Praktijkgerichte opleiding voor brede bedrijfskundige advisering</strong></p><p>Deze masterclass is ontwikkeld voor financieel adviseurs en intermediairs die hun adviesrol willen uitbreiden naar integrale bedrijfskundige advisering. Je leert organisaties begrijpen door praktische modellen en tools die je tijdens groepsopdrachten direct ontwikkelt. Het resultaat: nuttige instrumenten die je meteen in je eigen praktijk kunt inzetten voor een brede, strategische aanpak van je relaties.</p><p><strong>Interactieve training met directe toepassingsmogelijkheden</strong></p><p>De opleiding combineert college met groepswerk aan concrete opdrachten, waardoor je actief leert en meteen toepasbare resultaten creëert. Je werkt met het ESH-model en B2-model om organisaties te analyseren en risicomodellen te begrijpen. Deze hands-on benadering zorgt ervoor dat je na één intensieve dag over de kennis en tools beschikt om organisaties professioneel te adviseren op bedrijfskundig niveau.</p><p><strong>Compacte opleiding als fundament voor verdere specialisatie</strong></p><p>In slechts één dag leg je de basis voor brede bedrijfskundige advisering en ontvang je het boek 'Essenties van organiseren, managen en veranderen' als naslagwerk. Deze masterclass vormt bovendien de eerste stap naar het Postbachelor diploma Bedrijfskunde, dat je behaalt door alle vier de bedrijfskunde-modules af te ronden. Een efficiënte investering die je advieswerk direct verrijkt en toekomstperspectieven opent.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is ideaal voor financieel adviseurs en intermediairs die hun adviesrol willen uitbreiden naar integrale bedrijfskundige advisering. Je wilt je relaties niet alleen adviseren over schadeverzekeringen, maar kiest voor een brede aanpak. Je ambities gaan verder dan alleen het verkopen van polissen - je streeft naar strategische advisering op organisatieniveau. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass combineert college met praktijkgericht groepswerk aan concrete opdrachten. Tijdens de bijeenkomst wissel je tussen het leren van bedrijfskundige theorie en het direct toepassen daarvan in groepsoefeningen.</p><p>Je werkt samen met andere deelnemers aan opdrachten die nuttige tools opleveren voor je eigen advieswerk. Het resultaat van deze groepsopdrachten neem je mee naar je praktijk, zodat je meteen aan de slag kunt met wat je hebt geleerd.</p><p>Deze interactieve aanpak zorgt ervoor dat je niet alleen luistert, maar ook actief leert door te doen. Je ontwikkelt concrete instrumenten voor bedrijfskundige analyse die je direct kunt inzetten bij je eigen relaties.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass vraagt slechts één bijeenkomst van je tijd, waardoor je in één intensieve dag de basis leert voor bedrijfskundige advisering. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager.</p><p>Door deze ene dag heb je maximaal rendement uit je tijdsinvestering. Door de afwisseling tussen college en groepsopdrachten blijf je de hele dag actief bezig en ontwikkel je direct toepasbare tools voor je eigen advieswerk.</p><p>Je ontvangt bovendien het praktische handboek 'Basisboek Bedrijfskunde’ dat je na de training kunt gebruiken als naslagwerk. Zo investeer je slim in je professionele ontwikkeling met een compacte opleiding die je adviesvaardigheden direct verrijkt en nieuwe perspectieven opent.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle deelname ontvang je een officieel certificaat van Habeo+ dat jouw bedrijfskundige expertise bevestigt. Als je geregistreerd staat in het RVI of GRMC-Register, wordt je deelname automatisch geregistreerd en ontvang je 6 waardevolle PE-punten voor het register. </p><p>Deze masterclass vormt de eerste stap naar het volledige Postbachelor diploma Bedrijfskunde, dat je behaalt door alle vier de bedrijfskunde-modules (1.0 tot 4.0) af te ronden met een voldoende eindrapport. Een strategische investering die jouw adviescarrière naar een hoger niveau tilt.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>1832-8ABOB01021</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-26T09:00:00" EndDateTime="2026-10-26T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1834</Code>
         <Title>Masterclass Bedrijfskunde 2.0 – organisaties veranderen</Title>
         <Language>nl</Language>
@@ -3383,6 +3338,15 @@
                     <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2026-11-19T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>1834-8AOVE01021</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-03-30</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-30T09:00:00" EndDateTime="2027-03-30T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -3426,6 +3390,15 @@
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-12-03T09:00:00" EndDateTime="2026-12-03T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1836-8BMET01018</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-04-13</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-13T09:00:00" EndDateTime="2027-04-13T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -3804,15 +3777,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1866-8ACYB01012</Code>
-                <Location>Oranjewoud</Location>
-                <DiscontinuedFrom>2026-11-10</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-10T09:00:00" EndDateTime="2026-11-10T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1866-8ACYB01015</Code>
                 <Location>Arnhem</Location>
                 <DiscontinuedFrom>2027-03-10</DiscontinuedFrom>
@@ -3923,10 +3887,10 @@
             <Class>
                 <Code>1878-8BVAS01060</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-23T09:00:00" EndDateTime="2026-11-23T17:00:00" />
+                    <Session StartDateTime="2026-11-24T09:00:00" EndDateTime="2026-11-24T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -5106,15 +5070,6 @@
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>1910-8DPEF01036</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-10-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-26T09:00:00" EndDateTime="2026-11-02T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>1910-8DPEF01033</Code>
                 <Location>Nijkerk</Location>
@@ -6520,15 +6475,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2000-4APPC01105</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2000-4APPC01106</Code>
                 <Location>Den Bosch</Location>
                 <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
@@ -7652,6 +7598,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
+                <Code>2028-6BAMI02003</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-02-23</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-23T09:00:00" EndDateTime="2027-12-14T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
                 <Code>2028-6BAMI02002</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-02-23</DiscontinuedFrom>
@@ -7920,6 +7875,33 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-02-01T09:00:00" EndDateTime="2027-06-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2079-6CHIF01019</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-09-20</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-20T09:00:00" EndDateTime="2028-01-24T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2079-6CHIF01021</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-09-23</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-23T09:00:00" EndDateTime="2028-01-27T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2079-6CHIF01020</Code>
+                <Location>Zwolle</Location>
+                <DiscontinuedFrom>2027-09-23</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-23T09:00:00" EndDateTime="2028-01-27T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -10487,44 +10469,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2255</Code>
-        <Title>Inleiding in de HPLC (niveau 1)</Title>
-        <Language>nl</Language>
-        <Duration>24</Duration>
-        <Description><![CDATA[Inleiding HPLC: leer basisprincipes, instrumentatie en kolommen, met praktijkopdrachten op diverse systemen en betere communicatie over HPLC.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Inleiding in de HPLC (niveau 1) je op</strong></p><ul><li>Je start zelfstandig een HPLC-apparaat op en voert analyses uit.</li><li>Je beoordeelt de status en kwaliteit van het systeem met een testchromatogram.</li><li>Je begrijpt de opbouw van HPLC, eigenschappen van injectoren, detectoren, kolommen en mobiele fasen.</li></ul><p><strong>HPLC opleiding voor beginnende laboratoriummedewerkers</strong></p><p>Deze driedaagse cursus bouwt je kennis van HPLC systematisch op vanaf de basis. Je werkt in kleine groepjes onder deskundige begeleiding van ervaren praktijkdocenten. Na theoretische inleidingen ga je aan de slag met experimenten in ons moderne laboratorium. Deze hands-on benadering zorgt ervoor dat je voortdurend wordt geprikkeld om na te denken en vanuit de praktijk de theoretische achtergronden leert begrijpen.</p><p><strong>Praktijkgerichte HPLC training met moderne apparatuur</strong></p><p>Je ontwikkelt inzicht in scheiding en kolommen voor HPLC en leert kwantitatieve analyses uitvoeren. Door de continue afwisseling tussen theorie en praktijk kun je de aangeboden kennis direct toepassen in echte laboratoriumsituaties. De bijbehorende apparatuur en mobiele fasen begrijp je grondig, waardoor je effectiever wordt in je dagelijkse werk. Deze praktische vaardigheden maken het verschil in je laboratoriumcarrière.</p><p><strong>HPLC cursus voor systeembeheersing en kwaliteitsbeoordeling</strong></p><p>Na deze opleiding herken en beoordeel je alle aspecten van HPLC-analyses in je werk. Je hebt een compleet overzicht van de meestgebruikte HPLC-kolommen en mobiele fasen en weet wanneer je welke toepast. Een korte toets aan het einde van de cursus helpt je jouw vorderingen te beoordelen. Deze solide basis maakt je een zelfverzekerde HPLC-specialist die waardevol is voor elk laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je bent laboratoriummedewerker op (K)MLO- of bachelorniveau en werkt nog kort met HPLC. Je wilt je inzicht ontwikkelen en praktische vaardigheden vergroten. Je doel is een beter begrip van scheiding, kolommen, kwantitatieve analyses en mobiele fasen.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Na korte theoretische inleidingen over de basisprincipes van HPLC ga je direct aan de slag met experimenten in ons laboratorium. Je werkt in kleine groepjes onder deskundige begeleiding van ervaren praktijkdocenten. Deze hands-on benadering prikkelt je voortdurend om na te denken en zorgt ervoor dat je vanuit de praktijk de theoretische achtergronden van HPLC leert begrijpen. Door de afwisseling tussen theorie en praktijk pas je de aangeboden kennis direct toe in echte laboratoriumsituaties. Je ontwikkelt inzicht in scheiding, kolommen voor HPLC en kwantitatieve analyses. Ook de bijbehorende apparatuur en mobiele fasen leer je grondig begrijpen. Je sluit de cursus af met een korte toets waarmee je jouw vorderingen kunt beoordelen en je voortgang meet.</p><p><strong>Tijdsinvestering</strong></p><p>De cursus Inleiding in de HPLC (niveau 1) bestaat uit drie aaneengesloten lesdagen. De eerste dag start om 9.30 uur en eindigt om 17.30 uur, de tweede dag loopt van 9.00 tot 17.00 uur en de derde dag van 9.00 tot 16.00 uur. Deze compacte opzet zorgt ervoor dat je volledig kunt focussen op HPLC-technieken zonder onderbrekingen door andere werkzaamheden. Tijdens alle cursusdagen wisselen theorie en praktijk elkaar af, waardoor je de basisprincipes van HPLC meteen uitprobeert met state-of-the-art instrumenten. Hierdoor blijf je in het leerproces zitten en kun je nieuwe kennis direct toepassen op jouw eigen analyses. De intensieve driedaagse aanpak betekent dat je na deze periode beschikt over alle praktische vaardigheden om zelfstandig met HPLC te werken. De tijdsinvestering blijft beperkt tot drie werkdagen, waardoor de cursus goed inplanbaar is naast je reguliere laboratoriumtaken. Je leert efficiënt omdat je direct kunt oefenen met wat je hebt geleerd en sluit af met een korte toets.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de cursus Inleiding in de HPLC (niveau 1) ontvang je een bewijs van deelname. Dit bewijs bevestigt dat je de fundamenten van HPLC beheerst en zelfstandig een HPLC-apparaat kunt opstarten en bedienen. Als beginnende HPLC-specialist kun je met een testchromatogram de status en kwaliteit van het systeem beoordelen. Het bewijs van deelname toont aan dat je de opbouw van HPLC, eigenschappen van diverse injectoren en detectoren en de meestgebruikte kolommen en mobiele fasen doorgrond. Deze basiskennis vormt een solide fundament voor vervolgcursussen of specialisatie in vloeistofchromatografie.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2250,00</Base>
-                <Vat>472,50</Vat>
-                <VatFree>2722,50</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>219,00</Base>
-                <Vat>19,71</Vat>
-                <VatFree>238,71</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2255-6FILC01015</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-26T09:00:00" EndDateTime="2026-10-28T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2259</Code>
         <Title>Integrale transferzorg</Title>
         <Language>nl</Language>
@@ -10636,6 +10580,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2026-11-03T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2262-6FIAK01016</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-01-25</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-01-25T09:00:00" EndDateTime="2027-01-26T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -11145,10 +11098,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2285-7BIKC01053</Code>
                 <Location>Middelburg</Location>
-                <DiscontinuedFrom>2026-11-13</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-13T09:00:00" EndDateTime="2027-07-02T17:00:00" />
+                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-07-02T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -11891,10 +11844,19 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2339-6EMAM01005</Code>
                 <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-11-27</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-10-31</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-27T09:00:00" EndDateTime="2027-01-09T17:00:00" />
+                    <Session StartDateTime="2026-10-31T09:00:00" EndDateTime="2027-01-09T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2339-6EMAM01006</Code>
+                <Location>Bosschenhoofd</Location>
+                <DiscontinuedFrom>2027-11-26</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-11-26T09:00:00" EndDateTime="2028-01-15T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12084,7 +12046,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedFrom>2027-04-16</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-04-16T09:00:00" EndDateTime="2027-06-18T17:00:00" />
+                    <Session StartDateTime="2027-04-16T09:00:00" EndDateTime="2027-05-22T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12435,15 +12397,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2352-4BSTU01048</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2352-4BSTU01049</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
@@ -12603,12 +12556,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2359-6FMVS01012</Code>
+                <Code>2359-6FMVS01013</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-01</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2026-12-02T17:00:00" />
+                    <Session StartDateTime="2027-04-01T09:00:00" EndDateTime="2027-05-19T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13088,15 +13041,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2402-6FSTM01015</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-02-17T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2402-6FSTM01013</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
@@ -13457,6 +13401,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-03-12T09:00:00" EndDateTime="2028-11-24T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2429-2BSPV01032</Code>
+                <Location>Haarlem</Location>
+                <DiscontinuedFrom>2027-03-15</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-15T09:00:00" EndDateTime="2028-11-27T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13865,12 +13818,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2440-6FVSL01007</Code>
+                <Code>2440-6FVSL01008</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-01</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2027-03-22T17:00:00" />
+                    <Session StartDateTime="2027-04-01T09:00:00" EndDateTime="2027-11-02T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13902,15 +13855,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2441-6FLSV01010</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2027-01-13</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-01-13T09:00:00" EndDateTime="2027-02-17T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2441-6FLSV01009</Code>
                 <Location>Breda</Location>
@@ -14978,51 +14922,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>3227</Code>
-        <Title>Masterclass ChatGPT in de Praktijk: Van Weten naar Kunnen</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Transformeer je ChatGPT-kennis in vaardigheid: werk praktisch met AI-tools, bouw je prompt-bibliotheek en pas ze direct toe op jouw praktijk.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass ChatGPT in de Praktijk: van Weten naar Kunnen je op</strong></p><ul><li>Je zet je basiskennis om in praktische ChatGPT-vaardigheden die je direct kunt toepassen</li><li>Je gebruikt ChatGPT consequent en doelgericht in uiteenlopende werksituaties</li><li>Je ontwikkelt geavanceerde technieken en bouwt een eigen aanpak voor optimaal resultaat</li></ul><p><strong>Direct aan de slag met ChatGPT</strong></p><p>In een wereld waarin technologie razendsnel evolueert, is het voor professionals essentieel om op de hoogte te blijven van de nieuwste ontwikkelingen in kunstmatige intelligentie (AI). </p><p>In de vorige bijeenkomst heb je geleerd hoe je met ChatGPT processen kan automatiseren en interacties met je klant kan verbeteren. Je hebt gezien welke nieuwe uitdagingen het voor jou als adviseur kan opleveren. In deze bijeenkomst ga je onder begeleiding aan de slag op je eigen laptop met een reeks opdrachten die direct aansluiten op de praktijk. </p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze training is specifiek ontworpen voor deelnemers die de basisprincipes van Generatieve AI al begrijpen. Deelname aan onze introductiecursus "Masterclass ChatGPT", of aantoonbaar vergelijkbare kennis, is een vereiste om maximale waarde uit deze praktijkdag te halen. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Vergeet lange, passieve presentaties. Deze dag is een hands-on workshop. Je werkt, onder continue begeleiding, op je eigen laptop aan een reeks opdrachten die direct aansluiten op de praktijk.</p><p>De focus ligt op doen, experimenteren, fouten maken en daarvan leren in een veilige omgeving. We wisselen korte, geavanceerde afrondende theoretische blokken af met uitgebreide praktijksessies waarin je zelf de controle hebt. Je verlaat de training niet alleen met kennis, maar met tastbaar resultaat en het vertrouwen om het zelfstandig toe te passen.</p><p><strong>Tijdsinvestering</strong></p><p>Deze Masterclass duurt één dag. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na de bijeenkomst ontvang je een bewijs van deelname en worden je PE uren bijgeschreven in jouw register.<br /> </p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>3227-8ACIP01003</Code>
-                <Location>Oranjewoud</Location>
-                <DiscontinuedFrom>2026-12-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-03T09:00:00" EndDateTime="2026-12-03T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>3280</Code>
         <Title>PE Horeca &amp; Food risico’s in de Praktijk</Title>
         <Language>nl</Language>
@@ -15940,7 +15839,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding je op </strong></p><ul><li>Je leert governancevraagstukken bekijken vanuit verschillende perspectieven, zoals bestuur, toezicht en andere relevante stakeholders en ontwikkel zo een bredere en meer strategische blik op governance.</li><li>Je krijgt inzicht in hoe formele structuren en informele dynamieken (zoals gedrag en cultuur) invloed hebben op besluiten in organisaties. </li><li>Je leert hoe je verschillende belangen, ethisch, juridisch en strategisch, afweegt en vergroot je invloed in vraagstukken die spelen binnen jouw organisatie.</li></ul><p><strong>Maak kennis met governance; een 360 graden perspectief op governancevraagstukken</strong></p><p>Governance lijkt vaak iets voor bestuurders en toezichthouders, maar in de praktijk krijg je er in veel rollen al mee te maken. Governancevraagstukken zijn zelden eenduidig. Bestuurders, toezichthouders en stakeholders kijken vaak met een andere bril naar hetzelfde vraagstuk, waardoor besluitvorming vanuit meerdere lagen tegelijk wordt beïnvloed. </p><p>In deze masterclass leer je kijken naar organisaties vanuit een bestuurlijk perspectief en ontwikkel je een bredere en meer strategische blik op governance. Je ontdekt hoe formele structuren, rollen en verantwoordingslijnen samenhangen met gedrag, cultuur en onderlinge verhoudingen. De zichtbare én onzichtbare dynamiek die bepaalt hoe besluiten écht tot stand komen.</p><p>Je past deze inzichten direct toe op vraagstukken uit je eigen werkomgeving. Daarmee vergroot je niet alleen je inzicht, maar ook je vermogen om mee te denken en bij te dragen op een meer strategisch niveau.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze masterclass is bedoeld voor professionals die zich willen oriënteren op een volgende stap in hun carrière, bijvoorbeeld richting een strategische, bestuurlijke of toezichthoudende rol.</p><p>Je hoeft geen ervaring te hebben met governance. Juist als je nu werkt in een rol waarin je steeds vaker te maken krijgt met organisatiebrede governancevraagstukken of besluitvorming, helpt deze masterclass je om die context beter te begrijpen, hoe belangen elkaar beïnvloeden en hoe je zelf effectiever kunt schakelen tussen de verschillende perspectieven.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Binnen deze praktijkgerichte masterclass werk je individueel en in kleine leerteams aan governancevraagstukken uit je eigen werkomgeving. De leerteams bestaan uit 3 à 4 deelnemers, waardoor er veel ruimte is voor interactie en het delen van ervaringen. Je leert samen met professionals uit verschillende sectoren, zoals zorg, overheid, dienstverlening, onderwijs, infrastructuur en techniek. Dat zorgt voor nieuwe inzichten en helpt je om vraagstukken vanuit meerdere perspectieven te bekijken.</p><p>Voor deze masterclasses hebben we werkvormen gekozen die aansluiten op de praktijk. We werken met een mix van activerende en praktijkgerichte (online) leeractiviteiten. Op ons online leerplatform vindt kennisoverdracht en samenwerking plaats. Je krijgt individueel en gezamenlijk feedback en bereikt samen met onze experts de gewenste verdieping. </p><p>Je sluit de masterclass af met een concrete beroepsprestatie binnen je eigen organisatie. Daarbij werk je een governancevraagstuk uit en presenteer je jouw advies in de vorm van een boardroom pitch. Zo werk je direct aan je eigen ontwikkeling én lever je waarde voor je organisatie. Tegelijkertijd bouw je een waardevol netwerk op.</p><p><strong>Tijdsinvestering</strong></p><p>De masterclass heeft een doorlooptijd van 10 weken. Het programma heeft 3 bijeenkomsten van 14.00 en 21.00 uur. De studiebelasting ligt rond 10 tot 15 uur per week. Je combineert de leeractiviteiten met je eigen werkpraktijk, waardoor de masterclass direct waarde toevoegt aan je organisatie.</p><p><strong>Tijdens deze periode:</strong></p><ul><li>volg je meerdere bijeenkomsten onder begeleiding van experts op het gebied van governance</li><li>werk je zelfstandig aan analyse en advies rond een governancevraagstuk</li><li>wissel je ervaringen uit met andere deelnemers</li></ul><p><strong>Daarbij werk je met:</strong></p><ul><li>governancecodes, modellen en theoretische kaders</li><li>analyse van formele structuren, rollen, processen en verantwoordingslijnen</li><li>verkennen van informele dynamieken zoals gedrag, cultuur en onderlinge relaties</li><li>reflectie op belangen, verantwoordelijkheden en rolopvattingen binnen governance</li></ul><p><strong>Afronding:</strong></p><p>• je rondt af met een integrale beroepsprestatie: een governance-advies en boardroom pitch.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding van deze masterclass ontvang je een certificaat van Habeo+.</p><p>Deze masterclass maakt onderdeel uit van het programma van de <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/bedrijfskunde/master-business-administration-mba">Master of Business Administration (MBA)</a> en van het programma van de <a href="https://habeoplus.nl/opleidingen/onderwijs/schoolleiders/master-leiderschap-onderwijs">Master Leiderschap in Onderwijs (MLO)</a>. Maar de masterclass kan ook los gevolgd worden.</p>]]></CertValue>
+        <CertValue><![CDATA[<p>Na succesvolle afronding van deze masterclass ontvang je een certificaat van Habeo+.</p><p>Deze masterclass maakt onderdeel uit van het programma van de <a href="https://habeoplus.nl/opleidingen/management-bedrijfskunde/bedrijfskunde/master-business-administration-mba">Master of Business Administration (MBA)</a> en van het programma van de <a href="https://habeoplus.nl/opleidingen/onderwijs/schoolleiders/master-leiderschap-onderwijs">Master Leiderschap in Onderwijs (MLO)</a>. Maar de masterclass kan ook los gevolgd worden.</p><p>Geregistreerde schoolleiders kunnen zich met dit certificaat herregistreren bij Ascenda voor 100 punten.</p>]]></CertValue>
         <Level>Master</Level>
         <PriceBase>
             <Price from="2026-01-01">
@@ -16346,10 +16245,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3485-6FPCR01002</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-09-24</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-09-23</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-09-24T09:00:00" EndDateTime="2027-11-25T17:00:00" />
+                    <Session StartDateTime="2027-09-23T09:00:00" EndDateTime="2027-11-25T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -16794,24 +16693,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3607-4ABHS01003</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>3607-4ABHS01004</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>3607-4ABHS01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
@@ -16823,10 +16704,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3607-4ABHS01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
+                    <Session StartDateTime="2027-03-05T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -16859,24 +16740,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3609-4ATTO01003</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>3609-4ATTO01004</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>3609-4ATTO01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
@@ -16888,10 +16751,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3609-4ATTO01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
+                    <Session StartDateTime="2027-03-05T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -16924,24 +16787,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3611-4ABTM01003</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>3611-4ABTM01004</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>3611-4ABTM01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
@@ -16953,10 +16798,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3611-4ABTM01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
+                    <Session StartDateTime="2027-03-05T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -16989,24 +16834,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3613-4ABDM01003</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-17</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-17T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>3613-4ABDM01004</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-20</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-20T09:00:00" EndDateTime="2027-02-28T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>3613-4ABDM01001</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-03-02</DiscontinuedFrom>
@@ -17018,10 +16845,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3613-4ABDM01002</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-03-06</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-03-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-03-06T09:00:00" EndDateTime="2027-07-31T17:00:00" />
+                    <Session StartDateTime="2027-03-05T09:00:00" EndDateTime="2027-07-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -17035,7 +16862,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Strategisch ondernemen en financieel management in de kinderopvang je op</strong></p><ul><li>Je versterkt je financieel inzicht in de kinderopvang</li><li>Je ontwikkelt een breder perspectief op strategisch ondernemerschap ten behoeve van jouw organisatie</li><li>Je combineert theorie en praktijk effectief en past nieuwe inzichten direct toe in jouw eigen context</li></ul><p>De kinderopvang is een vorm van dienstverlening die plaatsvindt binnen de kaders die de overheid stelt. Tegelijkertijd is het een concurrerende markt terwijl er in toenemende mate wordt samengewerkt met het onderwijs. Een spanningsveld tussen samenwerking en concurrentie op zich. Hoe ga je als manager om met deze uitdagende vorm van ondernemerschap? </p><p>Tijdens deze postbachelor opleiding werk je aan je leiderschap waarin je innovatie en ondernemerschap de ruimte geeft en vertaalt naar maatschappelijke positionering, strategisch ondernemen en gerichte marketingacties. Je leert maatschappelijke ontwikkelingen op waarde te schatten en vanuit visie te vertalen naar zowel intern als extern gerichte strategieën.</p><p><strong>Financieel inzicht</strong></p><p>Je leert financiële scenario’s en analyses te maken, passend risico- en beheermanagement in te richten en investeringen op te nemen in de planning- en controlcyclus. Op die manier leer je duurzaam en verantwoord leidinggeven aan je organisatie.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Deze postbachelor opleiding is bedoeld voor ervaren locatie-, vestigings- en regiomanagers in de kinderopvang die zich verder willen verdiepen in ondernemerschap en de financiën binnen de kinderopvang. De opleiding is ook zeer geschikt voor schoolleiders die te maken krijgen met kinderopvang binnen hun schoolorganisatie.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je begint met een online ontwikkelassessment dat jouw individuele wendbaarheid in kaart brengt. Samen met een expert in persoonlijke en professionele ontwikkeling bepaal je jouw persoonlijke ontwikkeldoelen en werk je middels concrete uitdagingen in jouw leiderschapspraktijk aan jouw professionele leiderschapsontwikkeling.</p><p>Naast de expert persoonlijke ontwikkeling word je in de opleiding zelf begeleid door een inhoudelijk expert docent. Dit zijn ervaren leidinggevenden uit opvang en onderwijs. De opleiding rond je af met een beroepsprestatie binnen jouw organisatie. Zo pas je nieuwe inzichten direct toe en lever je meteen resultaat voor jouw organisatie. Deze praktijkgerichte aanpak zorgt ervoor dat je groeit als leider terwijl je gewoon doorwerkt.</p><p>De opleiding combineert contactmomenten met praktische leeractiviteiten in jouw eigen organisatie. Via onze digitale leeromgeving heb je toegang tot alle studiematerialen. Zo behoud je de regie over je eigen ontwikkeltraject en kun je leren wanneer het jou uitkomt.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding duurt 10 weken en daarin heb je 3 bijeenkomsten van 14:00-21:00 uur. Je investeert wekelijks 10 tot 15 uur in je ontwikkeling, waarbij je zelfstandig literatuur bestudeert, werkt aan je strategisch en ondernemend leiderschap en dit koppelt aan je beroepsprestatie. De overige leeractiviteiten voer je uit op jouw eigen werkplek, waar je direct kunt toepassen wat je leert. Dit betekent dat je de opleiding goed kunt combineren met jouw drukke werk als manager in de kinderopvang of schoolleider.</p><p>Ons uitgangspunt is dat je de opleiding zoveel mogelijk integreert met jouw dagelijkse beroepspraktijk. Zo groei je als leider, lever je maximale impact voor de organisatie zonder dat dit ten koste gaat van jouw verantwoordelijkheden.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden ontvang je een postbachelor certificaat. Deze opleiding is één van de 3 modules van de <a href="https://habeoplus.nl/opleidingen/onderwijs/kinderopvang/manager-kinderopvang-verdieping">opleiding Manager kinderopvang verdieping</a> en biedt direct vrijstelling wanneer je verder zou gaan met die opleiding.</p><p>Schoolleiders die bij Habeo+ de <a href="https://habeoplus.nl/opleidingen/onderwijs/schoolleiders/schoolleider-vakbekwaam">opleiding Schoolleider Vakbekwaam</a> hebben afgerond, behalen na afronding van deze opleiding vanwege vrijstellingen voor de overige twee onderdelen, het diploma Manager kinderopvang verdieping.</p><p>Geregistreerde schoolleiders kunnen zich met dit certificaat herregistreren bij Ascenda.*</p><p><em>*De aanvraag hiervoor ligt ter beoordeling bij Ascenda.</em></p>]]></CertValue>
+        <CertValue><![CDATA[<p>Na het succesvol afronden ontvang je een postbachelor certificaat. Deze opleiding is één van de 3 modules van de <a href="https://habeoplus.nl/opleidingen/onderwijs/kinderopvang/manager-kinderopvang-verdieping">opleiding Manager kinderopvang verdieping</a> en biedt direct vrijstelling wanneer je verder zou gaan met die opleiding.</p><p>Schoolleiders die bij Habeo+ de <a href="https://habeoplus.nl/opleidingen/onderwijs/schoolleiders/schoolleider-vakbekwaam">opleiding Schoolleider Vakbekwaam</a> hebben afgerond, behalen na afronding van deze opleiding vanwege vrijstellingen voor de overige twee onderdelen, het diploma Manager kinderopvang verdieping.</p><p>Geregistreerde schoolleiders kunnen zich met dit certificaat herregistreren bij Ascenda voor 80 punten.</p>]]></CertValue>
         <Level>HBO</Level>
         <PriceBase>
             <Price from="2026-01-01">
