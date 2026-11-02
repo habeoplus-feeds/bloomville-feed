@@ -206,9 +206,9 @@
         <Level>HBO</Level>
         <PriceBase>
             <Price from="2026-01-01">
-                <Base>8250,00</Base>
+                <Base>8400,00</Base>
                 <Vat>0,00</Vat>
-                <VatFree>8250,00</VatFree>
+                <VatFree>8400,00</VatFree>
             </Price>
         </PriceBase>
         <PriceArrFacLow>
@@ -3072,15 +3072,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1809-7ALOS02104</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-12-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1809-7ALOS02106</Code>
                 <Location>Virtual</Location>
                 <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
@@ -3404,51 +3395,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1838</Code>
-        <Title>Masterclass Bedrijfskunde 4.0 – organisaties adviseren</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Help organisaties effectief veranderen door diepgaande verandermethodieken toe te passen en een professioneel veranderplan op te zetten.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Bedrijfskunde 4.0 – Organisaties adviseren je op</strong></p><ul><li>Je krijgt inzicht in verschillende typen cliënten en hun specifieke behoeften.</li><li>Je leert verschillende soorten bedrijfsproblemen herkennen en analyseren.</li><li>Je beheerst diverse adviseringsmethoden voor integrale bedrijfskundige ondersteuning.</li></ul><p><strong>Masterclass bedrijfskunde voor brede advisering</strong></p><p>Adviseren kun je maar één keer goed doen. Als je het verkeerd doet, beschadigt dat de relatie die je hebt met jouw cliënt. Daarom is het van groot belang adviezen zorgvuldig af te stemmen op de “mindset” van je cliënt. Risico daarbij bestaat natuurlijk dat je te veel in de beleving van de klant blijft en niets verandert. Je komt tijdens de bijeenokmst achter jouw stijl van adviseren en wat dat betekent.</p><p><strong>Praktijkgerichte opleiding met directe toepassingen</strong></p><p>Tijdens de bijeenkomst wissel je college af met groepswerk aan concrete opdrachten. Je krijgt een toelichting op de eindopdracht en hoe je een goed (schriftelijk) advies opstelt. Daarbij ontvang je tips voor de rapportage.</p><p><strong>Bedrijfskundige expertise voor adviseurs</strong></p><p>Na deze opleiding adviseer je niet alleen over verzekeringen, maar ook over organisatievraagstukken. Je herkent verschillende bedrijfsproblemen en weet welke adviseringsmethode het beste past. Dit maakt je een waardevolle sparringpartner voor ondernemers.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is ideaal voor financieel adviseurs en intermediairs die hun adviesrol willen uitbreiden naar integrale bedrijfskundige advisering. Je wilt je relaties niet alleen adviseren over schadeverzekeringen, maar kiest voor een brede aanpak. Je ambities gaan verder dan alleen het verkopen van polissen - je streeft naar strategische advisering op organisatieniveau.</p><p>De Masterclass Bedrijfskunde 1.0 - Organisaties Begrijpen, Masterclass Bedrijfskunde 2.0 - Organisaties veranderen en Masterclass Bedrijfskunde 3.0 - Organisaties meten heb je inmiddels afgerond. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass bedrijfskunde combineert theorie met praktijk in een interactieve opzet. College wordt afgewisseld met groepswerk aan concrete opdrachten die direct toepasbaar zijn in jouw advieswerk. Je werkt samen met collega-adviseurs aan cases uit de praktijk en ontwikkelt bruikbare tools voor jouw bedrijfsvoering. Het resultaat van deze opdrachten neem je mee naar huis, zodat je direct aan de slag kunt met wat je hebt geleerd. Deze hands-on benadering zorgt ervoor dat je niet alleen kennis opdoet, maar deze ook meteen kunt toepassen in jouw advisering aan bedrijven.</p><p><strong>Tijdsinvestering</strong></p><p>Deze compacte masterclass vraagt slechts één dag van je tijd en levert direct bruikbare bedrijfskundige tools op voor je adviesverlening. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. Je volgt één intensieve bijeenkomst waarin je meteen aan de slag gaat met praktische opdrachten die aansluiten bij jouw werk als financieel adviseur of intermediair. Deze efficiënte aanpak betekent dat je in één dag concrete vooruitgang boekt in het verbreden van je dienstverlening naar integrale bedrijfskundige advisering. </p><p>Wanneer je ervoor kiest om het eindrapport te maken, houdt er dan rekening mee dat je na het afronden van deze ééndaagse bijeenkomst nog een aantal uren zal moeten besteden aan het schrijven van het adviesrapport. Tijdens de bijeenkomst zal hier meer over worden verteld.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na deelname aan deze masterclass bedrijfskunde ontvang je een certificaat van Habeo+. Sta je ingeschreven in het RVI of RM register? Dan wordt jouw deelname automatisch geregistreerd en ontvang je 6 PE punten. Deze opleiding vormt onderdeel van het complete traject naar het Postbachelordiploma Bedrijfskunde. Wanneer je alle vier masterclasses bedrijfskunde hebt gevolgd en het eindrapport succesvol afrondt, behaal je dit erkende postbachelordiploma dat jouw expertise als bedrijfskundige adviseur bevestigt.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>505,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>505,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>1838-8BADV01016</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-12-08</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-08T09:00:00" EndDateTime="2026-12-08T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1840</Code>
         <Title>Masterclass Bedrijfsschade - na en voor de calamiteit</Title>
         <Language>nl</Language>
@@ -3498,51 +3444,6 @@
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-05-10T09:00:00" EndDateTime="2027-05-10T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>1842</Code>
-        <Title>Masterclass ChatGPT</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Masterclass ChatGPT - Een Praktische Introductie, leer hoe je ChatGPT kunt gebruiken om jouw rol als adviseur te versterken.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass ChatGPT je op</strong></p><ul><li>Je begrijpt Generatieve AI en herkent de kansen en valkuilen van ChatGPT in jouw advieswerk.</li><li>Je versnelt routinetaken zoals e-mails en rapportages met praktische AI-toepassingen.</li><li>Je geeft heldere instructies aan AI-modellen en zet veilig de eerste stappen in je praktijk.</li></ul><p><strong>Innovatieve opleiding voor moderne adviseurs</strong></p><p>In een wereld waar technologie en kunstmatige intelligentie (AI) steeds belangrijker worden, is het essentieel voor de adviseur om de kansen en uitdagingen van innovaties zoals ChatGPT te begrijpen.</p><p>Deze masterclass ChatGPT is speciaal ontwikkeld voor adviseurs die voorop willen lopen in de digitale transformatie. Als professional is het cruciaal dat je op de hoogte bent van technologische ontwikkelingen die je adviesrol kunnen beïnvloeden. In deze interactieve opleiding leer je hoe Generatieve AI de advieswereld nu al verandert en hoe je deze kansen kunt benutten voor je eigen praktijk.</p><p><strong>Praktische training met directe toepassingen</strong></p><p>De masterclass biedt een diepgaande verkenning van de rol die ChatGPT kan spelen in de advieswereld. We onderzoeken hoe dit geavanceerde taalmodel, ontwikkeld door OpenAI, niet alleen processen kan automatiseren en klantinteracties kan verbeteren, maar ook nieuwe uitdagingen kan opleveren voor professionals. </p><p>De opleiding combineert theorie met praktijk in een intensieve dag. Je ziet concrete voorbeelden van hoe AI routinetaken kan versnellen en leert de basisprincipes voor het geven van heldere instructies aan AI-modellen. Deze hands-on benadering zorgt ervoor dat je direct aan de slag kunt met wat je hebt geleerd en veilig de eerste stappen kunt zetten binnen je adviespraktijk.</p><p><strong>Perfecte voorbereiding op vervolgtraining</strong></p><p>Na deze masterclass ben je klaar voor de volgende stap in je AI-ontwikkeling. Deze opleiding vormt de ideale basis voor de vervolgopleiding 'ChatGPT in de Praktijk', waarin je hands-on aan de slag gaat met het schrijven van geavanceerde prompts en diepgaande praktische ervaring opdoet. Zo bouw je stap voor stap je expertise op en blijf je relevant in de snel veranderende advieswereld.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je adviseur en wil je vooroplopen in de digitale transformatie? Deze masterclass ChatGPT is speciaal voor jou ontworpen. Je leert hoe Generatieve AI de advieswereld verandert en hoe je deze technologie veilig kunt inzetten. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De masterclass ChatGPT is een interactieve bijeenkomst waarin theorie en praktijk op een natuurlijke manier worden afgewisseld. Je zit niet alleen te luisteren, maar gaat direct aan de slag met concrete voorbeelden uit de adviespraktijk. Door deze hands-on benadering zie je meteen hoe AI-toepassingen werken en hoe je ze veilig kunt inzetten in je eigen werk. De ervaren docent begeleidt je stap voor stap door de mogelijkheden van ChatGPT, zodat je na de opleiding direct kunt beginnen met het optimaliseren van je dagelijkse taken. Deze praktijkgerichte aanpak zorgt ervoor dat je niet alleen weet wat mogelijk is, maar ook hoe je het toepast.</p><p><strong>Tijdsinvestering</strong></p><p>Deze masterclass ChatGPT vraagt slechts één dag van je tijd en levert direct bruikbare vaardigheden op. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. In deze dag behandel je alle actuele thema's rondom Generatieve AI en ChatGPT voor adviseurs. De compacte opzet zorgt ervoor dat je efficiënt alle essentiële kennis opdoet zonder lange afwezigheid van je praktijk. Door de interactieve aanpak waarin theorie en praktijk worden afgewisseld, blijf je betrokken en zie je meteen hoe je de geleerde technieken kunt toepassen. Na deze intensieve dag ben je volledig voorbereid om AI-tools veilig in te zetten in je dagelijkse advieswerk. De investering van één dag betaalt zich snel terug door de tijdsbesparing die je realiseert bij routinetaken zoals e-mails en rapportages. Bovendien leg je met deze opleiding een solide basis voor verdere ontwikkeling in AI-toepassingen binnen je adviesrol.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding van deze masterclass ChatGPT ontvang je een officieel bewijs van deelname dat jouw expertise in AI-technologie voor adviseurs bevestigt. Je PE-uren worden automatisch bijgeschreven in de relevante registers zoals RVI, RM, RAB of FP, wat bijdraagt aan je professionele ontwikkeling. Dit certificaat toont aan dat je de basisprincipes van Generatieve AI beheerst en veilig AI-tools kunt inzetten in je adviespraktijk. </p><p>Deze opleiding vormt de perfecte voorbereiding op de vervolgopleiding 'ChatGPT in de Praktijk', waarin je hands-on aan de slag gaat met geavanceerde prompts en diepgaande praktische ervaring opdoet. Hiermee bouw je stap voor stap je AI-expertise verder uit.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>455,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>455,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>1842-8ACHT01015</Code>
-                <Location>Akersloot</Location>
-                <DiscontinuedFrom>2026-10-27</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-27T09:00:00" EndDateTime="2026-10-27T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -3788,51 +3689,6 @@
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>1872</Code>
-        <Title>PE Risicobeoordeling - Inbraakpreventie en Energietransitie</Title>
-        <Language>nl</Language>
-        <Duration>6</Duration>
-        <Description><![CDATA[Deze opleiding leert je ondernemers effectief te adviseren over inbraakrisico’s en uitdagingen rond de energietransitie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding PE Risicobeoordeling – Inbraakpreventie en energietransitie je op</strong></p><ul><li>Je beschikt over actuele kennis van inbraakpreventie en de risico's van de energietransitie</li><li>Je kunt je relaties voorzien van praktische adviezen om risico's te verminderen of te vermijden</li><li>Je behaalt 6 PE-uren voor het Risicomanagement register</li></ul><p><strong>Interactieve opleiding met directe praktijktoepassing</strong></p><p> Deze PE-dag biedt je een praktijkgerichte aanpak waarbij je direct bruikbare kennis opdoet. Door de interactieve bijeenkomst doe je de nieuwste inzichten over inbraakpreventie en energietransitie. Je ontvangt handige checklists die je meteen als naslagwerk kunt gebruiken in je dagelijkse werkzaamheden. </p><p><strong>Opleiding speciaal ontworpen voor risicomanagement professionals</strong></p><p>Of je nu intermediair, verzekeringsmakelaar of verantwoordelijk bent voor risicomanagementbeleid - deze opleiding sluit perfect aan bij je rol. Je leert van een ervaren docent en wisselt ervaringen uit met medecursisten uit je vakgebied. Deze combinatie zorgt ervoor dat je niet alleen theoretische kennis opdoet, maar ook praktische situaties uit het werkveld bespreekt. </p><p><strong>Compacte opleiding met maximaal rendement</strong></p><p>In slechts één dag breid je je expertise uit op twee cruciale gebieden: inbraakpreventie en de risico's van de energietransitie. Deze efficiënte opzet past perfect bij je drukke agenda en zorgt ervoor dat je direct kunt toepassen wat je hebt geleerd. Bovendien versterk je je positie als deskundige adviseur richting je relaties.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze PE-dag is ontwikkeld voor intermediairs, verzekeringmakelaars en professionals die verantwoordelijk zijn voor risicomanagementbeleid binnen hun organisatie. Je wilt je expertise uitbreiden op het gebied van inbraakpreventie en de risico's van de energietransitie om je relaties beter te kunnen adviseren. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze eendaagse bijeenkomst combineert theorie met praktijk door het gebruik van aansprekend fotomateriaal en interactieve werkvormen. Je wisselt ervaringen uit met collega's uit je vakgebied en voert gerichte discussies met de ervaren docent. Deze aanpak zorgt ervoor dat je niet alleen nieuwe kennis opdoet, maar ook direct leert van praktijksituaties uit het werkveld. Je ontvangt handige checklists en naslagmateriaal die je meteen kunt gebruiken in je dagelijkse werkzaamheden. Door de combinatie van visuele ondersteuning, groepsinteractie en praktische oefeningen maak je je snel de nieuwste inzichten eigen op het gebied van inbraakpreventie en energietransitie.</p><p><strong>Tijdsinvestering</strong></p><p>Deze PE-dag vraagt slechts één dag van je tijd. Je kunt deelnemen van 09:30 tot 16:30 uur, 10:00 tot 17:00 uur of 13:30 tot 20:30 uur. Voor de exacte tijden verwijzen wij je naar het rooster, dat je kunt opvragen bij de opleidingsmanager. De efficiënte opzet zorgt ervoor dat je met minimale tijdsinvestering maximaal rendement behaalt. Deze praktische aanpak past perfect bij de realiteit van werkende professionals die hun expertise willen uitbreiden zonder hun drukke werkschema te verstoren.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle deelname aan deze PE-dag ontvang je een officieel bewijs van deelname dat je expertise op het gebied van inbraakpreventie en energietransitie bevestigt. Ben je geregistreerd in het Risicomanagement register, dan wordt je PE-activiteit automatisch vastgelegd in dit register. Deze opleiding levert je 6 waardevolle PE-uren op die meetellen voor het onderhouden van je registratie. Het bewijs van deelname toont aan dat je up-to-date bent met de nieuwste inzichten en praktische adviezen op deze cruciale vakgebieden, wat je geloofwaardigheid als adviseur versterkt.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>405,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>405,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>25,00</Base>
-                <Vat>2,25</Vat>
-                <VatFree>27,25</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>35,00</Base>
-                <Vat>3,15</Vat>
-                <VatFree>38,15</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>1872-8ARBO01016</Code>
-                <Location>Oranjewoud</Location>
-                <DiscontinuedFrom>2026-10-28</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-28T09:00:00" EndDateTime="2026-10-28T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>1878</Code>
         <Title>PE RVI Actualiteiten verzuim, arbeidsongeschiktheid en sociale zekerheid</Title>
         <Language>nl</Language>
@@ -3866,15 +3722,6 @@
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>1878-8BVAS01056</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-10-27</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-27T09:00:00" EndDateTime="2026-10-27T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>1878-8BVAS01058</Code>
                 <Location>Hengelo</Location>
@@ -5071,15 +4918,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1910-8DPEF01033</Code>
-                <Location>Nijkerk</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2026-10-29T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1910-8DPEF01035</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2026-12-08</DiscontinuedFrom>
@@ -6078,6 +5916,42 @@
                     <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>1993-7BMKO01085</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01087</Code>
+                <Location>Virtual</Location>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01086</Code>
+                <Location>Rotterdam</Location>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01088</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -6276,15 +6150,6 @@
             <Class>
                 <Code>1997-4BLEI01044</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1997-4BLEI01043</Code>
-                <Location>Breda</Location>
                 <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -7954,53 +7819,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2098</Code>
-        <Title>IT-auditing</Title>
-        <Language>nl</Language>
-        <Duration>110</Duration>
-        <Description><![CDATA[Wordt IT-auditor en leer IT-risico’s signaleren te beheersen in combinatie met praktische auditvaardigheden die direct praktisch toepasbaar zijn.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding IT-Auditing je op</strong></p><ul><li>Je ontwerpt, voert uit en rapporteert zelfstandig kwalitatieve IT-audits.</li><li>Je herkent en beoordeelt IT-risico's en verbetermogelijkheden en vertaalt deze naar concreet advies met frameworks zoals COBIT en ITIL.</li><li>Je adviseert management en IT-teams met onderbouwde verbetermaatregelen.</li></ul><p><strong>Audit opleiding die je leert over IT risicobeheersing</strong></p><p>Je doorloopt het volledige IT-auditproces, van risico-analyse en bespreking van je auditrapport waarbij je vanaf dag één aan een praktijkaudit werkt die je kunt toepassen in jouw organisatie. Hierdoor leer je effectiever én is de meerwaarde naar je organisatie meteen duidelijk.</p><p><strong>IT advies geven in finance</strong></p><p>Je ontwikkelt adviesvaardigheden die je kunt doorvertalen in concrete verbetervoorstellen. Dit doe je doe je aan de hand van jouw audit kennis op gebied van AI, agile auditing en ethiek. Je ontwikkelt vaardigheden om betrokkenen mee te nemen in het proces en inzichten te delen die leiden tot structurele verbeteringen in processen, systemen en IT-beveiliging. </p><p><strong>Strategisch IT-sparringspartner worden met een praktijkgerichte opleiding</strong></p><p>Je past COBIT, ITIL en controlmodellen toe op processen als access management, change management en cyber security. Je leert IT-componenten analyseren, risico’s vertalen naar normenkaders en veldwerk uitvoeren met interviews en data-analyse. Doordat je zowel kijkt naar de technische als bestuurlijke kant kun je adviseren bij beslissingen die impact hebben op risico’s, compliance en bedrijfscontinuïteit.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je wilt doorgroeien naar IT-auditor en je wilt kwalitatief IT-risico’s beoordelen en hierover adviseren. Omdat je steeds vaker te maken krijgt met vraagstukken op het gebied van audit en compliance wil je jouw kennis en vaardigheden versterken. Je werkt bijvoorbeeld al als (operational of financial) auditor, controller, risk- of compliance officer of als IT-professional. </p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De postbacheloropleiding IT-auditing is blended ingericht: klassikale bijeenkomsten, e-learningmodules en persoonlijke praktijkcoaching wisselen elkaar af. Je oefent met casuïstiek, rollenspellen en groepsdiscussies met professionals uit diverse sectoren. Je wordt begeleid door docenten uit de praktijk die je lesgeven én coachen tijdens het maken van jouw praktijkaudit als eindopdracht. </p><p><strong>Tijdsinvestering</strong></p><p>De postbacheloropleiding IT-auditing bestaat uit 15 bijeenkomsten. Daarnaast volg je 7 e-learningmodules en werk je aan je praktijkaudit. De e-learningmodules volg je in je eigen tijd ter verdieping en voorbereiding van de fysieke bijeenkomsten.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het afronden van de opleiding IT-auditing ontvang je het postbachelordiploma IT-auditing. Ben je <a href="https://www.nba.nl/opleiding/permanente-educatie/pe-verplichting/">PE-plichtig</a>? Dan ontvang je voor het succesvol afronden van deze opleiding 110 PE-punten.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>7450,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>7450,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>803,00</Base>
-                <Vat>72,27</Vat>
-                <VatFree>875,27</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2098-3CITA03005</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-06-03T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2098-3CITA03004</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-06-03T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2102</Code>
         <Title>Maintenance management industrie</Title>
         <Language>nl</Language>
@@ -8781,53 +8599,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2125</Code>
-        <Title>Operational auditing</Title>
-        <Language>nl</Language>
-        <Duration>110</Duration>
-        <Description><![CDATA[Voer audits uit en lever direct bruikbare inzichten voor een betere risicobeheersing en draag bij aan het lerende vermogen van je organisatie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Operational Auditing je op</strong></p><ul><li>Je voert zelfstandig kwalitatief sterke operational audits uit.</li><li>Je herkent risico's en verbetermogelijkheden en vertaalt die naar concreet advies.</li><li>Je kijkt vooruit met thema’s als AI in auditing en agile auditing.</li></ul><p><strong>Operational auditor worden met een opleiding</strong></p><p>Tijdens deze operational auditing opleiding leer je het volledige auditproces beheersen – van voorbereiding tot rapportage en bespreking. Met Auditmethodiek 2.0 ontwerp je een professioneel auditplan, ontwikkel je een normenkader en pas je gangbare control- en risicomodellen praktisch toe. Zo leg je een stevig fundament om als operational auditor echt het verschil te maken.</p><p><strong>Praktijkgerichte opleiding met docenten uit het vak</strong></p><p>Binnen deze opleiding auditor werk je vanaf dag één aan een praktijkaudit binnen je eigen organisatie. Je vertaalt de opgedane kennis direct naar concrete verbeterpunten in risicobeheersing, gedrag en cultuur. Dit doe je met behulp van universitaire docenten die o.a. doceren aan de post initiële executive master of auditing (RO/RE) aan de UvA en EUR.</p><p><strong>Professionele groei als internal auditor</strong></p><p>Je ontwikkelt communicatieve en analytische vaardigheden die essentieel zijn in het vak. Je leert sterke gesprekken voeren, omgaan met weerstand, en overtuigend rapporteren. Ook reflecteer je op ethiek en onafhankelijkheid – cruciale aspecten voor iedere professional die zich wil verdiepen via een internal audit opleiding.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je bent auditor, kwaliteitsbewaker, processpecialist, medewerker AO/IC, controller of accountant (accountant in business, interne accountant, overheidsaccountant). Je hebt hbo denk- en werkniveau en je wilt jouw kennis en vaardigheden ontwikkelen door middel van een operational auditing opleiding.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De postbacheloropleiding Operational auditing is blended ingericht: klassikale bijeenkomsten, e-learningmodules en persoonlijke praktijkcoaching wisselen elkaar af. Je leert van ervaren docenten uit de praktijk, werkt samen met professionals uit diverse organisaties en krijgt intensieve begeleiding bij je eigen praktijkaudit. Je wordt hierin begeleid door ervaren docenten van <a href="https://www.ferocia.nl/">Ferocia</a>. </p><p><strong>Tijdsinvestering</strong></p><p>De postbacheloropleiding Operational Auditing bestaat uit 15 bijeenkomsten (in Utrecht, Breda, Den Haag of Apeldoorn) verspreid over een studiejaar. Daarnaast volg je 7 e-learningmodules en werk je aan je praktijkaudit. De praktijkaudit maak je voor je eigen organisatie met coaching en rond je af met een mondelinge verdediging.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het postbachelordiploma Operational Auditing. Voor auditors, controllers en accountants levert dit 110 <a href="https://www.nba.nl/opleiding/permanente-educatie/pe-verplichting/">PE-punten</a> op. De opleiding Operational auditing wordt ondersteund door het <a href="https://www.iia.nl/iia/partners">Instituut voor Internal Auditors</a>.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>7450,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>7450,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>803,00</Base>
-                <Vat>72,27</Vat>
-                <VatFree>875,27</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2125-3COPA02005</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-06-03T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2125-3COPA02004</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-06-03T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2126</Code>
         <Title>Postbachelor AA MKB (instroom bachelor Accountancy)</Title>
         <Language>nl</Language>
@@ -9160,15 +8931,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2141-3APOS01067</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-01</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-01T09:00:00" EndDateTime="2029-11-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2141-3APOS01068</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2026-12-01</DiscontinuedFrom>
@@ -9225,15 +8987,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2144-6CPIT01022</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2027-04-19T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2144-6CPIT01024</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-04-05</DiscontinuedFrom>
@@ -9272,21 +9025,21 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2145-3AREF01034</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2026-12-22T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2145-3AREF01037</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-01-25</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-01-25T09:00:00" EndDateTime="2027-03-23T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2145-3AREF01038</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-04-07</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-07T09:00:00" EndDateTime="2027-06-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9631,7 +9384,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Language>nl</Language>
         <Duration>140</Duration>
         <Description><![CDATA[Verdiep je als fysiotherapeut in de evidence-based behandeling van chronische pijn en maak direct impact in jouw praktijk en voor jouw patiënten.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Behandeling Chronische Pijn je op</strong></p><ul><li>Je zet verschillende behandelmethodes effectief in bij chronische pijncliënten op basis van de nieuwste wetenschappelijke inzichten.</li><li>Je bouwt expertise op in fysiotherapeutische zorg voor volwassenen met chronische pijn . </li><li>Je versterkt je professionele vaardigheden en creëert nieuwe kansen voor specialisatie.</li></ul><p><strong>Specialisatie in chronische pijnbehandeling door praktijkgerichte opleiding</strong></p><p>Deze masterclass geeft je de tools om chronische pijncliënten beter te helpen. Je kunt bewezen behandelmethodes direct toepassen in je werk. Door de focus op wetenschappelijke onderbouwing en praktische vaardigheden ben je een expert in dit complexe vakgebied. De kennis die je op hebt gedaan, zorgt ervoor dat je patiënten effectiever kunt behandelen en betere resultaten behaalt.</p><p><strong>Opleiding die aansluit op de nieuwste ontwikkelingen in pijnbehandeling</strong></p><p>Je bent op de hoogte van de laatste inzichten uit onderzoek en praktijk. De masterclass bouwt voort op actuele wetenschappelijke kennis en vertaalt dit naar concrete behandelstrategieën. Hierdoor heb je niet alleen je huidige vaardigheden versterkt, maar ben je ook voorbereid op toekomstige ontwikkelingen in de fysiotherapie. Deze kennis vormt een stevige basis voor verdere specialisatie.</p><p><strong>Opleiding met doorgroeimogelijkheden naar master Psychosomatiek</strong></p><p>Na deze masterclass kun je doorstromen naar de volledige Masteropleiding Psychosomatische fysiotherapie. Je hebt dan al een belangrijke module afgerond, wat tijd (10 weken) en energie bespaart. Deze opleiding opent deuren naar nieuwe carrièrekansen en vergroot je expertise in een groeiend specialisme. Je investeert dus niet alleen in je huidige werk, maar ook in je toekomstige ontwikkeling als fysiotherapeut en jullie praktijk.</p>]]></DescriptionLong>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Behandeling aanhoudende pijn je op</strong></p><ul><li>Je zet verschillende behandelmethodes effectief in bij chronische pijncliënten op basis van de nieuwste wetenschappelijke inzichten.</li><li>Je bouwt expertise op in fysiotherapeutische zorg voor volwassenen met chronische pijn .</li><li>Je versterkt je professionele vaardigheden en creëert nieuwe kansen voor specialisatie.</li></ul><p><strong>Specialisatie in aanhoudende pijnbehandeling door praktijkgerichte opleiding</strong></p><p>Deze masterclass geeft je de tools om aanhoudende pijncliënten beter te helpen. Je kunt bewezen behandelmethodes direct toepassen in je werk. Door de focus op wetenschappelijke onderbouwing en praktische vaardigheden ben je een expert in dit complexe vakgebied. De kennis die je op hebt gedaan, zorgt ervoor dat je patiënten effectiever kunt behandelen en betere resultaten behaalt.</p><p><strong>Opleiding die aansluit op de nieuwste ontwikkelingen in pijnbehandeling</strong></p><p>Je bent op de hoogte van de laatste inzichten uit onderzoek en praktijk. De masterclass bouwt voort op actuele wetenschappelijke kennis en vertaalt dit naar concrete behandelstrategieën. Hierdoor heb je niet alleen je huidige vaardigheden versterkt, maar ben je ook voorbereid op toekomstige ontwikkelingen in de fysiotherapie. Deze kennis vormt een stevige basis voor verdere specialisatie.</p><p><strong>Opleiding met doorgroeimogelijkheden naar master Psychosomatiek</strong></p><p>Na deze masterclass kun je doorstromen naar de volledige Masteropleiding Psychosomatische fysiotherapie. Je hebt dan al een belangrijke module afgerond, wat tijd (10 weken) en energie bespaart. Deze opleiding opent deuren naar nieuwe carrièrekansen en vergroot je expertise in een groeiend specialisme. Je investeert dus niet alleen in je huidige werk, maar ook in je toekomstige ontwikkeling als fysiotherapeut en jullie praktijk.</p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Ben je gediplomeerd fysiotherapeut en wil je je specialiseren in fysiotherapeutische zorg voor volwassenen met chronische pijn? Deze masterclass helpt je expertise op te bouwen in dit complexe vakgebied. Perfect als je daarna door wilt naar de masteropleiding Psychosomatische fysiotherapie of als je je kennis op dit gebied wilt verbreden.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je leert door een moderne mix van online leren, klassikale bijeenkomsten en direct toepassen in de praktijk. Deze blended learning aanpak zorgt ervoor dat je effectiever en efficiënter je leerdoelen behaalt. Je krijgt online en tijdens de bijeenkomsten persoonlijke begeleiding van ervaren docenten en integreert het geleerde direct in je dagelijkse werk. Drie keer gedurende de opleiding kom je samen met medestudenten voor een klassikale bijeenkomst van een dag(deel). Het grootste deel van de tijd bepaal je zelf wanneer en waar je studeert, waardoor de opleiding goed te combineren is met je privé- en zakelijke leven.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2195">brochure</a>.</p><p>Deze opleiding kan ook <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany</a> gegeven worden op jullie locatie. </p><p><strong>Tijdsinvestering</strong></p><p>De masterclass duurt 10 weken met een totale studielast van 140 uur (incl. de lesdagen) , wat neerkomt op gemiddeld 14 uur per week. Het grootste deel van deze tijd bepaal je zelf wanneer je studeert, waardoor de opleiding perfect te combineren is met je leven. Slechts drie keer gedurende de opleiding kom je samen voor een klassikale bijeenkomst van een dag(deel) tussen 13.30 en 20.30 uur. Deze bijeenkomsten vinden plaats op dezelfde weekdag met een interval van vier weken. De dag dat je opleiding start is je vaste lesdag. Door de flexibele opzet kun je je studie aanpassen aan je werk en privésituatie. Het blended learning concept zorgt ervoor dat je efficiënt leert zonder dat dit ten koste gaat van je werk- of persoonlijke tijd.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Bij succesvol afronden van deze masterclass ontvang je een officieel certificaat. Accreditatie wordt aangevraagd bij het Kwaliteitshuis Fysiotherapie. Het certificaat bewijst je expertise in chronische pijnbehandeling en opent deuren naar verdere specialisatie. Je kunt na deze masterclass doorstromen naar de volledige <a href="https://habeoplus.nl/opleidingen/fysiotherapie/psychosomatische-fysiotherapie/master-psychosomatic-physical-therapy">masteropleiding Psychosomatische fysiotherapie</a>, waarbij je al een belangrijke module hebt afgerond. Deze investering in je professionele ontwikkeling vergroot je carrièrekansen en biedt nieuwe mogelijkheden voor specialisatie binnen de fysiotherapie.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2195">brochure</a>.</p>]]></CertValue>
@@ -9652,44 +9405,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-02-17T09:00:00" EndDateTime="2027-04-21T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2197</Code>
-        <Title>Beheer en werken met gevaarlijke stoffen op het laboratorium</Title>
-        <Language>nl</Language>
-        <Duration>16</Duration>
-        <Description><![CDATA[Beheer en veilig werken met gevaarlijke stoffen in laboratoria: theorie, praktijk en casussen, gericht op organisatie-specifieke aanpak.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Beheer en werken met gevaarlijke stoffen op het laboratorium je op</strong></p><ul><li>Je kunt gevaarlijke stoffen en bijbehorende risico's systematisch inventariseren volgens het HEB-model (herkennen, evalueren en beheersen).</li><li>Je stelt professionele stoffen registers op en ontwikkelt praktische blootstellingsscenario's voor jouw laboratoriumomgeving.</li><li>Je beheerst alle wettelijke verplichtingen rondom gevaarlijke stoffen en de impact van REACH en GHS voor laboratoria.</li></ul><p><strong>Professionele cursus beheer en werken met gevaarlijke stoffen</strong></p><p>Het kenmerk van veel laboratoria is dat er gewerkt wordt met een grote verscheidenheid aan gevaarlijke stoffen en producten. De bijkomende gevaren, risico’s en (wettelijke) verplichtingen zijn vaak groot en de ervaring leert dat er bij veel laboratoria nog verbeteringen mogelijk c.q. noodzakelijk zijn. </p><p>De tweedaagse cursus Beheer en werken met gevaarlijke stoffen op het laboratorium gaat in op het beheer van en werken met gevaarlijke stoffen, zodat het werken met chemicaliën verantwoord is.</p><p>Je leert een stappenplan kennen waarmee je systematisch gevaarlijke stoffenbeleid ontwikkelt en implementeert voor jouw specifieke organisatie. Door praktijksituaties en discussies met andere deelnemers krijg je direct toepasbare kennis die je meteen kunt gebruiken in je dagelijkse werk als veiligheidsfunctionaris, arbocoördinator of laboratoriumhoofd.</p><p>Deze cursus is onderdeel van de <a href="https://habeoplus.nl/opleidingen/laboratoriumtechniek/veiligheid/veiligheidsfunctionaris-voor-laboratoria">opleiding veiligheidsfunctionaris voor laboratoria.</a></p><p><strong>Leer REACH en GHS regels praktisch toepassen</strong></p><p>Tijdens de opleiding krijg je helder inzicht in complexe wetgeving zoals REACH en GHS en wat dit betekent voor jouw laboratorium. Je ontvangt concrete voorbeelden van beleidsonderdelen die je direct kunt implementeren binnen je eigen organisatie. Na de eerste cursusdag werk je aan een opdracht specifiek voor jouw bedrijfssituatie, die tijdens de tweede bijeenkomst wordt besproken voor maximaal praktisch resultaat.</p><p><strong>Ontwikkel effectief gevaarlijke stoffenbeleid voor laboratoria</strong></p><p>De cursus heeft een volledig praktische opzet waarbij alle onderwerpen worden toegelicht aan de hand van echte laboratoriumpraktijk. Je leert hoe je stoffen registraties correct opstelt en voldoet aan alle wettelijke eisen. Door de combinatie van theorie en praktijkgerichte opdrachten kun je na afloop zelfstandig gevaarlijke stoffen beheren en risico's effectief beheersen binnen jouw laboratoriumomgeving.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je verantwoordelijk voor het beheer van gevaarlijke stoffen in een laboratorium? Deze cursus is perfect voor milieu- en arbocoördinatoren, veiligheidsfunctionarissen, preventiemedewerkers en laboratoriumhoofden op minimaal mbo werk- en denkniveau. Je hebt al basiskennis van gevaarlijke stoffen en wilt deze professioneel beheren volgens de laatste regelgeving.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze tweedaagse cursus heeft een volledig praktische opzet waarbij theorie en praktijk elkaar afwisselen. Alle onderwerpen worden toegelicht aan de hand van echte praktijksituaties en discussies met medecursisten. Je ontvangt een helder stappenplan om gevaarlijke stoffen professioneel te beheren, waarbij je jouw specifieke laboratoriumsituatie direct kunt inbrengen. Per onderdeel werk je met concrete praktijkcases en krijg je voorbeelden van beleidsonderdelen die je meteen kunt implementeren binnen je eigen organisatie. Tussen de eerste en tweede cursusdag werk je aan een opdracht specifiek voor jouw bedrijfssituatie, die tijdens de tweede bijeenkomst wordt besproken.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus vraagt een tijdsinvestering van twee dagen, beide van 9.30 tot 16.30 uur. De tweede cursusdag vindt ongeveer twee weken na de eerste plaats, wat je voldoende tijd geeft om de lesstof te laten bezinken. Tussen beide dagen werk je aan een praktijkopdracht specifiek voor jouw bedrijfssituatie, die je tijdens de tweede bijeenkomst bespreekt. Deze aanpak zorgt ervoor dat je niet alleen theorie leert, maar ook direct kunt toepassen wat je hebt geleerd in je eigen werkomgeving. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze tweedaagse cursus ontvang je een bewijs van deelname dat jouw expertise in het beheren van gevaarlijke stoffen voor laboratoria bevestigt. Dit bewijs van deelname toont aan dat je gevaarlijke stoffen kunt inventariseren, risico's kunt beoordelen en professioneel stoffenbeleid kunt ontwikkelen volgens geldende wet- en regelgeving. </p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1545,00</Base>
-                <Vat>324,45</Vat>
-                <VatFree>1869,45</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>146,00</Base>
-                <Vat>13,14</Vat>
-                <VatFree>159,14</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2197-6FBWG01012</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2026-11-12T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -10393,44 +10108,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2251</Code>
-        <Title>ICP-MS spectrometrie</Title>
-        <Language>nl</Language>
-        <Duration>24</Duration>
-        <Description><![CDATA[Cursus ICP-MS: theorie, praktijk en interpretatie voor elementanalyse op lage niveaus, met focus op optimalisatie en storingen.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus ICP-MS spectrometrie je op</strong></p><ul><li>Je voert zelfstandig ICP-MS-analyses uit en beoordeelt de resultaten professioneel.</li><li>Je begrijpt de werkingsprincipes van ICP-MS volledig en past alternatieve monsterintroductiesystemen toe.</li><li>Je identificeert en voorkomt interferenties effectief in milieu-, voedingsmiddelen-, biomedische, chemische en geologische analyses.</li></ul><p><strong>Hands-on ICP-MS cursus voor laboratoriummedewerkers</strong></p><p>Deze intensieve 3-daagse cursus combineert theorie en praktijk op een effectieve manier. Je werkt in kleine groepjes met ervaren collega's uit verschillende laboratoria, waardoor je direct leert van hun praktijkervaringen. De deskundige docenten begeleiden je persoonlijk bij alle experimenten, zodat je met vertrouwen terugkeert naar jouw werkplek. Deze cursus wordt gegeven op de Universiteit van Gent.</p><p><strong>Spectrometrie cursus voor professionals met atoomspectroscopie ervaring</strong></p><p>Als laboratoriummedewerker of hoofd met ervaring in atoomspectroscopie krijg je diepgaand inzicht in ICP-MS techniek. Of jouw laboratorium nu recent ICP-MS-apparatuur heeft aangeschaft, overweegt dit te doen, of je werkt al met ICP-MS maar wilt meer inzicht - deze cursus brengt je naar het volgende niveau. De kennis is direct toepasbaar in sectoren zoals milieu, voedingsmiddelen, biomedisch onderzoek, chemische industrie en geologie.</p><p><strong>ICP-MS cursus die jouw expertise versterkt</strong></p><p>Na het succesvol afronden ontvang je een bewijs van deelname dat jouw toegenomen vaardigheden bevestigt. Je verwerft praktische vaardigheden die je direct inzet voor complexere analyses en betere resultaten in jouw laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze cursus is ideaal voor jou als laboratoriummedewerker of hoofd met ervaring in atoomspectroscopie. Je laboratorium heeft recent ICP-MS-apparatuur aangeschaft of overweegt dit, of je werkt al met ICP-MS maar wilt dieper inzicht in werkingsprincipes en interferenties. Je bent actief in sectoren zoals milieu, voedingsmiddelen, biomedisch onderzoek, chemische industrie of geologie.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze 3-daagse cursus combineert theorie en praktijk op een effectieve manier. Je werkt in kleine groepjes samen met collega's uit verschillende laboratoria, waardoor je kennis deelt en leert van elkaars praktijkervaringen. Bij alle experimenten krijg je optimale begeleiding van ervaren docenten die je persoonlijk ondersteunen. Deze interactieve aanpak zorgt ervoor dat je de ICP-MS techniek niet alleen begrijpt, maar ook direct kunt toepassen in jouw laboratorium. Door de afwisseling tussen theorie en hands-on praktijk ontwikkel je snel de vaardigheden die je nodig hebt voor zelfstandige analyses en professionele resultaatbeoordeling.</p><p><strong>Tijdsinvestering</strong></p><p>Deze ICP-MS cursus vraagt 3 dagen van je tijd. De eerste dag start om 9.30 uur en eindigt om 17.30 uur, de tweede dag loopt van 9.00 tot 17.00 uur en de derde dag sluit af van 9.00 tot 16.00 uur. Door deze compacte opzet kun je binnen korte tijd je expertise in ICP-MS spectrometrie aanzienlijk verdiepen zonder lange onderbreking van je laboratoriumwerk. De cursus start op basis van voldoende aanmeldingen, waardoor je verzekerd bent van optimale groepssamenstelling en persoonlijke aandacht. Dit effectieve tijdsschema zorgt ervoor dat je snel resultaat ziet en direct kunt profiteren van je nieuwe kennis en vaardigheden in jouw laboratorium.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze ICP-MS cursus ontvang je een bewijs van deelname dat jouw verdiepte expertise in spectrometrie bevestigt. Dit certificaat toont dat je zelfstandig ICP-MS-analyses kunt uitvoeren en de resultaten professioneel beoordeelt. Met deze formele erkenning versterk je jouw positie als laboratoriummedewerker en vergroot je jouw waarde voor analyses in milieu, voedingsmiddelen, biomedisch onderzoek, chemische industrie en geologie. Het diploma opent deuren naar complexere projecten en leidinggevende functies binnen jouw laboratorium.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2550,00</Base>
-                <Vat>535,50</Vat>
-                <VatFree>3085,50</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>219,00</Base>
-                <Vat>19,71</Vat>
-                <VatFree>238,71</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2251-6FICM01013</Code>
-                <Location>Gent</Location>
-                <DiscontinuedFrom>2026-12-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-12-09T09:00:00" EndDateTime="2026-12-11T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2253</Code>
         <Title>Inleiding in de capillaire gaschromatografie GC (niveau 1)</Title>
         <Language>nl</Language>
@@ -10573,15 +10250,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceBase>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2262-6FIAK01015</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2026-11-03T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2262-6FIAK01016</Code>
                 <Location>Breda</Location>
@@ -11739,24 +11407,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2337-4BORG01048</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2337-4BORG01047</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-02-07T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2337-4BORG01050</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -11774,42 +11424,22 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                     <Session StartDateTime="2027-02-03T09:00:00" EndDateTime="2027-05-02T17:00:00" />
                 </Sessions>
             </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2338</Code>
-        <Title>Masterclass Pipeline Technology - Aanleg (MPT)</Title>
-        <Language>nl</Language>
-        <Duration>120</Duration>
-        <Description><![CDATA[Masterclass voor professionals in ondergronds transport die op strategisch niveau met stakeholders communiceren over leidingaanleg.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Pipeline Technology - Aanleg (MPT) je op</strong></p><ul><li>Je hebt inzicht in alle aspecten rond aanleg van ondergrondse leidingen.</li><li>Je past verworven kennis en inzichten direct toe op strategisch niveau in jouw werkpraktijk.</li><li>Je geeft als professioneel leider richting aan de verdere ontwikkeling van jouw organisatie en de branche.</li></ul><p><strong>Strategische expertise in pijpleidingaanleg door deze opleiding</strong></p><p>Deze masterclass geeft je diepgaand inzicht in alle aspecten van ondergronds transport. Je ontwikkelt strategisch denkvermogen waarmee je op hoog niveau communiceert met alle stakeholders in de pijpleidingketen, van regelgevende instanties tot aannemingsbedrijven. Je begrijpt de verschillen in cultuur, visie en belang en kunt hier goed mee overweg. Na deze opleiding praat je mee op strategisch niveau en geef je richting aan complexe projecten op het gebied van ondergrondse leidingen in de openbare ruimte.</p><p><strong>Praktijkgerichte leerervaring met multidisciplinaire aanpak</strong></p><p>Wat deze masterclass uniek maakt is de multidisciplinaire werkwijze. Je werkt in kleine groepen met professionals uit verschillende sectoren van de pijpleidingketen. Deze samenwerking zorgt ervoor dat je affiniteit ontwikkelt met alle disciplines en leert hoe je elkaars expertise optimaal benut. Hierdoor krijg je een brede kijk op projecten die helpen jouw strategische keuzes te onderbouwen.</p><p><strong>Direct toepasbare kennis voor leidinggevenden in de sector</strong></p><p>Tijdens de opleiding werk je aan een concrete casus: het opstellen van een plan van aanpak voor leidingaanleg. Deze praktische toets, onder begeleiding van ervaren docenten, zorgt ervoor dat je de theorie direct vertaalt naar de werkpraktijk. Je ervaart de meerwaarde van samenwerking en ontwikkelt vaardigheden die je meteen inzet in je werk.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is voor professionals die werken bij organisaties betrokken bij ondergronds transport. Denk aan overheidsinstanties met regelgeving, pijpleidingbeheerorganisaties, ingenieursbureaus, aannemingsbedrijven, dienstverlenende bedrijven of toeleveranciers. Je wilt kennis en inzicht krijgen in alle aspecten van leidingaanleg om strategisch te kunnen communiceren met stakeholders in de pijpleidingketen.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je werkt in een multidisciplinaire setting waarbij je in kleine groepen van 3 tot 5 personen samenwerkt met professionals uit verschillende delen van de pijpleidingketen. Denk aan collega's van ingenieursbureaus, aannemers en leidingeigenaren. Deze diversiteit zorgt ervoor dat je verschillende perspectieven leert kennen en affiniteit ontwikkelt met alle disciplines in het veld. </p><p>Als praktische toets werk je onder begeleiding van ervaren kerndocenten aan een realistische casus: het opstellen van een plan van aanpak voor leidingaanleg. Hierbij ervaar je direct de meerwaarde van het benutten van elkaars kennis, visie, ervaring en netwerk. Deze aanpak geeft je professionele ontwikkeling een stevige boost en bereidt je voor op een strategische rol in de sector.</p><p>Je sluit aan bij deelnemers die de volledige <a href="https://habeoplus.nl/opleidingen/master-pipeline-technology-mpt">Master of Pipeline Technology</a> volgen.</p><p><strong>Tijdsinvestering</strong></p><p>De Masterclass Pipeline Technology - Aanleg (MPT) duurt 4 maanden met een totale studielast van 4 EC's, wat neerkomt op 120 studiebelastingsuren. Je volgt 3 maandelijkse bijeenkomsten op vrijdag en/of zaterdag, variërend van 1 tot 2 dagen inclusief hotelovernachting. </p><p>Daarnaast neem je deel aan een projectbezoek van 1 dag op locatie waar je de theorie in de praktijk ziet. De combinatie van contactmomenten en zelfstudie zorgt ervoor dat je de kennis direct kunt toepassen in je werk.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvolle afronding van deze masterclass ontvang je een certificaat dat bewijst dat je een deel van de geaccrediteerde Master of Pipeline Technology hebt voltooid. </p><p>Het certificaat toont aan dat je op masterniveau kennis hebt opgedaan over leidingaanleg en versterkt je positie als strategische professional in de pijpleidingsector.</p><p>Dit certificaat geeft je vrijstelling wanneer je besluit om de volledige <a href="https://habeoplus.nl/opleidingen/master-pipeline-technology-mpt">Master of Pipeline Technology</a> opleiding te volgen. Je hoeft dus nog niet meteen te kiezen voor de hele masteropleiding, maar je kunt stap voor stap je expertise uitbreiden. </p>]]></CertValue>
-        <Level>Master</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2469,00</Base>
-                <Vat>518,49</Vat>
-                <VatFree>2987,49</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>574,00</Base>
-                <Vat>51,66</Vat>
-                <VatFree>625,66</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
             <Class>
-                <Code>2338-6EALM01005</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-10-31</DiscontinuedFrom>
+                <Code>2337-4BORG01052</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-10-31T09:00:00" EndDateTime="2027-03-12T17:00:00" />
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2337-4BORG01053</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-04-21</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -11841,15 +11471,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2339-6EMAM01005</Code>
-                <Location>Bosschenhoofd</Location>
-                <DiscontinuedFrom>2026-10-31</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-31T09:00:00" EndDateTime="2027-01-09T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2339-6EMAM01006</Code>
                 <Location>Bosschenhoofd</Location>
@@ -11958,8 +11579,8 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <PriceArrFacLow>
             <Price from="2026-01-01">
                 <Base>574,00</Base>
-                <Vat>51,66</Vat>
-                <VatFree>625,66</VatFree>
+                <Vat>64,26</Vat>
+                <VatFree>638,26</VatFree>
             </Price>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
@@ -11996,8 +11617,8 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <PriceArrFacLow>
             <Price from="2026-01-01">
                 <Base>1127,00</Base>
-                <Vat>101,43</Vat>
-                <VatFree>1228,43</VatFree>
+                <Vat>114,03</Vat>
+                <VatFree>1241,03</VatFree>
             </Price>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
@@ -12649,6 +12270,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                     <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2026-11-26T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>2365-6FGSL01016</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-05-27</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-27T09:00:00" EndDateTime="2027-05-27T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -12681,10 +12311,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2389-6FPCA01007</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-12-07</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2028-06-05T17:00:00" />
+                    <Session StartDateTime="2026-12-07T09:00:00" EndDateTime="2028-11-26T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12785,7 +12415,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Duration>301</Duration>
         <Description><![CDATA[Word POH-GGZ: help mensen met psychische klachten vroegtijdig, ontwikkel je vaardigheden en maak direct impact in de huisartsenpraktijk.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding POH-GGZ je op</strong></p><p>Een POH-GGZ (praktijkondersteuner huisartsenzorg GGZ) ondersteunt de huisarts bij de begeleiding van patiënten met psychische klachten binnen de huisartsenpraktijk.</p><ul><li>Je herkent de meest voorkomende stoornissen in de eerste lijn en kunt cliënten zelf professioneel begeleiden.</li><li>Je kunt op de juiste manier een gesprek aangaan binnen een consult en een relatie opbouwen met de cliënt.</li><li>Door jouw expertise kun je echt het verschil maken voor jouw cliënten.</li></ul><p><strong>Opleiding POH-GGZ: jouw weg naar specialistische zorg</strong></p><p>Met deze <a href="https://habeoplus.nl/sites/default/files/2026-02/praktijkgerichte-poh-ggz-opleiding.pdf">praktijkgerichte opleiding</a> ontwikkel je je tot een bekwame praktijkondersteuner die een verschil maakt in de geestelijke gezondheid van patiënten. Je leert stoornissen herkennen, cliënten begeleiden en draagt bij aan de kwaliteit van zorg binnen de huisartsenpraktijk. Door je nieuwe expertise word je een waardevolle specialist die zelfstandig kan werken en patiënten de juiste ondersteuning biedt.</p><p><strong>Specialistische POH-GGZ opleiding voor directe toepassing</strong></p><p>Deze opleiding combineert theorie met dagelijkse praktijk. Je ontwikkelt vaardigheden die je meteen kunt inzetten in je werk als praktijkondersteuner. Van het herkennen van psychische klachten tot het begeleiden van cliënten - na deze opleiding ben je volledig toegerust om professioneel te functioneren binnen de huisartsenzorg.</p><p><strong>Vooruitgang door gerichte opleiding POH-GGZ</strong></p><p>Je groeit uit tot een gespecialiseerde zorgverlener die inhoudelijk bijdraagt aan de ontwikkeling van jouw functie. Met actuele kennis over wetgeving en kwaliteitszorg zoals <a href="https://habeoplus.nl/blog/act-therapie-poh-ggz">ACT</a> versterk je niet alleen je eigen positie, maar ben je ook van extra meerwaarde binnen de praktijk. Deze opleiding geeft je de tools om succesvol invulling te geven aan jouw rol als praktijkondersteuner huisartsenzorg GGZ.</p><p><strong>POH-GGZ opleiding bij Habeo+</strong></p><ul><li>Je volgt je opleiding bij een erkende en ervaren opleider waar ruimte is voor individuele aandacht.</li><li>Je wordt begeleid met persoonlijke studieloopbaanondersteuning gedurende je hele traject.</li><li>Het onderwijs is praktijkgericht en actueel, verzorgd door docenten die zelf werkzaam zijn in de huisartsenzorg of een andere relevante zorgsetting.</li><li>Er zijn 4 startmomenten per jaar die al jaren ook echt starten.</li><li>Leslocaties door het hele land, dus altijd bij jou in de buurt of incompany.</li><li>Met een studiebelasting van maar 10 uur week rond je binnen 9 maanden de opleiding af.</li></ul>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is geschikt voor jou </p><p>+ als je een hbo-bachelor hebt afgerond in Social Work, Maatschappelijk Werk, Psychologie, Sociaal Pedagogische Hulpverlening of Verpleegkunde.</p><p>+ je al enkele jaren praktijkervaring binnen de brede GGZ hebt en je wil je specialiseren als praktijkondersteuner in de huisartsenzorg. Ben je gediplomeerd sociaal psychiatrisch verpleegkundige? Bekijk dan de opleiding <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/praktijkondersteuner-huisartsenzorg-ggz-poh-ggz-spv">POH-GGZ voor SPV</a>.</p><p>Heb je niet precies de juiste vooropleiding of de vereiste werkervaring, dan kun je mogelijk, na overleg met de opleidingsmanager, een toelatingsassessment doen.</p><p>Voor de complete beschrijving bezoek <a href="https://www.poh-ggz.nl/wp-content/uploads/2020/03/Definitief-Functie-en-competentieprofiel-POH-GGZ-2020-versie-1.0-04032020.pdf">het Landelijke Functie-en-competentieprofiel-POH-GGZ-2020</a>.</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p>]]></TargetAudience>
+        <TargetAudience><![CDATA[<p>Deze opleiding is geschikt voor jou </p><p>+ als je een hbo-bachelor hebt afgerond in Social Work, Maatschappelijk Werk, Psychologie, Sociaal Pedagogische Hulpverlening of Verpleegkunde.</p><p>+ je al enkele jaren praktijkervaring binnen de brede GGZ hebt en je wil je specialiseren als praktijkondersteuner in de huisartsenzorg. Ben je gediplomeerd sociaal psychiatrisch verpleegkundige? Bekijk dan de opleiding <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/praktijkondersteuner-huisartsenzorg-ggz-poh-ggz-spv">POH-GGZ voor SPV</a>.</p><p>Heb je niet precies de juiste vooropleiding of de vereiste werkervaring, dan kun je mogelijk, na overleg met de opleidingsmanager, een toelatingsassessment doen.</p><p>Voor de complete beschrijving bezoek <a href="https://www.poh-ggz.nl/wp-content/uploads/2020/03/Definitief-Functie-en-competentieprofiel-POH-GGZ-2020-versie-1.0-04032020.pdf">h</a><a href="https://www.lhv.nl/product/functie-en-competentieprofiel-voor-poh-ggz/">et Landelijke Functie-en-competentieprofiel-POH-GGZ-2020.</a></p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding start met een persoonlijk ontwikkelassessment waarin je persoonlijkheid en communicatiestijl in kaart worden gebracht. Op basis hiervan ontstaat jouw persoonlijke ontwikkelplan dat de basis vormt voor je professionele groei. Je werkervaring staat centraal tijdens de lessen en wordt geïntegreerd in het programma. Ervaren praktijkdocenten, gast lessen van praktijkexperts, persoonlijke coaching en intervisie ondersteunen je leerproces. Doordat je samen met een vaste groep de opleiding volgt is er onderling veel vertrouwen en een gevoel van veiligheid. Met interactieve leermiddelen maak je portfolio-opdrachten die direct aansluiten bij jouw praktijk. Je rondt de opleiding af met een eindtoets waarbij je je nieuwe vaardigheden demonstreert in een gesimuleerde praktijksituatie. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2396">brochure</a>.</p><p>Ook een <a href="https://habeoplus.nl/incompany">incompany variant</a> behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding bestaat uit 3 modules van ieder 10 weken in totaal. Binnen iedere module heb je 4 of 5 bijeenkomsten die tweewekelijks plaatsvinden van 14.00 tot 21.00 uur met een pauze van 17.00 tot 18.00 uur. De werkdag dat je opleiding start word je vaste lesdag. </p><p>Voor zelfstudie reserveer je ongeveer 4 uur per week (excl. de bijeenkomsten) om de lesstof te verwerken en opdrachten voor te bereiden. Tijdens de opleiding werk je ook minimaal 8 uur per week in een leer- of werkplek als praktijkondersteuner. Door deze opzet kun je je nieuwe kennis direct toepassen in de praktijk en groei je stap voor stap naar je nieuwe rol. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact</a> op. Wellicht kunnen we je helpen. </p><p><br />Ben je nog niet toe aan de volledige opleiding met stage of werkplek in de huisartsenpraktijk? Dan kun je starten met de module <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/psychiatrische-zorg/psychiatrische-problemen-identificeren">Psychiatrische Problemen Identificeren</a>, de eerste module van de opleiding POH-GGZ. Deze module kun je volgen naast je huidige werk in de brede GGZ met patiënt- of cliëntcontact. Na afronding kun je later doorstromen naar het tweede deel van de opleiding om je diploma POH-GGZ te behalen.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het postbachelordiploma Praktijkondersteuner Huisartsenzorg GGZ. Door je erkende diploma ben je volledig gekwalificeerd om als praktijkondersteuner GGZ te werken binnen de huisartsenzorg en voldoe je aan de eisen vanuit de landelijke vereniging. Deze opleiding is geaccrediteerd door het kwaliteitsregister van beroepsorganisatie V&amp;VN, wat de kwaliteit en erkenning van je diploma garandeert. Met je nieuwe kwalificatie kun je je verder specialiseren via een vervolgopleiding zoals <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/psychosociale-begeleiding-kind-en-jeugd">Psychosociale begeleiding kind en jeugd</a>. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2396">brochure</a>.</p>]]></CertValue>
         <Level>HBO</Level>
@@ -13079,15 +12709,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2410-6DPLB01021</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-02</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-02T09:00:00" EndDateTime="2027-04-19T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2410-6DPLB01023</Code>
                 <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-04-05</DiscontinuedFrom>
@@ -13163,6 +12784,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-03-02T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2413-2BPBK01015</Code>
+                <Location>Virtual</Location>
+                <DiscontinuedFrom>2027-09-07</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-09-07T09:00:00" EndDateTime="2027-11-16T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13284,15 +12914,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2418-8BARB01005</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-10-28</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-28T09:00:00" EndDateTime="2026-11-11T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2418-8BARB01006</Code>
                 <Location>Utrecht</Location>
@@ -13502,120 +13123,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-03-02T09:00:00" EndDateTime="2027-07-06T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2432</Code>
-        <Title>Titrimetrie 1: directmetingen (pH, geleidbaarheid, ISE)</Title>
-        <Language>nl</Language>
-        <Duration>8</Duration>
-        <Description><![CDATA[Titrimetrie 1: Directmetingen als pH-metingen, geleidbaarheid en ionselectieve electroden.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Titrimetrie 1: directmetingen (pH, geleidbaarheid, ISE) je op</strong></p><ul><li>Je beheerst titrimetrietechnieken voor directmetingen zoals pH, geleidbaarheid en ion-selectieve elektroden in zowel theorie als praktijk.</li><li>Je weet hoe je reagentia, elektroden en instrumenten op de juiste manier gebruikt voor optimale analyseresultaten.</li><li>Je hebt uitgebreide kennis van elektrochemie en kunt deze direct toepassen in je dagelijkse laboratoriumwerk.</li></ul><p><strong>Praktijkgerichte cursus titrimetrie voor laboratoriummedewerkers</strong></p><p>Deze eendaagse cursus titrimetrie brengt je kennis van directmetingen naar een hoger niveau. Je verdiept je in pH-metingen, geleidbaarheidsbepalingen en ion-selectieve elektroden. Door de combinatie van theorie en praktijkoefeningen kun je de geleerde technieken direct toepassen in je werk als analist of laboratoriummedewerker.</p><p><strong>Verdiep je kennis van elektrochemie en analysemethoden</strong></p><p>Tijdens deze cursus fris je je kennis van anorganische chemie op en breid je deze uit. Je krijgt meer inzicht in de eigenschappen van reagentia, elektroden en instrumenten die je gebruikt. Dit begrip is essentieel voor de optimale uitvoering van je analysewerk en verhoogt de betrouwbaarheid van je resultaten.</p><p><strong>Cursus titrimetrie met directe toepassingen voor het laboratorium</strong></p><p>De cursus focust volledig op toepassingen in de laboratoriumpraktijk. Je leert niet alleen de theorie achter titrimetrietechnieken, maar ook hoe je deze methoden effectief inzet voor directmetingen. Na afloop van de cursus kun je zelfstandig werken met de verschillende meettechnieken en instrumenten.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je analist of laboratoriummedewerker op minimaal mbo-niveau? Deze cursus is perfect voor jou als je meer wilt weten over directmetingen zoals pH, geleidbaarheid en ion-selectieve elektroden. Ook als je je kennis van elektrochemie wilt opfrissen en uitbreiden, biedt deze cursus precies wat je zoekt voor optimale uitvoering van je analysewerk.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze eendaagse cursus combineert theorie met praktijkgerichte oefenopdrachten die elkaar afwisselen. Je krijgt hands-on ervaring met de instrumenten, elektroden en reagentia die je in je dagelijkse werk gebruikt. Toepassingen in de laboratoriumpraktijk krijgen veel aandacht, zodat je direct kunt toepassen wat je leert. De cursus is flexibel opgebouwd: je kunt deze cursus afzonderlijk volgen als onderdeel van de titrimetrie-reeks. Zo bepaal je zelf welke specialisatie het beste aansluit bij je werkzaamheden en ontwikkeldoelen.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus vraagt een minimale tijdsinvestering van slechts één dag, van 9.30 tot 17.00 uur. Je hoeft geen voorbereiding te doen, waardoor je direct kunt starten zonder extra studietijd naast je drukke werkzaamheden. De cursus start op basis van aanmeldingen, wat betekent dat je flexibel bent in planning en timing. Je geeft simpelweg je interesse door via laboratorium@avansplus.nl en de cursusmanager neemt contact met je op zodra er voldoende deelnemers zijn om te starten. Deze efficiënte opzet zorgt ervoor dat je in één intensieve lesdag alle benodigde kennis opdoet zonder langdurige studiebelasting.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze eendaagse titrimetrie-cursus ontvang je een bewijs van deelname dat jouw nieuwe expertise bevestigt. Dit certificaat toont aan dat je de titrimetrietechnieken voor directmetingen beheerst en deze professioneel kunt toepassen in je laboratoriumwerk. Het bewijs van deelname versterkt je professionele profiel als analist of laboratoriummedewerker en opent mogelijkheden voor verdere specialisatie binnen de titrimetrie-reeks.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>795,00</Base>
-                <Vat>166,95</Vat>
-                <VatFree>961,95</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>73,00</Base>
-                <Vat>6,57</Vat>
-                <VatFree>79,57</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2432-6FTID01008</Code>
-                <Location>Barendrecht</Location>
-                <DiscontinuedFrom>2026-11-10</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-10T09:00:00" EndDateTime="2026-11-10T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2433</Code>
-        <Title>Titrimetrie 2: titraties en titreren</Title>
-        <Language>nl</Language>
-        <Duration>8</Duration>
-        <Description><![CDATA[Titrimetrie 2: Titrimetriemetingen zoals zuur/base, redox, argentometrie, complexometrie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Titrimetrie 2: titraties en titreren je op</strong></p><ul><li>Je beheerst gehaltebepalingen door middel van titraties zoals zuurgehalte en actief chloorbepalingen in zowel theorie als praktijk.</li><li>Je weet hoe je titratiemethoden en bijbehorende instrumenten correct inzet voor betrouwbare analyseresultaten.</li><li>Je hebt verdiepte kennis van elektrochemie en kunt deze direct toepassen voor verschillende gehaltebepalingen in het laboratorium.</li></ul><p><strong>Praktijkgerichte cursus titraties voor laboratoriumanalisten</strong></p><p>Deze eendaagse cursus titraties brengt je expertise in gehaltebepalingen naar een hoger niveau. Je verdiept je in titratiemethoden voor zuurgehalte en actief chloorbepalingen. Door de combinatie van theorie en praktijkoefeningen kun je de geleerde technieken direct toepassen in je werk als analist of laboratoriummedewerker.</p><p><strong>Verdiep je kennis van titreren en analysemethoden</strong></p><p>Tijdens deze cursus fris je je kennis van anorganische chemie en elektrochemie op en breid je deze uit. Je krijgt meer inzicht in de eigenschappen van reagentia, elektroden en instrumenten die je gebruikt bij titraties. Dit begrip is essentieel voor de optimale uitvoering van je analysewerk en verhoogt de nauwkeurigheid van je gehaltebepalingen.</p><p><strong>Cursus titrimetrie met focus op gehaltebepalingen</strong></p><p>De cursus focust volledig op toepassingen in de laboratoriumpraktijk. Je leert niet alleen de theorie achter titratiemethoden, maar ook hoe je deze technieken effectief inzet voor verschillende gehaltebepalingen. Na afloop van de cursus kun je zelfstandig werken met titratiemethoden en de bijbehorende instrumenten voor betrouwbare analyseresultaten.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je analist of laboratoriummedewerker op minimaal mbo-niveau? Deze cursus is perfect voor jou als je meer wilt weten over gehaltebepalingen met titraties, zoals zuurgehalte of actief chloorbepalingen. Ook als je je kennis van elektrochemie wilt opfrissen en uitbreiden, biedt deze cursus precies wat je zoekt voor betrouwbare analyseresultaten.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze eendaagse cursus combineert theorie met praktijkgerichte oefenopdrachten die elkaar afwisselen. Je oefent actief met titratiemethoden voor gehaltebepalingen zoals zuurgehalte en actief chloorbepalingen. Toepassingen in de laboratoriumpraktijk krijgen veel aandacht, zodat je direct kunt toepassen wat je leert. De cursus is flexibel opgebouwd: je kunt deze cursus afzonderlijk volgen als onderdeel van de titrimetrie-reeks. Zo bepaal je zelf welke specialisatie het beste aansluit bij jouw werkzaamheden en ontwikkeldoelen in het laboratorium.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus vraagt een minimale tijdsinvestering van slechts één dag, van 9.30 tot 17.00 uur. Je hoeft geen voorbereiding te doen, waardoor je direct kunt starten zonder extra studietime naast je drukke werkzaamheden. De cursus start op basis van aanmeldingen, wat betekent dat je flexibel bent in planning en timing. Je geeft simpelweg je interesse door via laboratorium@avansplus.nl en de opleidingsmanager neemt contact met je op zodra er voldoende deelnemers zijn om te starten. Deze efficiënte opzet zorgt ervoor dat je in één intensieve lesdag alle benodigde kennis van titratiemethoden en gehaltebepalingen opdoet zonder langdurige studiebelasting.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze eendaagse titrimetrie-cursus ontvang je een officieel bewijs van deelname dat jouw expertise in titraties en gehaltebepalingen bevestigt. Dit certificaat toont aan dat je titratiemethoden voor zuurgehalte en actief chloorbepalingen beheerst en deze professioneel kunt toepassen in je laboratoriumwerk. Het bewijs van deelname versterkt je professionele profiel als analist of laboratoriummedewerker en biedt de mogelijkheid om je verder te specialiseren binnen de complete titrimetrie-reeks.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>795,00</Base>
-                <Vat>166,95</Vat>
-                <VatFree>961,95</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>73,00</Base>
-                <Vat>6,57</Vat>
-                <VatFree>79,57</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2433-6FTIT01010</Code>
-                <Location>Barendrecht</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2026-11-11T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2434</Code>
-        <Title>Titrimetrie 3: Karl-Fischer: volumetrie en coulometrie</Title>
-        <Language>nl</Language>
-        <Duration>8</Duration>
-        <Description><![CDATA[Titrimetrie 3: Waterbepaling volgens Karl-Fischer; volumetrie en coulometrie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de cursus Titrimetrie 3: Karl-Fischer: volumetrie en coulometrie je op</strong></p><ul><li>Je beheerst Karl-Fischer titratie voor nauwkeurige waterbepalingen in grondstoffen en eindproducten zowel volumetrisch als coulometrisch.</li><li>Je weet hoe je Karl-Fischer apparatuur correct gebruikt en onderhoudt voor betrouwbare analyseresultaten.</li><li>Je hebt diepgaande kennis van elektrochemie en kunt waterbepaling direct toepassen in verschillende laboratoriumomgevingen.</li></ul><p><strong>Specialistische cursus Karl-Fischer waterbepaling voor analisten</strong></p><p>Deze eendaagse cursus Karl-Fischer brengt je expertise in waterbepalingen naar expert niveau. Je leert zowel volumetrische als coulometrische Karl-Fischer technieken voor nauwkeurige analyse van watergehalte in grondstoffen en eindproducten. Door de combinatie van theorie en praktijkoefeningen kun je deze geavanceerde analysemethode direct inzetten in je dagelijkse laboratoriumwerk.</p><p><strong>Verdiep je kennis van waterbepaling en elektrochemie</strong></p><p>Tijdens deze cursus fris je je kennis van anorganische chemie en elektrochemie op en breid je deze specifiek uit voor Karl-Fischer titraties. Je krijgt meer inzicht in de eigenschappen van Karl-Fischer reagentia, elektroden en instrumenten. Dit begrip is cruciaal voor de optimale uitvoering van waterbepalingen en verhoogt de precisie van je analyseresultaten aanzienlijk.</p><p><strong>Praktijkgerichte training Karl-Fischer volumetrie en coulometrie</strong></p><p>De cursus focust volledig op toepassingen in de laboratoriumpraktijk met veel aandacht voor hands-on ervaring. Je leert niet alleen de theorie achter Karl-Fischer methoden, maar ook hoe je deze technieken effectief toepast voor verschillende waterbepalingen. Na afloop van de cursus kun je zelfstandig werken met Karl-Fischer apparatuur en de methode optimaal inzetten voor betrouwbare wateranalyses.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je analist of laboratoriummedewerker op minimaal mbo-niveau? Deze specialistische cursus is ideaal voor jou als je waterbepalingen wilt uitvoeren in grondstoffen en eindproducten. Of je nu werkt met volumetrische of coulometrische Karl-Fischer methoden, deze cursus helpt je de techniek volledig te beheersen voor nauwkeurige analyseresultaten.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze eendaagse cursus combineert theorie met praktijkgerichte oefenopdrachten die elkaar afwisselen. Je oefent hands-on met Karl-Fischer apparatuur voor zowel volumetrische als coulometrische waterbepalingen. Toepassingen in de laboratoriumpraktijk krijgen veel aandacht, zodat je direct kunt toepassen wat je leert bij wateranalyses in grondstoffen en eindproducten. De cursus is flexibel opgebouwd: je kunt deze cursus afzonderlijk volgen als onderdeel van de titrimetrie-reeks. Zo bepaal je zelf welke specialisatie het beste aansluit bij jouw werkzaamheden en ontwikkeldoelen in het laboratorium.</p><p><strong>Tijdsinvestering</strong></p><p>Deze specialistische cursus vraagt een minimale tijdsinvestering van slechts één dag, van 9.30 tot 17.00 uur. Je hoeft geen voorbereiding te doen, waardoor je direct kunt beginnen zonder extra studietijd naast je drukke werkzaamheden. De cursus start flexibel op basis van aanmeldingen, wat betekent dat je zelf bepaalt wanneer het uitkomt in je planning. Je geeft eenvoudig je interesse door via laboratorium@avansplus.nl en de opleidingsmanager neemt contact met je op zodra er voldoende deelnemers zijn om te starten. Deze efficiënte aanpak zorgt ervoor dat je in één intensieve lesdag alle benodigde kennis van Karl-Fischer waterbepaling opdoet zonder langdurige studiebelasting.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze eendaagse Karl-Fischer cursus ontvang je een officieel bewijs van deelname dat jouw specialistische expertise in waterbepalingen bevestigt. Dit certificaat toont aan dat je zowel volumetrische als coulometrische Karl-Fischer technieken beheerst voor nauwkeurige wateranalyses in grondstoffen en eindproducten. Het bewijs van deelname versterkt je professionele profiel als specialist in waterbepalingen en positioneert je als expert binnen de analytische chemie. Je kunt dit certificaat inzetten om je carrière in het laboratorium verder te ontwikkelen of om je expertise binnen de complete titrimetrie-reeks uit te breiden.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>795,00</Base>
-                <Vat>166,95</Vat>
-                <VatFree>961,95</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>73,00</Base>
-                <Vat>6,57</Vat>
-                <VatFree>79,57</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2434-6FTIK01008</Code>
-                <Location>Barendrecht</Location>
-                <DiscontinuedFrom>2026-11-12</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-12T09:00:00" EndDateTime="2026-11-12T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13896,15 +13403,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2442-6FVBA01014</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-23T09:00:00" EndDateTime="2026-11-23T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2442-6FVBA01015</Code>
-                <Location>Delft</Location>
                 <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -14655,51 +14153,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2788</Code>
-        <Title>RAB Mergers &amp; Acquisitions (RAB M&amp;A)</Title>
-        <Language>nl</Language>
-        <Duration>12</Duration>
-        <Description><![CDATA[Word als M&A-professional vaardig in het strategisch begeleiden van bedrijfsovernames, van waardering en due diligence tot succesvolle dealmaking.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding RAB Mergers &amp; Acquisitions (RAB M&amp;A) je op </strong></p><ul><li>Ondernemers strategisch begeleiden bij groei- en overnamevraagstukken.</li><li>Als adviseur bij familiebedrijven meer waarde toevoegen.</li><li>Het volledige overnameproces beter overzien en structureren.</li><li>Direct toepasbare M&amp;A-kennis inzetten in jouw adviespraktijk</li></ul><p><strong>Praktijkgerichte bedrijfsovername opleiding voor professionals in Mergers en Acquisitions</strong></p><p>Veel ondernemers zoeken naar manieren om te groeien, te schalen of hun bedrijf toekomstbestendig te maken. Fusies en overnames spelen daarbij een belangrijke rol. Tijdens de RAB M&amp;A-opleiding leer je hoe je als (toekomstig) Mergens &amp; Acquisitions-adviseur ondernemers kunt begeleiden bij deze complexe strategische trajecten. De opleiding is praktijkgericht: je werkt in teamverband aan een echte M&amp;A-casus waarin je in een team toewerkt naar een daadwerkelijke deal. De resultaten van de deelnemers én de echte uitkomst uit de praktijk worden klassikaal besproken. Zo zie je precies hoe theorie en praktijk samenkomen. </p><p>We behandelen alle essentiële onderdelen van het moderne M&amp;A-vak, waaronder: </p><ul><li>Strategische afwegingen bij bedrijfsovernames.</li><li>Bepaling van Enterprise Value en Equity Value.</li><li>De Equity Bridge en de impact op de deal.</li><li>Correcties op netto werkkapitaal.</li><li>Financiële analyses en bedrijfswaarderingen.</li><li>Juridische aandachtspunten in M&amp;A-trajecten.</li><li>Due Diligence in de praktijk.</li><li>Het volledige M&amp;A-proces: van Letter of Intent (LOI) tot de onderhandelingen en dealclosing.</li><li>Financieringsmogelijkheden voor bedrijfsovernames. </li></ul><p>De rode draad in deze opleiding is een hands-on, realistische casus waardoor je de geleerde theorie direct toepast. Hierdoor ben je uitstekend voorbereid om ondernemers te begeleiden bij hun overnamevraagstukken en word je een waardevollere sparringpartner in elke fase van het M&amp;A-proces.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je bent werkzaam als fusie- en overnamespecialist, intermediair, relatiebeheerder, financieel (bedrijfs)adviseur, accountant, financieel planner, controller, waarderingsdeskundige/valuator of belastingadviseur en je houdt je bezig met bedrijfsovernames. Of je bent betrokken als adviseur of toezichthouder bij een familiebedrijf. Voor deelname aan deze opleiding wordt een hbo werk- en denkniveau verwacht.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze tweedaagse cursus combineert praktijk met theorie. Ter voorbereiding op de eerste lesdag ontvang je een casus en artikelen om te bestuderen. Ook voor lesdag twee is voorbereiding nodig. </p><p><strong>Tijdsinvestering</strong></p><p>De studiebelasting bedraagt maximaal 5 uur per bijeenkomst. </p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van deze tweedaagse cursus ontvang je een bewijs van deelname. Ben je geregistreerd in het RAB-register? Dan vermelden wij jouw PE-activiteit in het register.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>1295,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>1295,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>50,00</Base>
-                <Vat>4,50</Vat>
-                <VatFree>54,50</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>50,00</Base>
-                <Vat>4,50</Vat>
-                <VatFree>54,50</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2788-8EMEA01003</Code>
-                <Location>Nijkerk</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2026-11-12T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2789</Code>
         <Title>Basisjaar Master Strategisch Management</Title>
         <Language>nl</Language>
@@ -14807,15 +14260,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>3192-8AMAI02004</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2026-10-29T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>3192-8AMAI02005</Code>
                 <Location>Utrecht</Location>
@@ -15632,10 +15076,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3402-6DHBW01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-01-21</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-03-18T17:00:00" />
+                    <Session StartDateTime="2027-01-21T09:00:00" EndDateTime="2027-03-18T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15670,6 +15114,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3403-6DHBB01002</Code>
                 <Location>Breda</Location>
+                <DiscontinuedFrom>2027-03-25</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-25T09:00:00" EndDateTime="2027-06-03T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3403-6DHBB01003</Code>
+                <Location>Utrecht</Location>
                 <DiscontinuedFrom>2027-03-25</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
@@ -15712,6 +15165,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-03-25T09:00:00" EndDateTime="2027-06-03T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3404-6DHBF01003</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-03-25</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-25T09:00:00" EndDateTime="2027-06-10T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15945,10 +15407,10 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3459-6FVCA01001</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-05-10</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2026-11-26T17:00:00" />
+                    <Session StartDateTime="2027-05-10T09:00:00" EndDateTime="2027-05-20T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -16363,51 +15825,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-11-01T09:00:00" EndDateTime="2028-02-01T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>3569</Code>
-        <Title>Register Adviseur Bedrijfsopvolging Deals &amp; Governance (RAB D&amp;G)</Title>
-        <Language>nl</Language>
-        <Duration>240</Duration>
-        <Description><![CDATA[Dit is dé opleiding voor adviseurs die mkb-ondernemers en familiebedrijven begeleiden bij belangrijke strategische vraagstukken.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Register Adviseur Bedrijfsopvolging Deals &amp; Governance (RAB D&amp;G) je op </strong></p><ul><li>Integraal adviseren over bedrijfsopvolging, bedrijfswaardering, governance voor familiebedrijven en bedrijfsovernames binnen het mkb en familiebedrijf.</li><li>Meer impact maken in complexe trajecten door financiële, strategische, waarderings- en governancevraagstukken in samenhang te beoordelen.</li><li>Registratie in het RAB register na het bijwonen van de modules en het succesvol afronden van het examen. Je bent dan gerechtigd de titel RAB te voeren. </li></ul><p><strong>Bedrijfsopvolging, bedrijfswaardering en governance in één opleiding</strong></p><p>Bedrijfsopvolging is meer dan de overdracht van een onderneming. Het vraagt om kennis van bedrijfswaardering, corporate governance en bedrijfsovernames én het vermogen om deze vraagstukken in samenhang te beoordelen. Tijdens RAB Deals &amp; Governance (RAB DG) ontwikkel je deze expertise en groei je uit tot een deskundige sparringpartner voor mkb-ondernemers en familiebedrijven.</p><p>Je combineert kennis van bedrijfswaardering, corporate governance en fusies &amp; overnames met actuele praktijkvraagstukken. Zo ben je beter voorbereid om ondernemers te begeleiden bij waardecreatie, bedrijfsopvolging, verkoop, overdracht en andere strategische beslissingen. Na succesvolle afronding van de opleiding en het integraal examen kom je in aanmerking voor inschrijving in het RAB Register.</p><p><strong>Ontwikkel je tot Register Adviseur Bedrijfsopvolging</strong></p><p>De opleiding bestaat uit een samenhangend programma waarin bedrijfswaardering, corporate governance en M&amp;A elkaar versterken. Je werkt met praktijkcases uit het mkb en familiebedrijf en leert hoe je complexe financiële, strategische en eigendomsvraagstukken vertaalt naar onderbouwde adviezen.</p><p>Door de combinatie van theorie, praktijk en een mondeling examen ontwikkel je de kennis en vaardigheden die nodig zijn om ondernemers professioneel te begeleiden bij bedrijfsopvolging, governance en transacties.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor professionals die mkb-ondernemers en familiebedrijven adviseren bij vraagstukken rondom bedrijfsopvolging, bedrijfswaardering, corporate governance en bedrijfsovernames. Je wilt je verdiepen in complexe eigendomsvraagstukken en ondernemers integraal kunnen adviseren tijdens belangrijke strategische beslissingen. Enkele jaren advieservaring binnen het mkb of familiebedrijf wordt aanbevolen.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding bestaat uit 11 cursusdagen waarin theorie, praktijkcases en interactieve opdrachten worden afgewisseld. Je volgt een modulair programma waarin bedrijfswaardering, corporate governance en M&amp;A samenkomen. Tussen de bijeenkomsten door bereid je de lesstof voor en werk je aan praktijkgerichte opdrachten. De opleiding wordt afgesloten met een mondeling examen.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding omvat 11 cursusdagen op een centrale locatie in Nederland. Naast de bijeenkomsten besteed je tijd aan voorbereiding, zelfstudie, praktijkopdrachten en de voorbereiding op het examen. De totale studiebelasting bedraagt ongeveer 100 tot 200 uur, afhankelijk van je voorkennis en praktijkervaring.</p><p>De opleiding is goed te combineren met een professionele adviespraktijk. Na succesvolle afronding van de opleiding en het examen kom je in aanmerking voor inschrijving in het RAB Register. Daarnaast komt de opleiding in aanmerking voor PE-punten voor de relevante registers.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de modules word je toegelaten tot het examen, dat twee keer per jaar wordt afgenomen. Na een succesvolle afronding ontvang je het diploma RAB Deals &amp; Governance (RAB DG) en kwalificeer je voor inschrijving in het <a href="https://rabregister.nl/">RAB Register</a>: het kwaliteitsregister voor adviseurs op het gebied van bedrijfsopvolging, corporate governance en transacties binnen het mkb en familiebedrijf. Hiermee onderscheid je je als deskundig adviseur op het gebied van strategische eigendomsvraagstukken.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>8470,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>8470,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceMaterialLow>
-            <Price from="2026-01-01">
-                <Base>150,00</Base>
-                <Vat>13,50</Vat>
-                <VatFree>163,50</VatFree>
-            </Price>
-        </PriceMaterialLow>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>150,00</Base>
-                <Vat>13,50</Vat>
-                <VatFree>163,50</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>3569-8ERDG01002</Code>
-                <Location>Nijkerk</Location>
-                <DiscontinuedFrom>2026-10-29</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-10-29T09:00:00" EndDateTime="2027-12-31T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
