@@ -201,7 +201,7 @@
         <Description><![CDATA[Ontwikkel jouw financiële vakkennis en leer hoe je dit in jouw organisatie kunt communiceren en groei sneller door tot (financial) controller.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Postbachelor Financial controller je op</strong></p><ul><li>Je verbreedt jouw mogelijkheden op de arbeidsmarkt en wordt een breed georiënteerde financieel professional.</li><li>Je kunt doorstromen naar andere financiële functies zoals assistent controller of financial controller.</li><li>Je krijgt meer inzicht in hoe cijfers en de omgeving van jouw organisatie zich tot elkaar verhouden.</li></ul><p><strong>Postbacheloropleiding voor direct toepasbare financiële inzichten</strong></p><p>In één jaar tijd verrijk je jouw kennis en vaardigheden op financieel gebied. De ervaren docenten zorgen ervoor dat je de nieuwste inzichten uit het werkveld meekrijgt en deze kunt vertalen naar concrete verbeteringen. </p><p><strong>Opleiding voor carrière perspectief </strong></p><p>Met de Postbachelor Financial controller kun je laten zien dat je beschikt over de vakinhoudelijke kennis om door te stromen naar een andere financiële functie, bijvoorbeeld financial controller. In die rol ben je verantwoordelijk voor de samenstelling, verwerking en controle van de financiële cijfers. Deze rapporteer je vervolgens aan het management. </p>]]></DescriptionLong>
         <TargetAudience><![CDATA[<p>Werk je in een financieel-administratieve functie en wil je meer uit je rol halen? Deze opleiding is speciaal ontwikkeld voor professionals met een mbo- of bachelordiploma die willen doorgroeien naar een andere financiële functie zoals assistent controller of financial controller. </p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze postbachelor wordt verzorgd door docenten met ruime praktijkervaring en een bewezen staat van dienst in het financiële vakgebied. Zij maken de cruciale vertaalslag van financiële theorie naar actuele ontwikkelingen in jouw eigen beroepspraktijk. Ieder blok van de opleiding rond je af met een toets die jouw voortgang meetbaar maakt. </p><p>Door deze praktijkgerichte aanpak ontwikkel je niet alleen theoretische kennis, maar leer je ook hoe je deze direct toepast in jouw dagelijkse werk. </p><p><strong>Tijdsinvestering</strong></p><p>De Postbachelor Financial controller heeft een doorlooptijd van één jaar en is opgebouwd uit 6 modules van elk 8 weken. Je volgt in totaal 32 bijeenkomsten die overdag plaatsvinden, zodat je de opleiding goed kunt combineren met je werk en je privéleven. </p><p>Naast de geplande bijeenkomsten plan je gemiddeld 6 uur per week voor zelfstudie en het uitwerken van opdrachten.</p>]]></CourseFormat>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze postbachelor wordt verzorgd door docenten met ruime praktijkervaring en een bewezen staat van dienst in het financiële vakgebied. Zij maken de cruciale vertaalslag van financiële theorie naar actuele ontwikkelingen in jouw eigen beroepspraktijk. Ieder blok van de opleiding rond je af met een toets die jouw voortgang meetbaar maakt. </p><p>Door deze praktijkgerichte aanpak ontwikkel je niet alleen theoretische kennis, maar leer je ook hoe je deze direct toepast in jouw dagelijkse werk. </p><p><strong>Tijdsinvestering</strong></p><p>De Postbachelor Financial controller heeft een doorlooptijd van één jaar en is opgebouwd uit 6 modules van elk 8 weken. Je volgt in totaal 32 bijeenkomsten die overdag plaatsvinden, zodat je de opleiding goed kunt combineren met je werk en je privéleven. </p><p>Naast de geplande bijeenkomsten plan je gemiddeld 10 - 12 uur per week voor zelfstudie en het uitwerken van opdrachten.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvol afronden van deze opleiding ontvang je het postbachelordiploma Postbachelor Financial controller, waarmee je jouw financiële expertise officieel bevestigt. </p><p>Bovendien kun je doorstromen, zoals de <a href="https://habeoplus.nl/opleidingen/postbachelor-controller">Postbachelor Controller</a> of <a href="https://habeoplus.nl/opleidingen/master-controlling">Master in Controlling</a> voor verdere specialisatie. </p>]]></CertValue>
         <Level>HBO</Level>
         <PriceBase>
@@ -898,15 +898,6 @@
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>1728-8DPFP01011</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-04</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-04T09:00:00" EndDateTime="2027-06-02T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>1728-8DPFP01012</Code>
                 <Location>Utrecht</Location>
@@ -3072,15 +3063,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1809-7ALOS02106</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-11-11</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-11T09:00:00" EndDateTime="2027-12-01T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1809-7ALOS02117</Code>
                 <Location>Amsterdam</Location>
                 <DiscontinuedFrom>2027-02-03</DiscontinuedFrom>
@@ -3311,15 +3293,6 @@
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>1834-8AOVE01019</Code>
-                <Location>Nijkerk</Location>
-                <DiscontinuedFrom>2026-11-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-06T09:00:00" EndDateTime="2026-11-06T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>1834-8AOVE01020</Code>
                 <Location>Breda</Location>
@@ -3723,15 +3696,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1878-8BVAS01058</Code>
-                <Location>Hengelo</Location>
-                <DiscontinuedFrom>2026-11-05</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-05T09:00:00" EndDateTime="2026-11-05T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1878-8BVAS01060</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2026-11-24</DiscontinuedFrom>
@@ -3938,6 +3902,15 @@
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-03-15T09:00:00" EndDateTime="2027-07-06T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1885-8BRVI01023</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-10-13</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-10-13T09:00:00" EndDateTime="2028-03-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -5809,15 +5782,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>1993-7BMKO01072</Code>
-                <Location>Amsterdam</Location>
-                <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-04-25T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>1993-7BMKO01076</Code>
                 <Location>Nijmegen</Location>
                 <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
@@ -5863,57 +5827,66 @@
                 </Sessions>
             </Class>
             <Class>
-                <Code>1993-7BMKO01081</Code>
+                <Code>1993-7BMKO01072</Code>
                 <Location>Amsterdam</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2026-11-18</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1993-7BMKO01077</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1993-7BMKO01082</Code>
-                <Location>Nijmegen</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>1993-7BMKO01080</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2026-11-18T09:00:00" EndDateTime="2027-04-25T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>1993-7BMKO01079</Code>
                 <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>1993-7BMKO01084</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01080</Code>
+                <Location>Virtual</Location>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01082</Code>
+                <Location>Nijmegen</Location>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01077</Code>
+                <Location>Breda</Location>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01081</Code>
+                <Location>Amsterdam</Location>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-07-04T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -5922,7 +5895,7 @@
                 <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-11-14T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -5931,7 +5904,7 @@
                 <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-11-14T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -5940,7 +5913,7 @@
                 <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-11-14T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
@@ -5949,7 +5922,25 @@
                 <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-07-04T17:00:00" />
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-11-14T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01089</Code>
+                <Location>Nijmegen</Location>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-11-14T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>1993-7BMKO01091</Code>
+                <Location>Amsterdam</Location>
+                <DiscontinuedFrom>2027-05-05</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-05-05T09:00:00" EndDateTime="2027-11-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -6340,15 +6331,6 @@
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2000-4APPC01106</Code>
-                <Location>Den Bosch</Location>
-                <DiscontinuedFrom>2026-11-19</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-19T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>2000-4APPC01110</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2027-02-18</DiscontinuedFrom>
@@ -6422,24 +6404,6 @@
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2001-4APPM01135</Code>
-                <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>2001-4APPM01132</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-26</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-02-04T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2001-4APPM01133</Code>
                 <Location>Den Bosch</Location>
@@ -9039,7 +9003,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedFrom>2027-04-07</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-04-07T09:00:00" EndDateTime="2027-06-14T17:00:00" />
+                    <Session StartDateTime="2027-04-07T09:00:00" EndDateTime="2027-06-16T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -9806,44 +9770,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2230</Code>
-        <Title>Fysisch-chemische eigenschappen van organische verbindingen</Title>
-        <Language>nl</Language>
-        <Duration>87</Duration>
-        <Description><![CDATA[Cursus fysisch-chemische eigenschappen: leer moleculen lezen en voorspellen voor analysemethoden en structuuropheldering in de analytische chemie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Fysisch-chemische eigenschappen van organische verbindingen je op</strong></p><ul><li>Je kunt stofeigenschappen als polariteit, oplosbaarheid en vluchtigheid verklaren aan de hand van de structuur van een verbinding</li><li>Je doet voorspellingen over het gedrag van stoffen bij chromatografische analyses en monstervoorbewerking</li><li>Je voorspelt het gedrag van verbindingen bij spectrofotometrische of massaspectrometrische detectie</li></ul><p><strong>Verdiep je kennis van organische verbindingen met deze praktijkgerichte opleiding</strong></p><p>Deze opleiding geeft je diepgaand inzicht in de opbouw van organische verbindingen en hun eigenschappen. Je leert hoe molecuulstructuren de fysisch-chemische, chromatografische en spectrofotometrische eigenschappen bepalen. Door interactieve lessen en praktijkopdrachten begrijp je snel het verband tussen theorie en je dagelijkse werkzaamheden als analist.</p><p><strong>Ontwikkel je analytische vaardigheden in deze specialistische cursus voor laboranten</strong></p><p>Met 6 contactdagen verspreid over 3 maanden bouw je stap voor stap je expertise op. Elke lesdag behandelt twee onderwerpen die direct toepasbaar zijn in je werk. Met onze digitale leeromgeving en continue begeleiding van docenten integreer je nieuwe kennis moeiteloos in je eigen laboratoriumproject.</p><p><strong>Versterk je positie als analist met deze opleiding in massaspectrometrie en chromatografie</strong></p><p>Deze cursus is perfect voor MBO+ analisten met chromatografie-ervaring die hun kennis willen uitbreiden. Je leert het gedrag en de reactiviteit van verbindingen bij massaspectrometrie beter begrijpen. Na afronding voorspel je met vertrouwen hoe stoffen zich gedragen tijdens verschillende analytische processen, wat je direct meer waarde geeft in het laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is ideaal voor jou als MBO+ analist met chromatografie-ervaring die dieper inzicht wil in organische verbindingen. Je wilt begrijpen hoe molecuulstructuur de eigenschappen bepaalt en het gedrag bij massaspectrometrie voorspellen. Perfect om je analytische kennis op te frissen en uit te breiden.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding bestaat uit 6 contactdagen verspreid over 3 maanden, waarbij per dag twee onderwerpen worden behandeld. De lessen dienen als inleiding en terugkoppeling van opdrachten die je in zelfstudie tussen de lessen uitvoert. Hierdoor worden de lessen heel interactief en toegespitst op jouw leerwensen. Je maakt gebruik van een digitale leeromgeving en kunt altijd een beroep doen op ondersteuning van docenten tussen de contactmomenten. De bijeenkomsten zijn op vrijdag van 9.00-16.00 uur, zodat je de opleiding goed kunt combineren met je werkzaamheden.</p><p><strong>Tijdsinvestering</strong></p><p>Deze opleiding bestaat uit 6 contactdagen van elk 6 uur, verspreid over 3 maanden. De bijeenkomsten vinden plaats op vrijdag van 9.00 tot 16.00 uur, waardoor je de opleiding goed kunt combineren met je werk. Naast de contactdagen investeer je 8 uur zelfstudie per cursusdag om de interactieve opdrachten uit te werken. Deze zelfstudie doe je tussen de lessen, zodat je optimaal voorbereid bent op de volgende bijeenkomst. Door deze opzet kun je de theorie direct toepassen in je eigen werkpraktijk via een eindopdracht die je parallel aan de lessen uitvoert. De totale tijdsinvestering van 84 uur is verdeeld over de drie maanden, wat zorgt voor een haalbare studiebelasting naast je reguliere werkzaamheden.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het afronden van deze opleiding ontvang je een bewijs van deelname. Dit certificaat toont aan dat je de complexe relatie tussen molecuulstructuur en fysisch-chemische eigenschappen beheerst. Als MBO+ analist geeft dit bewijs je de geloofwaardigheid om voorspellingen te doen over het gedrag van stoffen bij verschillende analytische processen. Het certificaat ondersteunt je professionele groei en verhoogt je waarde als specialist in chromatografie en massaspectrometrie. Deze expertise opent mogelijkheden voor meer verantwoordelijke rollen in het laboratorium en versterkt je positie als analist met diepgaande kennis van organische verbindingen.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2995,00</Base>
-                <Vat>628,95</Vat>
-                <VatFree>3623,95</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>438,00</Base>
-                <Vat>39,42</Vat>
-                <VatFree>477,42</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2230-6FFCE01009</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-06T09:00:00" EndDateTime="2027-04-02T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2232</Code>
         <Title>Gasveiligheid in het laboratorium</Title>
         <Language>nl</Language>
@@ -10065,6 +9991,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2026-11-26T09:00:00" EndDateTime="2027-06-30T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2247-6DHBP02005</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-03-25</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-03-25T09:00:00" EndDateTime="2028-03-01T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -10858,37 +10793,37 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>2289-7BMKV01058</Code>
                 <Location>Amsterdam</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-12-12T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-12-12T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>2289-7BMKV01057</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-12-12T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-12-12T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>2289-7BMKV01060</Code>
                 <Location>Nijmegen</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-12-12T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-12-12T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>2289-7BMKV01059</Code>
                 <Location>Rotterdam</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-12-12T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-12-12T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -11440,6 +11375,44 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-04-21T09:00:00" EndDateTime="2027-07-11T17:00:00" />
+                </Sessions>
+            </Class>
+        </Classes>
+    </CourseTemplate>
+    <CourseTemplate>
+        <Code>2338</Code>
+        <Title>Masterclass Pipeline Technology - Aanleg (MPT)</Title>
+        <Language>nl</Language>
+        <Duration>120</Duration>
+        <Description><![CDATA[Masterclass voor professionals in ondergronds transport die op strategisch niveau met stakeholders communiceren over leidingaanleg.]]></Description>
+        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Pipeline Technology - Aanleg (MPT) je op</strong></p><ul><li>Je hebt inzicht in alle aspecten rond aanleg van ondergrondse leidingen.</li><li>Je past verworven kennis en inzichten direct toe op strategisch niveau in jouw werkpraktijk.</li><li>Je geeft als professioneel leider richting aan de verdere ontwikkeling van jouw organisatie en de branche.</li></ul><p><strong>Strategische expertise in pijpleidingaanleg door deze opleiding</strong></p><p>Deze masterclass geeft je diepgaand inzicht in alle aspecten van ondergronds transport. Je ontwikkelt strategisch denkvermogen waarmee je op hoog niveau communiceert met alle stakeholders in de pijpleidingketen, van regelgevende instanties tot aannemingsbedrijven. Je begrijpt de verschillen in cultuur, visie en belang en kunt hier goed mee overweg. Na deze opleiding praat je mee op strategisch niveau en geef je richting aan complexe projecten op het gebied van ondergrondse leidingen in de openbare ruimte.</p><p><strong>Praktijkgerichte leerervaring met multidisciplinaire aanpak</strong></p><p>Wat deze masterclass uniek maakt is de multidisciplinaire werkwijze. Je werkt in kleine groepen met professionals uit verschillende sectoren van de pijpleidingketen. Deze samenwerking zorgt ervoor dat je affiniteit ontwikkelt met alle disciplines en leert hoe je elkaars expertise optimaal benut. Hierdoor krijg je een brede kijk op projecten die helpen jouw strategische keuzes te onderbouwen.</p><p><strong>Direct toepasbare kennis voor leidinggevenden in de sector</strong></p><p>Tijdens de opleiding werk je aan een concrete casus: het opstellen van een plan van aanpak voor leidingaanleg. Deze praktische toets, onder begeleiding van ervaren docenten, zorgt ervoor dat je de theorie direct vertaalt naar de werkpraktijk. Je ervaart de meerwaarde van samenwerking en ontwikkelt vaardigheden die je meteen inzet in je werk.</p>]]></DescriptionLong>
+        <TargetAudience><![CDATA[<p>Deze masterclass is voor professionals die werken bij organisaties betrokken bij ondergronds transport. Denk aan overheidsinstanties met regelgeving, pijpleidingbeheerorganisaties, ingenieursbureaus, aannemingsbedrijven, dienstverlenende bedrijven of toeleveranciers. Je wilt kennis en inzicht krijgen in alle aspecten van leidingaanleg om strategisch te kunnen communiceren met stakeholders in de pijpleidingketen.</p>]]></TargetAudience>
+        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Je werkt in een multidisciplinaire setting waarbij je in kleine groepen van 3 tot 5 personen samenwerkt met professionals uit verschillende delen van de pijpleidingketen. Denk aan collega's van ingenieursbureaus, aannemers en leidingeigenaren. Deze diversiteit zorgt ervoor dat je verschillende perspectieven leert kennen en affiniteit ontwikkelt met alle disciplines in het veld. </p><p>Als praktische toets werk je onder begeleiding van ervaren kerndocenten aan een realistische casus: het opstellen van een plan van aanpak voor leidingaanleg. Hierbij ervaar je direct de meerwaarde van het benutten van elkaars kennis, visie, ervaring en netwerk. Deze aanpak geeft je professionele ontwikkeling een stevige boost en bereidt je voor op een strategische rol in de sector.</p><p>Je sluit aan bij deelnemers die de volledige <a href="https://habeoplus.nl/opleidingen/master-pipeline-technology-mpt">Master of Pipeline Technology</a> volgen.</p><p><strong>Tijdsinvestering</strong></p><p>De Masterclass Pipeline Technology - Aanleg (MPT) duurt 4 maanden met een totale studielast van 4 EC's, wat neerkomt op 120 studiebelastingsuren. Je volgt 3 maandelijkse bijeenkomsten op vrijdag en/of zaterdag, variërend van 1 tot 2 dagen inclusief hotelovernachting. </p><p>Daarnaast neem je deel aan een projectbezoek van 1 dag op locatie waar je de theorie in de praktijk ziet. De combinatie van contactmomenten en zelfstudie zorgt ervoor dat je de kennis direct kunt toepassen in je werk.</p>]]></CourseFormat>
+        <CertValue><![CDATA[<p>Na succesvolle afronding van deze masterclass ontvang je een certificaat dat bewijst dat je een deel van de geaccrediteerde Master of Pipeline Technology hebt voltooid. </p><p>Het certificaat toont aan dat je op masterniveau kennis hebt opgedaan over leidingaanleg en versterkt je positie als strategische professional in de pijpleidingsector.</p><p>Dit certificaat geeft je vrijstelling wanneer je besluit om de volledige <a href="https://habeoplus.nl/opleidingen/master-pipeline-technology-mpt">Master of Pipeline Technology</a> opleiding te volgen. Je hoeft dus nog niet meteen te kiezen voor de hele masteropleiding, maar je kunt stap voor stap je expertise uitbreiden. </p>]]></CertValue>
+        <Level>Master</Level>
+        <PriceBase>
+            <Price from="2026-01-01">
+                <Base>2469,00</Base>
+                <Vat>518,49</Vat>
+                <VatFree>2987,49</VatFree>
+            </Price>
+        </PriceBase>
+        <PriceArrFacLow>
+            <Price from="2026-01-01">
+                <Base>574,00</Base>
+                <Vat>64,26</Vat>
+                <VatFree>638,26</VatFree>
+            </Price>
+        </PriceArrFacLow>
+        <Delivery>instructor-led</Delivery>
+        <Classes>
+            <Class>
+                <Code>2338-6EALM01007</Code>
+                <Location>Bosschenhoofd</Location>
+                <DiscontinuedFrom>2027-11-26</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-11-26T09:00:00" EndDateTime="2028-03-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12139,12 +12112,12 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2357-6FLCM01013</Code>
+                <Code>2357-6FLCM01014</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-04-12</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-23T09:00:00" EndDateTime="2026-11-25T17:00:00" />
+                    <Session StartDateTime="2027-04-12T09:00:00" EndDateTime="2027-04-14T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -12500,7 +12473,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Duration>880</Duration>
         <Description><![CDATA[Word praktijkondersteuner: zet zelfstandig spreekuren op, werk effectief samen met huisarts en lever direct meerwaarde in de huisartsenzorg.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Praktijkondersteuner (POH) je op</strong></p><ul><li>Je kunt zelfstandig spreekuren opzetten en uitvoeren volgens NHG-standaarden voor hart- en vaatziekten, diabetes type 2, astma &amp; COPD en leefstijl.</li><li>Je hebt je inhoudelijke kennis vergroot en persoonlijke prestaties verbeterd, waardoor je effectief samenwerkt met huisartsen.</li><li>Je kunt zelfstandig je werkzaamheden organiseren en een bijdrage leveren aan de kwaliteit van zorg in de huisartsenpraktijk.</li></ul><p><strong>Erkende opleiding Praktijkondersteuner (POH) voor specialistische kennis </strong></p><p>Je inhoudelijke kennis is vergroot en jouw persoonlijke prestaties zijn verbeterd. Je kunt samenwerken met de huisarts en je kunt zelfstandig jouw werkzaamheden organiseren. Je hebt handvatten gekregen voor het opzetten van een spreekuur voor een nieuwe doelgroep en hen voorzien van de juiste adviezen. Je hebt veel betrokkenheid bij je patiënten en je helpt hen zelfverzekerd met hun vaak chronische gezondheidsklachten. Je hebt expertise in chronische ziekten zoals diabetes, hart- en vaatziekten en COPD ontwikkelt. Basis ouderenzorg komt veelvuldig voor en is gekoppeld aan de vakinhoudelijke thema's. </p><p><strong>Praktijkgerichte opleiding Praktijkondersteuner somatiek</strong></p><p>Tijdens de praktijkgerichte opleiding Praktijkondersteuner in de huisartsenzorg leer je vanaf lesdag 1, hoe je de theorie direct inzet in de dagelijkse praktijk . Ervaren docenten begeleiden je hierbij. Na afronding behaal je een erkend diploma volgens het meest recente POH-competentieprofiel en ben je klaar om zelfstandig aan de slag te gaan in een huisartsenpraktijk.</p><p><strong>Waarom bij Habeo+</strong></p><ul><li>Je volgt je opleiding bij een erkende en ervaren opleider waar ruimte is voor individuele aandacht.</li><li>Je wordt begeleid met persoonlijke studieloopbaanondersteuning gedurende je hele traject.</li><li>Het onderwijs is praktijkgericht en actueel, verzorgd door docenten die zelf werkzaam zijn in de huisartsenzorg of een andere relevante zorgsetting.</li><li>Er zijn 4 instroommomenten en leslocaties door het hele land, zodat je de opleiding goed kunt combineren met werk en privé.</li><li>Uniek in Nederland is de mogelijkheid de opleiding geheel online te volgen met dezelfde begeleiding als bij fysieke lessen.</li><li>Met een studiebelasting van maar 10 uur week rond je binnen 1 jaar de opleiding af.</li></ul><p>Nog meer informatie over deze opleiding vind je in ons blog '<a href="https://habeoplus.nl/blog/alles-over-postbachelor-poh">Alles over de postbachelor opleiding POH</a>'.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze POH opleiding is bedoeld voor doktersassistenten met minimaal 2 jaar werkervaring (je start met de <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/vooropleiding-praktijkondersteuner-poh">Vooropleiding POH</a>) en professionals met een zorg gerelateerde hbo-opleiding zoals diëtiek, ergotherapie, fysiotherapie of verloskundige (vooropleiding POH niet nodig). Je werkt al als praktijkondersteuner of wilt deze functie gaan uitoefenen. Tijdens de opleiding praktijkondersteuner heb je een werk- of stageplek nodig voor minimaal 8 uur per week bij een huisartsenpraktijk.</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p><p>Ben je verpleegkundige met een BIG registratie? Dan past de opleiding <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/praktijkverpleegkundige-de-huisartsenzorg-pvk">Praktijkverpleegkundige in de huisartsenzorg (PVK)</a> beter bij jou. </p>]]></TargetAudience>
+        <TargetAudience><![CDATA[<p>Deze POH opleiding is bedoeld voor doktersassistenten met minimaal 2 jaar werkervaring (je start met de <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/vooropleiding-praktijkondersteuner-poh">Vooropleiding POH</a>) en professionals met een zorg gerelateerde hbo-opleiding zoals diëtiek, ergotherapie, fysiotherapie of verloskundige (vooropleiding POH niet nodig). Je werkt al als praktijkondersteuner of wilt deze functie gaan uitoefenen. Tijdens de opleiding praktijkondersteuner heb je een werk- of stageplek nodig voor minimaal 8 uur per week bij een huisartsenpraktijk.</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze POH opleiding bouwt op sociaal leren met interactieve en praktijkgerichte leermiddelen. Je werkt in leerteams aan leeractiviteiten onder begeleiding van docenten uit de beroepspraktijk. Binnen het leerteam bespreek je opdrachten, geef je elkaar feedback en zoek je samen naar oplossingen voor vraagstukken uit de praktijk. Je eigen ervaring en die van andere deelnemers worden optimaal geïntegreerd in het programma. Het vergroten van je persoonlijke effectiviteit en communicatieve vaardigheden loopt als rode draad door de hele opleiding. Je volgt leeractiviteiten die aansluiten bij je werkcontext en opleidingsbehoefte. Elke module sluit af met een praktijkgerichte eindtoets waarin je een integrale beroepsprestatie demonstreert. Deze aanpak zorgt ervoor dat je direct kunt toepassen wat je leert in jouw werk als praktijkondersteuner. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2399">brochure</a>.</p><p>Ook een <a href="https://habeoplus.nl/incompany">incompany</a> variant behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>Deze POH opleiding duurt 1 jaar en bestaat uit 40 bijeenkomsten die wekelijks plaatsvinden. De bijeenkomsten zijn op jouw vaste lesdag van 14.00-21.00 uur met een pauze van 17.00-18.00 uur, waarbij je de ene week met een docent werkt en de andere week met je leerteam en/of zelfstandig. <strong>De dag dat de opleiding start is jouw vaste lesdag. </strong></p><p>Door deze afwisselende structuur kun je optimaal profiteren van begeleiding en kennisuitwisseling met medestudenten. Naast de wekelijkse bijeenkomsten werk je aan leeractiviteiten en bereid je praktijkgerichte eindproducten per module voor. De gemiddelde studiebelasting is ongeveer 10 uur per week exclusief de bijeenkomsten en je stageplek. Deze opleiding praktijkondersteuner is zo opgezet dat je het goed kunt combineren met je werk- of stageplek van minimaal 8 uur per week bij een huisartsenpraktijk.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Deze POH-opleiding is geaccrediteerd voor kwaliteitsregister V&amp;VN. Na succesvol afronden van deze erkende opleiding praktijkondersteuner ontvang je het postbachelor diploma Praktijkondersteuner in de huisartsenzorg. Per afgeronde module ontvang je een certificaat als bewijs van jouw ontwikkelde competenties. Met dit diploma kun je succesvol werken als praktijkondersteuner en eventueel doorstromen naar een vervolgopleiding zoals POH-ouderen door de opleiding <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/kwetsbare-ouderen-de-huisartsenzorg">Kwetsbare ouderen in de huisartsenzorg</a> te volgen. Met een mbo-vooropleiding heb je met dit diploma geen erkend hbo-diploma, maar je kunt wel doorstromen naar vervolgopleidingen zoals Kwetsbare ouderen in de huisartsenzorg.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2399">brochure</a>.</p>]]></CertValue>
         <Level>HBO</Level>
@@ -12556,7 +12529,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Duration>880</Duration>
         <Description><![CDATA[Groei door als praktijkverpleegkundige! Voer zelfstandig spreekuren uit, werk volgens de NHG-richtlijnen en maak het verschil in de huisartsenzorg.]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Praktijkverpleegkundige in de huisartsenzorg (PVK) je op</strong></p><ul><li>Je kunt zelfstandig spreekuren opzetten en uitvoeren volgens NHG-standaarden voor hart- en vaatziekten, diabetes type 2, astma &amp; COPD en chronische nierschade.</li><li>Je hebt je inhoudelijke kennis vergroot en persoonlijke prestaties verbeterd, waardoor je effectief samenwerkt met huisartsen.</li><li>Je merkt direct het verschil van je werk door het intensieve contact dat je hebt met je patiënten.</li></ul><p><strong>Geaccrediteerde opleiding Praktijkverpleegkundige met postbachelor diploma</strong></p><p>Deze opleiding Praktijkverpleegkundige in de huisartsenzorg geeft je handvatten om spreekuren op te zetten voor nieuwe doelgroepen. Je ontwikkelt expertise in chronische ziekten zoals diabetes, hart- en vaatziekten en COPD, waarmee je een bijdrage levert aan de kwaliteit van zorg in de huisartsenpraktijk. Daarnaast ben je voorbereid op complexe ouderenzorg en proactieve zorgplanning, met aandacht voor zowel patiënt als mantelzorger. Je beschikt over sterke communicatieve en organisatorische vaardigheden en kunt gezondheidsbevordering effectief toepassen in de huisartspraktijk, zoals bewezen in de afsluitende casestudie. </p><p><strong>Waarom bij Praktijkverpleegkunde opleiding bij Habeo+</strong></p><ul><li>Je volgt je opleiding bij een erkende en ervaren opleider waar ruimte is voor individuele aandacht.</li><li>Je wordt begeleid met persoonlijke studieloopbaanondersteuning gedurende je hele traject.</li><li>Het onderwijs is praktijkgericht en actueel, verzorgd door docenten die zelf werkzaam zijn in de huisartsenzorg of een andere relevante zorgsetting.</li><li>Er zijn 4 instroommomenten en leslocaties door het hele land, zodat je de opleiding goed kunt combineren met werk en privé.</li><li>Uniek in Nederland is de mogelijkheid de opleiding geheel online te volgen met dezelfde begeleiding als bij fysieke lessen.</li><li>Met een studiebelasting van maar 10 uur week rond je binnen 1 jaar de opleiding af.</li></ul>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze Praktijkverpleegkundige opleiding is bestemd voor BIG-geregistreerde verpleegkundigen met een hbo-v vooropleiding. Je werkt al als praktijkverpleegkundige of wilt deze functie gaan uitoefenen in de huisartsenzorg. Tijdens de praktijkverpleegkundige opleiding heb je een werk- of stageplek nodig voor minimaal 8 uur per week bij een huisartsenpraktijk als PVK in opleiding. Ben je een BIG-geregistreerde verpleegkundigen met een mbo-v vooropleiding en wil je de opleiding Praktijkverpleegkundige in de huisartsenzorg volgen dan kun je een toelatingsassessment doen</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p><p>Ben je een doktersassistent met minimaal 2 jaar werkervaring of heb je een zorg gerelateerde hbo-opleiding zoals diëtiek, ergotherapie, fysiotherapie of verloskundige afgerond? Dan past de opleiding Praktijkondersteuner in de huisartsenzorg (POH) (eventueel met de Vooropleiding POH) beter bij jou.</p>]]></TargetAudience>
+        <TargetAudience><![CDATA[<p>Deze Praktijkverpleegkundige opleiding is bestemd voor BIG-geregistreerde verpleegkundigen met een hbo-v vooropleiding. Je werkt al als praktijkverpleegkundige of wilt deze functie gaan uitoefenen in de huisartsenzorg. Tijdens de praktijkverpleegkundige opleiding heb je een werk- of stageplek nodig voor minimaal 8 uur per week bij een huisartsenpraktijk als PVK in opleiding. Ben je een BIG-geregistreerde verpleegkundigen met een mbo-v vooropleiding en wil je de opleiding Praktijkverpleegkundige in de huisartsenzorg volgen dan kun je een toelatingsassessment doen</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze praktijkverpleegkundige opleiding werkt op basis van sociaal leren met interactieve en praktijkgerichte leermiddelen. Je werkt in leerteams aan leeractiviteiten onder begeleiding van docenten uit de beroepspraktijk. Binnen het leerteam bespreek je opdrachten, geef je elkaar feedback en zoek je samen naar oplossingen voor vraagstukken uit de praktijk. Je eigen ervaring en die van andere deelnemers worden optimaal geïntegreerd in het programma. Het vergroten van je persoonlijke effectiviteit en communicatieve vaardigheden loopt als rode draad door de hele opleiding. Je volgt leeractiviteiten die aansluiten bij je werkcontext en opleidingsbehoefte. Elke module sluit af met een praktijkgerichte eindtoets waarin je een integrale beroepsprestatie demonstreert. Deze aanpak zorgt ervoor dat je direct kunt toepassen wat je leert in jouw werk als praktijkverpleegkundige. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2400">brochure</a>.</p><p>Ook een <a href="https://habeoplus.nl/incompany">incompany variant </a>behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>Deze praktijkverpleegkundige opleiding duurt 1 jaar en bestaat uit 40 bijeenkomsten die wekelijks plaatsvinden. De bijeenkomsten zijn op jouw vaste lesdag van 14.00-21.00 uur met een pauze van 17.00-18.00 uur, waarbij je de ene week met een docent werkt en de andere week met je leerteam en/of zelfstandig. De dag dat de opleiding start is jouw vaste lesdag. Door deze afwisselende structuur kun je optimaal profiteren van begeleiding en kennisuitwisseling met medestudenten. Naast de wekelijkse bijeenkomsten werk je aan leeractiviteiten en bereid je praktijkgerichte eindproducten per module voor. De gemiddelde studiebelasting is ongeveer 10 uur per week exclusief de bijeenkomsten en je stageplek. Deze opleiding praktijkverpleegkundige is zo opgezet dat je het goed kunt combineren met je werk- of stageplek van minimaal 8 uur per week bij een huisartsenpraktijk.</p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvol afronden van deze erkende praktijkverpleegkundige opleiding ontvang je als BIG-geregistreerde verpleegkundige het postbachelordiploma Praktijkverpleegkundige in de huisartsenzorg (PVK). Deze opleiding Praktijkverpleegkundige in de huisartsenzorg is geaccrediteerd door het kwaliteitsregister van de beroepsorganisatie V&amp;VN, wat de kwaliteit en erkenning van jouw nieuwe specialisatie garandeert. Per afgeronde module ontvang je een certificaat als bewijs van jouw ontwikkelde competenties. Met een mbo-vooropleiding heb je met dit diploma geen erkend hbo-diploma, maar je kunt wel doorstromen naar de Bachelor of Nursing of vervolgopleidingen zoals Kwetsbare ouderen in de huisartsenzorg.</p>]]></CertValue>
         <Level>HBO</Level>
@@ -12720,44 +12693,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2411</Code>
-        <Title>Psychiatrische problemen identificeren</Title>
-        <Language>nl</Language>
-        <Duration>108</Duration>
-        <Description><![CDATA[Leer psychiatrische klachten vroeg te signaleren en effectief te handelen met onze praktijkgerichte opleiding, deels online en deels op locatie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Psychiatrische problemen identificeren je op</strong></p><ul><li>Je bent bekend met de diverse psychiatrische problematiek waar je als hulpverlener mee te maken kunt krijgen. </li><li>Je hebt je kennis over de meest voorkomende stemmings-, angst- en persoonlijkheidsproblematiek verdiept. </li><li>Je herkent diverse psychiatrische problematiek en weet wanneer doorverwijzing noodzakelijk is.</li></ul><p><strong>Opleiding Psychiatrische problemen identificeren </strong></p><p>Deze competentiegerichte opleiding integreert jouw werkervaring met de nieuwste theoretische kennis volgens Trimbos-instituut richtlijnen. Via de lessen met ervaren praktijkdocenten verdiep je je kennis over stemmingsproblematiek, angsten en persoonlijkheidsproblematiek. Je oefent gesprekstechnieken met eigen casuïstiek en rondt de module af met een praktijkgerichte casestudy die direct aansluit bij jouw werkomgeving.</p><p><strong>Handvatten complexe problematiek</strong></p><p>Zorgverleners en hulpverleners krijgen steeds vaker te maken met complexe problematiek. Cliënten hebben niet alleen psychosociale en medische problemen, maar ook psychiatrische problemen, zoals angsten en depressies. Het is belangrijk dat je hun klachten tijdig herkent en zorgt voor de juiste opvolging. Dit verbetert de kwaliteit van de zorg en voorkomt dat problemen chronisch worden. De opleiding psychiatrisch problemen identificeren leidt je op tot een stevige gesprekspartner met gedegen kennis.</p><p><strong>Directe praktijktoepassing</strong></p><p>Tijdens de opleiding heb je een werk- of stageplaats voor minimaal 8 uur per week waarbij de begeleiding van cliënten centraal staat. Je leert psychiatrische problematiek te herkennen, passende begeleiding te bieden en tijdig door te verwijzen. Door het geleerde meteen toe te passen in de praktijk benut je optimaal wat je leert tijdens de lessen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is bedoeld voor professionals met een hbo-opleiding of mbo-opleiding met hbo werk- en denkniveau die in hun werk te maken hebben met GGZ-problematiek. Je werkt bijvoorbeeld als wijkverpleegkundige of consulent bij de gemeente en wilt je kennis over psychiatrische problematiek uitbreiden.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding Psychiatrische problemen identificeren is competentiegericht en de werkervaring van jou en andere deelnemers wordt zo veel mogelijk in het programma geïntegreerd. Onze docenten hebben allemaal praktijkervaring en ondersteunen je in het leerproces via interactieve lessen. Je leert de theoretische kennis en praktische toepassing volgens de laatste richtlijnen van het Trimbos-instituut. In de opleiding zijn ook gesprekstechnieken opgenomen waarin je met eigen casuïstiek jouw gespreksvaardigheden kunt oefenen. Je rondt de module af met een case study. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2411">brochure.</a></p><p><strong>Tijdsinvestering</strong></p><p>Je kunt kiezen tussen twee flexibele leerroutes die beide uitstekend combineren met je werkzaamheden. De online variant duurt 6 maanden met bijeenkomsten 2 keer per maand van 18.00 tot 21.00 uur. Tussen de bijeenkomsten investeer je gemiddeld 3 uur per week in opdrachten op je eigen werk- of leerplek. De fysieke variant duurt 4 maanden met 9 bijeenkomsten van 14.00 tot 21.00 uur met een pauze van 17.00 tot 18.00 uur. Voor deze intensievere variant plan je gemiddeld 5 uur per week voor zelfstudie. Door de praktijkgerichte opdrachten die je op je eigen werkplek uitvoert, leer je direct toepassen wat je ontwikkelt tijdens de opleiding.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na succesvol afronden van deze opleiding ontvang je het certificaat Psychiatrische problemen identificeren, waarmee je aantoonbaar beschikt over de expertise om psychiatrische problematiek te herkennen en passend te handelen. Deze opleiding is geaccrediteerd door het kwaliteitsregister van beroepsorganisatie V&amp;VN, wat de kwaliteit en erkende waarde van je certificaat garandeert. Het certificaat toont aan dat je bekwaam bent in het toepassen van DSM-criteria, het Stepped Care Model en effectieve gesprekstechnieken voor cliënten met GGZ-problematiek. Deze kwalificatie versterkt je professionele positie en vergroot je impact in de hulpverlening. Met dit certificaat is het eventueel mogelijk door te groeien naar vervolgopleidingen zoals <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/praktijkondersteuner-huisartsenzorg-ggz-poh-ggz">POH-GGZ</a>. </p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2411">brochure.</a></p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2750,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>2750,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>188,00</Base>
-                <Vat>16,92</Vat>
-                <VatFree>204,92</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>Virtual Class</Delivery>
-        <Classes>
-            <Class>
-                <Code>2411-2BPPI01036</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-11-05</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-05T09:00:00" EndDateTime="2027-04-08T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2413</Code>
         <Title>Psychosociale begeleiding kind en jeugd</Title>
         <Language>nl</Language>
@@ -12777,15 +12712,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceBase>
         <Delivery>Virtual Class</Delivery>
         <Classes>
-            <Class>
-                <Code>2413-2BPBK01012</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2027-03-02T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2413-2BPBK01015</Code>
                 <Location>Virtual</Location>
@@ -13128,44 +13054,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2435</Code>
-        <Title>Toegepaste chemie</Title>
-        <Language>nl</Language>
-        <Duration>300</Duration>
-        <Description><![CDATA[Opleiding Toegepaste chemie (niveau 5): verdiep je in algemene chemie en pas kennis direct toe via praktijkopdracht, ideaal vervolg op Basischemie.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Toegepaste chemie je op</strong></p><ul><li>Je beheerst chemische aspecten van jouw dagelijkse werk op hbo-niveau en neemt zelfstandig beslissingen</li><li>Je bepaalt structuur en naamgeving van chemische verbindingen en schat eigenschappen in</li><li>Je maakt berekeningen voor pH, redoxreacties en oplosbaarheid van zouten</li></ul><p><strong>Chemie opleiding voor laboratoriummedewerkers</strong></p><p>Deze opleiding brengt jouw chemische kennis naar hbo-niveau en maakt je een waardevolle gesprekspartner voor collega's en klanten. Je leert chemische aspecten van chromatografie, spectrometrie en titrimetrie grondig begrijpen. Hierdoor denk je inhoudelijk mee bij complexe vraagstukken en lever je een directe bijdrage aan de kwaliteit van jullie laboratoriumwerk.</p><p><strong>Praktijkgerichte chemie training voor professionals</strong></p><p>Tijdens deze opleiding werk je aan een praktijkopdracht die direct aansluit bij jouw werkzaamheden. Je voert experimenteel onderzoek uit of doet een literatuurstudie, altijd relevant voor jouw dagelijkse taken. Deze aanpak zorgt ervoor dat je nieuwe kennis meteen toepast en de meerwaarde direct ervaart in je werk.</p><p><strong>Toegepaste chemie cursus met bewezen resultaat</strong></p><p>Na afronding beheers je de structuur en naamgeving van chemische verbindingen en schat je eigenschappen zoals polariteit, vluchtigheid en oplosbaarheid accuraat in. Je maakt zelfstandig berekeningen en communiceert op professioneel niveau over chemische aspecten. Deze vaardigheden versterken jouw positie als expert binnen het laboratorium.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Je werkt op een laboratorium of hebt te maken met chemische productaspecten in jouw functie. Met een mbo-achtergrond scheikunde (niveau 4) wil je jouw kennis over chemische eigenschappen vergroten om effectiever te werken en beter te communiceren met klanten en collega's.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Per lesdag behandel je twee onderwerpen die direct aansluiten bij jouw werk. Thuis maak je zelfstudieopdrachten waardoor je de kennis eigen maakt. Je levert opdrachten digitaal aan via onze digitale leeromgeving en ontvangt persoonlijke feedback van ervaren docenten. Je kunt altijd een beroep doen op docentondersteuning tussen de lessen door. Parallel aan de theorie voer je een praktijkopdracht uit op je werk: experimenteel onderzoek of een literatuurstudie die relevant is voor jouw functie. Je kiest het onderwerp in overleg met je leidinggevende, zodat de opleiding direct waarde toevoegt aan jouw dagelijkse werkzaamheden. De theorie wordt getoetst met drie toetsen gedurende de opleiding.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Toegepaste chemie duurt 10 lesdagen van 6 uur verspreid over 8 maanden. De bijeenkomsten vinden plaats op vrijdag van 9.00 tot 16.00 uur, waardoor je de opleiding goed kunt combineren met je werk. Per bijeenkomst plan je ongeveer 10 uur zelfstudie in, wat neerkomt op ongeveer 5 uur per week. Voor het praktijkwerkstuk op jouw werk ben je 5 halve dagen bezig. Inclusief het schrijven van het rapport en het voorbereiden van de presentatie vraagt dit 40 uur. De totale tijdsinvestering komt daarmee op 90 uur. Verspreid over 14 weken betekent dit een gemiddelde weeklast van 6 uur, inclusief de contacttijd met docenten. Deze opzet maakt de opleiding goed haalbaar naast je reguliere werkzaamheden.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Bij het succesvol afronden van alle onderdelen van de opleiding Toegepaste chemie ontvang je een diploma. Dit diploma bevestigt dat je chemische kennis op hbo-niveau beheerst en toont aan dat je zelfstandig kunt werken met complexe chemische vraagstukken. Met dit diploma versterk je jouw positie als chemisch specialist binnen het laboratorium en vergroot je jouw carrièremogelijkheden. Het diploma opent deuren naar vervolgopleidingen of specialisaties binnen de chemie en maakt je een waardevolle expert voor werkgevers.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>4595,00</Base>
-                <Vat>964,95</Vat>
-                <VatFree>5559,95</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>730,00</Base>
-                <Vat>65,70</Vat>
-                <VatFree>795,70</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2435-6FALG01009</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-06T09:00:00" EndDateTime="2027-11-05T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2437</Code>
         <Title>Transferverpleegkundige</Title>
         <Language>nl</Language>
@@ -13255,44 +13143,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
                     <Session StartDateTime="2027-03-22T09:00:00" EndDateTime="2027-03-24T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
-        <Code>2439</Code>
-        <Title>Troubleshooting HPLC</Title>
-        <Language>nl</Language>
-        <Duration>24</Duration>
-        <Description><![CDATA[Cursus Troubleshooting HPLC: leer storingen herkennen, oplossen en voorkomen met gestructureerde methoden voor optimale HPLC-prestaties.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Troubleshooting HPLC je op</strong></p><ul><li>Je herkent problemen met HPLC-apparatuur en methoden snel.</li><li>Je spoort systematisch de oorzaken op en lost problemen effectief op.</li><li>Je communiceert volwaardig en denkt mee over oplossingen bij HPLC-problemen.</li></ul><p><strong>Intensieve HPLC troubleshooting opleiding voor laboratoriummedewerkers</strong></p><p>Deze driedaagse praktijkgerichte training maakt van jou een expert in HPLC-probleemoplossing. Je werkt dagelijks met concrete chromatogrammen, cases en praktijkvoorbeelden die rechtstreeks uit het laboratorium komen. Door hands-on experimenten op moderne HPLC-apparatuur ontwikkel je systematische troubleshooting vaardigheden die je direct toepast in je eigen werkomgeving.</p><p><strong>HPLC onderhoud cursus met preventieve focus</strong></p><p>Naast het oplossen van acute problemen leer je hoe je storingen voorkomt door effectief preventief onderhoud. Deze proactieve benadering bespaart je tijd, voorkomt kostbare stilstand en verhoogt de betrouwbaarheid van je analytische resultaten.</p><p><strong>Specialistische training voor HPLC-beheerders en analisten</strong></p><p>De interactieve opzet waarbij theorie en praktijk samenkomen, geeft je het vertrouwen om complexe HPLC-problemen zelfstandig aan te pakken. Je wordt een waardevolle troubleshooter binnen je team die direct bijdraagt aan de continuïteit van analytische processen. Door praktijkvoorbeelden en cases bouw je expertise op die je collega's en werkgever direct waarderen.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Ben je laboratoriummedewerker op mbo+- of hbo-niveau met beheer over HPLC-apparatuur? Wil je problemen snel herkennen en systematisch oplossen of voorkomen? Deze opleiding is voor jou als je basis HPLC-kennis hebt (niveau 1) en je troubleshooting vaardigheden wilt uitbreiden voor effectief onderhoud en probleemoplossing.</p><p>Deze opleiding volg je standaard in het Nederlands. Wil je de opleiding in het Engels volgen? Geef dit aan bij je inschrijving. / <em>This course is also available in English on request, please indicate this when registering.</em></p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze cursus leert je problemen rond HPLC-methoden en apparaten oplossen aan de hand van praktijkvoorbeelden, chromatogrammen en cases uit de werkpraktijk. Theorie en praktijk krijg je zeer interactief aangeboden. Elke dag voer je experimenten uit op moderne HPLC-apparatuur in ons laboratorium. Je lost praktische problemen op die ingebouwd zijn in de apparatuur en werkt met meerdere typen instrumenten. Deze hands-on aanpak zorgt ervoor dat je direct ervaring opdoet met situaties die je in je eigen werk tegenkomt.</p><p><strong>Tijdsinvestering</strong></p><p>Deze cursus vraagt een tijdsinvestering van drie aaneengesloten dagen waarin je je volledig kunt richten op HPLC-troubleshooting. De eerste dag start om 9.30 uur en duurt tot 17.30 uur, zodat je rustig kunt wennen aan de nieuwe materie. Dag twee en drie beginnen om 9.00 uur, waarbij dag twee eindigt om 17.00 uur en de laatste dag om 16.00 uur afsluit. Door de opeenvolgende dagen kun je diep inzoomen op HPLC-problematiek en bouw je stap voor stap je troubleshooting expertise op. De intensieve opzet zorgt ervoor dat je theorie direct koppelt aan praktijk en alle aspecten van HPLC-probleemoplossing in samenhang leert begrijpen. Deze gefocuste aanpak maakt dat je na drie dagen klaar bent om HPLC-problemen in je eigen laboratorium systematisch aan te pakken.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Als je deze cursus succesvol afrondt, ontvang je een bewijs van deelname dat je expertise in HPLC-troubleshooting officieel bevestigt. Dit certificaat toont aan werkgevers dat je beschikt over systematische vaardigheden voor het herkennen, opsporen en oplossen van HPLC-problemen. Je bent hiermee gekwalificeerd als troubleshooter die volwaardig kan communiceren en meedenken over oplossingen binnen je laboratorium. Het diploma opent deuren naar meer verantwoordelijkheden in apparaatbeheer en maakt je een waardevolle specialist die bijdraagt aan de continuïteit van analytische processen.</p>]]></CertValue>
-        <Level>MBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>2250,00</Base>
-                <Vat>472,50</Vat>
-                <VatFree>2722,50</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>219,00</Base>
-                <Vat>19,71</Vat>
-                <VatFree>238,71</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>2439-6FTSL01014</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-09T09:00:00" EndDateTime="2026-11-11T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13401,12 +13251,21 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>2442-6FVBA01014</Code>
+                <Code>2442-6FVBA01016</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-23</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-10-04</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2026-11-23T09:00:00" EndDateTime="2026-11-23T17:00:00" />
+                    <Session StartDateTime="2027-10-04T09:00:00" EndDateTime="2027-10-04T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>2442-6FVBA01017</Code>
+                <Location>Delft</Location>
+                <DiscontinuedFrom>2027-10-04</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-10-04T09:00:00" EndDateTime="2027-10-04T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -13936,37 +13795,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>2533</Code>
-        <Title>Masterclass Oncologie in de geriatrie</Title>
-        <Language>nl</Language>
-        <Duration>10</Duration>
-        <Description><![CDATA[Een korte online masterclass voor fysiotherapeuten die verdieping zoeken in geriatrie en oncologie. Efficiënt leren en direct inzetbaar in jouw werk.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Masterclass Oncologie in de geriatrie je op</strong></p><ul><li>Je hebt meer kennis over het raakvlak tussen oncologie- en geriatriefysiotherapie.</li><li>Je krijgt praktische handvatten die direct toepasbaar zijn in je dagelijks werk.</li><li>Je ontvangt een bewijs van deelname met 10 punten voor het kwaliteitshuis fysiotherapie.</li></ul><p><strong>Gerichte masterclass opleiding voor gespecialiseerde fysiotherapeuten</strong></p><p>Deze masterclass richt zich op bachelor fysiotherapeuten die zich willen verdiepen in het raakvlak van geriatrie- en oncologiefysiotherapie. Als je al geregistreerd bent als geriatrie- of oncologiefysiotherapeut, krijg je praktische tools die je meteen kunt inzetten. De compacte opzet van 4 online bijeenkomsten maakt verdieping mogelijk zonder grote tijdsinvestering.</p><p><strong>Online oncologie opleiding met gerichte voorbereiding</strong></p><p>Door kennis van verouderingsprocessen en geriatrische ziektebeelden te combineren met de impact van medisch oncologische behandeltrajecten kun jij je cliënt optimaal te begeleiden op het gebied van bewegen. Precies op dat raakvlak richt de Masterclass Oncologie in de geriatrie zich, gevoed door de meest recente ontwikkelingen op deze gebieden.</p><p><strong>Geaccrediteerde geriatrie opleiding met bewezen meerwaarde</strong></p><p>Met een totale studiebelasting van slechts 2,5 uur per week heb je geaccrediteerde punten voor je professionele ontwikkeling. De opleiding helpt je bij het kiezen van een toekomstige specialisatie of verdiept je bestaande expertise in oncologie of geriatrie. Voor alumni van Habeo+ en Avans+ geldt een korting van €50 op de opleidingskosten.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze masterclass is bestemd voor bachelor fysiotherapeuten die zich willen verdiepen in het raakvlak van geriatrie- en oncologiefysiotherapie. Ben je al geregistreerd geriatrie- of oncologiefysiotherapeut? Dan krijg je praktische handvatten voor je dagelijks werk.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>Deze masterclass vindt volledig online plaats in compacte bijeenkomsten van 1,5 uur. Je bereidt je voor met een voorbereidingsopdracht van 1 uur per sessie, wat het leereffect vergroot en je in staat stelt verdiepende vragen te stellen. De opleiding bestaat uit 4 online bijeenkomsten op een vaste doordeweekse dag tussen 20.00-21.30 uur. Deze opzet biedt maximale flexibiliteit voor werkende professionals en zorgt voor effectief leren vanuit je eigen omgeving. De interactieve sessies combineren theoretische verdieping met praktische toepassingen voor je dagelijks werk.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2533">brochure</a>.</p><p>Deze opleiding kan ook <a href="https://habeoplus.nl/landingspagina-incompany-en-maat-werk-fysiotherapie">incompany</a> gegeven worden op jullie locatie. </p><p><strong>Tijdsinvestering</strong></p><p>Deze compacte masterclass vraagt slechts 2,5 uur per week van je tijd, verdeeld over 4 wekelijkse online bijeenkomsten. Jouw vaste lesdag is de dag dat de opleiding start, De online lessen vinden plaats tussen 20.00 en 21.30 uur. Elke online les duurt dus 1,5 uur en ter voorbereiding heb je 1 opdracht die je max. 1 uur kost. Door de online opzet hoef je niet te reizen en kun je vanuit je eigen omgeving deelnemen. De voorbereidingsopdrachten zorgen ervoor dat je optimaal profiteert van elke sessie en gerichte vragen kunt stellen. Deze efficiënte opzet maakt het mogelijk om je kennis te verdiepen zonder grote impact op je dagelijkse routine. Het gehele traject is zo ontworpen dat je de tijd flexibel kunt indelen rondom je werk en privéleven.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na afronding ontvang je een bewijs van deelname dat direct bijdraagt aan je professionele ontwikkeling binnen de fysiotherapie. Deze masterclass is geaccrediteerd voor 10 punten bij het kwaliteitshuis fysiotherapie, wat je registratie en expertise als specialist versterkt. Het behaalde bewijs toont aan dat je verdiepte kennis hebt op het raakvlak van oncologie en geriatrie, wat je positioneert als deskundige in deze groeiende specialisatie. Je kunt na deze masterclass beter inschatten of een volledige master in oncologie- of geriatriefysiotherapie bij je past. Het diploma opent mogelijkheden voor verdere specialisatie en positioneert je als professional met actuele kennis over dit belangrijke vakgebied.</p><p>Ontdek meer in de <a href="https://habeoplus.nl/brochure-download?brochure-node-ids=2533">brochure</a>.</p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>330,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>330,00</VatFree>
-            </Price>
-        </PriceBase>
-        <Delivery>Virtual Class</Delivery>
-        <Classes>
-            <Class>
-                <Code>2533-1BNAF01005</Code>
-                <Location>Virtual</Location>
-                <DiscontinuedFrom>2026-11-05</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-05T09:00:00" EndDateTime="2026-11-26T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>2535</Code>
         <Title>Veilig en gezond werken op het laboratorium</Title>
         <Language>nl</Language>
@@ -14123,15 +13951,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>2782-8ABVB01004</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-09</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-09T09:00:00" EndDateTime="2026-11-09T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>2782-8ABVB01006</Code>
                 <Location>Akersloot</Location>
@@ -14539,53 +14358,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
-        <Code>3348</Code>
-        <Title>Gedrag- en cultuuronderzoek voor financials</Title>
-        <Language>nl</Language>
-        <Duration>168</Duration>
-        <Description><![CDATA[Leer gedrag en cultuur professioneel onderzoeken, analyseren en vertalen naar concrete verbetervoorstellen in jouw rol als financial.]]></Description>
-        <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding Gedrag- en cultuuronderzoek voor financials je op:</strong></p><ul><li>Je kunt zelfstandig en professioneel gedrag en cultuur onderzoeken als internal auditor, risicomanager of controller.</li><li>Je kunt gedragsdata analyseren en vertalen naar bruikbare inzichten.</li><li>Je versterkt je eigen rol als auditor, controller of risicomanager met meer impact op verandering en gedrag.</li></ul><p><strong>Behavioural auditing als onderdeel van gedegen financieel adviesrapport</strong></p><p>Organisatiecultuur en menselijk gedrag worden al jarenlang gezien als bepalende factoren voor internal auditing, risicomanagement en control. Die ontwikkeling is inmiddels ook expliciet zichtbaar in het vakgebied: zo publiceerde het IIA Inc. de Global Internal Audit Standards een Topical Requirement over Organizational Behavior. Daarmee is organisatiegedrag niet langer een abstracte ‘bijlage’ bij cultuur, maar een concreet risicodomein dat je kunt (en vaak moet) auditen. Gedrag dat niet aansluit op de strategie, normen en afspraken kan immers direct leiden tot ongewenste uitkomsten. Dat vraagt om governance-, risk- en controlprocessen die je als internal auditor, controller of risicomanager net zo scherp beoordeelt als ieder ander risicogebied.</p><p>In de praktijk blijft het voor veel professionals echter lastig om deze ‘zachte’ factoren concreet te onderzoeken, te analyseren en er overtuigend over te rapporteren. Deze opleiding brengt daar verandering in. Je ontwikkelt stevige inhoudelijke kennis én praktische vaardigheden om gedrag en cultuur professioneel te onderzoeken en direct te verbinden met risico’s, beheersing, doelrealisatie en compliance.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze postbacheloropleiding is ontwikkeld voor internal auditors, accountants, controllers en risk officers. Werk je in een van deze rollen en wordt er van je verwacht dat je gedrag en cultuur professioneel onderzoekt en/of meeneemt in je werkzaamheden? Dan sluit deze opleiding perfect aan.</p><p>De opleiding is vooral geschikt voor professionals die toe zijn aan verdieping op het gebied van gedrag en cultuur en daarmee willen bijdragen aan een sterkere interne risicobeheersing binnen hun organisatie.</p>]]></TargetAudience>
-        <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding is volledig praktijkgericht en heeft een blended opzet. Je combineert klassikale bijeenkomsten met gerichte e-learningmodules en praktijkcoaching rondom je eigen onderzoek naar gedrag en cultuur. De e-learning biedt vooraf een stevige theoretische basis, zodat je tijdens de bijeenkomsten de focus kunt leggen op toepassen: werken met casuïstiek, oefenen met rollenspellen en het ontwikkelen van vaardigheden zoals interviewen, analyseren en rapporteren. Tijdens de coachingsmomenten werk je één-op-één of in kleine groepen aan de opzet en uitvoering van je onderzoek, met gerichte feedback van ervaren docenten.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding Gedrag- en cultuuronderzoek voor financials bestaat uit 6 bijeenkomsten van 1 dag (op locatie of online) en wordt afgesloten met een examen. Daarnaast volg je drie e-learningmodules en werk je intensief aan een eigen onderzoek naar gedrag en cultuur binnen je organisatie. Reken op ongeveer 8 tot 10 uur zelfstudie per week.</p>]]></CourseFormat>
-        <CertValue><![CDATA[<p>Na het succesvol afronden van de opleiding Gedrag- en cultuuronderzoek voor financials ontvang je het postbachelordiploma Gedrag- en cultuuronderzoek voor financials. Voor PE-plichtige professionals levert deze opleiding 48 PE-punten op. </p>]]></CertValue>
-        <Level>HBO</Level>
-        <PriceBase>
-            <Price from="2026-01-01">
-                <Base>4950,00</Base>
-                <Vat>0,00</Vat>
-                <VatFree>4950,00</VatFree>
-            </Price>
-        </PriceBase>
-        <PriceArrFacLow>
-            <Price from="2026-01-01">
-                <Base>438,00</Base>
-                <Vat>39,42</Vat>
-                <VatFree>477,42</VatFree>
-            </Price>
-        </PriceArrFacLow>
-        <Delivery>instructor-led</Delivery>
-        <Classes>
-            <Class>
-                <Code>3348-3BGCF01004</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2027-03-22T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
-                <Code>3348-3BGCF01003</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-16</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-16T09:00:00" EndDateTime="2027-03-22T17:00:00" />
-                </Sessions>
-            </Class>
-        </Classes>
-    </CourseTemplate>
-    <CourseTemplate>
         <Code>3352</Code>
         <Title>Controller in de zorg</Title>
         <Language>nl</Language>
@@ -14787,15 +14559,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceArrFacLow>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>3385-3ASSU01002</Code>
-                <Location>Breda</Location>
-                <DiscontinuedFrom>2026-11-06</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-06T09:00:00" EndDateTime="2026-12-18T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>3385-3ASSU01001</Code>
                 <Location>Breda</Location>
@@ -15129,6 +14892,15 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
                     <Session StartDateTime="2027-03-25T09:00:00" EndDateTime="2027-06-03T17:00:00" />
                 </Sessions>
             </Class>
+            <Class>
+                <Code>3403-6DHBB01005</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-06-17</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-06-17T09:00:00" EndDateTime="2027-10-14T17:00:00" />
+                </Sessions>
+            </Class>
         </Classes>
     </CourseTemplate>
     <CourseTemplate>
@@ -15367,12 +15139,21 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>blended</Delivery>
         <Classes>
             <Class>
-                <Code>3455-5BRCC01006</Code>
-                <Location>Eindhoven</Location>
-                <DiscontinuedFrom>2027-09-08</DiscontinuedFrom>
+                <Code>3455-5BRCC01010</Code>
+                <Location>Utrecht</Location>
+                <DiscontinuedFrom>2027-04-02</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-09-08T09:00:00" EndDateTime="2027-11-24T17:00:00" />
+                    <Session StartDateTime="2027-04-02T09:00:00" EndDateTime="2027-05-28T17:00:00" />
+                </Sessions>
+            </Class>
+            <Class>
+                <Code>3455-5BRCC01006</Code>
+                <Location>Eindhoven</Location>
+                <DiscontinuedFrom>2027-04-07</DiscontinuedFrom>
+                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
+                <Sessions>
+                    <Session StartDateTime="2027-04-07T09:00:00" EndDateTime="2027-11-24T17:00:00" />
                 </Sessions>
             </Class>
         </Classes>
@@ -15422,7 +15203,7 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Duration>373</Duration>
         <Description><![CDATA[POH-GGZ diploma inclusief de expertise psychosociale begeleiding kind en jeugd binnen het vak]]></Description>
         <DescriptionLong><![CDATA[<p><strong>Dit levert de opleiding POH-GGZ én psychosociale begeleiding kind en jeugd je op</strong></p><ul><li>Je kunt zowel volwassenen als kinderen en jongeren professioneel begeleiden binnen de huisartsenzorg </li><li>Je vergroot je inzetbaarheid en deskundigheid in complexe, systemische hulpvragen </li><li>Je werkt toekomstbestendig met een breder palet aan psychosociale interventies</li></ul><p><strong>Eén compleet traject voor de POH-GGZ die verder wil verdiepen</strong></p><p>Met dit gecombineerde opleidingstraject ontwikkel je je stap voor stap tot een nog breder inzetbare professional binnen de huisartsenzorg. Je start met de volledige POH-GGZ opleiding en breidt je expertise daarna direct uit met specialistische kennis over kind en jeugd. Zo bouw je in één doorlopend programma aan meer diepgang, verbreding en impact in jouw werk.</p><p><strong>Van basis POH-GGZ naar specialistische verbreding</strong></p><p>De opleiding begint met de drie modules van de POH-GGZ opleiding, waarin je stevig wordt opgeleid in het begeleiden van volwassenen met psychische klachten binnen de huisartsenpraktijk. Daarna volgt de online module Psychosociale Begeleiding Kind en Jeugd, waarmee je leert om ook kinderen, jongeren en hun gezinnen beter te ondersteunen.</p><p><strong>Eén investering, direct doorontwikkelen</strong></p><p>Door deze opleidingen direct achter elkaar te volgen, profiteer je van een geïntegreerd leerpad én een financieel voordeel ten opzichte van losse inschrijving. Je hoeft niet opnieuw te kiezen of te plannen: je stroomt direct door en rondt in één lijn jouw professionele ontwikkeling verder af.</p>]]></DescriptionLong>
-        <TargetAudience><![CDATA[<p>Deze opleiding is geschikt voor jou </p><ul><li>als je een hbo-bachelor hebt afgerond in Social Work, Maatschappelijk Werk, Psychologie, Sociaal Pedagogische Hulpverlening of Verpleegkunde.</li><li>je al enkele jaren praktijkervaring binnen de brede GGZ hebt en je wil je specialiseren als praktijkondersteuner in de huisartsenzorg. Ben je gediplomeerd sociaal psychiatrisch verpleegkundige? Bekijk dan de opleiding <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/praktijkondersteuner-huisartsenzorg-ggz-poh-ggz-spv">POH-GGZ voor SPV</a>.</li></ul><p>Heb je niet precies de juiste vooropleiding of de vereiste werkervaring, dan kun je mogelijk, na overleg met de opleidingsmanager, een toelatingsassessment doen.</p><p>Voor de complete beschrijving bezoek <a href="https://www.poh-ggz.nl/wp-content/uploads/2020/03/Definitief-Functie-en-competentieprofiel-POH-GGZ-2020-versie-1.0-04032020.pdf">het Landelijke Functie-en-competentieprofiel-POH-GGZ-2020</a>.</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p>]]></TargetAudience>
+        <TargetAudience><![CDATA[<p>Deze opleiding is geschikt voor jou </p><ul><li>als je een hbo-bachelor hebt afgerond in Social Work, Maatschappelijk Werk, Psychologie, Sociaal Pedagogische Hulpverlening of Verpleegkunde.</li><li>je al enkele jaren praktijkervaring binnen de brede GGZ hebt en je wil je specialiseren als praktijkondersteuner in de huisartsenzorg. Ben je gediplomeerd sociaal psychiatrisch verpleegkundige? Bekijk dan de opleiding <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/huisartsenzorg/praktijkondersteuner-huisartsenzorg-ggz-poh-ggz-spv">POH-GGZ voor SPV</a>.</li></ul><p>Heb je niet precies de juiste vooropleiding of de vereiste werkervaring, dan kun je mogelijk, na overleg met de opleidingsmanager, een toelatingsassessment doen.</p><p>Voor de complete beschrijving bezoek <a href="https://www.poh-ggz.nl/wp-content/uploads/2020/03/Definitief-Functie-en-competentieprofiel-POH-GGZ-2020-versie-1.0-04032020.pdf">het Landelijke Functie-en-competentieprofiel-POH-GGZ-2020</a>.</p><p>Om meer stageplaatsen te stimuleren, biedt SSFH een <a href="https://www.ssfh.nl/vergoedingen/vergoeding"><strong>stage- en praktijkvergoeding</strong></a> aan voor stagiairs en (erkende) leerbedrijven. Aanvragen zijn het hele jaar door mogelijk. SSFH bepaalt de voorwaarden. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact </a>op. Wellicht kunnen we je helpen. </p><p>Volg je een traject via het UWV en overweeg je deze opleiding? Dan kan deelname in bepaalde situaties mogelijk zijn. Samen met je UWV-adviseur kijk je of deze opleiding past binnen jouw traject. Wij zijn aangesloten bij het UWV als opleider en leiden op voor een kansrijkberoep waarin veel vraag is naar goed opgeleide professionals.</p>]]></TargetAudience>
         <CourseFormat><![CDATA[<p><strong>Werkvorm</strong></p><p>De opleiding start met een persoonlijk ontwikkelassessment waarin je persoonlijkheid en communicatiestijl in kaart worden gebracht. Op basis hiervan ontstaat jouw persoonlijke ontwikkelplan dat de basis vormt voor je professionele groei. Je werkervaring staat centraal tijdens de lessen en wordt geïntegreerd in het programma. Ervaren praktijkdocenten, gast lessen van praktijkexperts, persoonlijke coaching en intervisie ondersteunen je leerproces. Doordat je samen met een vaste groep de opleiding volgt is er onderling veel vertrouwen en een gevoel van veiligheid. Met interactieve leermiddelen maak je portfolio-opdrachten die direct aansluiten bij jouw praktijk. </p><p>Ook een <a href="https://habeoplus.nl/incompany">incompany variant</a> behoort tot de mogelijkheden.</p><p><strong>Tijdsinvestering</strong></p><p>De opleiding bestaat uit in totaal 4 modules die elk 10 weken duren.</p><p>Je start met 3 modules van de POH-GGZ opleiding. Binnen iedere module van 10 weken heb je gemiddeld om de week je lesdag. De werkdag dat je opleiding start word je vaste lesdag. De lesdag is van 14.00 tot 21.00 uur met een pauze van 17.00 tot 18.00 uur. Daarnaast reserveer je voor zelfstudie ongeveer 10 uur per week om de lesstof te verwerken en opdrachten voor te bereiden. Om het geleerde meteen toe te passen werk je tijdens de opleiding minimaal 8 uur per week in een leer- of werkplek als praktijkondersteuner. </p><p>De laatste module, oftewel module 4 van 10 weken, beslaat uit ongeveer 7 avondbijeenkomsten welke online plaatsvinden. Daarnaast reken je op 2 uur zelfstudie per week en is het van belang dat je ook kinderen en/of jeugdigen ziet in jouw werk als POH-GGZ in opleiding. Door deze opzet kun je je nieuwe kennis direct toepassen in de praktijk en groei je stap voor stap naar je nieuwe rol. Kun je geen stageplek vinden neem dan <a href="mailto:MVissers@habeoplus.nl">contact</a> op. Wellicht kunnen we je helpen. </p><p>Ben je nog niet toe aan de volledige opleiding met stage of werkplek in de huisartsenpraktijk? Dan kun je starten met de module <a href="https://habeoplus.nl/opleidingen/verpleegkunde-welzijn/psychiatrische-zorg/psychiatrische-problemen-identificeren">Psychiatrische Problemen Identificeren</a>. Deze module kun je volgen naast je huidige werk in de brede GGZ. Een vereiste is wel dat je patiënt- of cliëntcontact hebt. </p>]]></CourseFormat>
         <CertValue><![CDATA[<p>Na succesvolle afronding ontvang je het postbachelordiploma Praktijkondersteuner Huisartsenzorg GGZ inclusief psychosociale begeleiding kind en jeugd. Door je erkende diploma ben je volledig gekwalificeerd om als praktijkondersteuner GGZ te werken binnen de huisartsenzorg. Deze opleiding is geaccrediteerd door het kwaliteitsregister van beroepsorganisatie V&amp;VN, wat de kwaliteit en erkenning van je diploma garandeert. </p>]]></CertValue>
         <Level>HBO</Level>
@@ -15881,15 +15662,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         <Delivery>instructor-led</Delivery>
         <Classes>
             <Class>
-                <Code>3589-5BPEP01001</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2026-11-03T17:00:00" />
-                </Sessions>
-            </Class>
-            <Class>
                 <Code>3589-5BPEP01002</Code>
                 <Location>Breda</Location>
                 <DiscontinuedFrom>2026-12-01</DiscontinuedFrom>
@@ -15920,15 +15692,6 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
         </PriceBase>
         <Delivery>instructor-led</Delivery>
         <Classes>
-            <Class>
-                <Code>3591-5BPEO01001</Code>
-                <Location>Utrecht</Location>
-                <DiscontinuedFrom>2026-11-03</DiscontinuedFrom>
-                <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
-                <Sessions>
-                    <Session StartDateTime="2026-11-03T09:00:00" EndDateTime="2026-11-03T17:00:00" />
-                </Sessions>
-            </Class>
             <Class>
                 <Code>3591-5BPEO01002</Code>
                 <Location>Breda</Location>
@@ -16327,28 +16090,28 @@ zichtbaar bijdraagt aan schoolontwikkeling.]]></Description>
             <Class>
                 <Code>3635-7BSOF01004</Code>
                 <Location>Breda</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-04-25T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>3635-7BSOF01005</Code>
                 <Location>Virtual</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-04-25T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
                 <Code>3635-7BSOF01006</Code>
                 <Location>Utrecht</Location>
-                <DiscontinuedFrom>2027-02-10</DiscontinuedFrom>
+                <DiscontinuedFrom>2027-02-24</DiscontinuedFrom>
                 <DiscontinuedBecause>Inschrijving gesloten: uitvoering start</DiscontinuedBecause>
                 <Sessions>
-                    <Session StartDateTime="2027-02-10T09:00:00" EndDateTime="2027-04-25T17:00:00" />
+                    <Session StartDateTime="2027-02-24T09:00:00" EndDateTime="2027-04-25T17:00:00" />
                 </Sessions>
             </Class>
             <Class>
