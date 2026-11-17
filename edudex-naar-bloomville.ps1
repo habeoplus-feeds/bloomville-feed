@@ -266,8 +266,22 @@ foreach ($res in $resources) {
     }
   }
   if (-not $grouped['PriceBase']) { $warnings.Add("$id : geen collegegeld (tuition fee) - wordt door Bloomville niet gepubliceerd") }
+  # Ingangsdatum van de huidige prijzen (vroegste datum van het collegegeld)
+  $currentFrom = if ($grouped['PriceBase']) { @($grouped['PriceBase'].Keys | Where-Object { $_ } | Sort-Object)[0] } else { '' }
   foreach ($node in $priceNodes) {
-    if (-not $grouped[$node]) { continue }
+    # Niet van toepassing: expliciet 0 meesturen vanaf de huidige ingangsdatum. Bloomville verwijdert
+    # oude prijzen niet; zo vervangt de 0 een eventuele oude prijs van dit component vanaf die datum.
+    if (-not $grouped[$node]) {
+      $w.WriteStartElement($node)
+      $w.WriteStartElement('Price')
+      if ($currentFrom) { $w.WriteAttributeString('from', $currentFrom) }
+      $w.WriteElementString('Base', '0,00')
+      $w.WriteElementString('Vat', '0,00')
+      $w.WriteElementString('VatFree', '0,00')
+      $w.WriteEndElement()
+      $w.WriteEndElement()
+      continue
+    }
     $w.WriteStartElement($node)
     foreach ($from in ($grouped[$node].Keys | Sort-Object)) {
       $v = $grouped[$node][$from]
