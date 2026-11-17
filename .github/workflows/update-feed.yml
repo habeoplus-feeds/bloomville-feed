@@ -16,7 +16,7 @@ jobs:
 
       - name: Feed genereren uit EDU-DEX en website
         shell: powershell
-        run: .\edudex-naar-bloomville.ps1 -Output docs\bloomville-feed.xml -XsdPath courseFeed.xsd -MinCourses 250 -ReportPath docs\rapport.txt
+        run: .\edudex-naar-bloomville.ps1 -Output docs\bloomville-feed.xml -XsdPath courseFeed.xsd -MinCourses 200 -ReportPath docs\rapport.txt
 
       - name: Feed en rapport publiceren
         if: always()
